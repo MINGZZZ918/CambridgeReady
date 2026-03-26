@@ -1,0 +1,222 @@
+[
+  {
+    "id": "pet-r2-001",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "content": {
+      "stem": "The people below all want to visit a museum. Read the descriptions of eight museums and decide which museum would be the most suitable for each person.\n\nMuseum A — City Transport Museum: Explore the history of buses, trams and trains in the city. Great for families with interactive exhibits where children can sit in old vehicles. Open daily 10–5. Free entry.\n\nMuseum B — National Art Gallery: Houses one of the finest collections of European paintings from the 13th to 19th century. Guided tours available on weekdays. Adults £12, children free.\n\nMuseum C — Space Discovery Centre: Learn about space travel through hands-on experiments and a planetarium show. Ideal for teenagers and school groups. Open weekends only. £8 per person.\n\nMuseum D — Maritime Museum: Tells the story of the country's seafaring history with real ships to explore. Located by the harbour. Open daily except Mondays. Adults £6, children £3.\n\nMuseum E — Natural History Museum: Features dinosaur skeletons, wildlife displays and a butterfly garden. Family-friendly with a café and gift shop. Open daily 10–6. Free entry.\n\nWhich museum should this person visit?\n\nLinda wants to take her 6-year-old son somewhere free on a Tuesday where he can touch things and play.",
+      "options": [
+        { "label": "A", "text": "City Transport Museum" },
+        { "label": "B", "text": "National Art Gallery" },
+        { "label": "C", "text": "Space Discovery Centre" },
+        { "label": "D", "text": "Maritime Museum" },
+        { "label": "E", "text": "Natural History Museum" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：Linda想在周二带6岁的儿子去一个免费且可以触摸、玩耍的地方。城市交通博物馆（A）免费入场，每天开放，有互动展品让孩子坐在老式车辆里。自然历史博物馆（E）也免费且每天开放，但没有特别提到互动/触摸体验。太空发现中心（C）只在周末开放且收费。",
+    "explanation_en": "English explanation: Linda wants somewhere free on a Tuesday where her 6-year-old can touch things. The City Transport Museum (A) is free, open daily, and has interactive exhibits where children can sit in old vehicles. The Natural History Museum (E) is also free and open daily but doesn't specifically mention hands-on/interactive activities. The Space Discovery Centre (C) is weekends only and costs £8.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r2-002",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "content": {
+      "stem": "The people below all want to visit a museum. Read the descriptions of eight museums and decide which museum would be the most suitable for each person.\n\nMuseum A — City Transport Museum: Explore the history of buses, trams and trains in the city. Great for families with interactive exhibits where children can sit in old vehicles. Open daily 10–5. Free entry.\n\nMuseum B — National Art Gallery: Houses one of the finest collections of European paintings from the 13th to 19th century. Guided tours available on weekdays. Adults £12, children free.\n\nMuseum C — Space Discovery Centre: Learn about space travel through hands-on experiments and a planetarium show. Ideal for teenagers and school groups. Open weekends only. £8 per person.\n\nMuseum D — Maritime Museum: Tells the story of the country's seafaring history with real ships to explore. Located by the harbour. Open daily except Mondays. Adults £6, children £3.\n\nMuseum E — Natural History Museum: Features dinosaur skeletons, wildlife displays and a butterfly garden. Family-friendly with a café and gift shop. Open daily 10–6. Free entry.\n\nWhich museum should this person visit?\n\nRobert is a 15-year-old who is very interested in science and wants to do experiments. He is free on Saturdays.",
+      "options": [
+        { "label": "A", "text": "City Transport Museum" },
+        { "label": "B", "text": "National Art Gallery" },
+        { "label": "C", "text": "Space Discovery Centre" },
+        { "label": "D", "text": "Maritime Museum" },
+        { "label": "E", "text": "Natural History Museum" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：Robert是15岁的青少年，对科学感兴趣，想做实验，周六有空。太空发现中心（C）有动手实验和天文馆表演，适合青少年，周末开放——完美匹配。其他博物馆没有专门提供实验活动。",
+    "explanation_en": "English explanation: Robert is a teenager interested in science who wants to do experiments and is free on Saturdays. The Space Discovery Centre (C) has hands-on experiments and a planetarium show, is ideal for teenagers, and is open on weekends — a perfect match. Other museums don't specifically offer experiment activities.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r2-003",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "content": {
+      "stem": "The people below all want to visit a museum. Read the descriptions of eight museums and decide which museum would be the most suitable for each person.\n\nMuseum A — City Transport Museum: Explore the history of buses, trams and trains in the city. Great for families with interactive exhibits where children can sit in old vehicles. Open daily 10–5. Free entry.\n\nMuseum B — National Art Gallery: Houses one of the finest collections of European paintings from the 13th to 19th century. Guided tours available on weekdays. Adults £12, children free.\n\nMuseum C — Space Discovery Centre: Learn about space travel through hands-on experiments and a planetarium show. Ideal for teenagers and school groups. Open weekends only. £8 per person.\n\nMuseum D — Maritime Museum: Tells the story of the country's seafaring history with real ships to explore. Located by the harbour. Open daily except Mondays. Adults £6, children £3.\n\nMuseum E — Natural History Museum: Features dinosaur skeletons, wildlife displays and a butterfly garden. Family-friendly with a café and gift shop. Open daily 10–6. Free entry.\n\nWhich museum should this person visit?\n\nMrs Chen is an art teacher from overseas. She would like a guided visit to see famous paintings on a Wednesday.",
+      "options": [
+        { "label": "A", "text": "City Transport Museum" },
+        { "label": "B", "text": "National Art Gallery" },
+        { "label": "C", "text": "Space Discovery Centre" },
+        { "label": "D", "text": "Maritime Museum" },
+        { "label": "E", "text": "Natural History Museum" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：陈女士是美术老师，想在周三参加有导游的参观来看名画。国家美术馆（B）收藏了13至19世纪最好的欧洲画作，并在工作日提供导览服务，周三是工作日。完美匹配她的所有需求。",
+    "explanation_en": "English explanation: Mrs Chen is an art teacher who wants a guided visit to see famous paintings on a Wednesday. The National Art Gallery (B) has one of the finest collections of European paintings and offers guided tours on weekdays. Wednesday is a weekday, so this matches all her requirements perfectly.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r2-004",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "content": {
+      "stem": "The people below all want to visit a museum. Read the descriptions of eight museums and decide which museum would be the most suitable for each person.\n\nMuseum A — City Transport Museum: Explore the history of buses, trams and trains in the city. Great for families with interactive exhibits where children can sit in old vehicles. Open daily 10–5. Free entry.\n\nMuseum B — National Art Gallery: Houses one of the finest collections of European paintings from the 13th to 19th century. Guided tours available on weekdays. Adults £12, children free.\n\nMuseum C — Space Discovery Centre: Learn about space travel through hands-on experiments and a planetarium show. Ideal for teenagers and school groups. Open weekends only. £8 per person.\n\nMuseum D — Maritime Museum: Tells the story of the country's seafaring history with real ships to explore. Located by the harbour. Open daily except Mondays. Adults £6, children £3.\n\nMuseum E — Natural History Museum: Features dinosaur skeletons, wildlife displays and a butterfly garden. Family-friendly with a café and gift shop. Open daily 10–6. Free entry.\n\nWhich museum should this person visit?\n\nDavid loves boats and the sea. He wants to visit somewhere on a Sunday where he can see real vessels.",
+      "options": [
+        { "label": "A", "text": "City Transport Museum" },
+        { "label": "B", "text": "National Art Gallery" },
+        { "label": "C", "text": "Space Discovery Centre" },
+        { "label": "D", "text": "Maritime Museum" },
+        { "label": "E", "text": "Natural History Museum" }
+      ],
+      "correct_answer": "D"
+    },
+    "explanation_zh": "中文解析：David喜欢船和大海，想在周日参观可以看到真正船只的地方。海事博物馆（D）讲述航海历史，有真正的船可以参观，位于港口旁，周日开放（每天开放除了周一）。完美匹配。",
+    "explanation_en": "English explanation: David loves boats and the sea and wants to see real vessels on a Sunday. The Maritime Museum (D) tells the story of seafaring history with real ships to explore, is located by the harbour, and is open on Sundays (open daily except Mondays). This is a perfect match.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r2-005",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "content": {
+      "stem": "The people below all want to visit a museum. Read the descriptions of eight museums and decide which museum would be the most suitable for each person.\n\nMuseum A — City Transport Museum: Explore the history of buses, trams and trains in the city. Great for families with interactive exhibits where children can sit in old vehicles. Open daily 10–5. Free entry.\n\nMuseum B — National Art Gallery: Houses one of the finest collections of European paintings from the 13th to 19th century. Guided tours available on weekdays. Adults £12, children free.\n\nMuseum C — Space Discovery Centre: Learn about space travel through hands-on experiments and a planetarium show. Ideal for teenagers and school groups. Open weekends only. £8 per person.\n\nMuseum D — Maritime Museum: Tells the story of the country's seafaring history with real ships to explore. Located by the harbour. Open daily except Mondays. Adults £6, children £3.\n\nMuseum E — Natural History Museum: Features dinosaur skeletons, wildlife displays and a butterfly garden. Family-friendly with a café and gift shop. Open daily 10–6. Free entry.\n\nWhich museum should this person visit?\n\nEmma's 4-year-old daughter loves animals and dinosaurs. Emma wants somewhere free where they can also get lunch.",
+      "options": [
+        { "label": "A", "text": "City Transport Museum" },
+        { "label": "B", "text": "National Art Gallery" },
+        { "label": "C", "text": "Space Discovery Centre" },
+        { "label": "D", "text": "Maritime Museum" },
+        { "label": "E", "text": "Natural History Museum" }
+      ],
+      "correct_answer": "E"
+    },
+    "explanation_zh": "中文解析：Emma的4岁女儿喜欢动物和恐龙，Emma想去免费且可以吃午餐的地方。自然历史博物馆（E）有恐龙骨架、野生动物展示和蝴蝶花园，适合家庭，有咖啡厅（可以吃午餐），免费入场。满足所有条件。",
+    "explanation_en": "English explanation: Emma's daughter loves animals and dinosaurs, and Emma wants somewhere free with lunch available. The Natural History Museum (E) has dinosaur skeletons, wildlife displays, and a butterfly garden. It's family-friendly, has a café for lunch, and offers free entry — meeting all their needs.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r2-006",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 6,
+    "content": {
+      "stem": "The people below all want to choose a language course. Read the descriptions of five courses and decide which would be the most suitable.\n\nCourse A — Morning Spanish: Monday to Friday, 9am–12pm. For complete beginners. Small classes of 8 students. Includes course book. £200 for 4 weeks.\n\nCourse B — Evening French: Tuesday and Thursday, 6pm–8pm. Intermediate level. Focus on conversation and listening. £120 for 6 weeks.\n\nCourse C — Online Japanese: Study at your own pace with video lessons. Beginner to advanced levels. Access for 12 months. £80 one-off payment.\n\nCourse D — Weekend German: Saturday mornings, 10am–1pm. For students who already know basic German. Includes cultural trips. £150 for 8 weeks.\n\nCourse E — Intensive Italian: Monday to Friday, 9am–4pm. All levels welcome. Rapid progress course with daily homework. £350 for 2 weeks.\n\nWhich course should this person choose?\n\nKeiko works full time during the week and wants to improve her German. She already knows some basic phrases.",
+      "options": [
+        { "label": "A", "text": "Morning Spanish" },
+        { "label": "B", "text": "Evening French" },
+        { "label": "C", "text": "Online Japanese" },
+        { "label": "D", "text": "Weekend German" },
+        { "label": "E", "text": "Intensive Italian" }
+      ],
+      "correct_answer": "D"
+    },
+    "explanation_zh": "中文解析：Keiko工作日全职工作，想提高德语水平，已经知道一些基本短语。周末德语课（D）在周六上午，适合工作日没空的人，面向已有基础德语的学生，还包括文化旅行。完美匹配她的时间和水平。",
+    "explanation_en": "English explanation: Keiko works full time during the week, wants to improve her German, and knows basic phrases. Weekend German (D) is on Saturday mornings, suitable for those who can't attend weekday classes. It's for students who already know basic German, matching her level. The other courses are wrong languages or wrong times.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r2-007",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 7,
+    "content": {
+      "stem": "The people below all want to choose a language course. Read the descriptions of five courses and decide which would be the most suitable.\n\nCourse A — Morning Spanish: Monday to Friday, 9am–12pm. For complete beginners. Small classes of 8 students. Includes course book. £200 for 4 weeks.\n\nCourse B — Evening French: Tuesday and Thursday, 6pm–8pm. Intermediate level. Focus on conversation and listening. £120 for 6 weeks.\n\nCourse C — Online Japanese: Study at your own pace with video lessons. Beginner to advanced levels. Access for 12 months. £80 one-off payment.\n\nCourse D — Weekend German: Saturday mornings, 10am–1pm. For students who already know basic German. Includes cultural trips. £150 for 8 weeks.\n\nCourse E — Intensive Italian: Monday to Friday, 9am–4pm. All levels welcome. Rapid progress course with daily homework. £350 for 2 weeks.\n\nWhich course should this person choose?\n\nMarco has just retired and has never studied Spanish before. He wants to meet other students and prefers a small group.",
+      "options": [
+        { "label": "A", "text": "Morning Spanish" },
+        { "label": "B", "text": "Evening French" },
+        { "label": "C", "text": "Online Japanese" },
+        { "label": "D", "text": "Weekend German" },
+        { "label": "E", "text": "Intensive Italian" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：Marco刚退休，从未学过西班牙语，想认识其他学生，喜欢小班。上午西班牙语课（A）面向完全初学者，小班8人，工作日上午上课（退休人士有空）。完全符合他的需求。",
+    "explanation_en": "English explanation: Marco is retired, has never studied Spanish, wants to meet other students, and prefers small groups. Morning Spanish (A) is for complete beginners, has small classes of 8 students, and runs weekday mornings — perfect for a retiree. Online Japanese (C) wouldn't let him meet others in person.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r2-008",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 8,
+    "content": {
+      "stem": "The people below all want to choose a language course. Read the descriptions of five courses and decide which would be the most suitable.\n\nCourse A — Morning Spanish: Monday to Friday, 9am–12pm. For complete beginners. Small classes of 8 students. Includes course book. £200 for 4 weeks.\n\nCourse B — Evening French: Tuesday and Thursday, 6pm–8pm. Intermediate level. Focus on conversation and listening. £120 for 6 weeks.\n\nCourse C — Online Japanese: Study at your own pace with video lessons. Beginner to advanced levels. Access for 12 months. £80 one-off payment.\n\nCourse D — Weekend German: Saturday mornings, 10am–1pm. For students who already know basic German. Includes cultural trips. £150 for 8 weeks.\n\nCourse E — Intensive Italian: Monday to Friday, 9am–4pm. All levels welcome. Rapid progress course with daily homework. £350 for 2 weeks.\n\nWhich course should this person choose?\n\nSophie studied French at school and can speak it fairly well. She works during the day but wants to practise speaking and listening.",
+      "options": [
+        { "label": "A", "text": "Morning Spanish" },
+        { "label": "B", "text": "Evening French" },
+        { "label": "C", "text": "Online Japanese" },
+        { "label": "D", "text": "Weekend German" },
+        { "label": "E", "text": "Intensive Italian" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：Sophie在学校学过法语，能说得相当好（中级水平），白天工作，想练习口语和听力。晚间法语课（B）是中级水平，专注于会话和听力，在周二和周四晚上6-8点（适合白天工作的人）。完美匹配。",
+    "explanation_en": "English explanation: Sophie studied French at school and speaks it fairly well (intermediate level). She works during the day and wants to practise speaking and listening. Evening French (B) is intermediate level, focuses on conversation and listening, and runs on Tuesday and Thursday evenings — ideal for someone who works during the day.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r2-009",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 9,
+    "content": {
+      "stem": "The people below all want to choose a language course. Read the descriptions of five courses and decide which would be the most suitable.\n\nCourse A — Morning Spanish: Monday to Friday, 9am–12pm. For complete beginners. Small classes of 8 students. Includes course book. £200 for 4 weeks.\n\nCourse B — Evening French: Tuesday and Thursday, 6pm–8pm. Intermediate level. Focus on conversation and listening. £120 for 6 weeks.\n\nCourse C — Online Japanese: Study at your own pace with video lessons. Beginner to advanced levels. Access for 12 months. £80 one-off payment.\n\nCourse D — Weekend German: Saturday mornings, 10am–1pm. For students who already know basic German. Includes cultural trips. £150 for 8 weeks.\n\nCourse E — Intensive Italian: Monday to Friday, 9am–4pm. All levels welcome. Rapid progress course with daily homework. £350 for 2 weeks.\n\nWhich course should this person choose?\n\nAlex has an unpredictable work schedule and wants to learn Japanese. He needs something flexible that he can do from home.",
+      "options": [
+        { "label": "A", "text": "Morning Spanish" },
+        { "label": "B", "text": "Evening French" },
+        { "label": "C", "text": "Online Japanese" },
+        { "label": "D", "text": "Weekend German" },
+        { "label": "E", "text": "Intensive Italian" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：Alex工作时间不固定，想学日语，需要灵活且可以在家完成的课程。在线日语课（C）可以按自己的节奏学习视频课程，从初级到高级，12个月使用权，只需一次性付费80英镑。完全满足他对灵活性和在家学习的需求。",
+    "explanation_en": "English explanation: Alex has an unpredictable schedule, wants to learn Japanese, and needs flexibility to study from home. Online Japanese (C) lets him study at his own pace with video lessons, covers all levels, gives 12 months of access, and costs just £80. It's the only course offering the flexibility and language he needs.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r2-010",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 10,
+    "content": {
+      "stem": "The people below all want to choose a language course. Read the descriptions of five courses and decide which would be the most suitable.\n\nCourse A — Morning Spanish: Monday to Friday, 9am–12pm. For complete beginners. Small classes of 8 students. Includes course book. £200 for 4 weeks.\n\nCourse B — Evening French: Tuesday and Thursday, 6pm–8pm. Intermediate level. Focus on conversation and listening. £120 for 6 weeks.\n\nCourse C — Online Japanese: Study at your own pace with video lessons. Beginner to advanced levels. Access for 12 months. £80 one-off payment.\n\nCourse D — Weekend German: Saturday mornings, 10am–1pm. For students who already know basic German. Includes cultural trips. £150 for 8 weeks.\n\nCourse E — Intensive Italian: Monday to Friday, 9am–4pm. All levels welcome. Rapid progress course with daily homework. £350 for 2 weeks.\n\nWhich course should this person choose?\n\nTina is a university student on summer holiday. She wants to learn Italian as quickly as possible before her trip to Rome in three weeks.",
+      "options": [
+        { "label": "A", "text": "Morning Spanish" },
+        { "label": "B", "text": "Evening French" },
+        { "label": "C", "text": "Online Japanese" },
+        { "label": "D", "text": "Weekend German" },
+        { "label": "E", "text": "Intensive Italian" }
+      ],
+      "correct_answer": "E"
+    },
+    "explanation_zh": "中文解析：Tina是大学生，暑假中，想在三周后去罗马之前尽快学会意大利语。强化意大利语课（E）是密集课程，周一到周五9点到4点，所有级别欢迎，2周快速进步课程——完美适合暑假有空、想快速学习意大利语的她。",
+    "explanation_en": "English explanation: Tina is on summer holiday and wants to learn Italian as quickly as possible before her trip to Rome in three weeks. Intensive Italian (E) runs Monday to Friday, 9am–4pm, welcomes all levels, and promises rapid progress in just 2 weeks. Since she's on holiday, she has the time for a full-time course, and the timeline fits before her trip.",
+    "is_free": true
+  }
+]

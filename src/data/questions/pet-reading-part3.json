@@ -1,0 +1,222 @@
+[
+  {
+    "id": "pet-r3-001",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat is the main reason Sarah started her own business?",
+      "passage": "Sarah Mitchell always loved baking. As a child, she spent weekends helping her grandmother make cakes and biscuits. After finishing university with a degree in business, she worked in an office for five years. Although the pay was good, Sarah felt something was missing. She didn't enjoy sitting at a desk all day, and she missed the creativity she felt in the kitchen.\n\nOne evening, Sarah brought some homemade cupcakes to a friend's birthday party. Everyone loved them, and several people asked if she could make cakes for their events. That gave Sarah an idea. She started making cakes at home in the evenings and selling them to friends and neighbours. Within six months, she had so many orders that she decided to leave her office job and open a small bakery.\n\nThe first year was difficult. Sarah had to learn about running a shop, hiring staff, and managing money. There were days when she wondered if she had made the right decision. But slowly, more and more customers discovered her bakery, and today it is one of the most popular shops in town. Sarah says the best part of her job is seeing customers smile when they taste her cakes.",
+      "options": [
+        { "label": "A", "text": "She wanted to earn more money than she did in her office job." },
+        { "label": "B", "text": "She was unhappy in her office job and wanted to do something creative." },
+        { "label": "C", "text": "Her grandmother encouraged her to open a bakery." },
+        { "label": "D", "text": "She couldn't find another office job after being made redundant." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章说Sarah虽然办公室工资不错，但觉得缺少什么，不喜欢整天坐在办公桌前，怀念在厨房的创造力。选项B正确——她在办公室工作不开心，想做有创意的事。选项A错误，文中没提赚更多钱；选项C错误，祖母没有鼓励她开店；选项D错误，她是主动离职的。",
+    "explanation_en": "English explanation: The passage states that although the pay was good, Sarah felt something was missing — she didn't enjoy sitting at a desk and missed the creativity of the kitchen. Option B correctly captures this. Option A is wrong because money wasn't the motivation. Option C is wrong because her grandmother didn't encourage her. Option D is wrong because she chose to leave, not made redundant.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-002",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat happened at Sarah's friend's birthday party?",
+      "passage": "Sarah Mitchell always loved baking. As a child, she spent weekends helping her grandmother make cakes and biscuits. After finishing university with a degree in business, she worked in an office for five years. Although the pay was good, Sarah felt something was missing. She didn't enjoy sitting at a desk all day, and she missed the creativity she felt in the kitchen.\n\nOne evening, Sarah brought some homemade cupcakes to a friend's birthday party. Everyone loved them, and several people asked if she could make cakes for their events. That gave Sarah an idea. She started making cakes at home in the evenings and selling them to friends and neighbours. Within six months, she had so many orders that she decided to leave her office job and open a small bakery.\n\nThe first year was difficult. Sarah had to learn about running a shop, hiring staff, and managing money. There were days when she wondered if she had made the right decision. But slowly, more and more customers discovered her bakery, and today it is one of the most popular shops in town. Sarah says the best part of her job is seeing customers smile when they taste her cakes.",
+      "options": [
+        { "label": "A", "text": "Sarah decided immediately to quit her office job." },
+        { "label": "B", "text": "People enjoyed her cupcakes and some wanted to order cakes from her." },
+        { "label": "C", "text": "Sarah's grandmother taught her a new recipe." },
+        { "label": "D", "text": "A business investor offered to help Sarah open a bakery." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章说Sarah带了自制纸杯蛋糕去朋友的生日派对，大家都很喜欢，好几个人问她能不能为他们的活动做蛋糕。选项B正确——人们喜欢她的蛋糕，有些人想订购。选项A错误，她没有立即辞职；选项C错误，没提到祖母的新食谱；选项D错误，没有投资者。",
+    "explanation_en": "English explanation: The passage says everyone loved Sarah's homemade cupcakes at the party, and several people asked if she could make cakes for their events. Option B is correct. Option A is wrong because she didn't quit immediately. Option C is wrong — her grandmother isn't mentioned at the party. Option D is wrong — no investor is mentioned.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-003",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat does Sarah enjoy most about her work now?",
+      "passage": "Sarah Mitchell always loved baking. As a child, she spent weekends helping her grandmother make cakes and biscuits. After finishing university with a degree in business, she worked in an office for five years. Although the pay was good, Sarah felt something was missing. She didn't enjoy sitting at a desk all day, and she missed the creativity she felt in the kitchen.\n\nOne evening, Sarah brought some homemade cupcakes to a friend's birthday party. Everyone loved them, and several people asked if she could make cakes for their events. That gave Sarah an idea. She started making cakes at home in the evenings and selling them to friends and neighbours. Within six months, she had so many orders that she decided to leave her office job and open a small bakery.\n\nThe first year was difficult. Sarah had to learn about running a shop, hiring staff, and managing money. There were days when she wondered if she had made the right decision. But slowly, more and more customers discovered her bakery, and today it is one of the most popular shops in town. Sarah says the best part of her job is seeing customers smile when they taste her cakes.",
+      "options": [
+        { "label": "A", "text": "Making a lot of money from her popular bakery." },
+        { "label": "B", "text": "Being her own boss and not having to work for someone else." },
+        { "label": "C", "text": "Watching customers enjoy her cakes." },
+        { "label": "D", "text": "Teaching her staff how to bake." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：文章最后一句说Sarah认为工作中最棒的部分是看到顾客品尝她的蛋糕时的微笑。选项C正确——看着顾客享受她的蛋糕。其他选项在文中都没有被提及为她最享受的事。",
+    "explanation_en": "English explanation: The last sentence states that 'the best part of her job is seeing customers smile when they taste her cakes.' Option C directly reflects this. Options A, B, and D are not mentioned as things she enjoys most.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-004",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nAccording to the article, what is the biggest advantage of cycling to work?",
+      "passage": "More and more people in cities around the world are choosing to cycle to work instead of driving or taking public transport. There are many reasons for this growing trend.\n\nFirst and most importantly, cycling is excellent exercise. Studies show that people who cycle regularly are healthier and have more energy during the day. Unlike going to the gym, cycling to work means you get exercise without having to find extra time in your busy schedule.\n\nCycling is also much cheaper than driving. You don't need to pay for petrol, parking, or expensive car repairs. A good bicycle costs far less than a car and needs very little maintenance.\n\nAnother benefit is that cycling helps the environment. Cars produce harmful gases that pollute the air and contribute to climate change. By choosing a bicycle, you reduce your carbon footprint and help keep the air clean.\n\nOf course, cycling isn't always easy. Bad weather, busy roads, and long distances can make it challenging. But many cities are now building better cycle lanes and providing safe places to park bicycles, making it easier and safer than ever before.",
+      "options": [
+        { "label": "A", "text": "It saves money on petrol and parking." },
+        { "label": "B", "text": "It provides exercise that fits into your daily routine." },
+        { "label": "C", "text": "It helps reduce air pollution." },
+        { "label": "D", "text": "Cities are building more cycle lanes." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章列出骑车上班的多个好处，但用\"First and most importantly\"（首先也是最重要的）引出了锻炼的好处，说骑车上班意味着不用额外找时间就能锻炼。选项B正确——提供融入日常的锻炼。选项A和C也是好处但不是最大的；选项D不是好处而是城市在做的事。",
+    "explanation_en": "English explanation: The article lists several benefits but introduces exercise as 'first and most importantly.' It emphasises that cycling to work means getting exercise without needing extra time. Option B captures this as the biggest advantage. Options A and C are also benefits but not described as the biggest. Option D describes what cities are doing, not a direct advantage of cycling.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-005",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat problem with cycling does the writer mention?",
+      "passage": "More and more people in cities around the world are choosing to cycle to work instead of driving or taking public transport. There are many reasons for this growing trend.\n\nFirst and most importantly, cycling is excellent exercise. Studies show that people who cycle regularly are healthier and have more energy during the day. Unlike going to the gym, cycling to work means you get exercise without having to find extra time in your busy schedule.\n\nCycling is also much cheaper than driving. You don't need to pay for petrol, parking, or expensive car repairs. A good bicycle costs far less than a car and needs very little maintenance.\n\nAnother benefit is that cycling helps the environment. Cars produce harmful gases that pollute the air and contribute to climate change. By choosing a bicycle, you reduce your carbon footprint and help keep the air clean.\n\nOf course, cycling isn't always easy. Bad weather, busy roads, and long distances can make it challenging. But many cities are now building better cycle lanes and providing safe places to park bicycles, making it easier and safer than ever before.",
+      "options": [
+        { "label": "A", "text": "Bicycles are expensive to buy and maintain." },
+        { "label": "B", "text": "It is difficult to find places to park bicycles." },
+        { "label": "C", "text": "Weather conditions and traffic can make cycling difficult." },
+        { "label": "D", "text": "Cycling makes people too tired to work properly." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：文章最后一段提到骑车并不总是容易的——恶劣天气、繁忙的道路和远距离会带来挑战。选项C正确——天气和交通可能使骑车困难。选项A错误，文中说自行车便宜维护少；选项B错误，文中说城市在提供安全停车处；选项D错误，文中没提骑车使人太累。",
+    "explanation_en": "English explanation: The last paragraph mentions that bad weather, busy roads, and long distances can make cycling challenging. Option C correctly identifies these problems. Option A contradicts the text (bicycles are cheaper). Option B is wrong — cities are providing parking. Option D is wrong — the text says cycling gives more energy, not tiredness.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-006",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 6,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhy did James decide to learn to cook?",
+      "passage": "When James Parker moved away from home to start university, he quickly realised that he couldn't live on takeaway food forever. Not only was it expensive, but he was also putting on weight and feeling tired all the time. His flatmate, who was an excellent cook, suggested they take turns making dinner. James agreed but was embarrassed to admit he could barely boil an egg.\n\nJames decided to start with simple recipes he found online. His first attempt at pasta sauce was terrible — too salty and burnt at the bottom. But he didn't give up. He watched cooking videos, read food blogs, and practised whenever he could. Gradually, his meals improved, and his flatmates started complimenting his food.\n\nBy the end of his first year at university, James could cook about twenty different meals. He found that cooking was actually relaxing after a long day of studying. He also discovered that eating home-cooked food helped him concentrate better and gave him more energy for his studies.\n\nNow in his final year, James often cooks for groups of friends. He even started a cooking blog where he shares easy recipes for other students. He says that learning to cook is one of the best things he's done at university — alongside getting his degree, of course.",
+      "options": [
+        { "label": "A", "text": "His flatmate taught him some recipes." },
+        { "label": "B", "text": "He wanted to start a cooking blog." },
+        { "label": "C", "text": "Eating takeaway food was costing too much and affecting his health." },
+        { "label": "D", "text": "His parents told him he needed to learn before going to university." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：文章开头说James意识到不能一直吃外卖——不仅贵，而且还在发胖和感到疲倦。选项C正确——外卖花费太多且影响健康。选项A错误，室友建议轮流做饭但没有教他；选项B错误，博客是后来才开始的；选项D错误，文中没提父母。",
+    "explanation_en": "English explanation: The passage states James realised takeaway food was expensive, and he was gaining weight and feeling tired. Option C correctly identifies these as the reasons. Option A is wrong — his flatmate suggested cooking but didn't teach him. Option B is wrong — the blog came much later. Option D is wrong — parents aren't mentioned.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-007",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 7,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat was James's first cooking experience like?",
+      "passage": "When James Parker moved away from home to start university, he quickly realised that he couldn't live on takeaway food forever. Not only was it expensive, but he was also putting on weight and feeling tired all the time. His flatmate, who was an excellent cook, suggested they take turns making dinner. James agreed but was embarrassed to admit he could barely boil an egg.\n\nJames decided to start with simple recipes he found online. His first attempt at pasta sauce was terrible — too salty and burnt at the bottom. But he didn't give up. He watched cooking videos, read food blogs, and practised whenever he could. Gradually, his meals improved, and his flatmates started complimenting his food.\n\nBy the end of his first year at university, James could cook about twenty different meals. He found that cooking was actually relaxing after a long day of studying. He also discovered that eating home-cooked food helped him concentrate better and gave him more energy for his studies.\n\nNow in his final year, James often cooks for groups of friends. He even started a cooking blog where he shares easy recipes for other students. He says that learning to cook is one of the best things he's done at university — alongside getting his degree, of course.",
+      "options": [
+        { "label": "A", "text": "His flatmates enjoyed the meal he made." },
+        { "label": "B", "text": "He made a pasta sauce that didn't turn out well." },
+        { "label": "C", "text": "He successfully cooked a complicated recipe." },
+        { "label": "D", "text": "He burnt the kitchen and had to call for help." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章说James第一次尝试做意面酱很糟糕——太咸而且底部烧焦了。选项B正确——他做了一个不太成功的意面酱。选项A错误，室友们是后来才开始夸他的；选项C错误，他的第一次尝试很失败；选项D错误，文中没提烧厨房。",
+    "explanation_en": "English explanation: The passage says his first attempt at pasta sauce was terrible — too salty and burnt. Option B is correct. Option A is wrong because compliments came later. Option C is wrong because his first attempt failed. Option D is an exaggeration not mentioned in the text.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-008",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 8,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat unexpected benefit did James discover from cooking?",
+      "passage": "When James Parker moved away from home to start university, he quickly realised that he couldn't live on takeaway food forever. Not only was it expensive, but he was also putting on weight and feeling tired all the time. His flatmate, who was an excellent cook, suggested they take turns making dinner. James agreed but was embarrassed to admit he could barely boil an egg.\n\nJames decided to start with simple recipes he found online. His first attempt at pasta sauce was terrible — too salty and burnt at the bottom. But he didn't give up. He watched cooking videos, read food blogs, and practised whenever he could. Gradually, his meals improved, and his flatmates started complimenting his food.\n\nBy the end of his first year at university, James could cook about twenty different meals. He found that cooking was actually relaxing after a long day of studying. He also discovered that eating home-cooked food helped him concentrate better and gave him more energy for his studies.\n\nNow in his final year, James often cooks for groups of friends. He even started a cooking blog where he shares easy recipes for other students. He says that learning to cook is one of the best things he's done at university — alongside getting his degree, of course.",
+      "options": [
+        { "label": "A", "text": "He made money by selling food to other students." },
+        { "label": "B", "text": "He found cooking relaxing and it helped his studies." },
+        { "label": "C", "text": "He became famous on social media for his recipes." },
+        { "label": "D", "text": "He decided to change his degree to study cooking." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章第三段说James发现做饭在学习一天后其实很放松，而且吃自己做的饭帮他更好地集中注意力，给学习带来更多精力。选项B正确——做饭令人放松且有助于学习。其他选项在文中都没有提到。",
+    "explanation_en": "English explanation: The third paragraph says James found cooking relaxing after studying, and home-cooked food helped him concentrate better and have more energy. Option B captures these unexpected benefits. Options A, C, and D are not mentioned in the passage.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-009",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 9,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat is the writer's opinion about learning to cook at university?",
+      "passage": "When James Parker moved away from home to start university, he quickly realised that he couldn't live on takeaway food forever. Not only was it expensive, but he was also putting on weight and feeling tired all the time. His flatmate, who was an excellent cook, suggested they take turns making dinner. James agreed but was embarrassed to admit he could barely boil an egg.\n\nJames decided to start with simple recipes he found online. His first attempt at pasta sauce was terrible — too salty and burnt at the bottom. But he didn't give up. He watched cooking videos, read food blogs, and practised whenever he could. Gradually, his meals improved, and his flatmates started complimenting his food.\n\nBy the end of his first year at university, James could cook about twenty different meals. He found that cooking was actually relaxing after a long day of studying. He also discovered that eating home-cooked food helped him concentrate better and gave him more energy for his studies.\n\nNow in his final year, James often cooks for groups of friends. He even started a cooking blog where he shares easy recipes for other students. He says that learning to cook is one of the best things he's done at university — alongside getting his degree, of course.",
+      "options": [
+        { "label": "A", "text": "It was more important than his academic studies." },
+        { "label": "B", "text": "It was a valuable experience, second only to getting his degree." },
+        { "label": "C", "text": "It was a waste of time that distracted from studying." },
+        { "label": "D", "text": "It was only useful because it helped him make friends." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章最后James说学做饭是他在大学做过的最好的事之一——当然，除了拿到学位。选项B正确——这是宝贵的经历，仅次于获得学位。选项A错误，他说除了学位之外最好的事，不是比学业更重要；选项C和D都与文意不符。",
+    "explanation_en": "English explanation: James says learning to cook is 'one of the best things he's done at university — alongside getting his degree, of course.' Option B correctly captures this — it was valuable but secondary to his degree. Option A goes too far. Options C and D contradict the positive tone of the passage.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-010",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 10,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat is the best title for this passage?",
+      "passage": "When James Parker moved away from home to start university, he quickly realised that he couldn't live on takeaway food forever. Not only was it expensive, but he was also putting on weight and feeling tired all the time. His flatmate, who was an excellent cook, suggested they take turns making dinner. James agreed but was embarrassed to admit he could barely boil an egg.\n\nJames decided to start with simple recipes he found online. His first attempt at pasta sauce was terrible — too salty and burnt at the bottom. But he didn't give up. He watched cooking videos, read food blogs, and practised whenever he could. Gradually, his meals improved, and his flatmates started complimenting his food.\n\nBy the end of his first year at university, James could cook about twenty different meals. He found that cooking was actually relaxing after a long day of studying. He also discovered that eating home-cooked food helped him concentrate better and gave him more energy for his studies.\n\nNow in his final year, James often cooks for groups of friends. He even started a cooking blog where he shares easy recipes for other students. He says that learning to cook is one of the best things he's done at university — alongside getting his degree, of course.",
+      "options": [
+        { "label": "A", "text": "How to Become a Professional Chef" },
+        { "label": "B", "text": "A Student's Journey from Takeaways to Home Cooking" },
+        { "label": "C", "text": "Why University Food Is So Expensive" },
+        { "label": "D", "text": "The Most Popular Student Cooking Blog" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章讲述了James从一个只吃外卖、几乎不会做饭的大学新生，到成为能为朋友做饭并开设烹饪博客的人的转变过程。选项B最佳——一个学生从外卖到自己做饭的旅程。选项A不对，他没有成为专业厨师；选项C不是主题；选项D只是文章的一小部分。",
+    "explanation_en": "English explanation: The passage traces James's transformation from a student who lived on takeaways and couldn't cook, to someone who cooks for friends and runs a cooking blog. Option B best captures this journey. Option A is wrong — he didn't become a professional chef. Option C is too narrow. Option D only covers a small part of the story.",
+    "is_free": false
+  }
+]

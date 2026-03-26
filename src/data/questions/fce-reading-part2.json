@@ -1,0 +1,152 @@
+[
+  {
+    "id": "fce-r2-001",
+    "level": "fce",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "content": {
+      "stem": "Which sentence has been removed from gap 1?",
+      "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
+      "options": [
+        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
+        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
+        { "label": "C", "text": "The results exceeded everyone's expectations." },
+        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
+        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
+        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
+        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：空格1前面说Maria在小镇长大，周末拆装旧收音机；后面说'正是在那里她第一次接触到机器人技术，加入了一个学生俱乐部'。'那里'显然指的是一所大学。选项B说她18岁获得奖学金去曼彻斯特大学学习电气工程，完美衔接了上下文——从小镇成长到进入大学。",
+    "explanation_en": "English explanation: Gap 1 sits between Maria's childhood hobby of taking apart radios and the sentence 'It was there that she first encountered robotics, joining a student club.' The word 'there' must refer to a place — logically a university. Option B fits perfectly: winning a scholarship to study engineering at university connects her childhood interest to discovering robotics through a student club.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r2-002",
+    "level": "fce",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "content": {
+      "stem": "Which sentence has been removed from gap 2?",
+      "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
+      "options": [
+        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
+        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
+        { "label": "C", "text": "The results exceeded everyone's expectations." },
+        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
+        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
+        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
+        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+      ],
+      "correct_answer": "D"
+    },
+    "explanation_zh": "中文解析：空格2前面说Maria以一等学位毕业后难以找到工作；后面说'她没有放弃，而是接受了一个实验室助理的职位'。选项D说'尽管她有资格，雇主们说她缺乏实践经验'——这解释了为什么她难以找到工作，同时也与后文'没有放弃'形成逻辑衔接。",
+    "explanation_en": "English explanation: Gap 2 follows 'Maria struggled to find work in her chosen field' and precedes 'Rather than giving up, she took a position as a laboratory assistant.' Option D explains WHY she struggled — employers said she lacked practical experience despite her qualifications. This logically connects the difficulty in finding work to her decision not to give up and take a different role instead.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r2-003",
+    "level": "fce",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "content": {
+      "stem": "Which sentence has been removed from gap 3?",
+      "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
+      "options": [
+        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
+        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
+        { "label": "C", "text": "The results exceeded everyone's expectations." },
+        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
+        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
+        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
+        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+      ],
+      "correct_answer": "E"
+    },
+    "explanation_zh": "中文解析：空格3前面说Maria在这段时期产生了定义她职业生涯的想法；后面说她意识到研究人员的许多重复性工作可以由机器人系统更准确地完成。选项E说'她注意到科学家们经常花数小时做单调但需要高精度的工作'——这正是触发她灵感的观察，自然引出后面的'意识到'。",
+    "explanation_en": "English explanation: Gap 3 sits between 'Maria had the idea that would define her career' and 'She realised that many of the repetitive tasks... could be performed more accurately by robotic systems.' Option E describes her observation that scientists spent hours on monotonous, precision-demanding tasks — this is the specific observation that led to her realisation and the career-defining idea. It bridges the general statement about having an idea and the specific insight that followed.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r2-004",
+    "level": "fce",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "content": {
+      "stem": "Which sentence has been removed from gap 4?",
+      "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
+      "options": [
+        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
+        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
+        { "label": "C", "text": "The results exceeded everyone's expectations." },
+        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
+        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
+        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
+        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：空格4前面说主管虽然持怀疑态度但同意让Maria在实验室测试设备；后面说六个月内实验室产出提高了40%，错误率显著下降。选项C'结果超出了所有人的预期'完美连接了'怀疑态度'和'显著改善'——先有怀疑，然后结果超预期，具体数据随后呈现。",
+    "explanation_en": "English explanation: Gap 4 follows the supervisor's scepticism about testing the device and precedes specific results (40% increase in output, significant drop in error rates). Option C — 'The results exceeded everyone's expectations' — perfectly bridges the supervisor's initial doubt and the impressive outcomes described in the next sentence. The word 'everyone's' connects back to the scepticism.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r2-005",
+    "level": "fce",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "content": {
+      "stem": "Which sentence has been removed from gap 5?",
+      "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
+      "options": [
+        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
+        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
+        { "label": "C", "text": "The results exceeded everyone's expectations." },
+        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
+        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
+        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
+        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：空格5前面说Maria的发明在研究界迅速传播；后面说她获得了一家顶级科技公司的职位。选项A说'她收到了许多其他机构想采用类似技术的咨询'——这是消息传播的直接结果，也是她获得工作机会的过渡。从消息传播→收到咨询→获得职位，逻辑连贯。",
+    "explanation_en": "English explanation: Gap 5 follows 'News of Maria's invention spread quickly through the research community' and precedes her being offered a position at a leading technology firm. Option A — receiving numerous enquiries from other institutions — is the logical consequence of news spreading and naturally leads to her being recruited by a top firm. The progression is: news spreads → enquiries arrive → job offer follows.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r2-006",
+    "level": "fce",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 6,
+    "content": {
+      "stem": "Which sentence has been removed from gap 6?",
+      "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
+      "options": [
+        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
+        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
+        { "label": "C", "text": "The results exceeded everyone's expectations." },
+        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
+        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
+        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
+        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+      ],
+      "correct_answer": "F"
+    },
+    "explanation_zh": "中文解析：空格6前面说Maria的设备如今在全球200多个机构使用；后面说她经常去学校鼓励年轻人考虑工程学职业。选项F说'她仍然热衷于激励下一代工程师'——这完美连接了她的专业成就和她去学校激励学生的行动，'下一代工程师'与后文中的学校访问直接呼应。",
+    "explanation_en": "English explanation: Gap 6 sits between Maria's professional success (devices used in 200+ facilities) and her school visits to encourage young people into engineering. Option F — 'She remains passionate about inspiring the next generation of engineers' — serves as a perfect transition from her achievements to her outreach activities. The phrase 'next generation of engineers' directly anticipates the school visits described in the following sentence.",
+    "is_free": false
+  }
+]

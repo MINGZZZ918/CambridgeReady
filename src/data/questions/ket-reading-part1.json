@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ket-r1-001",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "content": {
+      "stem": "What does this notice mean?",
+      "passage": "CITY LIBRARY: Books can be borrowed for up to 2 weeks. Please ask at the desk if you need more time.",
+      "options": [
+        { "label": "A", "text": "You can keep library books for two weeks or ask to keep them longer." },
+        { "label": "B", "text": "You must return books after two days." },
+        { "label": "C", "text": "The library is only open for two weeks." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：这个图书馆通知说书可以借两周，如果需要更多时间可以到前台询问。选项A正确——你可以借书两周，也可以申请延长。选项B错误，是两周不是两天；选项C错误，通知说的是借书时间，不是图书馆开放时间。",
+    "explanation_en": "English explanation: The library notice says books can be borrowed for up to 2 weeks, and you can ask at the desk for more time. Option A is correct — you can keep books for two weeks or request an extension. Option B is wrong because it says two weeks, not two days. Option C is wrong because the notice is about borrowing time, not how long the library is open.",
+    "is_free": true
+  },
+  {
+    "id": "ket-r1-002",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "content": {
+      "stem": "What does this announcement say?",
+      "passage": "SCHOOL NOTICE: The art room will be closed on Wednesday afternoon for cleaning. Art classes will move to Room 12.",
+      "options": [
+        { "label": "A", "text": "There are no art classes on Wednesday." },
+        { "label": "B", "text": "Art classes on Wednesday afternoon will be in a different room." },
+        { "label": "C", "text": "Room 12 will be closed for cleaning." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：学校通知说美术室周三下午关闭进行清洁，美术课搬到12号教室。选项B正确——周三下午的美术课会在另一个教室上。选项A错误，美术课没有取消，只是换了地方；选项C错误，是美术室关闭清洁，不是12号教室。",
+    "explanation_en": "English explanation: The school notice says the art room will be closed on Wednesday afternoon for cleaning, and art classes will move to Room 12. Option B is correct — Wednesday afternoon art classes will be in a different room. Option A is wrong because classes aren't cancelled, just moved. Option C is wrong because the art room is being cleaned, not Room 12.",
+    "is_free": true
+  },
+  {
+    "id": "ket-r1-003",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "content": {
+      "stem": "What does this sign mean?",
+      "passage": "SALE! All shoes half price this weekend only. Maximum 2 pairs per customer.",
+      "options": [
+        { "label": "A", "text": "Shoes are cheaper this weekend but you can only buy two pairs." },
+        { "label": "B", "text": "You can buy shoes for free this weekend." },
+        { "label": "C", "text": "The shop only sells two types of shoes." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：这个商店标牌说本周末所有鞋子半价，每位顾客最多买两双。选项A正确——鞋子本周末更便宜，但每人只能买两双。选项B错误，半价不是免费；选项C错误，限制的是每人能买的数量，不是鞋子的种类。",
+    "explanation_en": "English explanation: The shop sign says all shoes are half price this weekend only, with a maximum of 2 pairs per customer. Option A is correct — shoes are cheaper this weekend but limited to two pairs per person. Option B is wrong because half price is not free. Option C is wrong because the limit is on how many pairs you can buy, not how many types are available.",
+    "is_free": true
+  },
+  {
+    "id": "ket-r1-004",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "content": {
+      "stem": "What does this warning say?",
+      "passage": "WEATHER WARNING: Strong winds expected tonight. Please close all windows and bring garden furniture inside.",
+      "options": [
+        { "label": "A", "text": "It will rain a lot tonight." },
+        { "label": "B", "text": "People should prepare for strong winds tonight." },
+        { "label": "C", "text": "The garden will be closed tonight." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：天气预警说今晚预计有大风，请关好所有窗户并把花园家具搬进室内。选项B正确——人们应该为今晚的大风做准备。选项A错误，预警说的是大风不是大雨；选项C错误，是把花园家具搬进屋内，不是花园关闭。",
+    "explanation_en": "English explanation: The weather warning says strong winds are expected tonight, and people should close windows and bring garden furniture inside. Option B is correct — people should prepare for strong winds. Option A is wrong because the warning is about wind, not rain. Option C is wrong because the warning says to bring furniture inside, not that the garden is closed.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r1-005",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "content": {
+      "stem": "What does this notice tell you?",
+      "passage": "BUS TIMETABLE CHANGE: From Monday 5th May, the 8:15 morning bus will leave at 8:00. All other times stay the same.",
+      "options": [
+        { "label": "A", "text": "All morning buses will leave earlier from May." },
+        { "label": "B", "text": "One morning bus will leave 15 minutes earlier from 5th May." },
+        { "label": "C", "text": "The bus service will stop on 5th May." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：公交时刻表变更通知说从5月5日周一开始，早上8:15的公交改为8:00发车，其他时间不变。选项B正确——一班早上的公交会提早15分钟出发。选项A错误，只有8:15那班改了，其他时间不变；选项C错误，公交服务没有停止。",
+    "explanation_en": "English explanation: The bus timetable change says the 8:15 morning bus will leave at 8:00 from 5th May, with all other times unchanged. Option B is correct — one morning bus will leave 15 minutes earlier. Option A is wrong because only the 8:15 bus changes. Option C is wrong because the bus service isn't stopping.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r1-006",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 6,
+    "content": {
+      "stem": "What does this note mean?",
+      "passage": "TODAY'S SPECIAL: Chicken soup with bread — £3.50. Available from 12:00 to 2:00 only. No soup on Mondays.",
+      "options": [
+        { "label": "A", "text": "You can buy the soup at any time during the day." },
+        { "label": "B", "text": "The soup costs £3.50 and is only served at lunchtime, except Mondays." },
+        { "label": "C", "text": "The restaurant is closed on Mondays." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：这个餐厅告示说今日特供是鸡汤配面包，3.50英镑，仅在12:00到2:00供应，周一不供应汤。选项B正确——汤3.50英镑，只在午餐时间供应，周一除外。选项A错误，只在12点到2点供应；选项C错误，只是周一不供应汤，不是餐厅关门。",
+    "explanation_en": "English explanation: The restaurant note says today's special is chicken soup with bread for £3.50, available from 12:00 to 2:00 only, with no soup on Mondays. Option B is correct — the soup costs £3.50, is only at lunchtime, and not on Mondays. Option A is wrong because it's only from 12:00 to 2:00. Option C is wrong because only the soup is unavailable on Mondays, not the whole restaurant.",
+    "is_free": false
+  }
+]

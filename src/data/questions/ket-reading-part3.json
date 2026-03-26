@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ket-r3-001",
+    "level": "ket",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "content": {
+      "stem": "Why did Emma start bird watching?",
+      "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
+      "options": [
+        { "label": "A", "text": "She saw a bird in her garden and wanted to know what it was." },
+        { "label": "B", "text": "Her friends at school told her about it." },
+        { "label": "C", "text": "She joined a bird watching club." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：根据文章第一段，Emma在花园里看到了一只美丽的蓝色鸟，想知道它是什么鸟，于是翻看了爷爷送的书，发现是翠鸟。从此开始了观鸟。选项A正确。选项B错误，朋友们觉得这个爱好很奇怪；选项C错误，加入俱乐部是后来的事。",
+    "explanation_en": "English explanation: According to the first paragraph, Emma saw a beautiful blue bird in her garden and wanted to find out what it was, so she looked in her grandfather's book. That's how she started bird watching. Option A is correct. Option B is wrong because her friends think it's strange. Option C is wrong because she joined the club later.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r3-002",
+    "level": "ket",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "content": {
+      "stem": "What does Emma write in her notebook?",
+      "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
+      "options": [
+        { "label": "A", "text": "Stories about her trips to the park" },
+        { "label": "B", "text": "Information about the birds she sees" },
+        { "label": "C", "text": "Messages to her grandfather about birds" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章第二段说Emma记录她看到的每只鸟的信息——颜色、在哪里找到的、在做什么。选项B正确——她记录看到的鸟的信息。选项A错误，不是关于去公园的故事；选项C错误，笔记本不是写给爷爷的消息。",
+    "explanation_en": "English explanation: The second paragraph says Emma writes notes about each bird — its colour, where she found it, and what it was doing. Option B is correct — she records information about the birds she sees. Option A is wrong because she doesn't write stories about park trips. Option C is wrong because the notebook isn't for messages to her grandfather.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r3-003",
+    "level": "ket",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "content": {
+      "stem": "How does Emma feel about bird watching?",
+      "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
+      "options": [
+        { "label": "A", "text": "She thinks it is boring now." },
+        { "label": "B", "text": "She feels relaxed and enjoys it." },
+        { "label": "C", "text": "She is worried her friends don't like it." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章说Emma觉得观鸟让她感到平静和快乐（calm and happy），虽然朋友们觉得奇怪，但她不在意。选项B正确——她感到放松并享受其中。选项A错误，她现在很喜欢这个爱好；选项C错误，她不在意朋友们的看法。",
+    "explanation_en": "English explanation: The text says Emma finds bird watching makes her feel calm and happy, and she doesn't mind that her friends think it's strange. Option B is correct — she feels relaxed and enjoys it. Option A is wrong because she clearly enjoys it. Option C is wrong because she doesn't mind what her friends think.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r3-004",
+    "level": "ket",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "content": {
+      "stem": "What happened at the lake?",
+      "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
+      "options": [
+        { "label": "A", "text": "Emma lost her notebook." },
+        { "label": "B", "text": "Emma saw a heron and photographed it." },
+        { "label": "C", "text": "Emma went swimming with her friends." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章第三段说Emma最喜欢的一次旅行是去湖边，她第一次看到了苍鹭，用手机拍了照片并在学校给大家看。选项B正确——Emma看到了苍鹭并拍了照。选项A错误，文章没提到丢笔记本；选项C错误，她是去观鸟不是游泳。",
+    "explanation_en": "English explanation: The third paragraph says Emma's favourite trip was to a lake where she saw a heron for the first time and took a photo with her phone. Option B is correct. Option A is wrong because the text doesn't mention losing her notebook. Option C is wrong because she went bird watching, not swimming.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r3-005",
+    "level": "ket",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "content": {
+      "stem": "What is true about Emma's school friends now?",
+      "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
+      "options": [
+        { "label": "A", "text": "They all think bird watching is strange." },
+        { "label": "B", "text": "Some of them want to try bird watching." },
+        { "label": "C", "text": "They have already joined the bird watching club." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章最后一句说Emma的一些朋友现在也想参加下次的旅行。选项B正确——一些朋友想尝试观鸟。选项A错误，虽然之前觉得奇怪，但现在有些人改变了想法；选项C错误，他们只是想参加下次旅行，还没有加入俱乐部。",
+    "explanation_en": "English explanation: The last sentence says some of Emma's friends now want to come on the next trip too. Option B is correct — some friends want to try bird watching. Option A is wrong because some have changed their minds. Option C is wrong because they want to join the next trip, but haven't joined the club yet.",
+    "is_free": false
+  }
+]

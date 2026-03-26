@@ -1,0 +1,212 @@
+[
+  {
+    "id": "pet-r1-001",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "content": {
+      "stem": "What does this notice mean?",
+      "passage": "LIBRARY NOTICE: All books must be returned by Friday 15th March. Late returns will be charged 50p per day.",
+      "options": [
+        { "label": "A", "text": "You can keep books as long as you want if you pay 50p." },
+        { "label": "B", "text": "You will have to pay extra if you bring books back after 15th March." },
+        { "label": "C", "text": "The library will be closed on Friday 15th March." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：通知说所有书必须在3月15日之前归还，逾期每天收费50便士。选项B正确表达了这个意思——如果在3月15日之后才还书，需要额外付费。选项A错误，因为不是可以随意保留只要付费；选项C错误，通知没有说图书馆会关闭。",
+    "explanation_en": "English explanation: The notice states books must be returned by 15th March, and late returns cost 50p per day. Option B correctly captures this — you pay extra if books come back after 15th March. Option A is wrong because it implies you can keep books indefinitely by paying. Option C is wrong because the notice says nothing about the library closing.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r1-002",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "content": {
+      "stem": "What does this sign mean?",
+      "passage": "SWIMMING POOL: Children under 12 must be accompanied by an adult at all times.",
+      "options": [
+        { "label": "A", "text": "Children under 12 cannot use the swimming pool." },
+        { "label": "B", "text": "Adults must swim with children who are under 12." },
+        { "label": "C", "text": "Children under 12 need to have an adult with them in the pool area." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：标牌说12岁以下儿童必须始终有成人陪同。选项C是最准确的——需要有成人陪同在泳池区域。选项A错误，因为儿童可以使用泳池，只是需要大人陪同；选项B的意思是大人必须一起游泳，但原文只说陪同，不一定要一起下水。",
+    "explanation_en": "English explanation: The sign says children under 12 must be accompanied by an adult at all times. Option C is most accurate — an adult must be with them in the pool area. Option A is wrong because children can use the pool, just with adult supervision. Option B implies adults must swim too, but the sign only requires them to accompany, not necessarily swim.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r1-003",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "content": {
+      "stem": "What does this email mean?",
+      "passage": "Hi Tom, I can't make it to football practice tonight. Could you let Coach Harris know? I'll be there on Thursday instead. Thanks, Sam",
+      "options": [
+        { "label": "A", "text": "Sam wants Tom to tell the coach he won't come tonight." },
+        { "label": "B", "text": "Sam is asking Tom to go to football practice for him." },
+        { "label": "C", "text": "Sam wants to change the football practice to Thursday." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：Sam在邮件中说他今晚不能去足球训练，请Tom告诉Harris教练，他周四会去。选项A正确——Sam请Tom转告教练他今晚不来。选项B错误，Sam没有让Tom代替他训练；选项C错误，Sam不是要改训练时间，只是说他自己周四会去。",
+    "explanation_en": "English explanation: Sam says he can't make it to practice tonight and asks Tom to inform Coach Harris. He'll attend Thursday instead. Option A is correct — Sam wants Tom to pass a message to the coach. Option B is wrong because Sam isn't asking Tom to replace him. Option C is wrong because Sam isn't trying to reschedule practice for everyone.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r1-004",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "content": {
+      "stem": "What does this notice tell customers?",
+      "passage": "Due to building work, the café on the second floor is temporarily closed. Please use the ground floor café instead. We apologise for any inconvenience.",
+      "options": [
+        { "label": "A", "text": "Both cafés in the building are closed for repairs." },
+        { "label": "B", "text": "Customers should go to a different café on a lower floor." },
+        { "label": "C", "text": "The building work will be finished soon." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：通知说二楼咖啡厅因施工暂时关闭，请使用一楼的咖啡厅。选项B正确——顾客应该去楼下另一个咖啡厅。选项A错误，只有二楼关了，一楼照常营业；选项C错误，通知没有提到施工何时完成。",
+    "explanation_en": "English explanation: The notice says the second floor café is temporarily closed due to building work and directs customers to the ground floor café. Option B is correct — customers should use a café on a lower floor. Option A is wrong because only one café is closed. Option C is wrong because no completion date is mentioned.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r1-005",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "content": {
+      "stem": "What is the text message about?",
+      "passage": "Mum, I forgot my lunch at home. It's in a blue bag on the kitchen table. Could you bring it to school before 12? Thanks!",
+      "options": [
+        { "label": "A", "text": "The writer wants their mother to make them lunch." },
+        { "label": "B", "text": "The writer needs their mother to bring their lunch to school." },
+        { "label": "C", "text": "The writer left their school bag at home by mistake." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：短信说写信人把午餐忘在家里了，在厨房桌上的蓝色袋子里，请妈妈中午12点前送到学校。选项B正确——需要妈妈把午餐带到学校。选项A错误，午餐已经准备好了只是忘了带；选项C错误，忘的是午餐不是书包。",
+    "explanation_en": "English explanation: The message says the writer forgot their lunch at home (in a blue bag on the kitchen table) and asks their mum to bring it before noon. Option B is correct. Option A is wrong because the lunch is already prepared, just forgotten. Option C is wrong because they forgot their lunch, not their school bag.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r1-006",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 6,
+    "content": {
+      "stem": "What does this sign tell visitors?",
+      "passage": "MUSEUM PHOTOGRAPHY POLICY: Flash photography is not permitted. You may take photos without flash in all areas except the Special Exhibition Hall.",
+      "options": [
+        { "label": "A", "text": "Visitors cannot take any photographs in the museum." },
+        { "label": "B", "text": "Photographs are allowed everywhere as long as you don't use flash." },
+        { "label": "C", "text": "You can take photos without flash, but not in one particular area." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：标牌说不允许使用闪光灯拍照，可以在除特别展厅以外的所有区域拍照（不用闪光灯）。选项C正确——可以不用闪光灯拍照，但有一个区域除外。选项A错误，博物馆允许拍照只是有限制；选项B错误，特别展厅不能拍照。",
+    "explanation_en": "English explanation: The sign says flash photography is not permitted, and you may take photos without flash everywhere except the Special Exhibition Hall. Option C is correct — photos without flash are fine, but one area is excluded. Option A is wrong because photos are allowed with restrictions. Option B is wrong because the Special Exhibition Hall is excluded.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r1-007",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 7,
+    "content": {
+      "stem": "What does this notice mean?",
+      "passage": "BUS SERVICE UPDATE: The number 42 bus will not run on Sundays from 1st April. A replacement service will operate every 30 minutes between the station and the town centre.",
+      "options": [
+        { "label": "A", "text": "The number 42 bus is being cancelled permanently." },
+        { "label": "B", "text": "On Sundays, a different bus will replace the number 42 from April." },
+        { "label": "C", "text": "The number 42 bus will run every 30 minutes on Sundays." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：通知说42路公交从4月1日起周日不运行，将有一个替代服务每30分钟一班在车站和市中心之间运行。选项B正确——周日会有其他巴士替代42路。选项A错误，只是周日停运不是永久取消；选项C错误，是替代服务每30分钟一班，不是42路。",
+    "explanation_en": "English explanation: The notice says the number 42 bus won't run on Sundays from April, with a replacement service every 30 minutes. Option B is correct — a different service replaces the 42 on Sundays from April. Option A is wrong because it's only Sundays, not permanent cancellation. Option C is wrong because the 30-minute service is the replacement, not the 42.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r1-008",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 8,
+    "content": {
+      "stem": "What does this label say?",
+      "passage": "CAUTION: This product contains nuts. Not suitable for people with nut allergies. Store in a cool, dry place once opened.",
+      "options": [
+        { "label": "A", "text": "People who are allergic to nuts should not eat this product." },
+        { "label": "B", "text": "This product should always be kept in the fridge." },
+        { "label": "C", "text": "The product is made entirely from nuts." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：标签警告该产品含有坚果，不适合对坚果过敏的人。选项A正确——对坚果过敏的人不应食用。选项B错误，标签说存放在阴凉干燥处，不是冰箱；选项C错误，产品含有坚果但不是完全由坚果制成。",
+    "explanation_en": "English explanation: The label warns the product contains nuts and is not suitable for people with nut allergies. Option A is correct. Option B is wrong because it says 'cool, dry place,' not a fridge. Option C is wrong because the product contains nuts but isn't made entirely from them.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r1-009",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 9,
+    "content": {
+      "stem": "What does this notice mean?",
+      "passage": "SCHOOL TRIP TO SCIENCE MUSEUM — Thursday 20th March. Students must bring a packed lunch and wear school uniform. Please return the permission form by Monday.",
+      "options": [
+        { "label": "A", "text": "Students need to hand in a form before the trip and bring their own food." },
+        { "label": "B", "text": "The school will provide lunch during the trip to the museum." },
+        { "label": "C", "text": "Students can wear casual clothes on the day of the trip." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：通知说学校去科学博物馆的旅行在3月20日周四，学生需带便当、穿校服，并在周一前交回许可表。选项A正确——学生需要在旅行前交表格并自带食物。选项B错误，需要学生自带午餐；选项C错误，需要穿校服不是便装。",
+    "explanation_en": "English explanation: The notice says students must bring a packed lunch, wear school uniform, and return the permission form by Monday. Option A is correct — they need to submit a form and bring their own food. Option B is wrong because students must bring packed lunch. Option C is wrong because school uniform is required.",
+    "is_free": true
+  },
+  {
+    "id": "pet-r1-010",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 10,
+    "content": {
+      "stem": "What does this text message mean?",
+      "passage": "Hey Jake, the concert starts at 7:30 not 8 like we thought. Can you pick me up at 6:45 so we get there early? I'll buy the drinks to say thanks!",
+      "options": [
+        { "label": "A", "text": "The writer wants Jake to come earlier than planned because the concert time has changed." },
+        { "label": "B", "text": "The writer is telling Jake that the concert has been cancelled." },
+        { "label": "C", "text": "The writer wants to meet Jake at the concert at 7:30." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：短信说音乐会7:30开始，不是原来以为的8点，请Jake在6:45来接他，并表示会买饮料感谢。选项A正确——因为音乐会时间提前了，所以希望Jake更早来接。选项B错误，音乐会没有取消；选项C错误，写信人希望Jake来接他而不是在音乐会碰面。",
+    "explanation_en": "English explanation: The message says the concert starts at 7:30 instead of 8, so the writer asks Jake to pick them up at 6:45. Option A is correct — the concert time changed, so they need to leave earlier. Option B is wrong because the concert isn't cancelled. Option C is wrong because the writer asks for a ride, not to meet at the venue.",
+    "is_free": true
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "fce-r1-001",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "content": {
+      "stem": "According to the first paragraph, what surprised researchers about deep-sea creatures?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "They could survive without any source of energy at all." },
+        { "label": "B", "text": "They formed complex communities in conditions previously thought uninhabitable." },
+        { "label": "C", "text": "They were genetically identical to surface-dwelling organisms." },
+        { "label": "D", "text": "They had migrated from shallower waters to the deep ocean." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：第一段说科学家原本认为深海是荒芜的，但在热液喷口附近发现了繁荣的生物群落。让研究人员惊讶的是，在之前被认为不可能存在复杂生态系统的条件下，竟然有蓬勃发展的生物群落。选项B正确地概括了这一发现。选项A错误，它们有能量来源（化能合成）；选项C文中未提及；选项D文中也未提及。",
+    "explanation_en": "English explanation: The first paragraph states that scientists assumed the deep ocean was a 'barren wasteland' and that extreme conditions 'seemed to rule out the possibility of complex ecosystems.' The discovery of thriving communities around hydrothermal vents therefore surprised researchers because these organisms formed complex communities in conditions previously thought uninhabitable. Option B captures this. Option A is wrong because they do have an energy source (chemosynthesis). Options C and D are not mentioned in the text.",
+    "is_free": true
+  },
+  {
+    "id": "fce-r1-002",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "content": {
+      "stem": "What does the writer mean by saying the discovery 'fundamentally changed our understanding' in the second paragraph?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "Scientists realised that photosynthesis was less efficient than chemosynthesis." },
+        { "label": "B", "text": "It showed that life was not necessarily dependent on sunlight-driven food chains." },
+        { "label": "C", "text": "Researchers concluded that most ocean life exists near hydrothermal vents." },
+        { "label": "D", "text": "It proved that deep-sea organisms are more advanced than surface ones." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：第二段解释说，之前人们理所当然地认为所有食物链最终都依赖于光合作用。热液喷口生态系统证明生命可以在不依赖阳光的条件下繁荣发展，这从根本上改变了我们对生命存在条件的认识。选项B正确。选项A文中没有对比两种方式的效率；选项C和D都是对原文的曲解。",
+    "explanation_en": "English explanation: The second paragraph explains that it was previously 'taken for granted that all food chains ultimately depended on photosynthesis.' The vent discovery overturned this assumption by showing life could exist without sunlight. Option B correctly captures this shift. Option A is wrong because the text doesn't compare efficiency. Option C overstates the claim. Option D is not supported by the text.",
+    "is_free": true
+  },
+  {
+    "id": "fce-r1-003",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "content": {
+      "stem": "What adaptation is mentioned as helping organisms survive near hydrothermal vents?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "The ability to produce their own light in the darkness." },
+        { "label": "B", "text": "Thick shells that protect them from water pressure." },
+        { "label": "C", "text": "Proteins that can withstand extremely high temperatures." },
+        { "label": "D", "text": "The capacity to store large amounts of oxygen." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：第二段提到许多生物进化出了非凡的适应能力，包括'在会摧毁普通生物分子的温度下仍保持稳定的特殊蛋白质'。选项C正确地概括了这一适应特征。选项A（生物发光）、选项B（厚壳）和选项D（储氧）在文中均未提及。",
+    "explanation_en": "English explanation: The second paragraph specifically mentions 'specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules' as a remarkable adaptation. Option C correctly paraphrases this. Options A (bioluminescence), B (thick shells), and D (oxygen storage) are not mentioned in the text.",
+    "is_free": true
+  },
+  {
+    "id": "fce-r1-004",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "content": {
+      "stem": "What point does the writer make about cold seeps and whale falls in the third paragraph?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "They are more important than hydrothermal vents for sustaining deep-sea life." },
+        { "label": "B", "text": "They demonstrate that deep-sea life exists in a wider range of habitats than first thought." },
+        { "label": "C", "text": "They provide food for organisms that live near hydrothermal vents." },
+        { "label": "D", "text": "They are gradually replacing hydrothermal vents as energy sources." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：第三段的主旨是深海生命并不局限于热液喷口。冷渗漏和鲸落支撑着各自独特的生物群落，这表明深海的生物多样性远超想象。选项B正确地反映了这一观点——深海生命存在于比最初认为的更广泛的栖息地中。选项A没有做这样的比较；选项C和D在文中没有依据。",
+    "explanation_en": "English explanation: The third paragraph's key point is that 'deep-sea life is not confined to hydrothermal vents.' Cold seeps and whale falls support their own communities, showing the deep ocean is 'far more biologically diverse than anyone had imagined.' Option B captures this — life exists in a wider range of habitats. Option A makes a comparison not found in the text. Options C and D are unsupported.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r1-005",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "content": {
+      "stem": "What does the phrase 'drawn parallels' in the fourth paragraph suggest?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "Astrobiologists have noticed similarities between two different environments." },
+        { "label": "B", "text": "Scientists have proved that life exists on Europa." },
+        { "label": "C", "text": "Researchers have travelled to Europa to study its ocean." },
+        { "label": "D", "text": "Deep-sea organisms have been found on Jupiter's moon." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：'drawn parallels'意思是'找到了相似之处/做了类比'。天体生物学家注意到热液喷口的条件与木星卫星欧罗巴上被认为存在的条件之间有相似之处。选项A正确。选项B错误，文中只说'可以想象'可能存在生命，并未证实；选项C和D都不符合事实。",
+    "explanation_en": "English explanation: 'Drawn parallels' means 'identified similarities' or 'made comparisons.' Astrobiologists have compared conditions at hydrothermal vents with those thought to exist on Europa. Option A correctly captures this meaning. Option B is wrong because life on Europa hasn't been proved — the text says it is 'conceivable.' Options C and D are factually incorrect.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r1-006",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 6,
+    "content": {
+      "stem": "Why has deep-sea research become a priority, according to the writer?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "It could help scientists develop new medicines from deep-sea organisms." },
+        { "label": "B", "text": "It may provide insights relevant to both Earth's biology and the search for life elsewhere." },
+        { "label": "C", "text": "It is needed to protect deep-sea species from extinction." },
+        { "label": "D", "text": "It will allow scientists to create artificial hydrothermal vents." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：第四段最后一句明确指出，深海研究已成为优先事项，'不仅是为了了解我们自己的星球，也是为了指导寻找外星生命'。选项B准确地反映了这两个方面。选项A（新药）、选项C（物种保护）和选项D（人造热液喷口）在文中都没有提及。",
+    "explanation_en": "English explanation: The final sentence of paragraph four states that deep-sea research is a priority 'not only for understanding our own planet but also for guiding the search for extraterrestrial life.' Option B accurately reflects both purposes. Options A (medicines), C (species protection), and D (artificial vents) are not mentioned in the text.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r1-007",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 7,
+    "content": {
+      "stem": "What can be inferred about whale falls from the passage?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "They provide a permanent habitat for deep-sea organisms." },
+        { "label": "B", "text": "They are the main food source for creatures living near hydrothermal vents." },
+        { "label": "C", "text": "They support communities of organisms for a limited but significant period." },
+        { "label": "D", "text": "They are more common than hydrothermal vents on the ocean floor." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：文章说鲸落'创造了可以维持生命数十年的临时生态系统'。关键词是'临时'（temporary）和'数十年'（decades），表明它们在有限但相当长的时间内支撑着生物群落。选项C正确。选项A错误，因为是'临时'不是永久；选项B和D文中均未提及。",
+    "explanation_en": "English explanation: The text describes whale falls as creating 'temporary ecosystems that can sustain life for decades.' The key words are 'temporary' (limited) and 'decades' (significant period). Option C correctly captures both aspects. Option A is wrong because they are explicitly described as temporary. Options B and D are not supported by the text.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r1-008",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 8,
+    "content": {
+      "stem": "What is the writer's overall purpose in the passage?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "To argue that more funding should be given to deep-sea exploration." },
+        { "label": "B", "text": "To explain how deep-sea discoveries have expanded our understanding of life." },
+        { "label": "C", "text": "To compare different types of deep-sea organisms in detail." },
+        { "label": "D", "text": "To warn about the environmental threats facing deep-sea ecosystems." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章从深海被认为是'荒芜之地'开始，讲述了热液喷口的发现如何改变了我们的认知，然后扩展到冷渗漏和鲸落，最后讨论了对寻找外星生命的启示。整体目的是解释深海发现如何扩展了我们对生命的理解。选项B正确。选项A（呼吁资金）、选项C（详细比较生物）和选项D（环境威胁）都不是文章的主要目的。",
+    "explanation_en": "English explanation: The passage traces a narrative from the assumption that the deep ocean was lifeless, through the discovery of hydrothermal vents, to cold seeps, whale falls, and implications for astrobiology. The overall purpose is to show how these discoveries expanded our understanding of where and how life can exist. Option B captures this. Option A (funding argument), C (detailed species comparison), and D (environmental threats) are not the writer's main purpose.",
+    "is_free": false
+  }
+]

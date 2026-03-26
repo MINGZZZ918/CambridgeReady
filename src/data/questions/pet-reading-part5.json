@@ -1,0 +1,266 @@
+[
+  {
+    "id": "pet-r5-001",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 1:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "did" },
+        { "label": "B", "text": "made" },
+        { "label": "C", "text": "had" },
+        { "label": "D", "text": "went" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：\"made a trip\"是固定搭配，意思是\"进行了一次旅行\"。虽然\"took a trip\"也可以但选项中没有took。\"did a trip\"不是标准搭配；\"had a trip\"也不太常用；\"went\"后面需要接\"on a trip\"才正确。",
+    "explanation_en": "English explanation: 'Made a trip' is a standard collocation meaning 'took a trip.' 'Did a trip' is not standard English. 'Had a trip' is less common. 'Went' would need 'on' (went on a trip) to be correct.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-002",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 2:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "excited" },
+        { "label": "B", "text": "exciting" },
+        { "label": "C", "text": "excite" },
+        { "label": "D", "text": "excitement" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：\"I was really excited\"中需要用过去分词形容词excited来描述人的感受（感到兴奋的）。exciting用来描述事物（令人兴奋的）；excite是动词原形；excitement是名词。描述人的感受要用-ed结尾的形容词。",
+    "explanation_en": "English explanation: 'Excited' is the correct adjective to describe how a person feels. 'Exciting' describes things that cause excitement. 'Excite' is the base verb. 'Excitement' is a noun. When describing someone's feelings, use the -ed form.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-003",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 3:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "lasted" },
+        { "label": "B", "text": "spent" },
+        { "label": "C", "text": "passed" },
+        { "label": "D", "text": "continued" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：\"The flight lasted about two hours\"意思是\"飞行持续了大约两个小时\"。lasted表示持续了某段时间。spent的主语应该是人不是物；passed表示时间流逝但通常用法不同；continued表示继续。",
+    "explanation_en": "English explanation: 'Lasted' means continued for a period of time. 'The flight lasted about two hours' is correct. 'Spent' requires a person as subject. 'Passed' means time going by but isn't used this way. 'Continued' means kept going but doesn't indicate duration.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-004",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 4:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "hotter" },
+        { "label": "B", "text": "hottest" },
+        { "label": "C", "text": "more hot" },
+        { "label": "D", "text": "most hot" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：\"much hotter than\"是比较级结构，用than比较两个地方的天气。hotter是hot的比较级。hottest是最高级，用于三个及以上比较；more hot和most hot是错误形式，hot是单音节词，比较级和最高级用-er和-est。",
+    "explanation_en": "English explanation: 'Much hotter than' uses the comparative form to compare two places. 'Hotter' is the correct comparative of 'hot.' 'Hottest' is superlative (for 3+ items). 'More hot' and 'most hot' are incorrect — short adjectives like 'hot' use -er/-est, not more/most.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-005",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 5:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "who" },
+        { "label": "B", "text": "where" },
+        { "label": "C", "text": "which" },
+        { "label": "D", "text": "what" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：\"a small hotel which was very close to the beach\"中which引导定语从句修饰hotel（物）。who用于人；where用于地点但后面不能直接接was（需要接完整的句子如where we stayed）；what不能引导定语从句。",
+    "explanation_en": "English explanation: 'Which' is the correct relative pronoun to refer to 'hotel' (a thing). 'Who' is for people. 'Where' refers to places but would need a different structure (e.g., 'where we stayed'). 'What' cannot introduce a relative clause modifying a noun.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-006",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 6,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 6:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "should" },
+        { "label": "B", "text": "would" },
+        { "label": "C", "text": "could" },
+        { "label": "D", "text": "must" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：\"Every morning, we would walk to the sea\"中would表示过去的习惯性动作，相当于used to。每天早上我们都会走到海边。should表示应该；could表示能够；must表示必须——都不适合描述过去的日常习惯。",
+    "explanation_en": "English explanation: 'Would' is used here to describe a habitual past action — something they did regularly. 'Every morning, we would walk' means they walked every morning as a routine. 'Should' expresses obligation, 'could' expresses ability, and 'must' expresses necessity — none describe habitual past actions.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-007",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 7,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 7:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "and" },
+        { "label": "B", "text": "or" },
+        { "label": "C", "text": "but" },
+        { "label": "D", "text": "so" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：\"The food was delicious, but my favourite was the fresh fruit.\"这里but表示轻微的转折——虽然所有食物都好吃，但最喜欢的是新鲜水果。and只是简单并列；or表示选择；so表示因果。这里需要一个对比/转折连接词。",
+    "explanation_en": "English explanation: 'But' introduces a contrast or specification — all the food was delicious, but the writer's favourite specifically was the fresh fruit. 'And' would just add information. 'Or' presents alternatives. 'So' shows cause and effect. The slight contrast between general (all food) and specific (favourite) requires 'but.'",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-008",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 8,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 8:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "what" },
+        { "label": "B", "text": "which" },
+        { "label": "C", "text": "who" },
+        { "label": "D", "text": "where" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：\"paella, which is a traditional Spanish rice dish\"中which引导非限制性定语从句，修饰paella（一种食物/事物）。前面有逗号表示这是非限制性定语从句，用来补充说明paella是什么。who用于人；what不引导定语从句；where用于地点。",
+    "explanation_en": "English explanation: 'Which' introduces a non-defining relative clause giving extra information about 'paella' (a thing). The comma before 'which' indicates it's non-defining. 'Who' is for people. 'What' doesn't introduce relative clauses after a noun. 'Where' is for places.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-009",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 9,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 9:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "many" },
+        { "label": "B", "text": "more" },
+        { "label": "C", "text": "most" },
+        { "label": "D", "text": "much" }
+      ],
+      "correct_answer": "D"
+    },
+    "explanation_zh": "中文解析：\"I liked it so much that...\"是固定结构\"so...that\"（如此...以至于），表示程度。like是动词，需要用副词much来修饰程度。many修饰可数名词；more是比较级；most是最高级。",
+    "explanation_en": "English explanation: 'So much that' is a fixed structure expressing degree — 'I liked it so much that I asked my mum to cook it.' 'Much' modifies the verb 'liked.' 'Many' modifies countable nouns. 'More' and 'most' are comparative and superlative forms that don't fit this structure.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-010",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 10,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 10:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "during" },
+        { "label": "B", "text": "while" },
+        { "label": "C", "text": "for" },
+        { "label": "D", "text": "since" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：\"during the trip\"意思是\"在旅行期间\"。during后接名词，表示在某段时间内。while后面接句子；for表示持续时间或目的；since表示从某时起。这里需要接名词the trip，所以用during。",
+    "explanation_en": "English explanation: 'During the trip' means 'throughout the trip.' 'During' is followed by a noun to indicate the time period. 'While' needs a clause. 'For' indicates duration or purpose. 'Since' indicates a starting point. Only 'during' correctly precedes 'the trip.'",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-011",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 11,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 11:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "mustn't" },
+        { "label": "B", "text": "shouldn't" },
+        { "label": "C", "text": "can't" },
+        { "label": "D", "text": "won't" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：\"I can't wait to go back\"是固定表达，意思是\"我迫不及待想回去\"，表示非常期待。mustn't表示禁止；shouldn't表示不应该；won't表示不愿意。只有can't wait是表达期待的固定搭配。",
+    "explanation_en": "English explanation: 'Can't wait' is a fixed expression meaning to be very eager or excited about something. 'I can't wait to go back' shows strong enthusiasm. 'Mustn't' means prohibition. 'Shouldn't' means it's inadvisable. 'Won't' means unwilling. Only 'can't wait' is the correct idiom.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-012",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 12,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 12:",
+      "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
+      "options": [
+        { "label": "A", "text": "good" },
+        { "label": "B", "text": "better" },
+        { "label": "C", "text": "best" },
+        { "label": "D", "text": "well" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：\"the best holiday I've ever had\"是最高级结构，用\"the + 最高级 + ever\"表示\"有史以来最好的\"。best是good的最高级。good是原级；better是比较级；well是副词或形容词（指身体健康）。",
+    "explanation_en": "English explanation: 'The best holiday I've ever had' uses the superlative with 'ever' to mean the greatest of all time. 'Best' is the superlative of 'good.' 'Good' is the base form. 'Better' is comparative (for two items). 'Well' is an adverb or means healthy.",
+    "is_free": false
+  }
+]

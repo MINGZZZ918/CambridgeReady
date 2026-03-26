@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ket-r4-001",
+    "level": "ket",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "fill_blank",
+    "sort_order": 1,
+    "content": {
+      "stem": "Read the article about dolphins and fill in the missing word.",
+      "passage": "Dolphins are one of the most intelligent animals in the ___. They live in oceans all around the world.",
+      "correct_answer": "sea",
+      "accept_answers": ["sea", "world", "ocean"]
+    },
+    "explanation_zh": "中文解析：这句话说海豚是___中最聪明的动物之一。根据下一句说它们生活在全世界的海洋里，这里填 sea（海）、world（世界）或 ocean（海洋）都是合理的。最佳答案是 sea。",
+    "explanation_en": "English explanation: The sentence says dolphins are one of the most intelligent animals in the ___. Since the next sentence mentions they live in oceans around the world, 'sea', 'world', or 'ocean' all fit. The best answer is 'sea'.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r4-002",
+    "level": "ket",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "fill_blank",
+    "sort_order": 2,
+    "content": {
+      "stem": "Read the article about dolphins and fill in the missing word.",
+      "passage": "Dolphins like to live together in groups. A group of dolphins is ___ a pod.",
+      "correct_answer": "called",
+      "accept_answers": ["called"]
+    },
+    "explanation_zh": "中文解析：这句话说一群海豚___一个 pod（海豚群）。这里需要填 called（被称为），因为 is called 表示「被称作」。这是一个常见的被动语态结构。",
+    "explanation_en": "English explanation: The sentence says a group of dolphins is ___ a pod. The missing word is 'called' — 'is called a pod' means 'is known as a pod'. This is a common passive voice structure.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r4-003",
+    "level": "ket",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "fill_blank",
+    "sort_order": 3,
+    "content": {
+      "stem": "Read the article about dolphins and fill in the missing word.",
+      "passage": "Dolphins eat fish and other small sea animals. They are very ___ swimmers and can move quickly through the water.",
+      "correct_answer": "good",
+      "accept_answers": ["good", "fast", "quick", "great", "strong"]
+    },
+    "explanation_zh": "中文解析：这句话说海豚是非常___的游泳者，能在水中快速移动。根据上下文，good（好的）、fast（快的）、quick（迅速的）、great（出色的）或 strong（强壮的）都可以接受。",
+    "explanation_en": "English explanation: The sentence says dolphins are very ___ swimmers and can move quickly through the water. Words like 'good', 'fast', 'quick', 'great', or 'strong' all work in this context to describe their swimming ability.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r4-004",
+    "level": "ket",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "fill_blank",
+    "sort_order": 4,
+    "content": {
+      "stem": "Read the article about dolphins and fill in the missing word.",
+      "passage": "Baby dolphins stay close to ___ mothers for the first few years of their lives.",
+      "correct_answer": "their",
+      "accept_answers": ["their"]
+    },
+    "explanation_zh": "中文解析：这句话说小海豚在出生后的头几年会待在___妈妈身边。这里需要一个形容词性物主代词 their（它们的），因为主语是 baby dolphins（复数）。",
+    "explanation_en": "English explanation: The sentence says baby dolphins stay close to ___ mothers. The missing word is 'their' — the possessive pronoun matching the plural subject 'baby dolphins'. They stay close to their mothers.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r4-005",
+    "level": "ket",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "fill_blank",
+    "sort_order": 5,
+    "content": {
+      "stem": "Read the article about dolphins and fill in the missing word.",
+      "passage": "Dolphins talk to each other using special sounds. Scientists have been ___ to understand what these sounds mean.",
+      "correct_answer": "trying",
+      "accept_answers": ["trying", "working"]
+    },
+    "explanation_zh": "中文解析：这句话说科学家们一直在___理解这些声音的含义。have been trying 是现在完成进行时，表示一直在尝试。trying 或 working 都是合理的答案。",
+    "explanation_en": "English explanation: The sentence says scientists have been ___ to understand what the sounds mean. 'Trying' fits with 'have been trying' (present perfect continuous), meaning they have been attempting to understand. 'Working' also works in this context.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r4-006",
+    "level": "ket",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "fill_blank",
+    "sort_order": 6,
+    "content": {
+      "stem": "Read the article about dolphins and fill in the missing word.",
+      "passage": "Many people enjoy watching dolphins because they often jump out of the water and ___ to be playing.",
+      "correct_answer": "seem",
+      "accept_answers": ["seem", "appear"]
+    },
+    "explanation_zh": "中文解析：这句话说很多人喜欢看海豚，因为它们经常跳出水面，___在玩耍。seem to be playing 表示「看起来在玩耍」。seem 和 appear 都可以接受。",
+    "explanation_en": "English explanation: The sentence says dolphins often jump out of the water and ___ to be playing. 'Seem' fits perfectly — 'seem to be playing' means 'appear to be playing'. Both 'seem' and 'appear' are acceptable answers.",
+    "is_free": false
+  }
+]

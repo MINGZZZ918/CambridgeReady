@@ -1,0 +1,195 @@
+"use client";
+
+import { Suspense, useState } from "react";
+import Link from "next/link";
+import { useRouter, useSearchParams } from "next/navigation";
+import { createClient } from "@/lib/supabase/client";
+import { Eye, EyeOff, ArrowRight, Loader2 } from "lucide-react";
+
+function LoginForm() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const redirect = searchParams.get("redirect") || "/dashboard";
+
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [showPassword, setShowPassword] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
+
+  async function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    setLoading(true);
+    setError("");
+
+    const supabase = createClient();
+    const { error: authError } = await supabase.auth.signInWithPassword({
+      email,
+      password,
+    });
+
+    if (authError) {
+      setError(authError.message === "Invalid login credentials"
+        ? "邮箱或密码错误，请重试"
+        : authError.message);
+      setLoading(false);
+      return;
+    }
+
+    router.push(redirect);
+    router.refresh();
+  }
+
+  return (
+    <form onSubmit={handleSubmit} className="mt-8 space-y-5">
+      {error && (
+        <div className="rounded-[--radius-sm] bg-red-50 px-4 py-3 text-sm text-red-600">
+          {error}
+        </div>
+      )}
+
+      <div>
+        <label htmlFor="email" className="block text-sm font-medium text-text-primary">
+          邮箱
+        </label>
+        <input
+          id="email"
+          type="email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          required
+          autoComplete="email"
+          placeholder="your@email.com"
+          className="mt-1.5 block w-full rounded-[--radius-sm] border border-border bg-bg-card px-4 py-3 text-[15px] text-text-primary placeholder:text-text-tertiary outline-none transition-colors focus:border-blue focus:ring-2 focus:ring-blue/10"
+        />
+      </div>
+
+      <div>
+        <label htmlFor="password" className="block text-sm font-medium text-text-primary">
+          密码
+        </label>
+        <div className="relative mt-1.5">
+          <input
+            id="password"
+            type={showPassword ? "text" : "password"}
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+            autoComplete="current-password"
+            placeholder="输入密码"
+            className="block w-full rounded-[--radius-sm] border border-border bg-bg-card px-4 py-3 pr-11 text-[15px] text-text-primary placeholder:text-text-tertiary outline-none transition-colors focus:border-blue focus:ring-2 focus:ring-blue/10"
+          />
+          <button
+            type="button"
+            onClick={() => setShowPassword(!showPassword)}
+            className="absolute right-3 top-1/2 -translate-y-1/2 text-text-tertiary hover:text-text-secondary"
+          >
+            {showPassword ? <EyeOff size={18} /> : <Eye size={18} />}
+          </button>
+        </div>
+      </div>
+
+      <button
+        type="submit"
+        disabled={loading}
+        className="flex w-full items-center justify-center gap-2 rounded-[--radius-pill] bg-blue py-3.5 text-[15px] font-medium text-white transition-all hover:bg-blue-dark active:scale-[0.98] disabled:opacity-60 disabled:pointer-events-none"
+      >
+        {loading ? (
+          <Loader2 size={18} className="animate-spin" />
+        ) : (
+          <>
+            登录
+            <ArrowRight size={16} />
+          </>
+        )}
+      </button>
+    </form>
+  );
+}
+
+export default function LoginPage() {
+  return (
+    <div className="flex min-h-screen">
+      {/* Left decorative panel */}
+      <div className="hidden w-[45%] bg-cta-bg lg:flex lg:flex-col lg:justify-between lg:p-12">
+        <Link href="/" className="flex items-center gap-2">
+          <div className="flex h-9 w-9 items-center justify-center rounded-[10px] bg-white text-cta-bg font-bold text-sm">
+            CR
+          </div>
+          <span
+            className="text-lg tracking-tight text-white"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            CambridgeReady
+          </span>
+        </Link>
+
+        <div>
+          <h2
+            className="text-4xl leading-tight tracking-tight text-white"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            用 AI 备考
+            <br />
+            剑桥英语
+          </h2>
+          <p className="mt-4 max-w-sm text-base leading-relaxed text-white/50">
+            覆盖 KET、PET、FCE 三个级别，2300+ 练习题，21 套模拟卷
+          </p>
+        </div>
+
+        <p className="text-sm text-white/30">
+          © {new Date().getFullYear()} CambridgeReady
+        </p>
+      </div>
+
+      {/* Right form */}
+      <div className="flex flex-1 flex-col justify-center px-6 py-12 sm:px-12 lg:px-20">
+        <div className="mx-auto w-full max-w-sm">
+          {/* Mobile logo */}
+          <Link href="/" className="mb-10 flex items-center gap-2 lg:hidden">
+            <div className="flex h-9 w-9 items-center justify-center rounded-[10px] bg-blue text-white font-bold text-sm">
+              CR
+            </div>
+            <span
+              className="text-lg tracking-tight"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              CambridgeReady
+            </span>
+          </Link>
+
+          <h1
+            className="text-3xl tracking-tight"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            登录
+          </h1>
+          <p className="mt-2 text-[15px] text-text-secondary">
+            还没有账号？{" "}
+            <Link href="/register" className="font-medium text-blue hover:text-blue-dark">
+              免费注册
+            </Link>
+          </p>
+
+          <Suspense fallback={null}>
+            <LoginForm />
+          </Suspense>
+
+          {/* WeChat placeholder */}
+          <div className="mt-8 flex items-center gap-4">
+            <div className="h-px flex-1 bg-border-light" />
+            <span className="text-xs text-text-tertiary">或</span>
+            <div className="h-px flex-1 bg-border-light" />
+          </div>
+          <button
+            disabled
+            className="mt-4 flex w-full items-center justify-center gap-2 rounded-[--radius-pill] border border-border py-3 text-[15px] text-text-secondary transition-colors hover:bg-bg disabled:opacity-50"
+          >
+            微信登录（即将开放）
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}

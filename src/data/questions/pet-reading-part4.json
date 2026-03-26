@@ -1,0 +1,222 @@
+[
+  {
+    "id": "pet-r4-001",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 1:",
+      "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
+      "options": [
+        { "label": "A", "text": "goes" },
+        { "label": "B", "text": "comes" },
+        { "label": "C", "text": "takes" },
+        { "label": "D", "text": "gets" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：\"comes from\"是固定搭配，意思是\"来自\"。巧克力来自可可树。其他动词不能与from搭配表达\"来源于\"的意思。",
+    "explanation_en": "English explanation: 'Comes from' is the correct collocation meaning 'originates from.' Chocolate comes from the cacao tree. 'Goes from,' 'takes from,' and 'gets from' don't have this meaning.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-002",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 2:",
+      "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
+      "options": [
+        { "label": "A", "text": "use" },
+        { "label": "B", "text": "put" },
+        { "label": "C", "text": "have" },
+        { "label": "D", "text": "make" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：这里需要一个动词表示\"使用\"可可豆来制作饮料。\"use cacao beans to make\"意思是\"使用可可豆来制作\"。其他选项搭配不当：put不合语法，have不表示使用，make后面重复了。",
+    "explanation_en": "English explanation: The sentence needs a verb meaning to utilise cacao beans. 'Use cacao beans to make a drink' is correct. 'Put' doesn't fit grammatically, 'have' doesn't convey using them for production, and 'make' would create repetition with 'to make' later in the sentence.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-003",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 3:",
+      "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
+      "options": [
+        { "label": "A", "text": "let" },
+        { "label": "B", "text": "got" },
+        { "label": "C", "text": "made" },
+        { "label": "D", "text": "had" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：\"made them feel strong\"是\"make + 宾语 + 动词原形\"的使役结构，意思是\"使他们感到强壮\"。let也能接动词原形但意思是\"让/允许\"，不适合这个语境；got后面要接to do；had后面虽可接动词原形但语义不通。",
+    "explanation_en": "English explanation: 'Made them feel strong' uses the causative structure 'make + object + infinitive,' meaning the drink caused them to feel strong. 'Let' means allow, which doesn't fit. 'Got' requires 'to feel.' 'Had' can take a bare infinitive but doesn't convey the right meaning here.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-004",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 4:",
+      "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
+      "options": [
+        { "label": "A", "text": "carried" },
+        { "label": "B", "text": "fetched" },
+        { "label": "C", "text": "brought" },
+        { "label": "D", "text": "delivered" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：\"brought...back to\"意思是\"带回\"，西班牙探险家把可可豆带回了欧洲。\"bring back\"是固定搭配表示将东西带回来。carried虽然也有\"携带\"之意但不如brought自然；fetched意思是\"去取来\"；delivered是\"递送\"。",
+    "explanation_en": "English explanation: 'Brought back to Europe' is the natural collocation meaning to transport something to a place. 'Carried back' is possible but less natural. 'Fetched' means to go and get something and bring it back, but implies being sent. 'Delivered' suggests a formal delivery service.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-005",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 5:",
+      "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
+      "options": [
+        { "label": "A", "text": "so" },
+        { "label": "B", "text": "but" },
+        { "label": "C", "text": "because" },
+        { "label": "D", "text": "although" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：欧洲人不喜欢苦味，所以他们加了糖和蜂蜜使它更甜。这是因果关系，需要用\"so\"（所以）连接。\"but\"表示转折，\"because\"表示原因（顺序相反），\"although\"表示让步，都不合适。",
+    "explanation_en": "English explanation: Europeans didn't like the bitter taste, SO they added sugar. This is a cause-and-effect relationship. 'So' correctly links the reason (disliking bitterness) to the result (adding sugar). 'But' shows contrast, 'because' would reverse the logic, and 'although' shows concession.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-006",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 6,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 6:",
+      "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
+      "options": [
+        { "label": "A", "text": "between" },
+        { "label": "B", "text": "among" },
+        { "label": "C", "text": "for" },
+        { "label": "D", "text": "with" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：巧克力在富有的欧洲人\"among\"（之间）成为了时尚饮品。\"among\"用于三个或以上的群体中间。\"between\"用于两者之间；\"for\"表示\"为了\"；\"with\"表示\"和...一起\"。这里要表达的是在一群人中间流行。",
+    "explanation_en": "English explanation: 'Among wealthy Europeans' means chocolate became popular within this group of people. 'Among' is used for groups of three or more. 'Between' is for two things. 'For' and 'with' don't convey the meaning of popularity within a group.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-007",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 7,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 7:",
+      "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
+      "options": [
+        { "label": "A", "text": "after" },
+        { "label": "B", "text": "from" },
+        { "label": "C", "text": "since" },
+        { "label": "D", "text": "until" }
+      ],
+      "correct_answer": "D"
+    },
+    "explanation_zh": "中文解析：\"It wasn't until...that...\"是一个固定句型，意思是\"直到...才...\"。直到19世纪人们才学会制作固体巧克力棒。其他介词不能构成这个句型。",
+    "explanation_en": "English explanation: 'It wasn't until the 19th century that...' is a fixed structure meaning something didn't happen before that time. 'Until' is the only word that fits this emphatic construction. 'After,' 'from,' and 'since' cannot be used in this pattern.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-008",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 8,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 8:",
+      "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
+      "options": [
+        { "label": "A", "text": "invented" },
+        { "label": "B", "text": "discovered" },
+        { "label": "C", "text": "looked" },
+        { "label": "D", "text": "searched" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：\"discovered a way\"意思是\"发现了一种方法\"。瑞士巧克力师发现了往巧克力中加牛奶的方法。\"discovered\"强调找到了解决方案。\"invented\"虽然也有\"发明\"的意思，但通常指发明全新的东西，而这里是找到一种方法；\"looked\"和\"searched\"后面需要接for。",
+    "explanation_en": "English explanation: 'Discovered a way' means found a method. The Swiss chocolatier found a way to add milk to chocolate. 'Invented' typically applies to creating entirely new things. 'Looked' and 'searched' need the preposition 'for' to work here.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-009",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 9,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 9:",
+      "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
+      "options": [
+        { "label": "A", "text": "plates" },
+        { "label": "B", "text": "treats" },
+        { "label": "C", "text": "meals" },
+        { "label": "D", "text": "courses" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：巧克力成为世界上最受欢迎的\"treats\"（美食/零食）之一。\"treats\"指令人愉快的食物或甜食，非常适合描述巧克力。\"plates\"是盘子；\"meals\"是正餐；\"courses\"是课程或菜的道数，都不适合形容巧克力。",
+    "explanation_en": "English explanation: 'Treats' means enjoyable food items, especially sweets, which perfectly describes chocolate. 'Plates' refers to dishes/tableware. 'Meals' means complete eating occasions. 'Courses' means parts of a meal or academic subjects. None of these describe chocolate as well as 'treats.'",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-010",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 10,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 10:",
+      "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
+      "options": [
+        { "label": "A", "text": "this" },
+        { "label": "B", "text": "all" },
+        { "label": "C", "text": "every" },
+        { "label": "D", "text": "each" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：\"every day\"是\"每天\"的意思，数百万人每天享用巧克力。\"every\"与单数名词搭配表示\"每一个\"。\"this day\"意思是\"这一天\"不合语境；\"all day\"意思是\"整天\"；\"each day\"虽然语法正确但在此语境下\"every day\"更自然常用。",
+    "explanation_en": "English explanation: 'Every day' is the most natural and common expression meaning 'each day.' While 'each day' is grammatically correct, 'every day' is the more natural collocation in this context. 'This day' means 'today' specifically. 'All day' means throughout the entire day.",
+    "is_free": false
+  }
+]
