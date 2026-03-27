@@ -202,5 +202,56 @@
     "explanation_zh": "中文解析：\"the key to learning anything is patience and practice\"意思是\"学习任何东西的关键是耐心和练习\"。\"the key to\"是固定搭配，意思是\"...的关键\"。secret（秘诀）也可以接受。",
     "explanation_en": "English explanation: 'The key to learning anything' means the most important factor for learning. 'Key' is commonly used in 'the key to + noun/gerund.' 'Secret' is also acceptable as 'the secret to learning' has a similar meaning.",
     "is_free": false
+  },
+  {
+    "id": "pet-r6-013",
+    "level": "pet",
+    "skill": "reading",
+    "part": 6,
+    "question_type": "fill_blank",
+    "sort_order": 13,
+    "content": {
+      "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
+      "passage": "My First Cooking Experience\n\nLast summer, I decided to learn how to cook. My mother, (1)_____ is an excellent cook, agreed to give me lessons. She told me that the most important thing was to follow the recipe carefully and not (2)_____ be afraid of making mistakes.\n\nWe started with something simple — pasta with tomato sauce. I had to chop the onions and tomatoes (3)_____ small pieces. It took me a long time because I was being very careful with the knife. Then we fried the onions in a little oil until they (4)_____ soft. After that, we added the tomatoes and let the sauce cook for about twenty minutes.",
+      "correct_answer": "who",
+      "accept_answers": ["who"]
+    },
+    "explanation_zh": "中文解析：\"My mother, who is an excellent cook\"中who引导非限制性定语从句，修饰mother（人）。逗号后的who提供关于母亲的补充信息——她是一位优秀的厨师。",
+    "explanation_en": "English explanation: 'Who' introduces a non-defining relative clause giving extra information about 'my mother' (a person). The comma before 'who' indicates this is additional, non-essential information about her cooking skills.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r6-014",
+    "level": "pet",
+    "skill": "reading",
+    "part": 6,
+    "question_type": "fill_blank",
+    "sort_order": 14,
+    "content": {
+      "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
+      "passage": "My First Cooking Experience\n\nLast summer, I decided to learn how to cook. My mother, (1)_____ is an excellent cook, agreed to give me lessons. She told me that the most important thing was to follow the recipe carefully and not (2)_____ be afraid of making mistakes.\n\nWe started with something simple — pasta with tomato sauce. I had to chop the onions and tomatoes (3)_____ small pieces. It took me a long time because I was being very careful with the knife. Then we fried the onions in a little oil until they (4)_____ soft. After that, we added the tomatoes and let the sauce cook for about twenty minutes.",
+      "correct_answer": "to",
+      "accept_answers": ["to"]
+    },
+    "explanation_zh": "中文解析：\"not to be afraid\"中to是不定式标记。在\"told me...and not to be afraid\"的结构中，not to be是与前面的to follow并列的不定式结构。\"not to be afraid of making mistakes\"意思是\"不要害怕犯错\"。",
+    "explanation_en": "English explanation: 'Not to be afraid' uses the infinitive marker 'to.' This is parallel with 'to follow the recipe' — she told me to follow the recipe and not to be afraid of mistakes. The infinitive 'to' is required before 'be' in this structure.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r6-015",
+    "level": "pet",
+    "skill": "reading",
+    "part": 6,
+    "question_type": "fill_blank",
+    "sort_order": 15,
+    "content": {
+      "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
+      "passage": "My First Cooking Experience\n\nLast summer, I decided to learn how to cook. My mother, (1)_____ is an excellent cook, agreed to give me lessons. She told me that the most important thing was to follow the recipe carefully and not (2)_____ be afraid of making mistakes.\n\nWe started with something simple — pasta with tomato sauce. I had to chop the onions and tomatoes (3)_____ small pieces. It took me a long time because I was being very careful with the knife. Then we fried the onions in a little oil until they (4)_____ soft. After that, we added the tomatoes and let the sauce cook for about twenty minutes.",
+      "correct_answer": "into",
+      "accept_answers": ["into"]
+    },
+    "explanation_zh": "中文解析：\"chop...into small pieces\"意思是\"切成小块\"。into表示变化或转换的结果，把洋葱和番茄切成小块。这是\"cut/chop + into + pieces\"的固定搭配。",
+    "explanation_en": "English explanation: 'Chop the onions and tomatoes into small pieces' uses 'into' to show the result of cutting — transforming whole vegetables into pieces. 'Into' is the standard preposition used with 'chop/cut' to indicate the resulting form or size.",
+    "is_free": false
   }
 ]

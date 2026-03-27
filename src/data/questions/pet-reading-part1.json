@@ -208,5 +208,110 @@
     "explanation_zh": "中文解析：短信说音乐会7:30开始，不是原来以为的8点，请Jake在6:45来接他，并表示会买饮料感谢。选项A正确——因为音乐会时间提前了，所以希望Jake更早来接。选项B错误，音乐会没有取消；选项C错误，写信人希望Jake来接他而不是在音乐会碰面。",
     "explanation_en": "English explanation: The message says the concert starts at 7:30 instead of 8, so the writer asks Jake to pick them up at 6:45. Option A is correct — the concert time changed, so they need to leave earlier. Option B is wrong because the concert isn't cancelled. Option C is wrong because the writer asks for a ride, not to meet at the venue.",
     "is_free": true
+  },
+  {
+    "id": "pet-r1-011",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 11,
+    "content": {
+      "stem": "What does this notice mean?",
+      "passage": "SPORTS CENTRE: The car park will be closed for resurfacing from Monday 10th to Friday 14th June. Visitors are advised to use the public car park on Bridge Street during this time.",
+      "options": [
+        { "label": "A", "text": "The sports centre will be closed for a week in June." },
+        { "label": "B", "text": "Visitors should park somewhere else while the car park is being repaired." },
+        { "label": "C", "text": "The car park on Bridge Street belongs to the sports centre." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：通知说体育中心的停车场将在6月10日至14日关闭进行路面重铺，建议访客在此期间使用桥街的公共停车场。选项B正确——停车场维修期间应在别处停车。选项A错误，关闭的是停车场不是体育中心；选项C错误，桥街的是公共停车场，不属于体育中心。",
+    "explanation_en": "English explanation: The notice says the sports centre car park will be closed for resurfacing and advises visitors to use the Bridge Street public car park. Option B is correct — visitors should park elsewhere during repairs. Option A is wrong because the sports centre itself isn't closing. Option C is wrong because the Bridge Street car park is public, not owned by the sports centre.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r1-012",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 12,
+    "content": {
+      "stem": "What does this email mean?",
+      "passage": "Dear Mr Thompson, Your parcel could not be delivered today as nobody was at home. It has been taken to the sorting office at 14 King Road. Please collect it before 5pm on Saturday, or it will be returned to the sender.",
+      "options": [
+        { "label": "A", "text": "Mr Thompson needs to pick up his parcel from a different address by Saturday." },
+        { "label": "B", "text": "Mr Thompson's parcel has been sent back to the person who posted it." },
+        { "label": "C", "text": "The delivery company will try to deliver the parcel again on Saturday." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：邮件说包裹因无人在家无法投递，已被送到国王路14号的分拣办公室，请在周六下午5点前取走，否则将退回寄件人。选项A正确——需要在周六前从另一个地址取包裹。选项B错误，还没退回只是警告会退回；选项C错误，不会再次投递而是需要自己去取。",
+    "explanation_en": "English explanation: The email says the parcel couldn't be delivered and is now at the sorting office on King Road. Mr Thompson must collect it before 5pm Saturday, or it will be returned. Option A is correct — he needs to pick it up from a different location by Saturday. Option B is wrong because it hasn't been returned yet. Option C is wrong because there's no mention of another delivery attempt.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r1-013",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 13,
+    "content": {
+      "stem": "What does this sign tell customers?",
+      "passage": "BOOKSHOP SALE: Buy any 2 books and get the 3rd FREE. Offer valid on paperbacks only. Cannot be combined with other discounts. Ends 31st August.",
+      "options": [
+        { "label": "A", "text": "All books in the shop are reduced in price until August." },
+        { "label": "B", "text": "Customers who buy two paperback books can have a third one for nothing." },
+        { "label": "C", "text": "The offer applies to every type of book in the shop." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：标牌说买任意两本书可免费获得第三本，仅限平装书，不能与其他折扣同时使用，8月31日截止。选项B正确——买两本平装书可以免费得到第三本。选项A错误，不是所有书都降价而是买二送一；选项C错误，仅限平装书（paperbacks）。",
+    "explanation_en": "English explanation: The sign offers a 'buy 2 get 1 free' deal on paperbacks only, ending 31st August. Option B is correct — buying two paperbacks earns a free third one. Option A is wrong because prices aren't reduced; it's a buy-2-get-1-free offer. Option C is wrong because the offer is valid on paperbacks only, not all books.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r1-014",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 14,
+    "content": {
+      "stem": "What does this text message mean?",
+      "passage": "Hi Anna, I've left your jacket at reception in the hotel. I found it under your seat after you left the restaurant. Don't forget to ask for it when you come back! Lucy",
+      "options": [
+        { "label": "A", "text": "Lucy wants Anna to bring her jacket to the hotel." },
+        { "label": "B", "text": "Lucy found Anna's jacket and left it somewhere for her to collect." },
+        { "label": "C", "text": "Lucy is asking Anna to look for a jacket she lost in the restaurant." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：短信说Lucy在Anna离开餐厅后在她座位下发现了她的外套，已经把它留在了酒店前台。选项B正确——Lucy找到了Anna的外套并放在了一个地方让她来取。选项A错误，是Anna的外套不是Lucy的；选项C错误，Lucy已经找到了外套，不是让Anna去找。",
+    "explanation_en": "English explanation: Lucy found Anna's jacket under her seat after she left the restaurant and left it at the hotel reception. Option B is correct — Lucy found the jacket and left it for Anna to collect. Option A is wrong because it's Anna's jacket, not Lucy's. Option C is wrong because Lucy already found the jacket; she's not asking Anna to search for it.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r1-015",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 15,
+    "content": {
+      "stem": "What does this notice tell students?",
+      "passage": "EXAM REMINDER: Mobile phones must be switched off and left in the box at the front of the hall before the exam begins. Students caught with a phone during the exam will have their paper cancelled.",
+      "options": [
+        { "label": "A", "text": "Students can keep their phones if they put them on silent mode." },
+        { "label": "B", "text": "Phones must be turned off and handed in before the exam, or students risk losing their marks." },
+        { "label": "C", "text": "Students are not allowed to bring phones into the school building." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：通知说手机必须关机并在考试开始前放在大厅前面的箱子里，考试中被发现带手机的学生试卷将被取消。选项B正确——手机必须关机上交，否则有失去分数的风险。选项A错误，不能只是静音模式而是必须关机并交出；选项C错误，通知没说不能把手机带进学校，只是考试时需要上交。",
+    "explanation_en": "English explanation: The notice says phones must be switched off and placed in a box before the exam. Anyone caught with a phone will have their paper cancelled. Option B is correct — phones must be off and handed in, or students risk losing marks. Option A is wrong because silent mode is not enough; phones must be off and in the box. Option C is wrong because the notice only covers the exam, not the entire school building.",
+    "is_free": false
   }
 ]

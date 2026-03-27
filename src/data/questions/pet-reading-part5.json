@@ -262,5 +262,71 @@
     "explanation_zh": "中文解析：\"the best holiday I've ever had\"是最高级结构，用\"the + 最高级 + ever\"表示\"有史以来最好的\"。best是good的最高级。good是原级；better是比较级；well是副词或形容词（指身体健康）。",
     "explanation_en": "English explanation: 'The best holiday I've ever had' uses the superlative with 'ever' to mean the greatest of all time. 'Best' is the superlative of 'good.' 'Good' is the base form. 'Better' is comparative (for two items). 'Well' is an adverb or means healthy.",
     "is_free": false
+  },
+  {
+    "id": "pet-r5-013",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 13,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 1:",
+      "passage": "A Visit to the Zoo\n\nLast weekend, my class went on a school trip to the zoo. We had been looking (1)_____ to it for weeks. The zoo is about an hour's drive from our school, so we (2)_____ by coach. When we arrived, a zookeeper was waiting to show (3)_____ around.\n\nThe first animals we saw were the penguins. They were so funny to watch (4)_____ they walked in a line and then jumped into the water. After that, we went to see the elephants, (5)_____ are my favourite animals. The zookeeper told us many interesting facts about (6)_____ elephants live in the wild.",
+      "options": [
+        { "label": "A", "text": "forward" },
+        { "label": "B", "text": "up" },
+        { "label": "C", "text": "ahead" },
+        { "label": "D", "text": "out" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：\"looking forward to\"是固定短语，意思是\"期待\"。我们已经期待了好几周。forward是这个短语的必要组成部分。look up to意思是\"尊敬\"；look ahead意思是\"向前看\"；look out意思是\"小心\"。",
+    "explanation_en": "English explanation: 'Looking forward to' is a fixed phrasal verb meaning to feel excited about something in the future. 'We had been looking forward to it for weeks' means they were eagerly anticipating the trip. 'Look up to' means to admire. 'Look ahead' and 'look out' have different meanings entirely.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-014",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 14,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 2:",
+      "passage": "A Visit to the Zoo\n\nLast weekend, my class went on a school trip to the zoo. We had been looking (1)_____ to it for weeks. The zoo is about an hour's drive from our school, so we (2)_____ by coach. When we arrived, a zookeeper was waiting to show (3)_____ around.\n\nThe first animals we saw were the penguins. They were so funny to watch (4)_____ they walked in a line and then jumped into the water. After that, we went to see the elephants, (5)_____ are my favourite animals. The zookeeper told us many interesting facts about (6)_____ elephants live in the wild.",
+      "options": [
+        { "label": "A", "text": "went" },
+        { "label": "B", "text": "travelled" },
+        { "label": "C", "text": "moved" },
+        { "label": "D", "text": "drove" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：\"we travelled by coach\"意思是\"我们乘大巴去的\"。travel by + 交通工具 是标准搭配。went虽然也可以但went by coach不如travelled by coach自然；moved暗示搬家；drove意味着自己开车，但他们乘坐的是大巴。",
+    "explanation_en": "English explanation: 'Travelled by coach' is the most natural collocation for describing a journey by a particular mode of transport. 'Went' is possible but less precise. 'Moved' implies relocation. 'Drove' implies driving oneself, but they were passengers on a coach.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r5-015",
+    "level": "pet",
+    "skill": "reading",
+    "part": 5,
+    "question_type": "multiple_choice",
+    "sort_order": 15,
+    "content": {
+      "stem": "Read the text below and choose the correct word for each space.\n\nSpace 3:",
+      "passage": "A Visit to the Zoo\n\nLast weekend, my class went on a school trip to the zoo. We had been looking (1)_____ to it for weeks. The zoo is about an hour's drive from our school, so we (2)_____ by coach. When we arrived, a zookeeper was waiting to show (3)_____ around.\n\nThe first animals we saw were the penguins. They were so funny to watch (4)_____ they walked in a line and then jumped into the water. After that, we went to see the elephants, (5)_____ are my favourite animals. The zookeeper told us many interesting facts about (6)_____ elephants live in the wild.",
+      "options": [
+        { "label": "A", "text": "them" },
+        { "label": "B", "text": "us" },
+        { "label": "C", "text": "we" },
+        { "label": "D", "text": "our" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：\"to show us around\"中us是宾格代词，作为show的宾语。动物园管理员在等着带我们参观。\"show someone around\"意思是\"带某人参观\"。them指的是别人不是我们；we是主格不能做宾语；our是所有格。",
+    "explanation_en": "English explanation: 'To show us around' uses the object pronoun 'us' because the zookeeper was showing the speaker's group around the zoo. 'Show someone around' means to give a guided tour. 'Them' refers to other people. 'We' is a subject pronoun, not an object. 'Our' is possessive.",
+    "is_free": false
   }
 ]

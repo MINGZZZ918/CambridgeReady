@@ -124,5 +124,131 @@
     "explanation_zh": "中文解析：这个餐厅告示说今日特供是鸡汤配面包，3.50英镑，仅在12:00到2:00供应，周一不供应汤。选项B正确——汤3.50英镑，只在午餐时间供应，周一除外。选项A错误，只在12点到2点供应；选项C错误，只是周一不供应汤，不是餐厅关门。",
     "explanation_en": "English explanation: The restaurant note says today's special is chicken soup with bread for £3.50, available from 12:00 to 2:00 only, with no soup on Mondays. Option B is correct — the soup costs £3.50, is only at lunchtime, and not on Mondays. Option A is wrong because it's only from 12:00 to 2:00. Option C is wrong because only the soup is unavailable on Mondays, not the whole restaurant.",
     "is_free": false
+  },
+  {
+    "id": "ket-r1-007",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 7,
+    "content": {
+      "stem": "What does this sign mean?",
+      "passage": "SWIMMING POOL RULES: No running near the pool. Children under 8 must be with an adult at all times.",
+      "options": [
+        { "label": "A", "text": "Children of any age can swim alone." },
+        { "label": "B", "text": "Young children need an adult with them and nobody should run by the pool." },
+        { "label": "C", "text": "Adults are not allowed to use the pool." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：游泳池规则说禁止在泳池边跑步，8岁以下儿童必须始终有成人陪同。选项B正确——年幼的孩子需要成人陪同，任何人都不应在泳池边跑步。选项A错误，8岁以下的孩子不能独自游泳；选项C错误，规则没有说成人不能使用泳池。",
+    "explanation_en": "English explanation: The swimming pool rules say no running near the pool and children under 8 must be with an adult at all times. Option B is correct — young children need an adult and nobody should run by the pool. Option A is wrong because children under 8 cannot swim alone. Option C is wrong because the rules don't say adults can't use the pool.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r1-008",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 8,
+    "content": {
+      "stem": "What does this notice tell passengers?",
+      "passage": "TRAIN DELAY: The 9:30 train to Manchester is delayed by 20 minutes. We are sorry for any problems this may cause.",
+      "options": [
+        { "label": "A", "text": "The train to Manchester has been cancelled today." },
+        { "label": "B", "text": "The 9:30 train to Manchester will leave later than planned." },
+        { "label": "C", "text": "All trains to Manchester are running 20 minutes early." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：火车延误通知说9:30开往曼彻斯特的火车晚点20分钟。选项B正确——9:30的火车会比计划晚出发。选项A错误，火车是延误不是取消；选项C错误，只有9:30那班晚点，而且是晚点不是提前。",
+    "explanation_en": "English explanation: The train delay notice says the 9:30 train to Manchester is delayed by 20 minutes. Option B is correct — the train will leave later than planned. Option A is wrong because the train is delayed, not cancelled. Option C is wrong because only the 9:30 train is affected, and it's running late, not early.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r1-009",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 9,
+    "content": {
+      "stem": "What does this sign tell drivers?",
+      "passage": "CAR PARK: Free parking for first 2 hours. After that, £1.50 per hour. Pay at the machine before you leave.",
+      "options": [
+        { "label": "A", "text": "Parking is always free in this car park." },
+        { "label": "B", "text": "You can park for free for two hours, then you must pay." },
+        { "label": "C", "text": "You must pay £1.50 when you arrive." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：停车场标牌说前2小时免费停车，之后每小时1.50英镑，离开前在机器上付款。选项B正确——可以免费停两小时，之后必须付费。选项A错误，只有前两小时免费；选项C错误，不是到达时付1.50英镑，而是超过两小时后每小时1.50英镑。",
+    "explanation_en": "English explanation: The car park sign says free parking for the first 2 hours, then £1.50 per hour, and you pay at the machine before leaving. Option B is correct — you can park free for two hours and then must pay. Option A is wrong because only the first two hours are free. Option C is wrong because the charge is per hour after two hours, not on arrival.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r1-010",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 10,
+    "content": {
+      "stem": "What does this message say?",
+      "passage": "Hi Tom, I can't come to football practice today because I hurt my leg. Can you tell the coach? Thanks, Ben.",
+      "options": [
+        { "label": "A", "text": "Ben wants Tom to tell the coach he won't be at practice." },
+        { "label": "B", "text": "Tom has hurt his leg and can't play football." },
+        { "label": "C", "text": "The coach cancelled football practice today." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：Ben给Tom发消息说他因为腿受伤不能来足球训练，请Tom告诉教练。选项A正确——Ben希望Tom告诉教练他不能来训练。选项B错误，是Ben受伤不是Tom；选项C错误，训练没有取消，只是Ben不能来。",
+    "explanation_en": "English explanation: Ben sends a message to Tom saying he can't come to football practice because he hurt his leg, and asks Tom to tell the coach. Option A is correct — Ben wants Tom to inform the coach. Option B is wrong because it's Ben who is hurt, not Tom. Option C is wrong because practice isn't cancelled; Ben just can't attend.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r1-011",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 11,
+    "content": {
+      "stem": "What does this notice mean?",
+      "passage": "MUSEUM: Free entry for students with a school card. All visitors must leave bags at the front desk.",
+      "options": [
+        { "label": "A", "text": "Students can enter free if they show a school card, and everyone must leave their bags at the desk." },
+        { "label": "B", "text": "The museum is free for everyone on school days." },
+        { "label": "C", "text": "Students must buy a school card to enter the museum." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：博物馆通知说持学生证的学生免费入场，所有参观者必须把包存放在前台。选项A正确——学生出示学生证可以免费进入，所有人都必须把包放在前台。选项B错误，不是所有人免费，只是有学生证的学生；选项C错误，不是要买学生证，而是出示已有的学生证。",
+    "explanation_en": "English explanation: The museum notice says students with a school card get free entry, and all visitors must leave bags at the front desk. Option A is correct. Option B is wrong because it's only free for students with a card, not everyone. Option C is wrong because students need to show a school card they already have, not buy one.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r1-012",
+    "level": "ket",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 12,
+    "content": {
+      "stem": "What does this notice say?",
+      "passage": "PARK NOTICE: Please keep dogs on a lead. Do not pick the flowers. The park closes at 8pm from October to March.",
+      "options": [
+        { "label": "A", "text": "Dogs are not allowed in the park at any time." },
+        { "label": "B", "text": "Visitors must keep dogs on a lead, leave flowers alone, and note winter closing times." },
+        { "label": "C", "text": "The park is only open in summer." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：公园通知说请牵好狗绳，不要摘花，10月到3月公园晚上8点关门。选项B正确——游客必须牵好狗、不摘花，并注意冬季关门时间。选项A错误，狗可以进公园但要牵绳；选项C错误，公园不只在夏天开放，只是冬季关门时间不同。",
+    "explanation_en": "English explanation: The park notice says keep dogs on a lead, don't pick flowers, and the park closes at 8pm from October to March. Option B is correct — visitors must control dogs, leave flowers, and note the winter closing time. Option A is wrong because dogs are allowed but must be on a lead. Option C is wrong because the park is open year-round but has different closing times in winter.",
+    "is_free": false
   }
 ]

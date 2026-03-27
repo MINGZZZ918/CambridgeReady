@@ -148,5 +148,105 @@
     "explanation_zh": "中文解析：空格6前面说Maria的设备如今在全球200多个机构使用；后面说她经常去学校鼓励年轻人考虑工程学职业。选项F说'她仍然热衷于激励下一代工程师'——这完美连接了她的专业成就和她去学校激励学生的行动，'下一代工程师'与后文中的学校访问直接呼应。",
     "explanation_en": "English explanation: Gap 6 sits between Maria's professional success (devices used in 200+ facilities) and her school visits to encourage young people into engineering. Option F — 'She remains passionate about inspiring the next generation of engineers' — serves as a perfect transition from her achievements to her outreach activities. The phrase 'next generation of engineers' directly anticipates the school visits described in the following sentence.",
     "is_free": false
+  },
+  {
+    "id": "fce-r2-007",
+    "level": "fce",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 7,
+    "content": {
+      "stem": "Which sentence has been removed from gap 1?",
+      "passage": "The Art of Restoring Old Buildings\n\nWhen architect James Thornton first visited the abandoned textile mill on the outskirts of Leeds, he saw potential where others saw only decay. The roof had partially collapsed, the windows were shattered, and weeds had forced their way through cracks in the floor. [GAP 1] He immediately began sketching plans to transform the derelict structure into a community arts centre.\n\nThe project was not without its challenges. [GAP 2] Local planning regulations required that the building's Victorian facade be preserved exactly as it was, which meant that all structural improvements had to be carried out from the inside. This added considerably to the cost and complexity of the work.\n\nJames assembled a team of specialists, including stonemasons who understood traditional building techniques. [GAP 3] Modern materials were used only where they would be invisible from the outside, ensuring that the building's historical character remained intact.\n\nAfter eighteen months of painstaking work, the mill reopened to widespread acclaim. [GAP 4] The interior had been completely reimagined, with soaring open-plan spaces flooded with natural light, while the exterior looked much as it had when the mill was first built in 1867.\n\nThe project has since won several architectural awards. [GAP 5] James has been invited to consult on similar restoration projects across the country, and the mill itself has become a model for how industrial heritage can be given new life.\n\nFor James, the greatest reward is seeing the building in daily use. [GAP 6] 'Every time I walk through the door, I'm reminded that the best architecture isn't about creating something entirely new — it's about understanding what's already there and bringing out its potential,' he says.\n\nRemoved sentences:\nA. Yet beneath the surface damage, the original stonework and iron framework were remarkably sound.\nB. He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve.\nC. Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation.\nD. Their expertise proved invaluable in repairing the original brickwork without compromising its appearance.\nE. Perhaps the most significant obstacle was balancing modern safety standards with historical preservation.\nF. It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it.\nG. The original architect had envisioned the building as a symbol of the town's industrial prosperity.",
+      "options": [
+        { "label": "A", "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound." },
+        { "label": "B", "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve." },
+        { "label": "C", "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation." },
+        { "label": "D", "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance." },
+        { "label": "E", "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation." },
+        { "label": "F", "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it." },
+        { "label": "G", "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：空格1前面描述了建筑的破败状态（屋顶坍塌、窗户碎裂、杂草丛生）；后面说James立即开始绘制改造计划。选项A说'然而在表面损坏之下，原有的石雕和铁架框架出奇地完好'——用'Yet'形成转折，解释了为什么尽管外观破败，James仍然'看到了潜力'，从而自然过渡到他开始制定改造计划。",
+    "explanation_en": "English explanation: Gap 1 follows a description of the building's poor condition (collapsed roof, shattered windows, weeds) and precedes James starting to sketch transformation plans. Option A ('Yet beneath the surface damage, the original stonework and iron framework were remarkably sound') provides the crucial contrast with 'Yet' — explaining why James could see potential despite the decay. This logically connects the visible damage to his confidence in transforming the building.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r2-008",
+    "level": "fce",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 8,
+    "content": {
+      "stem": "Which sentence has been removed from gap 3?",
+      "passage": "The Art of Restoring Old Buildings\n\nWhen architect James Thornton first visited the abandoned textile mill on the outskirts of Leeds, he saw potential where others saw only decay. The roof had partially collapsed, the windows were shattered, and weeds had forced their way through cracks in the floor. [GAP 1] He immediately began sketching plans to transform the derelict structure into a community arts centre.\n\nThe project was not without its challenges. [GAP 2] Local planning regulations required that the building's Victorian facade be preserved exactly as it was, which meant that all structural improvements had to be carried out from the inside. This added considerably to the cost and complexity of the work.\n\nJames assembled a team of specialists, including stonemasons who understood traditional building techniques. [GAP 3] Modern materials were used only where they would be invisible from the outside, ensuring that the building's historical character remained intact.\n\nAfter eighteen months of painstaking work, the mill reopened to widespread acclaim. [GAP 4] The interior had been completely reimagined, with soaring open-plan spaces flooded with natural light, while the exterior looked much as it had when the mill was first built in 1867.\n\nThe project has since won several architectural awards. [GAP 5] James has been invited to consult on similar restoration projects across the country, and the mill itself has become a model for how industrial heritage can be given new life.\n\nFor James, the greatest reward is seeing the building in daily use. [GAP 6] 'Every time I walk through the door, I'm reminded that the best architecture isn't about creating something entirely new — it's about understanding what's already there and bringing out its potential,' he says.\n\nRemoved sentences:\nA. Yet beneath the surface damage, the original stonework and iron framework were remarkably sound.\nB. He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve.\nC. Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation.\nD. Their expertise proved invaluable in repairing the original brickwork without compromising its appearance.\nE. Perhaps the most significant obstacle was balancing modern safety standards with historical preservation.\nF. It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it.\nG. The original architect had envisioned the building as a symbol of the town's industrial prosperity.",
+      "options": [
+        { "label": "A", "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound." },
+        { "label": "B", "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve." },
+        { "label": "C", "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation." },
+        { "label": "D", "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance." },
+        { "label": "E", "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation." },
+        { "label": "F", "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it." },
+        { "label": "G", "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity." }
+      ],
+      "correct_answer": "D"
+    },
+    "explanation_zh": "中文解析：空格3前面说James组建了一支专家团队，包括懂传统建筑技术的石匠；后面说现代材料只在从外面看不到的地方使用。选项D说'他们的专业知识对修复原有砖石而不损害其外观至关重要'——'Their'指代前句中的专家团队（特别是石匠），'不损害其外观'与后文中'确保建筑的历史特色完好无损'相呼应。",
+    "explanation_en": "English explanation: Gap 3 follows the assembly of a specialist team including stonemasons and precedes the statement about modern materials being used only where invisible. Option D ('Their expertise proved invaluable in repairing the original brickwork without compromising its appearance') connects logically — 'Their' refers to the specialists just mentioned, and 'without compromising its appearance' leads naturally into the point about hiding modern materials to preserve historical character.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r2-009",
+    "level": "fce",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 9,
+    "content": {
+      "stem": "Which sentence has been removed from gap 5?",
+      "passage": "The Art of Restoring Old Buildings\n\nWhen architect James Thornton first visited the abandoned textile mill on the outskirts of Leeds, he saw potential where others saw only decay. The roof had partially collapsed, the windows were shattered, and weeds had forced their way through cracks in the floor. [GAP 1] He immediately began sketching plans to transform the derelict structure into a community arts centre.\n\nThe project was not without its challenges. [GAP 2] Local planning regulations required that the building's Victorian facade be preserved exactly as it was, which meant that all structural improvements had to be carried out from the inside. This added considerably to the cost and complexity of the work.\n\nJames assembled a team of specialists, including stonemasons who understood traditional building techniques. [GAP 3] Modern materials were used only where they would be invisible from the outside, ensuring that the building's historical character remained intact.\n\nAfter eighteen months of painstaking work, the mill reopened to widespread acclaim. [GAP 4] The interior had been completely reimagined, with soaring open-plan spaces flooded with natural light, while the exterior looked much as it had when the mill was first built in 1867.\n\nThe project has since won several architectural awards. [GAP 5] James has been invited to consult on similar restoration projects across the country, and the mill itself has become a model for how industrial heritage can be given new life.\n\nFor James, the greatest reward is seeing the building in daily use. [GAP 6] 'Every time I walk through the door, I'm reminded that the best architecture isn't about creating something entirely new — it's about understanding what's already there and bringing out its potential,' he says.\n\nRemoved sentences:\nA. Yet beneath the surface damage, the original stonework and iron framework were remarkably sound.\nB. He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve.\nC. Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation.\nD. Their expertise proved invaluable in repairing the original brickwork without compromising its appearance.\nE. Perhaps the most significant obstacle was balancing modern safety standards with historical preservation.\nF. It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it.\nG. The original architect had envisioned the building as a symbol of the town's industrial prosperity.",
+      "options": [
+        { "label": "A", "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound." },
+        { "label": "B", "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve." },
+        { "label": "C", "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation." },
+        { "label": "D", "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance." },
+        { "label": "E", "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation." },
+        { "label": "F", "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it." },
+        { "label": "G", "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity." }
+      ],
+      "correct_answer": "F"
+    },
+    "explanation_zh": "中文解析：空格5前面说该项目赢得了多个建筑奖项；后面说James被邀请在全国各地咨询类似的修复项目，磨坊本身已经成为工业遗产重获新生的典范。选项F说'这也引发了一场更广泛的关于保护而非拆除工业建筑价值的讨论'——'It has also'承接前面获奖的影响，而'保护工业建筑'的主题与后文中'工业遗产如何获得新生'直接相关。",
+    "explanation_en": "English explanation: Gap 5 follows the statement about winning architectural awards and precedes James being invited to consult on similar projects. Option F ('It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it') extends the impact beyond awards — the word 'also' adds to the list of outcomes, and 'preserving industrial architecture' connects directly to the next sentence about the mill becoming 'a model for how industrial heritage can be given new life.'",
+    "is_free": false
+  },
+  {
+    "id": "fce-r2-010",
+    "level": "fce",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 10,
+    "content": {
+      "stem": "Which sentence has been removed from gap 6?",
+      "passage": "The Art of Restoring Old Buildings\n\nWhen architect James Thornton first visited the abandoned textile mill on the outskirts of Leeds, he saw potential where others saw only decay. The roof had partially collapsed, the windows were shattered, and weeds had forced their way through cracks in the floor. [GAP 1] He immediately began sketching plans to transform the derelict structure into a community arts centre.\n\nThe project was not without its challenges. [GAP 2] Local planning regulations required that the building's Victorian facade be preserved exactly as it was, which meant that all structural improvements had to be carried out from the inside. This added considerably to the cost and complexity of the work.\n\nJames assembled a team of specialists, including stonemasons who understood traditional building techniques. [GAP 3] Modern materials were used only where they would be invisible from the outside, ensuring that the building's historical character remained intact.\n\nAfter eighteen months of painstaking work, the mill reopened to widespread acclaim. [GAP 4] The interior had been completely reimagined, with soaring open-plan spaces flooded with natural light, while the exterior looked much as it had when the mill was first built in 1867.\n\nThe project has since won several architectural awards. [GAP 5] James has been invited to consult on similar restoration projects across the country, and the mill itself has become a model for how industrial heritage can be given new life.\n\nFor James, the greatest reward is seeing the building in daily use. [GAP 6] 'Every time I walk through the door, I'm reminded that the best architecture isn't about creating something entirely new — it's about understanding what's already there and bringing out its potential,' he says.\n\nRemoved sentences:\nA. Yet beneath the surface damage, the original stonework and iron framework were remarkably sound.\nB. He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve.\nC. Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation.\nD. Their expertise proved invaluable in repairing the original brickwork without compromising its appearance.\nE. Perhaps the most significant obstacle was balancing modern safety standards with historical preservation.\nF. It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it.\nG. The original architect had envisioned the building as a symbol of the town's industrial prosperity.",
+      "options": [
+        { "label": "A", "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound." },
+        { "label": "B", "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve." },
+        { "label": "C", "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation." },
+        { "label": "D", "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance." },
+        { "label": "E", "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation." },
+        { "label": "F", "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it." },
+        { "label": "G", "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：空格6前面说对James来说最大的回报是看到建筑被日常使用；后面是他关于最好的建筑是'理解已有的东西并发挥其潜力'的引言。选项B说'他相信赋予旧建筑新生命能够以新建筑很少能做到的方式加强社区'——这表达了他关于旧建筑对社区价值的信念，自然过渡到他关于建筑哲学的引言。",
+    "explanation_en": "English explanation: Gap 6 follows 'the greatest reward is seeing the building in daily use' and precedes James's quote about the best architecture being about 'understanding what's already there and bringing out its potential.' Option B ('He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve') expresses his philosophy about restoration's community value, which naturally leads into his personal reflection in the quote that follows.",
+    "is_free": false
   }
 ]

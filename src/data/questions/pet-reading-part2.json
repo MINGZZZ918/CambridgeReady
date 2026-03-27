@@ -218,5 +218,115 @@
     "explanation_zh": "中文解析：Tina是大学生，暑假中，想在三周后去罗马之前尽快学会意大利语。强化意大利语课（E）是密集课程，周一到周五9点到4点，所有级别欢迎，2周快速进步课程——完美适合暑假有空、想快速学习意大利语的她。",
     "explanation_en": "English explanation: Tina is on summer holiday and wants to learn Italian as quickly as possible before her trip to Rome in three weeks. Intensive Italian (E) runs Monday to Friday, 9am–4pm, welcomes all levels, and promises rapid progress in just 2 weeks. Since she's on holiday, she has the time for a full-time course, and the timeline fits before her trip.",
     "is_free": true
+  },
+  {
+    "id": "pet-r2-011",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 11,
+    "content": {
+      "stem": "The people below all want to find somewhere to eat. Read the descriptions of five restaurants and decide which would be the most suitable for each person.\n\nRestaurant A — The Green Bowl: Vegetarian and vegan dishes only. Fresh salads, soups and homemade bread. Open Monday to Saturday, 11am–9pm. Main courses from £7. Booking not required.\n\nRestaurant B — Flames Steakhouse: The best steaks in town, cooked over a wood fire. Set menu £25 per person. Open evenings only, Wednesday to Sunday. Booking essential.\n\nRestaurant C — Ocean Breeze: Fresh fish and seafood with harbour views. Children's menu available. Open daily for lunch and dinner. Main courses £12–£20. Live music on Friday evenings.\n\nRestaurant D — Mama Rosa's: Family-run Italian restaurant. Pizza, pasta and gelato. Open daily 12–10pm. Kids eat free on Tuesdays. Main courses from £9. Large groups welcome.\n\nRestaurant E — The Spice Garden: Authentic Indian cuisine with a lunch buffet (£8.99) and evening à la carte. Open daily. Takeaway service available. Main courses £10–£15.\n\nWhich restaurant should this person choose?\n\nOliver and his wife want a special evening meal on Saturday. They both love steak and don't mind paying more for good quality. They want to be sure of getting a table.",
+      "options": [
+        { "label": "A", "text": "The Green Bowl" },
+        { "label": "B", "text": "Flames Steakhouse" },
+        { "label": "C", "text": "Ocean Breeze" },
+        { "label": "D", "text": "Mama Rosa's" },
+        { "label": "E", "text": "The Spice Garden" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：Oliver和妻子想在周六晚上吃一顿特别的饭，都喜欢牛排，不介意花更多钱，想确保有位置。Flames Steakhouse（B）提供最好的牛排，周六晚上开放，需要预订（可以确保有位），套餐每人25英镑。完美匹配他们的需求。",
+    "explanation_en": "English explanation: Oliver and his wife want a special Saturday evening meal with good steak and a guaranteed table. Flames Steakhouse (B) offers the best steaks, is open Saturday evenings, has a set menu at £25, and requires booking — ensuring they'll have a table. This matches all their requirements perfectly.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r2-012",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 12,
+    "content": {
+      "stem": "The people below all want to find somewhere to eat. Read the descriptions of five restaurants and decide which would be the most suitable for each person.\n\nRestaurant A — The Green Bowl: Vegetarian and vegan dishes only. Fresh salads, soups and homemade bread. Open Monday to Saturday, 11am–9pm. Main courses from £7. Booking not required.\n\nRestaurant B — Flames Steakhouse: The best steaks in town, cooked over a wood fire. Set menu £25 per person. Open evenings only, Wednesday to Sunday. Booking essential.\n\nRestaurant C — Ocean Breeze: Fresh fish and seafood with harbour views. Children's menu available. Open daily for lunch and dinner. Main courses £12–£20. Live music on Friday evenings.\n\nRestaurant D — Mama Rosa's: Family-run Italian restaurant. Pizza, pasta and gelato. Open daily 12–10pm. Kids eat free on Tuesdays. Main courses from £9. Large groups welcome.\n\nRestaurant E — The Spice Garden: Authentic Indian cuisine with a lunch buffet (£8.99) and evening à la carte. Open daily. Takeaway service available. Main courses £10–£15.\n\nWhich restaurant should this person choose?\n\nSarah doesn't eat meat or fish. She wants to have lunch on a Thursday without booking in advance, and she's looking for something affordable.",
+      "options": [
+        { "label": "A", "text": "The Green Bowl" },
+        { "label": "B", "text": "Flames Steakhouse" },
+        { "label": "C", "text": "Ocean Breeze" },
+        { "label": "D", "text": "Mama Rosa's" },
+        { "label": "E", "text": "The Spice Garden" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：Sarah不吃肉也不吃鱼，想周四吃午餐，不需要提前预订，而且要便宜。The Green Bowl（A）只提供素食和纯素食，周四开放（周一到周六），不需要预订，主菜7英镑起，很实惠。完全满足她的需求。",
+    "explanation_en": "English explanation: Sarah doesn't eat meat or fish, wants a Thursday lunch without booking, and wants it affordable. The Green Bowl (A) is vegetarian/vegan only, open Monday to Saturday (includes Thursday), requires no booking, and has main courses from £7. It matches every one of her requirements.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r2-013",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 13,
+    "content": {
+      "stem": "The people below all want to find somewhere to eat. Read the descriptions of five restaurants and decide which would be the most suitable for each person.\n\nRestaurant A — The Green Bowl: Vegetarian and vegan dishes only. Fresh salads, soups and homemade bread. Open Monday to Saturday, 11am–9pm. Main courses from £7. Booking not required.\n\nRestaurant B — Flames Steakhouse: The best steaks in town, cooked over a wood fire. Set menu £25 per person. Open evenings only, Wednesday to Sunday. Booking essential.\n\nRestaurant C — Ocean Breeze: Fresh fish and seafood with harbour views. Children's menu available. Open daily for lunch and dinner. Main courses £12–£20. Live music on Friday evenings.\n\nRestaurant D — Mama Rosa's: Family-run Italian restaurant. Pizza, pasta and gelato. Open daily 12–10pm. Kids eat free on Tuesdays. Main courses from £9. Large groups welcome.\n\nRestaurant E — The Spice Garden: Authentic Indian cuisine with a lunch buffet (£8.99) and evening à la carte. Open daily. Takeaway service available. Main courses £10–£15.\n\nWhich restaurant should this person choose?\n\nThe Garcia family has three young children. They want to eat out on Tuesday evening and would like to save money on the children's meals.",
+      "options": [
+        { "label": "A", "text": "The Green Bowl" },
+        { "label": "B", "text": "Flames Steakhouse" },
+        { "label": "C", "text": "Ocean Breeze" },
+        { "label": "D", "text": "Mama Rosa's" },
+        { "label": "E", "text": "The Spice Garden" }
+      ],
+      "correct_answer": "D"
+    },
+    "explanation_zh": "中文解析：Garcia一家有三个小孩，想周二晚上外出就餐，希望在孩子的餐费上省钱。Mama Rosa's（D）每天营业到晚上10点（周二可以去），周二儿童免费用餐，欢迎大团体，提供比萨和意面等儿童喜欢的食物。完美匹配。",
+    "explanation_en": "English explanation: The Garcia family has three young children, wants to eat on Tuesday evening, and wants to save on children's meals. Mama Rosa's (D) is open daily until 10pm (including Tuesday), offers kids eat free on Tuesdays, welcomes large groups, and serves child-friendly food like pizza and pasta. It's the perfect match.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r2-014",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 14,
+    "content": {
+      "stem": "The people below all want to find somewhere to eat. Read the descriptions of five restaurants and decide which would be the most suitable for each person.\n\nRestaurant A — The Green Bowl: Vegetarian and vegan dishes only. Fresh salads, soups and homemade bread. Open Monday to Saturday, 11am–9pm. Main courses from £7. Booking not required.\n\nRestaurant B — Flames Steakhouse: The best steaks in town, cooked over a wood fire. Set menu £25 per person. Open evenings only, Wednesday to Sunday. Booking essential.\n\nRestaurant C — Ocean Breeze: Fresh fish and seafood with harbour views. Children's menu available. Open daily for lunch and dinner. Main courses £12–£20. Live music on Friday evenings.\n\nRestaurant D — Mama Rosa's: Family-run Italian restaurant. Pizza, pasta and gelato. Open daily 12–10pm. Kids eat free on Tuesdays. Main courses from £9. Large groups welcome.\n\nRestaurant E — The Spice Garden: Authentic Indian cuisine with a lunch buffet (£8.99) and evening à la carte. Open daily. Takeaway service available. Main courses £10–£15.\n\nWhich restaurant should this person choose?\n\nNatalie loves seafood. She wants to take her parents out for a nice meal on Friday evening and enjoy some entertainment while they eat.",
+      "options": [
+        { "label": "A", "text": "The Green Bowl" },
+        { "label": "B", "text": "Flames Steakhouse" },
+        { "label": "C", "text": "Ocean Breeze" },
+        { "label": "D", "text": "Mama Rosa's" },
+        { "label": "E", "text": "The Spice Garden" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：Natalie喜欢海鲜，想周五晚上带父母去吃一顿好的，并在用餐时享受一些娱乐。Ocean Breeze（C）提供新鲜鱼和海鲜，有港口美景，每天开放包括周五，周五晚上有现场音乐。完美满足她的所有需求。",
+    "explanation_en": "English explanation: Natalie loves seafood, wants a nice Friday evening meal with her parents, and wants entertainment. Ocean Breeze (C) has fresh fish and seafood, harbour views, is open daily including Friday, and has live music on Friday evenings. This matches all her requirements perfectly.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r2-015",
+    "level": "pet",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 15,
+    "content": {
+      "stem": "The people below all want to find somewhere to eat. Read the descriptions of five restaurants and decide which would be the most suitable for each person.\n\nRestaurant A — The Green Bowl: Vegetarian and vegan dishes only. Fresh salads, soups and homemade bread. Open Monday to Saturday, 11am–9pm. Main courses from £7. Booking not required.\n\nRestaurant B — Flames Steakhouse: The best steaks in town, cooked over a wood fire. Set menu £25 per person. Open evenings only, Wednesday to Sunday. Booking essential.\n\nRestaurant C — Ocean Breeze: Fresh fish and seafood with harbour views. Children's menu available. Open daily for lunch and dinner. Main courses £12–£20. Live music on Friday evenings.\n\nRestaurant D — Mama Rosa's: Family-run Italian restaurant. Pizza, pasta and gelato. Open daily 12–10pm. Kids eat free on Tuesdays. Main courses from £9. Large groups welcome.\n\nRestaurant E — The Spice Garden: Authentic Indian cuisine with a lunch buffet (£8.99) and evening à la carte. Open daily. Takeaway service available. Main courses £10–£15.\n\nWhich restaurant should this person choose?\n\nPaul is working late tonight and wants to order food to eat at home. He enjoys Indian food and wants good value for money.",
+      "options": [
+        { "label": "A", "text": "The Green Bowl" },
+        { "label": "B", "text": "Flames Steakhouse" },
+        { "label": "C", "text": "Ocean Breeze" },
+        { "label": "D", "text": "Mama Rosa's" },
+        { "label": "E", "text": "The Spice Garden" }
+      ],
+      "correct_answer": "E"
+    },
+    "explanation_zh": "中文解析：Paul今晚加班，想点外卖在家吃，喜欢印度菜，想要物有所值。The Spice Garden（E）提供正宗印度菜，有外卖服务，每天营业，价格合理（主菜10-15英镑）。是唯一有外卖服务且提供印度菜的餐厅。",
+    "explanation_en": "English explanation: Paul is working late and wants to order Indian food to eat at home. The Spice Garden (E) serves authentic Indian cuisine, offers a takeaway service, is open daily, and has reasonable prices (£10–£15 for mains). It's the only restaurant that offers both Indian food and takeaway service.",
+    "is_free": false
   }
 ]

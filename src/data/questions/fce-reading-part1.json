@@ -174,5 +174,93 @@
     "explanation_zh": "中文解析：文章从深海被认为是'荒芜之地'开始，讲述了热液喷口的发现如何改变了我们的认知，然后扩展到冷渗漏和鲸落，最后讨论了对寻找外星生命的启示。整体目的是解释深海发现如何扩展了我们对生命的理解。选项B正确。选项A（呼吁资金）、选项C（详细比较生物）和选项D（环境威胁）都不是文章的主要目的。",
     "explanation_en": "English explanation: The passage traces a narrative from the assumption that the deep ocean was lifeless, through the discovery of hydrothermal vents, to cold seeps, whale falls, and implications for astrobiology. The overall purpose is to show how these discoveries expanded our understanding of where and how life can exist. Option B captures this. Option A (funding argument), C (detailed species comparison), and D (environmental threats) are not the writer's main purpose.",
     "is_free": false
+  },
+  {
+    "id": "fce-r1-009",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 9,
+    "content": {
+      "stem": "What does the word 'barren' in the first paragraph most closely mean?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "Dangerously unstable and constantly shifting." },
+        { "label": "B", "text": "Empty and unable to support life." },
+        { "label": "C", "text": "Extremely cold and covered in ice." },
+        { "label": "D", "text": "Previously unexplored by human beings." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：'barren'意思是'贫瘠的、荒芜的、不毛的'，在文中用来描述科学家认为深海是一片'barren wasteland'（荒芜的不毛之地），后面紧跟着'devoid of significant life'（没有显著的生命）作为补充说明。选项B'空旷且无法支撑生命'最准确地传达了这个含义。选项A描述的是不稳定性，选项C描述的是具体的温度和冰，选项D涉及探索历史，都不符合'barren'的含义。",
+    "explanation_en": "English explanation: 'Barren' means unproductive, lifeless, or unable to sustain life. In context, it describes a 'barren wasteland' immediately followed by 'devoid of significant life,' which reinforces the meaning. Option B ('empty and unable to support life') most accurately captures this. Option A refers to instability, Option C focuses on specific physical conditions (cold/ice), and Option D concerns exploration history — none of which match the meaning of 'barren.'",
+    "is_free": false
+  },
+  {
+    "id": "fce-r1-010",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 10,
+    "content": {
+      "stem": "According to the passage, what do hydrothermal vents, cold seeps, and whale falls have in common?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "They all rely on chemosynthesis as their primary energy source." },
+        { "label": "B", "text": "They all support communities of living organisms on the deep-sea floor." },
+        { "label": "C", "text": "They were all discovered during the same research expedition." },
+        { "label": "D", "text": "They all produce superheated water from cracks in the ocean floor." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章提到三者都能在深海支撑生物群落：热液喷口有'繁荣的生物群落'，冷渗漏'支撑着各自独特的群落'，鲸落'创造临时生态系统，可以维持生命数十年'。选项B正确概括了三者的共同点。选项A不对，因为化能合成只在热液喷口处被明确提及；选项C文中没有提到它们是同时被发现的；选项D只适用于热液喷口。",
+    "explanation_en": "English explanation: The passage mentions that all three support life communities in the deep sea: hydrothermal vents have 'thriving communities,' cold seeps 'support their own distinct communities,' and whale falls 'create temporary ecosystems that can sustain life for decades.' Option B correctly identifies this commonality. Option A is wrong because chemosynthesis is only explicitly linked to hydrothermal vents. Option C is unsupported. Option D applies only to hydrothermal vents.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r1-011",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 11,
+    "content": {
+      "stem": "What does the writer suggest about the number of deep-sea species?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "Most deep-sea species have already been catalogued by scientists." },
+        { "label": "B", "text": "The majority of deep-sea species live near hydrothermal vents." },
+        { "label": "C", "text": "A large proportion of deep-sea species have yet to be discovered." },
+        { "label": "D", "text": "Deep-sea species are declining rapidly due to environmental changes." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：第三段末尾说'研究人员估计还有数千种物种有待鉴定'（'researchers estimate that thousands of species remain to be identified'），这表明大量深海物种尚未被发现。选项C正确反映了这一点。选项A与原文相矛盾；选项B是过度概括；选项D关于物种下降的说法在文中没有提及。",
+    "explanation_en": "English explanation: The third paragraph states that 'researchers estimate that thousands of species remain to be identified,' which suggests a large proportion of deep-sea species have yet to be discovered. Option C accurately reflects this. Option A contradicts the text. Option B is an overgeneralisation. Option D, about species declining, is not mentioned anywhere in the passage.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r1-012",
+    "level": "fce",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 12,
+    "content": {
+      "stem": "What role does Europa play in the writer's argument?",
+      "passage": "For decades, scientists assumed that the deep ocean was a barren wasteland, devoid of significant life. The crushing pressure, near-freezing temperatures, and complete absence of sunlight seemed to rule out the possibility of complex ecosystems. However, when the first hydrothermal vents were discovered along the Mid-Atlantic Ridge in the late 1970s, researchers were astonished to find thriving communities of organisms clustered around superheated water that shot up from cracks in the ocean floor. Unlike almost every other ecosystem on Earth, these communities did not depend on sunlight for energy. Instead, they relied on a process called chemosynthesis, in which bacteria converted chemicals from the vent fluid into usable energy.\n\nThe discovery fundamentally changed our understanding of where life could exist. Previously, it had been taken for granted that all food chains ultimately depended on photosynthesis. The vent ecosystems proved that life could flourish in conditions that would be lethal to most surface organisms. Giant tube worms, some reaching two metres in length, blind shrimp, and ghostly white crabs were among the unusual species found near the vents. Many of these organisms had evolved remarkable adaptations to cope with the extreme environment, including specialised proteins that remained stable at temperatures that would destroy ordinary biological molecules.\n\nMore recently, scientists have found that deep-sea life is not confined to hydrothermal vents. Cold seeps, where methane and hydrogen sulphide leak slowly from the seafloor, support their own distinct communities. Whale falls — the carcasses of dead whales that sink to the ocean floor — create temporary ecosystems that can sustain life for decades. These discoveries suggest that the deep ocean is far more biologically diverse than anyone had imagined, and researchers estimate that thousands of species remain to be identified.\n\nThe implications extend beyond marine biology. Astrobiologists have drawn parallels between hydrothermal vents and conditions thought to exist on Jupiter's moon Europa, which is believed to have a liquid ocean beneath its icy surface. If life can thrive without sunlight in Earth's deepest oceans, it is conceivable that similar organisms could exist on other worlds. This has made deep-sea research a priority not only for understanding our own planet but also for guiding the search for extraterrestrial life.",
+      "options": [
+        { "label": "A", "text": "It serves as proof that life exists beyond Earth." },
+        { "label": "B", "text": "It illustrates how deep-sea discoveries have broader significance beyond marine biology." },
+        { "label": "C", "text": "It demonstrates that space exploration is more important than ocean research." },
+        { "label": "D", "text": "It explains why scientists first began exploring hydrothermal vents." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：第四段提到Europa是为了说明深海研究的意义超越了海洋生物学。作者指出天体生物学家将热液喷口的条件与Europa上可能存在的条件进行了类比，以此说明深海发现对寻找外星生命也有指导意义。选项B正确捕捉了Europa在论证中的作用——展示更广泛的意义。选项A错误，文中只说'可以想象'而非已证实；选项C颠倒了优先级；选项D混淆了因果关系。",
+    "explanation_en": "English explanation: Europa is mentioned in the fourth paragraph to demonstrate that the implications of deep-sea discoveries 'extend beyond marine biology.' The writer uses it as an example of how understanding vent ecosystems could guide the search for extraterrestrial life. Option B correctly identifies Europa's role in the argument — showing broader significance. Option A is wrong because the text says life on Europa is 'conceivable,' not proven. Option C reverses the writer's point. Option D confuses the chronology of the argument.",
+    "is_free": false
   }
 ]

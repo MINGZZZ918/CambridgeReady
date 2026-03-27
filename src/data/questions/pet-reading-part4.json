@@ -218,5 +218,115 @@
     "explanation_zh": "中文解析：\"every day\"是\"每天\"的意思，数百万人每天享用巧克力。\"every\"与单数名词搭配表示\"每一个\"。\"this day\"意思是\"这一天\"不合语境；\"all day\"意思是\"整天\"；\"each day\"虽然语法正确但在此语境下\"every day\"更自然常用。",
     "explanation_en": "English explanation: 'Every day' is the most natural and common expression meaning 'each day.' While 'each day' is grammatically correct, 'every day' is the more natural collocation in this context. 'This day' means 'today' specifically. 'All day' means throughout the entire day.",
     "is_free": false
+  },
+  {
+    "id": "pet-r4-011",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 11,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 1:",
+      "passage": "The Importance of Sleep\n\nMost teenagers need between eight and ten hours of sleep each night, but many of them (1)_____ far less than this. There are several reasons why young people today find it hard to get enough rest.\n\nOne of the biggest problems is the use of electronic devices. Many teenagers spend the hours (2)_____ bedtime looking at their phones or tablets. The bright light from these screens (3)_____ it harder for the brain to prepare for sleep. Experts recommend turning off all devices at (4)_____ an hour before going to bed.\n\nAnother issue is that some teenagers drink too (5)_____ coffee or energy drinks during the day. These drinks contain caffeine, which keeps the body awake. It is much better to drink water or juice instead.",
+      "options": [
+        { "label": "A", "text": "take" },
+        { "label": "B", "text": "get" },
+        { "label": "C", "text": "do" },
+        { "label": "D", "text": "have" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：\"get far less than this\"中get表示\"得到/获得\"睡眠。\"get sleep\"是常见搭配，意思是获得睡眠。take和have虽然也可以搭配sleep但在此语境下get更自然；do不与sleep搭配。",
+    "explanation_en": "English explanation: 'Get far less than this' uses 'get' meaning to obtain or receive sleep. 'Get sleep' is a common collocation. While 'have sleep' is possible, 'get' is more natural here with 'far less.' 'Do' doesn't collocate with sleep, and 'take' is less natural in this context.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-012",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 12,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 2:",
+      "passage": "The Importance of Sleep\n\nMost teenagers need between eight and ten hours of sleep each night, but many of them (1)_____ far less than this. There are several reasons why young people today find it hard to get enough rest.\n\nOne of the biggest problems is the use of electronic devices. Many teenagers spend the hours (2)_____ bedtime looking at their phones or tablets. The bright light from these screens (3)_____ it harder for the brain to prepare for sleep. Experts recommend turning off all devices at (4)_____ an hour before going to bed.\n\nAnother issue is that some teenagers drink too (5)_____ coffee or energy drinks during the day. These drinks contain caffeine, which keeps the body awake. It is much better to drink water or juice instead.",
+      "options": [
+        { "label": "A", "text": "after" },
+        { "label": "B", "text": "until" },
+        { "label": "C", "text": "before" },
+        { "label": "D", "text": "during" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：\"the hours before bedtime\"意思是\"睡前的几个小时\"。青少年在睡觉前的时间里看手机或平板。before表示在…之前。after是之后；until是直到；during是在…期间——这些都不符合语境。",
+    "explanation_en": "English explanation: 'The hours before bedtime' means the time leading up to sleep. Teenagers spend this time looking at screens. 'Before' correctly indicates the period preceding bedtime. 'After' would mean after sleeping. 'Until' and 'during' don't fit the meaning of the time period before bed.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-013",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 13,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 3:",
+      "passage": "The Importance of Sleep\n\nMost teenagers need between eight and ten hours of sleep each night, but many of them (1)_____ far less than this. There are several reasons why young people today find it hard to get enough rest.\n\nOne of the biggest problems is the use of electronic devices. Many teenagers spend the hours (2)_____ bedtime looking at their phones or tablets. The bright light from these screens (3)_____ it harder for the brain to prepare for sleep. Experts recommend turning off all devices at (4)_____ an hour before going to bed.\n\nAnother issue is that some teenagers drink too (5)_____ coffee or energy drinks during the day. These drinks contain caffeine, which keeps the body awake. It is much better to drink water or juice instead.",
+      "options": [
+        { "label": "A", "text": "gets" },
+        { "label": "B", "text": "does" },
+        { "label": "C", "text": "makes" },
+        { "label": "D", "text": "puts" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：\"makes it harder\"使用了\"make + 宾语 + 形容词\"的使役结构，意思是\"使...变得更难\"。屏幕的亮光使大脑更难准备入睡。gets, does, puts都不能构成这个结构。",
+    "explanation_en": "English explanation: 'Makes it harder' uses the causative structure 'make + object + adjective,' meaning the bright light causes it to be more difficult for the brain to prepare for sleep. 'Gets,' 'does,' and 'puts' cannot be used in this construction with this meaning.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-014",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 14,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 4:",
+      "passage": "The Importance of Sleep\n\nMost teenagers need between eight and ten hours of sleep each night, but many of them (1)_____ far less than this. There are several reasons why young people today find it hard to get enough rest.\n\nOne of the biggest problems is the use of electronic devices. Many teenagers spend the hours (2)_____ bedtime looking at their phones or tablets. The bright light from these screens (3)_____ it harder for the brain to prepare for sleep. Experts recommend turning off all devices at (4)_____ an hour before going to bed.\n\nAnother issue is that some teenagers drink too (5)_____ coffee or energy drinks during the day. These drinks contain caffeine, which keeps the body awake. It is much better to drink water or juice instead.",
+      "options": [
+        { "label": "A", "text": "last" },
+        { "label": "B", "text": "least" },
+        { "label": "C", "text": "less" },
+        { "label": "D", "text": "fewest" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：\"at least an hour\"意思是\"至少一个小时\"。\"at least\"是固定搭配，表示\"至少/最少\"。at last意思是\"终于\"；at less和at fewest都不是正确搭配。",
+    "explanation_en": "English explanation: 'At least an hour' is a fixed expression meaning 'a minimum of one hour.' Experts recommend turning off devices at least an hour before bed. 'At last' means 'finally.' 'At less' and 'at fewest' are not standard English expressions.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r4-015",
+    "level": "pet",
+    "skill": "reading",
+    "part": 4,
+    "question_type": "multiple_choice",
+    "sort_order": 15,
+    "content": {
+      "stem": "Read the text and choose the correct word for each gap.\n\nGap 5:",
+      "passage": "The Importance of Sleep\n\nMost teenagers need between eight and ten hours of sleep each night, but many of them (1)_____ far less than this. There are several reasons why young people today find it hard to get enough rest.\n\nOne of the biggest problems is the use of electronic devices. Many teenagers spend the hours (2)_____ bedtime looking at their phones or tablets. The bright light from these screens (3)_____ it harder for the brain to prepare for sleep. Experts recommend turning off all devices at (4)_____ an hour before going to bed.\n\nAnother issue is that some teenagers drink too (5)_____ coffee or energy drinks during the day. These drinks contain caffeine, which keeps the body awake. It is much better to drink water or juice instead.",
+      "options": [
+        { "label": "A", "text": "many" },
+        { "label": "B", "text": "more" },
+        { "label": "C", "text": "much" },
+        { "label": "D", "text": "few" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：\"too much coffee\"中much用来修饰不可数名词coffee。\"too much\"意思是\"太多\"。many用于可数名词；more是比较级不适合与too搭配；few用于可数名词且表示\"少\"。",
+    "explanation_en": "English explanation: 'Too much coffee' uses 'much' with the uncountable noun 'coffee.' 'Too much' means an excessive amount. 'Many' is for countable nouns. 'More' is comparative and doesn't work with 'too' in this way. 'Few' is for countable nouns and means a small number.",
+    "is_free": false
   }
 ]

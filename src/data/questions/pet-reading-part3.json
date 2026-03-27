@@ -218,5 +218,115 @@
     "explanation_zh": "中文解析：文章讲述了James从一个只吃外卖、几乎不会做饭的大学新生，到成为能为朋友做饭并开设烹饪博客的人的转变过程。选项B最佳——一个学生从外卖到自己做饭的旅程。选项A不对，他没有成为专业厨师；选项C不是主题；选项D只是文章的一小部分。",
     "explanation_en": "English explanation: The passage traces James's transformation from a student who lived on takeaways and couldn't cook, to someone who cooks for friends and runs a cooking blog. Option B best captures this journey. Option A is wrong — he didn't become a professional chef. Option C is too narrow. Option D only covers a small part of the story.",
     "is_free": false
+  },
+  {
+    "id": "pet-r3-011",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 11,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhy did Anna's family move to the countryside?",
+      "passage": "When Anna was ten years old, her family left the busy city of Manchester and moved to a small village in the Lake District. Her parents had always dreamed of living somewhere quieter, where they could enjoy nature and have more space. Anna's father, who worked as a graphic designer, was able to do his job from home using his computer, so the move didn't affect his career.\n\nAt first, Anna was upset about leaving her friends and her school. The village was very different from what she was used to — there were no cinemas, no shopping centres, and the nearest town was a thirty-minute drive away. She felt lonely during the first few weeks and missed the excitement of city life.\n\nHowever, things slowly began to change. Anna joined the local school and made new friends who showed her the beautiful countryside. They went hiking, swimming in lakes, and exploring old castles. Anna discovered that she loved being outdoors, something she had rarely done in the city.\n\nThree years later, Anna cannot imagine living anywhere else. She still keeps in touch with her old friends online, but she says the countryside has given her a completely different way of life that she wouldn't want to change.",
+      "options": [
+        { "label": "A", "text": "Anna's father got a new job in the Lake District." },
+        { "label": "B", "text": "Her parents wanted a quieter life with more space and nature." },
+        { "label": "C", "text": "Anna asked her parents to move so she could go hiking." },
+        { "label": "D", "text": "Their house in Manchester was too expensive." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章说Anna的父母一直梦想住在更安静的地方，可以享受大自然并有更多空间。选项B正确——父母想要更安静的生活，有更多空间和自然。选项A错误，父亲是在家远程工作的；选项C错误，Anna一开始并不想搬家；选项D错误，文中没提到房价。",
+    "explanation_en": "English explanation: The passage states Anna's parents 'had always dreamed of living somewhere quieter, where they could enjoy nature and have more space.' Option B captures this perfectly. Option A is wrong — her father kept his job and worked from home. Option C is wrong — Anna was upset about moving. Option D is wrong — housing costs aren't mentioned.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-012",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 12,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nHow did Anna feel when she first moved to the village?",
+      "passage": "When Anna was ten years old, her family left the busy city of Manchester and moved to a small village in the Lake District. Her parents had always dreamed of living somewhere quieter, where they could enjoy nature and have more space. Anna's father, who worked as a graphic designer, was able to do his job from home using his computer, so the move didn't affect his career.\n\nAt first, Anna was upset about leaving her friends and her school. The village was very different from what she was used to — there were no cinemas, no shopping centres, and the nearest town was a thirty-minute drive away. She felt lonely during the first few weeks and missed the excitement of city life.\n\nHowever, things slowly began to change. Anna joined the local school and made new friends who showed her the beautiful countryside. They went hiking, swimming in lakes, and exploring old castles. Anna discovered that she loved being outdoors, something she had rarely done in the city.\n\nThree years later, Anna cannot imagine living anywhere else. She still keeps in touch with her old friends online, but she says the countryside has given her a completely different way of life that she wouldn't want to change.",
+      "options": [
+        { "label": "A", "text": "She was excited about the new adventure." },
+        { "label": "B", "text": "She was happy to leave her school." },
+        { "label": "C", "text": "She felt lonely and missed city life." },
+        { "label": "D", "text": "She immediately loved the countryside." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：文章第二段说Anna一开始很不高兴离开朋友和学校，村庄和她习惯的很不一样，最初几周她感到孤独，怀念城市生活的热闹。选项C正确——她感到孤独并想念城市生活。选项A和D与事实相反；选项B也相反，她对离开学校感到难过。",
+    "explanation_en": "English explanation: The second paragraph states Anna was upset about leaving friends and school, felt lonely during the first weeks, and missed the excitement of city life. Option C is correct. Options A and D contradict her initial unhappiness. Option B is also wrong — she was upset about leaving school, not happy.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-013",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 13,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat helped Anna start enjoying life in the village?",
+      "passage": "When Anna was ten years old, her family left the busy city of Manchester and moved to a small village in the Lake District. Her parents had always dreamed of living somewhere quieter, where they could enjoy nature and have more space. Anna's father, who worked as a graphic designer, was able to do his job from home using his computer, so the move didn't affect his career.\n\nAt first, Anna was upset about leaving her friends and her school. The village was very different from what she was used to — there were no cinemas, no shopping centres, and the nearest town was a thirty-minute drive away. She felt lonely during the first few weeks and missed the excitement of city life.\n\nHowever, things slowly began to change. Anna joined the local school and made new friends who showed her the beautiful countryside. They went hiking, swimming in lakes, and exploring old castles. Anna discovered that she loved being outdoors, something she had rarely done in the city.\n\nThree years later, Anna cannot imagine living anywhere else. She still keeps in touch with her old friends online, but she says the countryside has given her a completely different way of life that she wouldn't want to change.",
+      "options": [
+        { "label": "A", "text": "Her old friends came to visit her in the village." },
+        { "label": "B", "text": "She made new friends who introduced her to outdoor activities." },
+        { "label": "C", "text": "Her parents bought her a computer to keep her entertained." },
+        { "label": "D", "text": "A new cinema was built in the village." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：第三段说Anna加入了当地学校，交了新朋友，新朋友带她去看美丽的乡村，他们一起徒步、游泳和探索古堡。选项B正确——她交了新朋友，他们带她认识了户外活动。其他选项在文中都没有提到。",
+    "explanation_en": "English explanation: The third paragraph says Anna joined the local school, made new friends who 'showed her the beautiful countryside,' and they went hiking, swimming, and exploring castles. Option B is correct. Options A, C, and D are not mentioned in the passage.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-014",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 14,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat does Anna say about her life in the countryside now?",
+      "passage": "When Anna was ten years old, her family left the busy city of Manchester and moved to a small village in the Lake District. Her parents had always dreamed of living somewhere quieter, where they could enjoy nature and have more space. Anna's father, who worked as a graphic designer, was able to do his job from home using his computer, so the move didn't affect his career.\n\nAt first, Anna was upset about leaving her friends and her school. The village was very different from what she was used to — there were no cinemas, no shopping centres, and the nearest town was a thirty-minute drive away. She felt lonely during the first few weeks and missed the excitement of city life.\n\nHowever, things slowly began to change. Anna joined the local school and made new friends who showed her the beautiful countryside. They went hiking, swimming in lakes, and exploring old castles. Anna discovered that she loved being outdoors, something she had rarely done in the city.\n\nThree years later, Anna cannot imagine living anywhere else. She still keeps in touch with her old friends online, but she says the countryside has given her a completely different way of life that she wouldn't want to change.",
+      "options": [
+        { "label": "A", "text": "She plans to move back to Manchester after finishing school." },
+        { "label": "B", "text": "She has lost touch with all her old friends from the city." },
+        { "label": "C", "text": "She loves her new life and wouldn't want to change it." },
+        { "label": "D", "text": "She still prefers city life but has accepted the move." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：最后一段说三年后Anna无法想象住在别的地方，乡村生活给了她完全不同的生活方式，她不想改变。选项C正确——她热爱新生活，不想改变。选项A错误，她不想搬回去；选项B错误，她仍通过网络和老朋友保持联系；选项D错误，她不只是接受而是真正喜欢。",
+    "explanation_en": "English explanation: The final paragraph states Anna 'cannot imagine living anywhere else' and says 'the countryside has given her a completely different way of life that she wouldn't want to change.' Option C is correct. Option A contradicts her contentment. Option B is wrong — she keeps in touch online. Option D is wrong — she actively loves countryside life, not merely accepts it.",
+    "is_free": false
+  },
+  {
+    "id": "pet-r3-015",
+    "level": "pet",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 15,
+    "content": {
+      "stem": "Read the passage and answer the question.\n\nWhat would be the best title for this passage?",
+      "passage": "When Anna was ten years old, her family left the busy city of Manchester and moved to a small village in the Lake District. Her parents had always dreamed of living somewhere quieter, where they could enjoy nature and have more space. Anna's father, who worked as a graphic designer, was able to do his job from home using his computer, so the move didn't affect his career.\n\nAt first, Anna was upset about leaving her friends and her school. The village was very different from what she was used to — there were no cinemas, no shopping centres, and the nearest town was a thirty-minute drive away. She felt lonely during the first few weeks and missed the excitement of city life.\n\nHowever, things slowly began to change. Anna joined the local school and made new friends who showed her the beautiful countryside. They went hiking, swimming in lakes, and exploring old castles. Anna discovered that she loved being outdoors, something she had rarely done in the city.\n\nThree years later, Anna cannot imagine living anywhere else. She still keeps in touch with her old friends online, but she says the countryside has given her a completely different way of life that she wouldn't want to change.",
+      "options": [
+        { "label": "A", "text": "The Best Hiking Routes in the Lake District" },
+        { "label": "B", "text": "From City Girl to Country Lover" },
+        { "label": "C", "text": "Why Children Should Live in the Countryside" },
+        { "label": "D", "text": "How to Make Friends at a New School" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章讲述了Anna从城市女孩到热爱乡村生活的转变过程——从曼彻斯特搬到湖区，最初不适应，后来爱上了户外活动和乡村生活。选项B最佳——\"从城市女孩到乡村爱好者\"。选项A太狭隘；选项C是一般性建议而非文章主题；选项D只是故事的一小部分。",
+    "explanation_en": "English explanation: The passage tells the story of Anna's transformation from an unhappy city girl who didn't want to move, to someone who loves the countryside and can't imagine living elsewhere. Option B — 'From City Girl to Country Lover' — best captures this journey. Option A is too narrow. Option C makes a general argument not present in the text. Option D covers only a small part of the story.",
+    "is_free": false
   }
 ]

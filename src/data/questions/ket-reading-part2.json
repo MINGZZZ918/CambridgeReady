@@ -128,5 +128,135 @@
     "explanation_zh": "中文解析：Sophie喜欢艺术，周六下午有空。选项F——小艺术家工作室，周六下午为年轻人提供绘画和绘画课程。完全符合Sophie的兴趣和时间安排。",
     "explanation_en": "English explanation: Sophie likes art and is free on Saturday afternoons. Option F — Little Artists Workshop — offers drawing and painting classes for young people on Saturday afternoons. This perfectly matches both Sophie's interest in art and her available time.",
     "is_free": false
+  },
+  {
+    "id": "ket-r2-006",
+    "level": "ket",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 6,
+    "content": {
+      "stem": "David wants to learn about computers and the internet during the week.",
+      "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
+      "options": [
+        { "label": "A", "text": "Green Park Sports Centre" },
+        { "label": "B", "text": "City Cooking School" },
+        { "label": "C", "text": "Sunshine Dance Studio" },
+        { "label": "D", "text": "Happy Readers Book Club" },
+        { "label": "E", "text": "Star Music Academy" },
+        { "label": "F", "text": "Little Artists Workshop" },
+        { "label": "G", "text": "Tech Kids Club" },
+        { "label": "H", "text": "Riverside Swimming Pool" }
+      ],
+      "correct_answer": "G"
+    },
+    "explanation_zh": "中文解析：David想在工作日学习电脑和网络知识。选项G——科技儿童俱乐部，在周三和周五晚上教学生建网站和应用程序。这完全符合David的需求——学习电脑知识，而且是在工作日。",
+    "explanation_en": "English explanation: David wants to learn about computers and the internet during the week. Option G — Tech Kids Club — teaches how to build websites and apps on Wednesday and Friday evenings. This matches perfectly — computer learning on weekdays.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r2-007",
+    "level": "ket",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 7,
+    "content": {
+      "stem": "Mr Brown is an adult who wants to exercise early in the morning before work.",
+      "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
+      "options": [
+        { "label": "A", "text": "Green Park Sports Centre" },
+        { "label": "B", "text": "City Cooking School" },
+        { "label": "C", "text": "Sunshine Dance Studio" },
+        { "label": "D", "text": "Happy Readers Book Club" },
+        { "label": "E", "text": "Star Music Academy" },
+        { "label": "F", "text": "Little Artists Workshop" },
+        { "label": "G", "text": "Tech Kids Club" },
+        { "label": "H", "text": "Riverside Swimming Pool" }
+      ],
+      "correct_answer": "H"
+    },
+    "explanation_zh": "中文解析：Brown先生是一位成年人，想在上班前的清晨锻炼。选项H——河畔游泳池，工作日早上6点到8点为成人提供早间游泳。这完全符合——成人专属、清晨时间、工作日开放。",
+    "explanation_en": "English explanation: Mr Brown is an adult who wants early morning exercise before work. Option H — Riverside Swimming Pool — offers early morning swimming for adults from 6am to 8am on weekdays. This is a perfect match — adults only, early morning, weekday availability.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r2-008",
+    "level": "ket",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 8,
+    "content": {
+      "stem": "Anna is 12 years old and wants to try different sports every day.",
+      "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
+      "options": [
+        { "label": "A", "text": "Green Park Sports Centre" },
+        { "label": "B", "text": "City Cooking School" },
+        { "label": "C", "text": "Sunshine Dance Studio" },
+        { "label": "D", "text": "Happy Readers Book Club" },
+        { "label": "E", "text": "Star Music Academy" },
+        { "label": "F", "text": "Little Artists Workshop" },
+        { "label": "G", "text": "Tech Kids Club" },
+        { "label": "H", "text": "Riverside Swimming Pool" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：Anna今年12岁，想每天尝试不同的运动。选项A——绿色公园运动中心，提供网球、游泳和足球，适合所有年龄段，每天早7点到晚9点开放。这是唯一一个每天开放并提供多种运动的地方。",
+    "explanation_en": "English explanation: Anna is 12 and wants to try different sports every day. Option A — Green Park Sports Centre — offers tennis, swimming, and football for all ages, open every day 7am–9pm. It's the only option with multiple sports and daily availability.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r2-009",
+    "level": "ket",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 9,
+    "content": {
+      "stem": "Carlos has never played guitar before and wants to start lessons.",
+      "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
+      "options": [
+        { "label": "A", "text": "Green Park Sports Centre" },
+        { "label": "B", "text": "City Cooking School" },
+        { "label": "C", "text": "Sunshine Dance Studio" },
+        { "label": "D", "text": "Happy Readers Book Club" },
+        { "label": "E", "text": "Star Music Academy" },
+        { "label": "F", "text": "Little Artists Workshop" },
+        { "label": "G", "text": "Tech Kids Club" },
+        { "label": "H", "text": "Riverside Swimming Pool" }
+      ],
+      "correct_answer": "E"
+    },
+    "explanation_zh": "中文解析：Carlos从没弹过吉他，想开始上课。选项E——星星音乐学院，提供放学后的吉他和钢琴课程，欢迎所有水平。这完全符合——包括吉他课，而且欢迎初学者（所有水平）。",
+    "explanation_en": "English explanation: Carlos has never played guitar and wants to start lessons. Option E — Star Music Academy — offers guitar and piano lessons after school, and all levels are welcome. This is perfect because it includes guitar and welcomes beginners ('all levels').",
+    "is_free": false
+  },
+  {
+    "id": "ket-r2-010",
+    "level": "ket",
+    "skill": "reading",
+    "part": 2,
+    "question_type": "multiple_choice",
+    "sort_order": 10,
+    "content": {
+      "stem": "Mrs Lee wants to learn to make healthy food. She is only free at the weekend.",
+      "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
+      "options": [
+        { "label": "A", "text": "Green Park Sports Centre" },
+        { "label": "B", "text": "City Cooking School" },
+        { "label": "C", "text": "Sunshine Dance Studio" },
+        { "label": "D", "text": "Happy Readers Book Club" },
+        { "label": "E", "text": "Star Music Academy" },
+        { "label": "F", "text": "Little Artists Workshop" },
+        { "label": "G", "text": "Tech Kids Club" },
+        { "label": "H", "text": "Riverside Swimming Pool" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：Lee女士想学做健康食物，而且只有周末有空。选项B——城市烹饪学校，在周末为初学者提供课程，两小时学会做简单健康的饭菜。这完全符合——健康食物、周末时间、适合初学者。",
+    "explanation_en": "English explanation: Mrs Lee wants to learn to make healthy food and is only free at the weekend. Option B — City Cooking School — offers weekend classes for beginners to learn easy, healthy meals. This perfectly matches — healthy food, weekend timing, and suitable for beginners.",
+    "is_free": false
   }
 ]

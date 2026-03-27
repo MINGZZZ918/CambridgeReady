@@ -103,5 +103,110 @@
     "explanation_zh": "中文解析：文章最后一句说Emma的一些朋友现在也想参加下次的旅行。选项B正确——一些朋友想尝试观鸟。选项A错误，虽然之前觉得奇怪，但现在有些人改变了想法；选项C错误，他们只是想参加下次旅行，还没有加入俱乐部。",
     "explanation_en": "English explanation: The last sentence says some of Emma's friends now want to come on the next trip too. Option B is correct — some friends want to try bird watching. Option A is wrong because some have changed their minds. Option C is wrong because they want to join the next trip, but haven't joined the club yet.",
     "is_free": false
+  },
+  {
+    "id": "ket-r3-006",
+    "level": "ket",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 6,
+    "content": {
+      "stem": "Where does Emma live?",
+      "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
+      "options": [
+        { "label": "A", "text": "In a big city by the sea" },
+        { "label": "B", "text": "In a small town close to the sea" },
+        { "label": "C", "text": "On a farm in the countryside" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章第一句话说Emma住在海边的一个小镇上（a small town near the sea）。选项B正确——住在靠近海边的小镇。选项A错误，是小镇不是大城市；选项C错误，文章没提到农场。",
+    "explanation_en": "English explanation: The very first sentence says Emma lives in a small town near the sea. Option B is correct — a small town close to the sea. Option A is wrong because it's a small town, not a big city. Option C is wrong because the text doesn't mention a farm.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r3-007",
+    "level": "ket",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 7,
+    "content": {
+      "stem": "Who gave Emma the book about birds?",
+      "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
+      "options": [
+        { "label": "A", "text": "Her teacher" },
+        { "label": "B", "text": "Her grandfather" },
+        { "label": "C", "text": "Her best friend" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章第一段说去年她的爷爷（grandfather）在她生日时送了她一本关于鸟的书。选项B正确——她的爷爷。选项A错误，不是老师；选项C错误，不是最好的朋友。",
+    "explanation_en": "English explanation: The first paragraph says her grandfather gave her a book about birds for her birthday. Option B is correct — her grandfather. Option A is wrong because it wasn't her teacher. Option C is wrong because it wasn't her best friend.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r3-008",
+    "level": "ket",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 8,
+    "content": {
+      "stem": "How many types of birds does Emma know now?",
+      "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
+      "options": [
+        { "label": "A", "text": "Exactly fifty" },
+        { "label": "B", "text": "More than fifty" },
+        { "label": "C", "text": "Less than twenty" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章第二段说Emma现在认识超过五十种不同的鸟（more than fifty different birds）。选项B正确——超过五十种。选项A错误，是超过五十种不是正好五十种；选项C错误，远不止二十种。",
+    "explanation_en": "English explanation: The second paragraph says Emma now knows more than fifty different birds. Option B is correct — more than fifty. Option A is wrong because the text says 'more than fifty', not 'exactly fifty'. Option C is wrong because fifty is much more than twenty.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r3-009",
+    "level": "ket",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 9,
+    "content": {
+      "stem": "What was the first bird Emma found in her garden?",
+      "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
+      "options": [
+        { "label": "A", "text": "A heron" },
+        { "label": "B", "text": "A kingfisher" },
+        { "label": "C", "text": "A parrot" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章第一段说Emma在花园里看到了一只美丽的蓝色鸟，查书后发现是翠鸟（kingfisher）。选项B正确——翠鸟。选项A错误，苍鹭是后来在湖边看到的；选项C错误，文章没有提到鹦鹉。",
+    "explanation_en": "English explanation: The first paragraph says Emma saw a beautiful blue bird in her garden and looked it up in the book — it was a kingfisher. Option B is correct. Option A is wrong because the heron was seen later at the lake. Option C is wrong because parrots are not mentioned in the text.",
+    "is_free": false
+  },
+  {
+    "id": "ket-r3-010",
+    "level": "ket",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 10,
+    "content": {
+      "stem": "Where does Emma's bird watching club go to find unusual birds?",
+      "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
+      "options": [
+        { "label": "A", "text": "To shopping centres and museums" },
+        { "label": "B", "text": "To lakes and forests" },
+        { "label": "C", "text": "To the beach and the school garden" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：文章第三段说他们一起去湖泊和森林（lakes and forests）寻找不常见的鸟。选项B正确——去湖泊和森林。选项A错误，没有提到购物中心和博物馆；选项C错误，没有提到海滩和学校花园。",
+    "explanation_en": "English explanation: The third paragraph says the club goes on trips together to lakes and forests to find unusual birds. Option B is correct — lakes and forests. Option A is wrong because shopping centres and museums are not mentioned. Option C is wrong because the beach and school garden are not mentioned.",
+    "is_free": false
   }
 ]

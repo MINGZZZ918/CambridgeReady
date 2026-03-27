@@ -218,5 +218,115 @@
     "explanation_zh": "中文解析：Marcus说这个前提'听起来很有前景，但很容易被处理得很糟糕'（'sounded promising but could easily have been handled badly'）。这表明他担心这个概念可能执行不好。他还说自己'以谨慎的态度'接触这本书。其他评论者没有表达过类似的担忧——Priya不确定是否喜欢这个类型，但不是担心概念本身。",
     "explanation_en": "English explanation: Marcus says the premise 'sounded promising but could easily have been handled badly,' showing he was worried the concept might not work well. He also 'approached' the book 'with some caution.' No other reviewer expresses concern about whether their book's concept would be executed well — Priya was unsure about the genre, but not about the concept itself.",
     "is_free": false
+  },
+  {
+    "id": "fce-r3-011",
+    "level": "fce",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 11,
+    "content": {
+      "stem": "Which reviewer acknowledges that the book's pacing may not appeal to all readers?",
+      "passage": "Four people review books they read recently.\n\nA — Rachel\nI picked up 'The Glass Garden' on a whim at the airport, expecting nothing more than a way to pass the time on a long flight. By the third chapter, however, I was completely absorbed. The author has a gift for creating characters who feel utterly real — flawed, unpredictable, and deeply human. The plot unfolds at a leisurely pace, which won't suit everyone, but I found it gave the story a meditative quality that stayed with me long after I finished reading. It's rare for a novel to change the way I think about relationships, but this one managed it.\n\nB — David\nI've always been drawn to historical fiction, so 'The Silk Road Journals' was an obvious choice for me. Set in thirteenth-century Central Asia, it follows a young merchant navigating the dangers and wonders of long-distance trade. The level of historical detail is extraordinary — you can practically smell the spice markets. My only complaint is that the ending felt rushed, as though the author ran out of steam in the final fifty pages. Despite this, the journey itself was so vivid and engaging that I'd recommend it without hesitation.\n\nC — Priya\nI was given 'Midnight Architecture' as a birthday present and wasn't sure it would be my kind of thing — I tend to prefer non-fiction. But I was pleasantly surprised. The novel explores themes of memory and loss through the story of an elderly architect revisiting the buildings she designed decades earlier. What struck me most was the writing style: spare, precise, and incredibly evocative. Every sentence felt carefully crafted. It's a short book, but it packs an emotional punch that far exceeds its length.\n\nD — Marcus\nAs someone who reads a lot of science fiction, I'm quite critical of books in the genre, so I approached 'The Echo Paradox' with some caution. The premise — a scientist who discovers she can communicate with a parallel version of herself — sounded promising but could easily have been handled badly. Fortunately, the author treats the science with respect while keeping the human story at the centre. The dialogue is sharp and often funny, and the final twist genuinely caught me off guard. This is intelligent, thought-provoking sci-fi at its best.",
+      "options": [
+        { "label": "A", "text": "Rachel" },
+        { "label": "B", "text": "David" },
+        { "label": "C", "text": "Priya" },
+        { "label": "D", "text": "Marcus" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：Rachel说'情节以悠闲的节奏展开，这不会适合所有人'（'The plot unfolds at a leisurely pace, which won't suit everyone'）。她明确承认了这本书的节奏可能不会吸引所有读者，尽管她个人觉得这赋予了故事一种冥想般的品质。其他评论者没有对节奏做出类似的让步性评论。",
+    "explanation_en": "English explanation: Rachel states 'The plot unfolds at a leisurely pace, which won't suit everyone.' This is a direct acknowledgement that the book's pacing may not appeal to all readers, even though she personally found it gave the story 'a meditative quality.' No other reviewer makes a similar concession about their book's pacing.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r3-012",
+    "level": "fce",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 12,
+    "content": {
+      "stem": "Which reviewer chose the book because it matched their existing reading preferences?",
+      "passage": "Four people review books they read recently.\n\nA — Rachel\nI picked up 'The Glass Garden' on a whim at the airport, expecting nothing more than a way to pass the time on a long flight. By the third chapter, however, I was completely absorbed. The author has a gift for creating characters who feel utterly real — flawed, unpredictable, and deeply human. The plot unfolds at a leisurely pace, which won't suit everyone, but I found it gave the story a meditative quality that stayed with me long after I finished reading. It's rare for a novel to change the way I think about relationships, but this one managed it.\n\nB — David\nI've always been drawn to historical fiction, so 'The Silk Road Journals' was an obvious choice for me. Set in thirteenth-century Central Asia, it follows a young merchant navigating the dangers and wonders of long-distance trade. The level of historical detail is extraordinary — you can practically smell the spice markets. My only complaint is that the ending felt rushed, as though the author ran out of steam in the final fifty pages. Despite this, the journey itself was so vivid and engaging that I'd recommend it without hesitation.\n\nC — Priya\nI was given 'Midnight Architecture' as a birthday present and wasn't sure it would be my kind of thing — I tend to prefer non-fiction. But I was pleasantly surprised. The novel explores themes of memory and loss through the story of an elderly architect revisiting the buildings she designed decades earlier. What struck me most was the writing style: spare, precise, and incredibly evocative. Every sentence felt carefully crafted. It's a short book, but it packs an emotional punch that far exceeds its length.\n\nD — Marcus\nAs someone who reads a lot of science fiction, I'm quite critical of books in the genre, so I approached 'The Echo Paradox' with some caution. The premise — a scientist who discovers she can communicate with a parallel version of herself — sounded promising but could easily have been handled badly. Fortunately, the author treats the science with respect while keeping the human story at the centre. The dialogue is sharp and often funny, and the final twist genuinely caught me off guard. This is intelligent, thought-provoking sci-fi at its best.",
+      "options": [
+        { "label": "A", "text": "Rachel" },
+        { "label": "B", "text": "David" },
+        { "label": "C", "text": "Priya" },
+        { "label": "D", "text": "Marcus" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：David说'我一直被历史小说所吸引，所以《丝绸之路日志》对我来说是一个显而易见的选择'（'I've always been drawn to historical fiction, so The Silk Road Journals was an obvious choice for me'）。这表明他选择这本书正是因为它符合他已有的阅读偏好。Rachel是随手拿的，Priya收到了礼物，Marcus虽然读科幻但对这本书持谨慎态度——只有David明确表示因为体裁偏好而主动选择了这本书。",
+    "explanation_en": "English explanation: David says 'I've always been drawn to historical fiction, so The Silk Road Journals was an obvious choice for me.' This clearly shows he selected the book because it matched his existing reading preferences. Rachel picked hers up 'on a whim,' Priya received hers as a gift, and Marcus approached his with caution — only David explicitly chose his book based on genre preference.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r3-013",
+    "level": "fce",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 13,
+    "content": {
+      "stem": "Which reviewer praises the author's ability to create believable characters?",
+      "passage": "Four people review books they read recently.\n\nA — Rachel\nI picked up 'The Glass Garden' on a whim at the airport, expecting nothing more than a way to pass the time on a long flight. By the third chapter, however, I was completely absorbed. The author has a gift for creating characters who feel utterly real — flawed, unpredictable, and deeply human. The plot unfolds at a leisurely pace, which won't suit everyone, but I found it gave the story a meditative quality that stayed with me long after I finished reading. It's rare for a novel to change the way I think about relationships, but this one managed it.\n\nB — David\nI've always been drawn to historical fiction, so 'The Silk Road Journals' was an obvious choice for me. Set in thirteenth-century Central Asia, it follows a young merchant navigating the dangers and wonders of long-distance trade. The level of historical detail is extraordinary — you can practically smell the spice markets. My only complaint is that the ending felt rushed, as though the author ran out of steam in the final fifty pages. Despite this, the journey itself was so vivid and engaging that I'd recommend it without hesitation.\n\nC — Priya\nI was given 'Midnight Architecture' as a birthday present and wasn't sure it would be my kind of thing — I tend to prefer non-fiction. But I was pleasantly surprised. The novel explores themes of memory and loss through the story of an elderly architect revisiting the buildings she designed decades earlier. What struck me most was the writing style: spare, precise, and incredibly evocative. Every sentence felt carefully crafted. It's a short book, but it packs an emotional punch that far exceeds its length.\n\nD — Marcus\nAs someone who reads a lot of science fiction, I'm quite critical of books in the genre, so I approached 'The Echo Paradox' with some caution. The premise — a scientist who discovers she can communicate with a parallel version of herself — sounded promising but could easily have been handled badly. Fortunately, the author treats the science with respect while keeping the human story at the centre. The dialogue is sharp and often funny, and the final twist genuinely caught me off guard. This is intelligent, thought-provoking sci-fi at its best.",
+      "options": [
+        { "label": "A", "text": "Rachel" },
+        { "label": "B", "text": "David" },
+        { "label": "C", "text": "Priya" },
+        { "label": "D", "text": "Marcus" }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "中文解析：Rachel说'作者有一种创造让人感觉完全真实的角色的天赋——有缺陷的、不可预测的、深刻人性化的'（'The author has a gift for creating characters who feel utterly real — flawed, unpredictable, and deeply human'）。这是对作者塑造可信角色能力的直接赞美。David赞美历史细节，Priya赞美写作风格，Marcus赞美对话——但只有Rachel专门讨论了角色的真实感。",
+    "explanation_en": "English explanation: Rachel says 'The author has a gift for creating characters who feel utterly real — flawed, unpredictable, and deeply human.' This is direct praise for the author's ability to create believable characters. David praises historical detail, Priya praises writing style, and Marcus praises dialogue — only Rachel specifically discusses the authenticity and believability of the characters.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r3-014",
+    "level": "fce",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 14,
+    "content": {
+      "stem": "Which reviewer would still recommend their book despite identifying a flaw?",
+      "passage": "Four people review books they read recently.\n\nA — Rachel\nI picked up 'The Glass Garden' on a whim at the airport, expecting nothing more than a way to pass the time on a long flight. By the third chapter, however, I was completely absorbed. The author has a gift for creating characters who feel utterly real — flawed, unpredictable, and deeply human. The plot unfolds at a leisurely pace, which won't suit everyone, but I found it gave the story a meditative quality that stayed with me long after I finished reading. It's rare for a novel to change the way I think about relationships, but this one managed it.\n\nB — David\nI've always been drawn to historical fiction, so 'The Silk Road Journals' was an obvious choice for me. Set in thirteenth-century Central Asia, it follows a young merchant navigating the dangers and wonders of long-distance trade. The level of historical detail is extraordinary — you can practically smell the spice markets. My only complaint is that the ending felt rushed, as though the author ran out of steam in the final fifty pages. Despite this, the journey itself was so vivid and engaging that I'd recommend it without hesitation.\n\nC — Priya\nI was given 'Midnight Architecture' as a birthday present and wasn't sure it would be my kind of thing — I tend to prefer non-fiction. But I was pleasantly surprised. The novel explores themes of memory and loss through the story of an elderly architect revisiting the buildings she designed decades earlier. What struck me most was the writing style: spare, precise, and incredibly evocative. Every sentence felt carefully crafted. It's a short book, but it packs an emotional punch that far exceeds its length.\n\nD — Marcus\nAs someone who reads a lot of science fiction, I'm quite critical of books in the genre, so I approached 'The Echo Paradox' with some caution. The premise — a scientist who discovers she can communicate with a parallel version of herself — sounded promising but could easily have been handled badly. Fortunately, the author treats the science with respect while keeping the human story at the centre. The dialogue is sharp and often funny, and the final twist genuinely caught me off guard. This is intelligent, thought-provoking sci-fi at its best.",
+      "options": [
+        { "label": "A", "text": "Rachel" },
+        { "label": "B", "text": "David" },
+        { "label": "C", "text": "Priya" },
+        { "label": "D", "text": "Marcus" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：David明确指出了一个缺陷——结尾感觉仓促（'the ending felt rushed'），但紧接着说'尽管如此，旅程本身是如此生动和引人入胜，我会毫不犹豫地推荐它'（'Despite this, the journey itself was so vivid and engaging that I'd recommend it without hesitation'）。他是唯一一个既指出具体缺陷又明确表示仍然推荐的评论者。",
+    "explanation_en": "English explanation: David identifies a specific flaw — 'the ending felt rushed, as though the author ran out of steam' — but immediately follows with 'Despite this, the journey itself was so vivid and engaging that I'd recommend it without hesitation.' He is the only reviewer who both identifies a concrete flaw and explicitly states he would still recommend the book.",
+    "is_free": false
+  },
+  {
+    "id": "fce-r3-015",
+    "level": "fce",
+    "skill": "reading",
+    "part": 3,
+    "question_type": "multiple_choice",
+    "sort_order": 15,
+    "content": {
+      "stem": "Which reviewer comments on how the author handles the factual or scientific content of the book?",
+      "passage": "Four people review books they read recently.\n\nA — Rachel\nI picked up 'The Glass Garden' on a whim at the airport, expecting nothing more than a way to pass the time on a long flight. By the third chapter, however, I was completely absorbed. The author has a gift for creating characters who feel utterly real — flawed, unpredictable, and deeply human. The plot unfolds at a leisurely pace, which won't suit everyone, but I found it gave the story a meditative quality that stayed with me long after I finished reading. It's rare for a novel to change the way I think about relationships, but this one managed it.\n\nB — David\nI've always been drawn to historical fiction, so 'The Silk Road Journals' was an obvious choice for me. Set in thirteenth-century Central Asia, it follows a young merchant navigating the dangers and wonders of long-distance trade. The level of historical detail is extraordinary — you can practically smell the spice markets. My only complaint is that the ending felt rushed, as though the author ran out of steam in the final fifty pages. Despite this, the journey itself was so vivid and engaging that I'd recommend it without hesitation.\n\nC — Priya\nI was given 'Midnight Architecture' as a birthday present and wasn't sure it would be my kind of thing — I tend to prefer non-fiction. But I was pleasantly surprised. The novel explores themes of memory and loss through the story of an elderly architect revisiting the buildings she designed decades earlier. What struck me most was the writing style: spare, precise, and incredibly evocative. Every sentence felt carefully crafted. It's a short book, but it packs an emotional punch that far exceeds its length.\n\nD — Marcus\nAs someone who reads a lot of science fiction, I'm quite critical of books in the genre, so I approached 'The Echo Paradox' with some caution. The premise — a scientist who discovers she can communicate with a parallel version of herself — sounded promising but could easily have been handled badly. Fortunately, the author treats the science with respect while keeping the human story at the centre. The dialogue is sharp and often funny, and the final twist genuinely caught me off guard. This is intelligent, thought-provoking sci-fi at its best.",
+      "options": [
+        { "label": "A", "text": "Rachel" },
+        { "label": "B", "text": "David" },
+        { "label": "C", "text": "Priya" },
+        { "label": "D", "text": "Marcus" }
+      ],
+      "correct_answer": "D"
+    },
+    "explanation_zh": "中文解析：Marcus说'幸运的是，作者以尊重的态度对待科学，同时保持人物故事处于核心'（'the author treats the science with respect while keeping the human story at the centre'）。这是对作者如何处理书中科学/事实内容的直接评论。David虽然提到了'非凡的历史细节'，但那更侧重于描述的生动性，而Marcus专门评论了科学内容的处理方式——作者严肃对待而非随意处理。",
+    "explanation_en": "English explanation: Marcus says 'the author treats the science with respect while keeping the human story at the centre.' This is a direct comment on how the author handles the factual/scientific content of the book. While David mentions 'extraordinary' historical detail, his comment focuses on the vividness of description. Marcus specifically addresses the treatment of scientific content — that the author takes it seriously rather than handling it carelessly.",
+    "is_free": false
   }
 ]
