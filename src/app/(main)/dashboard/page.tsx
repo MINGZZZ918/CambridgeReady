@@ -1,7 +1,8 @@
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
-import { BookOpen, Target, Clock, ArrowRight, TrendingUp, Zap } from "lucide-react";
+import { BookOpen, Target, Clock, ArrowRight, TrendingUp, Zap, Check, X, Crown, AlertTriangle } from "lucide-react";
 import { LEVELS } from "@/lib/utils/constants";
+import { getMembershipStatus, getDaysUntilExpiry, formatExpiryDate } from "@/lib/utils/membership";
 
 export default async function DashboardPage() {
   const supabase = await createClient();
@@ -19,6 +20,14 @@ export default async function DashboardPage() {
   let totalQuestions = 0;
   let totalCorrect = 0;
   let streakDays = 0;
+  let recentActivities: {
+    id: string;
+    is_correct: boolean | null;
+    level: string | null;
+    skill: string | null;
+    part: number | null;
+    created_at: string;
+  }[] = [];
 
   if (user) {
     const { data: progress } = await supabase
@@ -59,9 +68,24 @@ export default async function DashboardPage() {
         }
       }
     }
+
+    // Fetch recent activities
+    const { data: activities } = await supabase
+      .from("user_answers")
+      .select("id, is_correct, level, skill, part, created_at")
+      .eq("user_id", user.id)
+      .order("created_at", { ascending: false })
+      .limit(10);
+
+    if (activities) {
+      recentActivities = activities;
+    }
   }
 
   const accuracy = totalQuestions > 0 ? Math.round((totalCorrect / totalQuestions) * 100) : 0;
+
+  const membershipStatus = profile ? getMembershipStatus(profile) : "free";
+  const daysUntilExpiry = profile ? getDaysUntilExpiry(profile) : null;
 
   return (
     <div className="mx-auto max-w-7xl px-6 py-10 lg:px-8 lg:py-14">
@@ -77,6 +101,73 @@ export default async function DashboardPage() {
           继续你的剑桥英语备考之旅
         </p>
       </div>
+
+      {/* Membership status card */}
+      {membershipStatus === "free" && (
+        <Link
+          href="/pricing"
+          className="mt-8 flex items-center gap-4 rounded-[--radius-md] border border-blue/30 bg-blue-light/50 p-5 transition-all hover:bg-blue-light"
+        >
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-blue/10">
+            <Crown size={20} className="text-blue" />
+          </div>
+          <div className="flex-1">
+            <p className="text-sm font-semibold text-text-primary">升级为高级会员</p>
+            <p className="mt-0.5 text-sm text-text-secondary">解锁全部题库和模拟考试</p>
+          </div>
+          <ArrowRight size={16} className="text-blue" />
+        </Link>
+      )}
+      {membershipStatus === "premium_active" && (
+        <div className="mt-8 flex items-center gap-4 rounded-[--radius-md] border border-blue/20 bg-blue-light/30 p-5">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-blue/10">
+            <Crown size={20} className="text-blue" />
+          </div>
+          <div>
+            <p className="text-sm font-semibold text-blue">高级会员</p>
+            <p className="mt-0.5 text-sm text-text-secondary">
+              到期日: {profile?.membership_expires_at ? formatExpiryDate(profile.membership_expires_at) : "永久"}
+              {daysUntilExpiry !== null && ` (剩余 ${daysUntilExpiry} 天)`}
+            </p>
+          </div>
+        </div>
+      )}
+      {membershipStatus === "premium_expiring" && (
+        <div className="mt-8 flex items-center gap-4 rounded-[--radius-md] border border-amber-300 bg-amber-50 p-5">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-amber-100">
+            <AlertTriangle size={20} className="text-amber-600" />
+          </div>
+          <div className="flex-1">
+            <p className="text-sm font-semibold text-amber-700">会员即将到期</p>
+            <p className="mt-0.5 text-sm text-amber-600">
+              你的高级会员将在 {daysUntilExpiry} 天后到期
+            </p>
+          </div>
+          <Link
+            href="/pricing"
+            className="rounded-[--radius-pill] bg-amber-500 px-4 py-2 text-sm font-medium text-white hover:bg-amber-600"
+          >
+            立即续费
+          </Link>
+        </div>
+      )}
+      {membershipStatus === "premium_expired" && (
+        <div className="mt-8 flex items-center gap-4 rounded-[--radius-md] border border-red-300 bg-red-50 p-5">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-red-100">
+            <AlertTriangle size={20} className="text-red-500" />
+          </div>
+          <div className="flex-1">
+            <p className="text-sm font-semibold text-red-700">会员已过期</p>
+            <p className="mt-0.5 text-sm text-red-600">你的高级会员已过期，部分功能已受限</p>
+          </div>
+          <Link
+            href="/pricing"
+            className="rounded-[--radius-pill] bg-red-500 px-4 py-2 text-sm font-medium text-white hover:bg-red-600"
+          >
+            立即续费
+          </Link>
+        </div>
+      )}
 
       {/* Quick stats */}
       <div className="mt-10 grid gap-px overflow-hidden rounded-[--radius-md] border border-border bg-border sm:grid-cols-3">
@@ -177,6 +268,59 @@ export default async function DashboardPage() {
           </Link>
         </div>
       </div>
+
+      {/* Recent activity */}
+      {recentActivities.length > 0 && (
+        <div className="mt-12">
+          <h2 className="text-xl font-semibold tracking-tight" style={{ fontFamily: "var(--font-display)" }}>
+            最近练习
+          </h2>
+          <div className="mt-6 space-y-2">
+            {recentActivities.map((activity) => {
+              const levelInfo = LEVELS.find((l) => l.key === activity.level);
+              const skillLabels: Record<string, string> = {
+                reading: "阅读",
+                listening: "听力",
+                writing: "写作",
+                speaking: "口语",
+              };
+              const timeStr = new Date(activity.created_at).toLocaleString("zh-CN", {
+                month: "short",
+                day: "numeric",
+                hour: "2-digit",
+                minute: "2-digit",
+              });
+
+              return (
+                <div
+                  key={activity.id}
+                  className="flex items-center gap-3 rounded-[--radius-md] border border-border bg-bg-card p-4"
+                >
+                  <div
+                    className={`flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-white ${
+                      activity.is_correct ? "bg-ket" : "bg-red-400"
+                    }`}
+                  >
+                    {activity.is_correct ? <Check size={14} /> : <X size={14} />}
+                  </div>
+                  {levelInfo && (
+                    <span
+                      className="shrink-0 rounded-[--radius-pill] px-2 py-0.5 text-xs font-bold"
+                      style={{ backgroundColor: levelInfo.lightBg, color: levelInfo.color }}
+                    >
+                      {levelInfo.label}
+                    </span>
+                  )}
+                  <span className="flex-1 text-sm text-text-primary">
+                    {skillLabels[activity.skill ?? ""] ?? activity.skill} · Part {activity.part}
+                  </span>
+                  <span className="text-xs text-text-tertiary">{timeStr}</span>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
     </div>
   );
 }

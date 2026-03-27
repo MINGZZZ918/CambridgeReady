@@ -43,8 +43,30 @@ export async function POST(request: Request) {
       return new NextResponse('success', { status: 200 });
     }
 
+    // Check existing membership expiry for renewal
+    const { data: existingProfile } = await supabase
+      .from('profiles')
+      .select('membership, membership_expires_at')
+      .eq('id', order.user_id)
+      .single();
+
     const expiresAt = new Date();
-    expiresAt.setFullYear(expiresAt.getFullYear() + 1);
+    if (
+      existingProfile &&
+      existingProfile.membership === 'premium' &&
+      existingProfile.membership_expires_at
+    ) {
+      const currentExpiry = new Date(existingProfile.membership_expires_at);
+      if (currentExpiry > expiresAt) {
+        // Extend from current expiry date
+        currentExpiry.setFullYear(currentExpiry.getFullYear() + 1);
+        expiresAt.setTime(currentExpiry.getTime());
+      } else {
+        expiresAt.setFullYear(expiresAt.getFullYear() + 1);
+      }
+    } else {
+      expiresAt.setFullYear(expiresAt.getFullYear() + 1);
+    }
 
     const { error: updateProfileError } = await supabase
       .from('profiles')
