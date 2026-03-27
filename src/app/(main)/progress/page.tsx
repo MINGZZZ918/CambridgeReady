@@ -1,6 +1,9 @@
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
-import { BarChart3, ArrowRight, Target, Flame, TrendingUp } from "lucide-react";
+import { BarChart3, ArrowRight, Target, Flame, TrendingUp, FileText, Clock } from "lucide-react";
+import { getExamById } from "@/data/mock-exams";
+import SkillRadarChart from "@/components/progress/SkillRadarChart";
+import WeeklyChart from "@/components/progress/WeeklyChart";
 
 const LEVEL_STYLES = [
   { key: "ket", label: "KET", color: "#10B981", lightBg: "#ECFDF5" },
@@ -23,12 +26,28 @@ export default async function ProgressPage() {
   };
 
   let streakDays = 0;
+  const skillStats: Record<string, { total: number; correct: number }> = {
+    reading: { total: 0, correct: 0 },
+    listening: { total: 0, correct: 0 },
+    writing: { total: 0, correct: 0 },
+    speaking: { total: 0, correct: 0 },
+  };
+  let weeklyData: { date: string; count: number }[] = [];
+  let examHistory: {
+    id: string;
+    exam_id: string;
+    total_score: number;
+    max_score: number;
+    time_used_seconds: number;
+    section_scores: Record<string, number> | null;
+    created_at: string;
+  }[] = [];
 
   if (user) {
     // Fetch learning progress
     const { data: progress } = await supabase
       .from("learning_progress")
-      .select("level, total_questions, correct_count, last_practiced_at")
+      .select("level, skill, total_questions, correct_count, last_practiced_at")
       .eq("user_id", user.id);
 
     if (progress) {
@@ -38,6 +57,10 @@ export default async function ProgressPage() {
         if (levelStats[row.level]) {
           levelStats[row.level].total += row.total_questions;
           levelStats[row.level].correct += row.correct_count;
+        }
+        if (skillStats[row.skill]) {
+          skillStats[row.skill].total += row.total_questions;
+          skillStats[row.skill].correct += row.correct_count;
         }
       }
     }
@@ -68,6 +91,36 @@ export default async function ProgressPage() {
           break;
         }
       }
+
+      // Compute 7-day daily counts
+      const dayCounts: Record<string, number> = {};
+      for (let i = 6; i >= 0; i--) {
+        const d = new Date(today);
+        d.setDate(d.getDate() - i);
+        dayCounts[d.toLocaleDateString("en-CA")] = 0;
+      }
+      for (const a of recentAnswers) {
+        const day = new Date(a.created_at).toLocaleDateString("en-CA");
+        if (day in dayCounts) {
+          dayCounts[day]++;
+        }
+      }
+      weeklyData = Object.entries(dayCounts).map(([date, count]) => ({
+        date: date.slice(5), // MM-DD
+        count,
+      }));
+    }
+
+    // Fetch exam history
+    const { data: examData } = await supabase
+      .from("exam_results")
+      .select("id, exam_id, total_score, max_score, time_used_seconds, section_scores, created_at")
+      .eq("user_id", user.id)
+      .order("created_at", { ascending: false })
+      .limit(20);
+
+    if (examData) {
+      examHistory = examData;
     }
   }
 
@@ -124,6 +177,38 @@ export default async function ProgressPage() {
           </div>
         ))}
       </div>
+
+      {/* Skill analysis charts */}
+      {hasData && (
+        <div className="mt-12">
+          <h2
+            className="text-xl font-semibold tracking-tight"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            技能分析
+          </h2>
+          <div className="mt-6 grid gap-6 lg:grid-cols-2">
+            <div className="rounded-[--radius-md] border border-border bg-bg-card p-6">
+              <h3 className="text-sm font-medium text-text-secondary mb-4">各技能正确率</h3>
+              <SkillRadarChart
+                data={[
+                  { skill: "reading", skillZh: "阅读", accuracy: skillStats.reading.total > 0 ? Math.round((skillStats.reading.correct / skillStats.reading.total) * 100) : 0 },
+                  { skill: "listening", skillZh: "听力", accuracy: skillStats.listening.total > 0 ? Math.round((skillStats.listening.correct / skillStats.listening.total) * 100) : 0 },
+                  { skill: "writing", skillZh: "写作", accuracy: skillStats.writing.total > 0 ? Math.round((skillStats.writing.correct / skillStats.writing.total) * 100) : 0 },
+                  { skill: "speaking", skillZh: "口语", accuracy: skillStats.speaking.total > 0 ? Math.round((skillStats.speaking.correct / skillStats.speaking.total) * 100) : 0 },
+                ]}
+                color="#2563EB"
+              />
+            </div>
+            {weeklyData.length > 0 && (
+              <div className="rounded-[--radius-md] border border-border bg-bg-card p-6">
+                <h3 className="text-sm font-medium text-text-secondary mb-4">近7天做题量</h3>
+                <WeeklyChart data={weeklyData} color="#2563EB" />
+              </div>
+            )}
+          </div>
+        </div>
+      )}
 
       {/* Level progress */}
       <div className="mt-12">
@@ -184,6 +269,93 @@ export default async function ProgressPage() {
           })}
         </div>
       </div>
+
+      {/* Exam history */}
+      {examHistory.length > 0 && (
+        <div className="mt-12">
+          <h2
+            className="text-xl font-semibold tracking-tight"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            模拟考试记录
+          </h2>
+          <div className="mt-6 space-y-4">
+            {examHistory.map((result) => {
+              const examDef = getExamById(result.exam_id);
+              const examTitle = examDef?.title ?? result.exam_id;
+              const examLevel = examDef?.level ?? "pet";
+              const levelStyle = LEVEL_STYLES.find((l) => l.key === examLevel) ?? LEVEL_STYLES[1];
+              const percentage =
+                result.max_score > 0
+                  ? Math.round((result.total_score / result.max_score) * 100)
+                  : 0;
+              const minutes = result.time_used_seconds
+                ? Math.floor(result.time_used_seconds / 60)
+                : 0;
+              const seconds = result.time_used_seconds
+                ? result.time_used_seconds % 60
+                : 0;
+              const dateStr = new Date(result.created_at).toLocaleDateString(
+                "zh-CN",
+                { year: "numeric", month: "long", day: "numeric" }
+              );
+
+              return (
+                <div
+                  key={result.id}
+                  className="rounded-[--radius-md] border border-border bg-bg-card p-6"
+                >
+                  <div className="flex items-start justify-between">
+                    <div className="flex items-center gap-3">
+                      <span
+                        className="rounded-[--radius-pill] px-3 py-1 text-sm font-bold"
+                        style={{
+                          backgroundColor: levelStyle.lightBg,
+                          color: levelStyle.color,
+                        }}
+                      >
+                        {levelStyle.label}
+                      </span>
+                      <div>
+                        <div className="text-sm font-medium text-text-primary">
+                          {examTitle}
+                        </div>
+                        <div className="mt-0.5 flex items-center gap-3 text-xs text-text-secondary">
+                          <span className="flex items-center gap-1">
+                            <Clock size={12} />
+                            {minutes}:{seconds.toString().padStart(2, "0")}
+                          </span>
+                          <span>{dateStr}</span>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="text-right">
+                      <div
+                        className="text-lg font-semibold tracking-tight"
+                        style={{ fontFamily: "var(--font-display)" }}
+                      >
+                        {result.total_score}/{result.max_score}
+                      </div>
+                      <div className="text-xs text-text-secondary">
+                        {percentage}%
+                      </div>
+                    </div>
+                  </div>
+                  <div className="mt-4 h-2 w-full rounded-full bg-border-light">
+                    <div
+                      className="h-full rounded-full transition-all"
+                      style={{
+                        width: `${percentage}%`,
+                        backgroundColor: levelStyle.color,
+                      }}
+                    />
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
 
       {/* Empty state CTA */}
       {!hasData && (

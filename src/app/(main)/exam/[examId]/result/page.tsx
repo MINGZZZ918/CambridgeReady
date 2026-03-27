@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
-import { Trophy, RotateCcw, ArrowRight, Check, X, ChevronDown } from "lucide-react";
+import { Trophy, RotateCcw, ArrowRight, Check, X, ChevronDown, Loader2 } from "lucide-react";
 import ExplanationPanel from "@/components/practice/ExplanationPanel";
 
 interface QuestionData {
@@ -15,6 +15,9 @@ interface QuestionData {
     options?: { label: string; text: string }[];
     correct_answer?: string;
     accept_answers?: string[];
+    people?: { id: number; description: string }[];
+    texts?: { label: string; text: string }[];
+    correct_matches?: Record<string, string>;
   };
   explanation_zh: string | null;
   explanation_en: string | null;
@@ -42,20 +45,112 @@ function checkCorrect(q: QuestionData, answer: string | undefined): boolean {
     const all = [correct, ...acceptAnswers];
     return all.some((a) => a.toLowerCase() === answer.trim().toLowerCase());
   }
+  if (q.question_type === "matching") {
+    try {
+      const userMatches = JSON.parse(answer) as Record<string, string>;
+      const correctMatches = q.content.correct_matches ?? {};
+      return Object.entries(correctMatches).every(
+        ([key, val]) => userMatches[key]?.toUpperCase() === val.toUpperCase()
+      );
+    } catch {
+      return false;
+    }
+  }
   return answer.toUpperCase() === (q.content.correct_answer ?? "").toUpperCase();
 }
 
 export default function ExamResultPage() {
   const { examId } = useParams<{ examId: string }>();
   const [data, setData] = useState<ResultData | null>(null);
+  const [loading, setLoading] = useState(true);
   const [expandedIndex, setExpandedIndex] = useState<number | null>(null);
 
   useEffect(() => {
+    // Try sessionStorage first
     const stored = sessionStorage.getItem(`exam-result-${examId}`);
     if (stored) {
       setData(JSON.parse(stored));
+      setLoading(false);
+      return;
     }
+
+    // Fallback: fetch from database
+    fetch(`/api/exam/${examId}/result`)
+      .then((res) => {
+        if (!res.ok) throw new Error("Not found");
+        return res.json();
+      })
+      .then((json) => {
+        const { examResult, answers: dbAnswers } = json;
+
+        // Reconstruct ResultData from database response
+        const answerMap: Record<number, string> = {};
+        const questions: QuestionData[] = [];
+
+        for (let i = 0; i < dbAnswers.length; i++) {
+          const a = dbAnswers[i];
+          const snapshot = a.question_snapshot;
+          if (snapshot) {
+            questions.push({
+              id: a.question_id,
+              question_type: snapshot.question_type,
+              content: snapshot.content,
+              explanation_zh: snapshot.explanation_zh,
+              explanation_en: snapshot.explanation_en,
+            });
+          }
+          // user_answer is stored as { value: "..." }
+          const userAns = a.user_answer?.value ?? a.answer?.value ?? "";
+          answerMap[i] = userAns;
+        }
+
+        // Use section_scores keys as section labels
+        const sectionScores = examResult.section_scores ?? {};
+        const sectionLabels = Object.keys(sectionScores);
+
+        let sections: SectionData[];
+        if (sectionLabels.length > 0) {
+          // Distribute questions across sections by section_scores counts
+          let idx = 0;
+          sections = sectionLabels.map((label) => {
+            const count = sectionScores[label] !== undefined
+              ? Math.ceil(questions.length / sectionLabels.length)
+              : 0;
+            const sectionQuestions = questions.slice(idx, idx + count);
+            idx += count;
+            return { label, questions: sectionQuestions };
+          });
+          // Put any remaining questions in the last section
+          if (idx < questions.length && sections.length > 0) {
+            sections[sections.length - 1].questions.push(...questions.slice(idx));
+          }
+        } else {
+          sections = [{ label: "全部", questions }];
+        }
+
+        setData({
+          examId: examResult.exam_id,
+          title: examResult.exam_id,
+          level: "",
+          sections,
+          answers: answerMap,
+          timeUsed: examResult.time_used_seconds ?? 0,
+        });
+      })
+      .catch(() => {
+        // No data available
+      })
+      .finally(() => setLoading(false));
   }, [examId]);
+
+  if (loading) {
+    return (
+      <div className="mx-auto max-w-2xl px-6 py-20 text-center">
+        <Loader2 size={32} className="mx-auto animate-spin text-blue" />
+        <p className="mt-4 text-text-secondary">加载考试记录中...</p>
+      </div>
+    );
+  }
 
   if (!data) {
     return (

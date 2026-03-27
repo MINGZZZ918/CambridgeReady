@@ -5,10 +5,14 @@ import { useRouter } from "next/navigation";
 import { Clock, AlertTriangle } from "lucide-react";
 import MultipleChoice from "@/components/practice/MultipleChoice";
 import FillBlank from "@/components/practice/FillBlank";
-import type { Question, MultipleChoiceContent, FillBlankContent } from "@/types";
+import MatchingQuestion from "@/components/practice/MatchingQuestion";
+import { checkAnswer } from "@/lib/utils/scoring";
+import type { Question, MultipleChoiceContent, FillBlankContent, MatchingContent } from "@/types";
 
 interface Section {
   label: string;
+  skill: string;
+  part: number;
   questions: Question[];
 }
 
@@ -32,7 +36,7 @@ export default function ExamClient({
   const total = allQuestions.length;
 
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [answers, setAnswers] = useState<Record<number, string>>({});
+  const [answers, setAnswers] = useState<Record<number, string | Record<string, string>>>({});
   const [secondsLeft, setSecondsLeft] = useState(timeLimitMinutes * 60);
   const [showConfirm, setShowConfirm] = useState(false);
   const [isFinished, setIsFinished] = useState(false);
@@ -83,8 +87,72 @@ export default function ExamClient({
     };
 
     sessionStorage.setItem(`exam-result-${examId}`, JSON.stringify(resultData));
+
+    // Persist to server (fire-and-forget)
+    const timeUsed = timeLimitMinutes * 60 - secondsLeft;
+    const answerRecords: {
+      question_id: string;
+      user_answer: string;
+      is_correct: boolean;
+      question_snapshot: {
+        question_type: string;
+        content: unknown;
+        explanation_zh: string | null;
+        explanation_en: string | null;
+      };
+      level: string;
+      skill: string;
+      part: number;
+    }[] = [];
+
+    const sectionScores: Record<string, number> = {};
+    let totalScore = 0;
+
+    for (const section of sections) {
+      let sectionCorrect = 0;
+      for (const q of section.questions) {
+        const idx = allQuestions.indexOf(q);
+        const raw = answers[idx];
+        const userAns = typeof raw === "object" && raw !== null ? JSON.stringify(raw) : (raw ?? "");
+        const correct = checkAnswer(q, raw ?? "");
+        if (correct) {
+          sectionCorrect++;
+          totalScore++;
+        }
+        answerRecords.push({
+          question_id: q.id,
+          user_answer: userAns,
+          is_correct: correct,
+          question_snapshot: {
+            question_type: q.question_type,
+            content: q.content,
+            explanation_zh: q.explanation_zh,
+            explanation_en: q.explanation_en,
+          },
+          level,
+          skill: section.skill,
+          part: section.part,
+        });
+      }
+      sectionScores[section.label] = sectionCorrect;
+    }
+
+    fetch("/api/exam", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        examId,
+        level,
+        totalScore,
+        maxScore: total,
+        timeUsedSeconds: timeUsed,
+        sectionScores,
+        answers: answerRecords,
+      }),
+    }).catch(() => {});
+
     router.push(`/exam/${examId}/result`);
-  }, [examId, title, level, sections, answers, timeLimitMinutes, secondsLeft, router]);
+  }, [examId, title, level, sections, answers, timeLimitMinutes, secondsLeft, router, allQuestions, total]);
 
   const formatTime = (secs: number) => {
     const m = Math.floor(secs / 60);
@@ -185,7 +253,7 @@ export default function ExamClient({
                 {currentQuestion.question_type === "multiple_choice" && (
                   <MultipleChoice
                     content={currentQuestion.content as MultipleChoiceContent}
-                    selectedAnswer={answers[currentIndex] ?? null}
+                    selectedAnswer={(answers[currentIndex] as string) ?? null}
                     submitted={false}
                     onSelect={(answer) =>
                       setAnswers((prev) => ({ ...prev, [currentIndex]: answer }))
@@ -195,10 +263,20 @@ export default function ExamClient({
                 {currentQuestion.question_type === "fill_blank" && (
                   <FillBlank
                     content={currentQuestion.content as FillBlankContent}
-                    userAnswer={answers[currentIndex] ?? ""}
+                    userAnswer={(answers[currentIndex] as string) ?? ""}
                     submitted={false}
                     onChange={(answer) =>
                       setAnswers((prev) => ({ ...prev, [currentIndex]: answer }))
+                    }
+                  />
+                )}
+                {currentQuestion.question_type === "matching" && (
+                  <MatchingQuestion
+                    content={currentQuestion.content as MatchingContent}
+                    userMatches={(answers[currentIndex] as Record<string, string>) ?? {}}
+                    submitted={false}
+                    onChange={(matches) =>
+                      setAnswers((prev) => ({ ...prev, [currentIndex]: matches }))
                     }
                   />
                 )}

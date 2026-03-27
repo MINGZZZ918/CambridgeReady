@@ -20,10 +20,10 @@ export default async function ExamPage({ params }: { params: Promise<{ examId: s
   if (!exam) notFound();
 
   // Load all questions for each section
-  const sections: { label: string; questions: Question[] }[] = [];
+  const sections: { label: string; skill: string; part: number; questions: Question[] }[] = [];
   for (const section of exam.sections) {
     const questions = await loadQuestions(exam.level, section.skill, section.part);
-    sections.push({ label: section.label, questions });
+    sections.push({ label: section.label, skill: section.skill, part: section.part, questions });
   }
 
   const allQuestions = sections.flatMap((s) => s.questions);

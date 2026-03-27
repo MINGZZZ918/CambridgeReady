@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { ChevronDown, Filter } from "lucide-react";
+import Link from "next/link";
+import { ChevronDown, Filter, RotateCcw } from "lucide-react";
 import ExplanationPanel from "@/components/practice/ExplanationPanel";
 
 interface MistakeRecord {
@@ -34,31 +35,58 @@ const SKILL_LABELS: Record<string, string> = {
   speaking: "口语",
 };
 
-const FILTERS = ["全部", "KET", "PET", "FCE"] as const;
+const LEVEL_FILTERS = ["全部", "KET", "PET", "FCE"] as const;
+const SKILL_FILTERS = [
+  { key: "全部技能", value: "" },
+  { key: "阅读", value: "reading" },
+  { key: "听力", value: "listening" },
+  { key: "写作", value: "writing" },
+  { key: "口语", value: "speaking" },
+] as const;
 
 export default function MistakesList({ mistakes }: { mistakes: MistakeRecord[] }) {
-  const [filter, setFilter] = useState<string>("全部");
+  const [levelFilter, setLevelFilter] = useState<string>("全部");
+  const [skillFilter, setSkillFilter] = useState<string>("");
   const [expandedId, setExpandedId] = useState<string | null>(null);
 
-  const filtered = filter === "全部"
-    ? mistakes
-    : mistakes.filter((m) => m.level?.toUpperCase() === filter);
+  const filtered = mistakes.filter((m) => {
+    if (levelFilter !== "全部" && m.level?.toUpperCase() !== levelFilter) return false;
+    if (skillFilter && m.skill !== skillFilter) return false;
+    return true;
+  });
 
   return (
     <>
-      {/* Filters */}
+      {/* Level filters */}
       <div className="mt-8 flex flex-wrap items-center gap-2">
-        {FILTERS.map((label) => (
+        {LEVEL_FILTERS.map((label) => (
           <button
             key={label}
-            onClick={() => setFilter(label)}
+            onClick={() => setLevelFilter(label)}
             className={`rounded-[--radius-pill] px-4 py-2 text-sm font-medium transition-colors ${
-              filter === label
+              levelFilter === label
                 ? "bg-blue text-white"
                 : "border border-border text-text-secondary hover:bg-bg"
             }`}
           >
             {label}
+          </button>
+        ))}
+      </div>
+
+      {/* Skill filters */}
+      <div className="mt-3 flex flex-wrap items-center gap-2">
+        {SKILL_FILTERS.map((item) => (
+          <button
+            key={item.key}
+            onClick={() => setSkillFilter(item.value)}
+            className={`rounded-[--radius-pill] px-4 py-2 text-sm font-medium transition-colors ${
+              skillFilter === item.value
+                ? "bg-blue text-white"
+                : "border border-border text-text-secondary hover:bg-bg"
+            }`}
+          >
+            {item.key}
           </button>
         ))}
         <span className="ml-auto text-sm text-text-tertiary">
@@ -77,6 +105,9 @@ export default function MistakesList({ mistakes }: { mistakes: MistakeRecord[] }
             passage?: string;
             options?: { label: string; text: string }[];
             correct_answer?: string;
+            people?: { id: number; description: string }[];
+            texts?: { label: string; text: string }[];
+            correct_matches?: Record<string, string>;
           } | undefined;
           const isExpanded = expandedId === mistake.id;
 
@@ -86,29 +117,41 @@ export default function MistakesList({ mistakes }: { mistakes: MistakeRecord[] }
               className="rounded-[--radius-md] border border-border bg-bg-card overflow-hidden"
             >
               {/* Header — clickable */}
-              <button
-                onClick={() => setExpandedId(isExpanded ? null : mistake.id)}
-                className="flex w-full items-center gap-3 p-5 text-left transition-colors hover:bg-bg"
-              >
-                <span
-                  className="shrink-0 rounded-[--radius-pill] px-2.5 py-0.5 text-xs font-bold"
-                  style={{ backgroundColor: levelStyle.lightBg, color: levelStyle.color }}
+              <div className="flex w-full items-center gap-3 p-5">
+                <button
+                  onClick={() => setExpandedId(isExpanded ? null : mistake.id)}
+                  className="flex flex-1 items-center gap-3 text-left transition-colors hover:opacity-80"
                 >
-                  {levelStyle.label}
-                </span>
-                <span className="text-xs text-text-tertiary">
-                  {SKILL_LABELS[mistake.skill ?? ""] ?? mistake.skill} · Part {mistake.part}
-                </span>
-                <span className="flex-1 truncate text-[15px] text-text-primary">
-                  {content?.stem ?? "题目"}
-                </span>
-                <ChevronDown
-                  size={16}
-                  className={`shrink-0 text-text-tertiary transition-transform ${
-                    isExpanded ? "rotate-180" : ""
-                  }`}
-                />
-              </button>
+                  <span
+                    className="shrink-0 rounded-[--radius-pill] px-2.5 py-0.5 text-xs font-bold"
+                    style={{ backgroundColor: levelStyle.lightBg, color: levelStyle.color }}
+                  >
+                    {levelStyle.label}
+                  </span>
+                  <span className="text-xs text-text-tertiary">
+                    {SKILL_LABELS[mistake.skill ?? ""] ?? mistake.skill} · Part {mistake.part}
+                  </span>
+                  <span className="flex-1 truncate text-[15px] text-text-primary">
+                    {content?.stem ?? "题目"}
+                  </span>
+                  <ChevronDown
+                    size={16}
+                    className={`shrink-0 text-text-tertiary transition-transform ${
+                      isExpanded ? "rotate-180" : ""
+                    }`}
+                  />
+                </button>
+                {mistake.level && mistake.skill && mistake.part !== null && (
+                  <Link
+                    href={`/practice/${mistake.level}/${mistake.skill}/${mistake.part}`}
+                    onClick={(e) => e.stopPropagation()}
+                    className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg text-text-tertiary hover:bg-bg hover:text-blue transition-colors"
+                    title="重做此Part"
+                  >
+                    <RotateCcw size={14} />
+                  </Link>
+                )}
+              </div>
 
               {/* Expanded content */}
               {isExpanded && content && (
@@ -120,8 +163,8 @@ export default function MistakesList({ mistakes }: { mistakes: MistakeRecord[] }
                     </div>
                   )}
 
-                  {/* Options with highlighting */}
-                  {content.options && (
+                  {/* Options with highlighting (multiple_choice) */}
+                  {content.options && snapshot?.question_type !== "matching" && (
                     <div className="space-y-2">
                       {content.options.map((opt) => {
                         const isCorrect = opt.label === content.correct_answer;
@@ -160,6 +203,49 @@ export default function MistakesList({ mistakes }: { mistakes: MistakeRecord[] }
                       </div>
                     </div>
                   )}
+
+                  {/* For matching type */}
+                  {snapshot?.question_type === "matching" && content.people && content.correct_matches && (() => {
+                    let userMatches: Record<string, string> = {};
+                    try {
+                      const raw = mistake.user_answer?.value;
+                      if (raw) userMatches = JSON.parse(raw);
+                    } catch {
+                      // ignore parse errors
+                    }
+
+                    return (
+                      <div className="space-y-2">
+                        {content.people.map((person) => {
+                          const personId = String(person.id);
+                          const userMatch = userMatches[personId];
+                          const correctMatch = content.correct_matches![personId];
+                          const isCorrect = userMatch === correctMatch;
+
+                          return (
+                            <div
+                              key={personId}
+                              className={`flex items-start gap-3 rounded-[8px] p-3 text-[14px] ${
+                                isCorrect
+                                  ? "bg-ket-light text-ket"
+                                  : "bg-red-50 text-red-600"
+                              }`}
+                            >
+                              <span className="shrink-0 font-semibold">{person.id}.</span>
+                              <span className="flex-1">{person.description}</span>
+                              <span className="shrink-0 text-xs">
+                                {userMatch
+                                  ? isCorrect
+                                    ? `→ ${userMatch} ✓`
+                                    : `→ ${userMatch} (应为 ${correctMatch})`
+                                  : `未匹配 (应为 ${correctMatch})`}
+                              </span>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    );
+                  })()}
 
                   {/* Explanation */}
                   {snapshot && (
