@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pet-w1-001",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 1,
+    "content": {
+      "stem": "Read the email from your English friend, Sam. Write an email to Sam and answer the questions. Write about 100 words.",
+      "prompt": "From: Sam\nSubject: School trip\n\nHi!\n\nOur school is planning a trip next month. We can choose between a visit to a museum or a day at the beach.\n\nWhich place would you prefer to visit? What do you think we could do there? What should we bring with us?\n\nWrite back soon!\nSam",
+      "word_limit": 100,
+      "sample_answer": "Hi Sam,\n\nThanks for your email! I think the beach would be a great choice for our school trip. I love being outdoors, and the weather should be nice next month.\n\nAt the beach, we could play volleyball and swim in the sea. We could also build sandcastles or just relax and enjoy the sunshine. It would be a fun day for everyone.\n\nWe should bring sunscreen, towels, and some snacks. Don't forget your sunglasses and a hat too! I think we should also bring a ball so we can play games together.\n\nI can't wait for the trip!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这是一封回复邮件，需要回答三个问题：1）你更想去哪里；2）在那里可以做什么；3）应该带什么。记得使用正确的邮件格式（开头问候、正文段落、结尾祝福），保持友好的语气。",
+    "explanation_en": "English explanation: This is a reply email where you need to answer three questions: 1) which place you prefer; 2) what you could do there; 3) what to bring. Remember to use the correct email format (greeting, body paragraphs, closing) and maintain a friendly tone.",
+    "is_free": true
+  },
+  {
+    "id": "pet-w1-002",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 2,
+    "content": {
+      "stem": "Read the email from your English friend, Maria. Write an email to Maria and answer the questions. Write about 100 words.",
+      "prompt": "From: Maria\nSubject: Birthday party\n\nHi!\n\nIt's my birthday next Saturday and I'm having a party at my house. I'd love you to come!\n\nWhat kind of food should I prepare? What music do you think we should play? Would you like to help me organise any games?\n\nLet me know!\nMaria",
+      "word_limit": 100,
+      "sample_answer": "Hi Maria,\n\nHappy birthday! Of course I'd love to come to your party next Saturday!\n\nI think you should prepare some pizza and sandwiches because everyone likes them. You could also make some fruit juice and have a birthday cake, of course!\n\nFor music, we could play some pop songs that everyone knows. Maybe you could make a playlist on your phone before the party.\n\nI'd be happy to help organise games! We could play musical chairs and have a quiz. I'll bring some prizes for the winners too.\n\nSee you on Saturday!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）应该准备什么食物；2）应该播放什么音乐；3）是否愿意帮忙组织游戏。给出具体的建议，并表现出热情的态度。注意使用建议的句型如 \"I think you should...\" 或 \"We could...\"。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what food to prepare; 2) what music to play; 3) whether you'd like to help with games. Give specific suggestions and show enthusiasm. Use suggestion phrases like 'I think you should...' or 'We could...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-003",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 3,
+    "content": {
+      "stem": "Read the email from your English friend, Tom. Write an email to Tom and answer the questions. Write about 100 words.",
+      "prompt": "From: Tom\nSubject: Learning a language\n\nHi!\n\nI've decided to start learning a new language. I'm thinking about learning Chinese or Spanish.\n\nWhich language do you think I should learn? How do you think the best way to learn a new language is? Have you ever tried to learn a new language yourself?\n\nTell me what you think!\nTom",
+      "word_limit": 100,
+      "sample_answer": "Hi Tom,\n\nThat's a great idea! I think you should learn Spanish because it's spoken in many countries and it's not too difficult for English speakers to learn.\n\nThe best way to learn a new language is to practise every day. You could use a language app like Duolingo, and you should try to watch films or listen to music in Spanish. It also helps to find someone who speaks the language and practise talking with them.\n\nI've been learning English for three years, and I find that reading books in English has helped me a lot.\n\nGood luck!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）推荐学哪门语言；2）学习新语言的最佳方法是什么；3）你自己是否有学习新语言的经历。给出理由来支持你的建议，分享个人经验会让回复更生动。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) which language to recommend; 2) the best way to learn a new language; 3) your own experience learning languages. Support your suggestions with reasons, and sharing personal experience makes the reply more engaging.",
+    "is_free": false
+  }
+]

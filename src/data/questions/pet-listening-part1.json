@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pet-l1-001",
+    "level": "pet",
+    "skill": "listening",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "audio_url": "/audio/pet-listening-part1-demo.mp3",
+    "content": {
+      "stem": "Where does Ben want to go this weekend?",
+      "options": [
+        { "label": "A", "text": "To a shopping centre" },
+        { "label": "B", "text": "To a science museum" },
+        { "label": "C", "text": "To a sports club" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：Ben说'I'm thinking about going to the new science museum'（我想去新的科学博物馆），所以正确答案是B。",
+    "explanation_en": "English explanation: Ben says 'I'm thinking about going to the new science museum,' so the correct answer is B — a science museum.",
+    "is_free": true
+  },
+  {
+    "id": "pet-l1-002",
+    "level": "pet",
+    "skill": "listening",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "audio_url": "/audio/pet-listening-part1-demo.mp3",
+    "content": {
+      "stem": "What time does the museum open?",
+      "options": [
+        { "label": "A", "text": "At nine o'clock" },
+        { "label": "B", "text": "At ten o'clock" },
+        { "label": "C", "text": "At eleven o'clock" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：Ben说'It opens at ten o'clock'（它十点开门），所以正确答案是B。注意他还说要早一点到因为可能要排队，但开门时间仍然是十点。",
+    "explanation_en": "English explanation: Ben says 'It opens at ten o'clock.' The correct answer is B. Note that he suggests arriving early because of queues, but the opening time is still 10 o'clock.",
+    "is_free": true
+  },
+  {
+    "id": "pet-l1-003",
+    "level": "pet",
+    "skill": "listening",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "audio_url": "/audio/pet-listening-part1-demo.mp3",
+    "content": {
+      "stem": "Why does Ben suggest arriving early?",
+      "options": [
+        { "label": "A", "text": "Because they need to buy tickets online" },
+        { "label": "B", "text": "Because there might be a queue" },
+        { "label": "C", "text": "Because the museum closes early" }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：Ben说'there might be a queue, so let's get there a bit early'（可能会排队，所以我们早一点到吧），正确答案是B。",
+    "explanation_en": "English explanation: Ben says 'there might be a queue, so let's get there a bit early.' The correct answer is B — they should arrive early because of possible queues.",
+    "is_free": true
+  },
+  {
+    "id": "pet-l1-004",
+    "level": "pet",
+    "skill": "listening",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "audio_url": "/audio/pet-listening-part1-demo.mp3",
+    "content": {
+      "stem": "Where is the cafe in the museum?",
+      "options": [
+        { "label": "A", "text": "On the ground floor" },
+        { "label": "B", "text": "In the garden" },
+        { "label": "C", "text": "On the top floor" }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "中文解析：Ben说'there's a nice cafe on the top floor'（顶层有一个不错的咖啡厅），所以正确答案是C。",
+    "explanation_en": "English explanation: Ben says 'there's a nice cafe on the top floor with a great view of the city.' The correct answer is C — the cafe is on the top floor.",
+    "is_free": false
+  },
+  {
+    "id": "pet-l1-005",
+    "level": "pet",
+    "skill": "listening",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "audio_url": "/audio/pet-listening-part1-demo.mp3",
+    "content": {
+      "stem": "What does Anna think of Ben's idea?",
+      "options": [
+        { "label": "A", "text": "She doesn't want to go." },
+        { "label": "B", "text": "She thinks it sounds great." },
+        { "label": "C", "text": "She wants to go somewhere else." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "中文解析：当Ben提议去博物馆时，Anna回答'That sounds great!'（听起来太好了！），表明她觉得这个主意很好，所以正确答案是B。",
+    "explanation_en": "English explanation: When Ben suggests the museum, Anna replies 'That sounds great!' This shows she likes the idea, so the correct answer is B.",
+    "is_free": false
+  }
+]

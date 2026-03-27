@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pet-w2-001",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 1,
+    "content": {
+      "stem": "You see this notice in your school magazine. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nMY FAVOURITE HOBBY\n\nWhat is your favourite hobby?\nWhy do you enjoy it?\nWould you recommend it to other students?\n\nWrite us an article answering these questions.\nThe best articles will be published next month!",
+      "word_limit": 100,
+      "sample_answer": "My Favourite Hobby\n\nMy favourite hobby is painting. I started painting when I was eight years old, and I have loved it ever since.\n\nI enjoy painting because it helps me relax after a busy day at school. When I pick up my paintbrush, I forget about homework and exams. I also like it because I can express my feelings through colours and shapes. Sometimes I paint landscapes, and other times I create abstract art.\n\nI would definitely recommend painting to other students. You don't need to be talented — you just need to enjoy it. All you need is some paper, paint, and a little imagination!"
+    },
+    "explanation_zh": "中文解析：这是一篇杂志文章，需要回答三个问题：1）你最喜欢的爱好是什么；2）为什么喜欢它；3）是否推荐给其他学生。注意文章需要有标题，段落清晰，语言生动。用 \"I enjoy... because...\" 等句型解释原因。",
+    "explanation_en": "English explanation: This is a magazine article answering three questions: 1) what your hobby is; 2) why you enjoy it; 3) whether you'd recommend it. Include a title, clear paragraphs, and vivid language. Use structures like 'I enjoy... because...' to explain reasons.",
+    "is_free": true
+  },
+  {
+    "id": "pet-w2-002",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 2,
+    "content": {
+      "stem": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'When I opened the door, I couldn't believe what I saw.' Write your story. Write about 100 words.",
+      "prompt": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:\n\n\"When I opened the door, I couldn't believe what I saw.\"\n\nWrite your story in about 100 words.",
+      "word_limit": 100,
+      "sample_answer": "When I opened the door, I couldn't believe what I saw. My living room was full of balloons, streamers, and a huge banner that said 'SURPRISE!'\n\nAll my friends and family were standing there, smiling and clapping. I had completely forgotten it was my birthday! My best friend, Lisa, had organised the whole party without me knowing.\n\nThere was a beautiful cake on the table with candles on top. Everyone sang 'Happy Birthday' while I made a wish and blew out the candles.\n\nIt was the best birthday surprise I have ever had. I felt so happy and lucky to have such wonderful friends."
+    },
+    "explanation_zh": "中文解析：这是一个故事写作题，必须以给定的句子开头。要包含：场景描写、人物、事件发展和结尾感受。使用过去时态讲述故事，加入一些描述性的形容词让故事更生动。注意故事要有开头、发展和结尾。",
+    "explanation_en": "English explanation: This is a story writing task that must begin with the given sentence. Include: scene description, characters, plot development, and a concluding feeling. Use past tenses to narrate, add descriptive adjectives to make the story vivid. Ensure the story has a beginning, middle, and end.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-003",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 3,
+    "content": {
+      "stem": "You see this notice on an English-language website. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nA PLACE I LOVE TO VISIT\n\nTell us about a place you love to visit.\nWhat do you do there?\nWhy is it special to you?\n\nWrite us an article answering these questions.\nWe will publish the best articles on our website!",
+      "word_limit": 100,
+      "sample_answer": "A Place I Love to Visit\n\nA place I love to visit is my grandparents' house in the countryside. I go there every summer holiday with my family.\n\nWhen I'm there, I help my grandfather in the garden and pick fresh vegetables. In the afternoons, my grandmother teaches me how to cook traditional dishes. In the evenings, we sit outside and look at the stars, which you can't see in the city.\n\nThis place is special to me because it's so peaceful and quiet. I always feel relaxed there, and I love spending time with my grandparents. It's my favourite place in the world."
+    },
+    "explanation_zh": "中文解析：这是一篇关于你喜欢去的地方的文章，需要回答三个问题：1）这个地方是哪里；2）在那里做什么；3）为什么它对你特别。使用描述性语言，加入感官细节（看到的、听到的、感受到的），让读者有身临其境的感觉。",
+    "explanation_en": "English explanation: This article is about a place you love to visit, answering: 1) where it is; 2) what you do there; 3) why it's special. Use descriptive language and sensory details (what you see, hear, feel) to make the reader feel they are there too.",
+    "is_free": false
+  }
+]
