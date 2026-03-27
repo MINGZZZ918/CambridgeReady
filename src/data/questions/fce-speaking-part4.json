@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fce-s4-001",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Topic Discussion — Discuss environmental issues in depth.",
+      "prompt": "The examiner will ask you in-depth questions about environmental issues. Express your opinions clearly, support them with evidence and examples, and consider different perspectives.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What do you think is the biggest environmental problem facing the world today? Why?",
+        "Some people believe that individuals can make a real difference to the environment, while others think only governments can solve environmental problems. What is your view?",
+        "How do you think schools could do more to educate young people about environmental issues?",
+        "Do you think people will change their lifestyles to help the environment, or will technology solve environmental problems instead?"
+      ],
+      "sample_answer": "I believe climate change is the most pressing environmental issue we face today because it affects everything — from weather patterns to food production and biodiversity. It's a global problem that requires both individual and collective action. Regarding whether individuals or governments can make more of a difference, I think both play essential roles. Governments need to implement policies like carbon taxes and renewable energy incentives, but individual choices — such as reducing consumption, recycling, and choosing sustainable transport — create the demand for change. They work hand in hand. Schools could do much more by integrating environmental education across all subjects, not just science. For instance, geography classes could explore the real impact of deforestation, and economics classes could discuss sustainable business models. Practical projects, like school gardens or waste reduction campaigns, would also make the issues feel more tangible. As for whether people will change their lifestyles or rely on technology, I think we need both. Technology alone won't solve the problem if consumption patterns don't change. However, innovations in renewable energy and sustainable materials will certainly make it easier for people to live more environmentally friendly lives.",
+      "tips_zh": "FCE话题讨论是最高难度的口语部分。技巧：1）展示你能从多个角度思考问题（Some people think... while others believe...）；2）使用高级连接词和过渡语（Furthermore, Nevertheless, Having said that）；3）引用具体例子来支持论点；4）表达有条件的观点（It depends on... / To some extent...）；5）使用复杂语法结构如虚拟语气、分词结构、倒装句等；6）注意语言的连贯性和逻辑性，确保你的论述有清晰的结构。"
+    },
+    "explanation_zh": "这是FCE口语第四部分——深度话题讨论。考官会就社会话题问你深入的问题，你需要展示独立思考能力，从多角度分析问题。这是对你英语综合能力的全面考查。",
+    "explanation_en": "This is FCE Speaking Part 4 — In-depth Topic Discussion. The examiner asks probing questions about social topics, and you need to demonstrate independent thinking and multi-perspective analysis. This is a comprehensive test of your overall English ability.",
+    "is_free": false
+  }
+]

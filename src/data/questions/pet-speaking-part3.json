@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pet-s3-001",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of students in a classroom.",
+      "prompt": "Look at this photograph showing students in a classroom. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-classroom.jpg",
+      "sample_answer": "In this photograph, I can see a classroom with about twenty students. They look like they are teenagers, probably around fourteen or fifteen years old. Most of the students are sitting at their desks and working on something — it looks like they might be doing a group project because some of them are working together in small groups. In the front of the classroom, there is a teacher standing near the whiteboard. She seems to be explaining something. The students in the front row look very focused and interested, but I can see a couple of students at the back who seem a bit distracted. The classroom is bright and modern, with posters on the walls.",
+      "tips_zh": "PET的图片描述比KET更高级。除了描述你看到的内容，还要：1）推测人物的感受（They look happy / She seems tired）；2）猜测正在发生什么（It looks like they are.../ They might be...）；3）使用更丰富的形容词和副词。注意使用情态动词表示推测：might, could, seem to。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。与KET不同，PET要求你不仅描述看到的内容，还要进行推测和分析人物的感受和行为。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. Unlike KET, PET requires you not only to describe what you see but also to speculate and analyze the feelings and behavior of the people in the picture.",
+    "is_free": false
+  }
+]

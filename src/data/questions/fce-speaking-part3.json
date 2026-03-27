@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fce-s3-001",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Collaborative Task — Compare and discuss two photographs of people working.",
+      "prompt": "Here are two photographs showing different ways of working. The first shows people working together in a modern open-plan office with computers and whiteboards. The second shows a person working from home at their kitchen table with a laptop. First, talk together about the advantages and disadvantages of each way of working. Then decide which way of working would be best for a young person starting their career.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/fce-working.jpg",
+      "sample_answer": "Looking at these two photographs, I can see very different working environments. The open-plan office looks busy and collaborative — people are interacting, sharing ideas, and there seems to be a lot of energy. On the other hand, working from home looks much more relaxed and quiet. The person at the kitchen table seems comfortable but also quite isolated. There are clear advantages to both. Working in an office allows you to build relationships with colleagues, get immediate feedback, and learn from more experienced people. However, it can be noisy and distracting. Working from home offers flexibility and eliminates commuting time, but it can be lonely and it's harder to separate work from personal life. For a young person starting their career, I would say working in an office is better because they need mentorship and networking opportunities. It's important to learn from others when you're just starting out.",
+      "tips_zh": "FCE口语第三部分是协作任务，你需要和搭档一起讨论。关键技巧：1）认真听搭档的发言并做出回应（I agree with you because... / That's an interesting point, but I think...）；2）轮流发言，不要一个人说太多；3）讨论正反两面（advantages and disadvantages）；4）最后要做出决定并给出理由；5）使用高级词汇和表达方式展示你的语言水平。"
+    },
+    "explanation_zh": "这是FCE口语第三部分——协作任务。你和搭档需要一起讨论一组图片或选项，分析利弊，最后做出共同决定。这部分重点考查你的互动和协商能力。",
+    "explanation_en": "This is FCE Speaking Part 3 — Collaborative Task. You and your partner discuss a set of images or options together, analyze pros and cons, and reach a joint decision. This part focuses on your interaction and negotiation skills.",
+    "is_free": false
+  }
+]

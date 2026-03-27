@@ -31,10 +31,10 @@ const PET_WRITING: PartInfo[] = [
 ];
 
 const PET_SPEAKING: PartInfo[] = [
-  { part: 1, name: "Personal questions", nameZh: "个人信息问答", questionType: "open_write", count: 1 },
-  { part: 2, name: "Situation discussion", nameZh: "情景讨论", questionType: "open_write", count: 1 },
-  { part: 3, name: "Picture description", nameZh: "图片描述", questionType: "open_write", count: 1 },
-  { part: 4, name: "Topic discussion", nameZh: "话题讨论", questionType: "open_write", count: 1 },
+  { part: 1, name: "Personal questions", nameZh: "个人信息问答", questionType: "speaking", count: 1 },
+  { part: 2, name: "Situation discussion", nameZh: "情景讨论", questionType: "speaking", count: 1 },
+  { part: 3, name: "Picture description", nameZh: "图片描述", questionType: "speaking", count: 1 },
+  { part: 4, name: "Topic discussion", nameZh: "话题讨论", questionType: "speaking", count: 1 },
 ];
 
 const LEVEL_PARTS: Record<string, Record<Skill, PartInfo[]>> = {

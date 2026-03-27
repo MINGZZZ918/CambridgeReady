@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pet-s1-001",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about your daily life.",
+      "prompt": "Answer the examiner's questions about your daily life, school, and interests. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Tell me about your daily routine. What do you usually do on a school day?",
+        "What subjects do you study at school? Which one is your favorite and why?",
+        "How do you usually spend your weekends?",
+        "Do you like reading? What kind of books do you enjoy?",
+        "What would you like to do in the future?"
+      ],
+      "sample_answer": "On a school day, I usually wake up at half past six and have breakfast with my family. I walk to school because it's quite close to my house. My favorite subject is science because we do interesting experiments. At the weekend, I often go shopping with my friends or stay at home and watch films. I enjoy reading adventure stories — my favorite book is Harry Potter. In the future, I'd like to be a doctor because I want to help people.",
+      "tips_zh": "PET口语第一部分要求你回答关于日常生活的问题。比KET更进阶，需要你给出更详细的回答，包括原因和例子。使用各种时态（现在时描述习惯，过去时描述经历，将来时描述计划）。尽量让回答自然流畅，像在和朋友聊天一样。"
+    },
+    "explanation_zh": "这是PET口语第一部分。考官会问你关于日常生活、学校和兴趣的问题。与KET相比，你需要给出更长、更详细的回答，并能解释原因。",
+    "explanation_en": "This is PET Speaking Part 1. The examiner asks about your daily life, school, and interests. Compared to KET, you need to give longer, more detailed answers and explain your reasons.",
+    "is_free": true
+  }
+]

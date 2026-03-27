@@ -1,0 +1,27 @@
+[
+  {
+    "id": "fce-s1-001",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you about your life, interests, and future plans.",
+      "prompt": "Answer the examiner's questions about yourself, your experiences, and your ambitions. Give extended answers with reasons, examples, and personal reflections.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Tell me about where you live. What do you like about it?",
+        "What do you enjoy doing in your spare time? Has this changed over the years?",
+        "What kind of music or films do you like? Can you explain why?",
+        "What are your plans for the future? What career are you interested in?",
+        "If you could visit any country in the world, where would you go and why?"
+      ],
+      "sample_answer": "I live in a medium-sized city in southern China. What I like most about it is that it has a good balance between modern facilities and natural beauty — there are shopping centres and cinemas, but also mountains and a river nearby. In my spare time, I enjoy playing the piano and reading novels. When I was younger, I used to play a lot of video games, but now I find reading more enjoyable because it helps me relax and learn at the same time. I'm really into science fiction films because they make me think about what the future could look like. In the future, I'd love to study computer science at university because I'm fascinated by artificial intelligence. If I could visit any country, I'd choose Japan because I'm interested in their technology and culture.",
+      "tips_zh": "FCE口语第一部分要求更高水平的回答。技巧：1）使用丰富的词汇和复杂句式；2）谈论变化和对比（过去和现在）；3）使用虚拟语气（If I could.../ I would...）；4）展示反思能力，解释你的想法背后的原因；5）自然地扩展回答，但不要偏离话题。语法准确性和词汇多样性是FCE评分的重要标准。"
+    },
+    "explanation_zh": "这是FCE口语第一部分。考官会问你关于生活、兴趣和未来计划的问题。与PET相比，FCE要求更深入、更有思考深度的回答，需要展示复杂的语法结构和丰富的词汇。",
+    "explanation_en": "This is FCE Speaking Part 1. The examiner asks about your life, interests, and future plans. Compared to PET, FCE requires deeper, more thoughtful answers that demonstrate complex grammar structures and a wide range of vocabulary.",
+    "is_free": true
+  }
+]

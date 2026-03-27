@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ket-s3-001",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Picture Description — Describe what you see in the photograph.",
+      "prompt": "Look at this photograph of a park scene. Describe what you can see in the picture. Talk about the people, what they are doing, the place, and the weather.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/ket-park-scene.jpg",
+      "sample_answer": "In this picture, I can see a park on a sunny day. There are some trees and green grass. A family is having a picnic on the grass — a mother, a father, and two children. The children are playing with a ball. There is also an old man sitting on a bench and reading a newspaper. In the background, I can see a small lake with some ducks. The weather looks warm and sunny.",
+      "tips_zh": "描述图片时，先说整体场景（在哪里、什么天气），然后描述具体的人物和他们在做什么。使用 'there is/are'、'I can see' 等句型。注意使用现在进行时描述正在发生的动作。尽量描述图片的不同部分，不要只关注一个地方。"
+    },
+    "explanation_zh": "这是KET口语第三部分——图片描述。你需要观察一张照片并描述你看到的内容。考官会评估你描述场景、人物和活动的能力。",
+    "explanation_en": "This is KET Speaking Part 3 — Picture Description. You need to observe a photograph and describe what you see. The examiner assesses your ability to describe scenes, people, and activities.",
+    "is_free": false
+  }
+]

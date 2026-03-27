@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ket-s4-001",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Topic Discussion — Talk about your favorite free-time activities.",
+      "prompt": "The examiner will ask you questions about what you like to do in your free time. Listen carefully and give full answers. Try to explain your reasons.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What do you usually do in your free time?",
+        "Do you prefer indoor activities or outdoor activities? Why?",
+        "What is the most fun thing you did last weekend?"
+      ],
+      "sample_answer": "In my free time, I usually read books or play computer games. Sometimes I go swimming with my friends. I prefer outdoor activities because I like fresh air and exercise. It makes me feel happy and healthy. Last weekend, I went to the beach with my family. We played in the water and built sandcastles. It was really fun because the weather was perfect.",
+      "tips_zh": "话题讨论时，不要只回答 'yes' 或 'no'，要给出原因和细节。使用 'because'、'for example' 来扩展你的回答。如果不确定某个词怎么说，可以用简单的词来解释。保持自信，即使犯了错误也继续说下去。"
+    },
+    "explanation_zh": "这是KET口语第四部分——话题讨论。考官会围绕一个话题问你几个问题，你需要给出有内容的回答。重点是展示你能就日常话题表达看法和给出理由。",
+    "explanation_en": "This is KET Speaking Part 4 — Topic Discussion. The examiner asks several questions around a topic, and you need to give substantive answers. The focus is on showing you can express opinions and give reasons about everyday topics.",
+    "is_free": false
+  }
+]

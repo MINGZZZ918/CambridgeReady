@@ -1,0 +1,21 @@
+[
+  {
+    "id": "pet-s2-001",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Situation Discussion — Plan a birthday party with your partner.",
+      "prompt": "Your friend is having a birthday party next Saturday. You and your partner need to plan the party together. Discuss the following points and make decisions: Where to have the party (at home, in a restaurant, or in a park), What food and drinks to prepare, What activities or games to organize, How many people to invite, What present to buy for the birthday friend.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should have the party at home because it's more comfortable and we can play music. We could prepare some pizza, sandwiches, and a birthday cake. For drinks, we could have juice and lemonade. I suggest we play some fun games like musical chairs or a treasure hunt. We should invite about fifteen people — that's not too many but enough to have fun. For the present, what about getting a book or a video game? What do you think would be best?",
+      "tips_zh": "PET的情景讨论比KET更复杂，需要讨论更多要点。记住要：1）提出建议（I think we should.../ How about...?）；2）询问搭档意见（What do you think?/ Do you agree?）；3）对搭档的建议做出回应（That's a good idea / I'm not sure about that）；4）最终达成一致。讨论要涵盖题目中的所有要点。"
+    },
+    "explanation_zh": "这是PET口语第二部分——情景讨论。你需要和搭档讨论一个具体的计划，涵盖多个讨论要点，并做出决定。考官评估你的互动能力和解决问题的能力。",
+    "explanation_en": "This is PET Speaking Part 2 — Situation Discussion. You need to discuss a specific plan with your partner, covering multiple discussion points and making decisions. The examiner assesses your interaction skills and problem-solving ability.",
+    "is_free": false
+  }
+]

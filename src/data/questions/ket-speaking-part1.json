@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ket-s1-001",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about yourself.",
+      "prompt": "Answer the examiner's questions about your personal information. Give short, clear answers. You can add extra details if you want.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What's your name?",
+        "How old are you?",
+        "Where do you go to school?",
+        "What do you like to do after school?",
+        "Do you have any hobbies?"
+      ],
+      "sample_answer": "My name is Li Ming. I'm twelve years old. I go to Sunshine Middle School. After school, I usually play basketball with my friends. My hobby is drawing — I like to draw animals and cartoon characters.",
+      "tips_zh": "回答个人信息问题时，尽量用完整的句子回答，不要只说一个词。可以适当补充一些细节，比如说爱好时可以说具体喜欢什么。保持自然、放松的语气。"
+    },
+    "explanation_zh": "这是KET口语第一部分，考官会问你一些关于个人信息的简单问题。回答时要用完整的句子，语速适中，发音清晰。可以适当扩展回答，展示你的英语能力。",
+    "explanation_en": "This is KET Speaking Part 1, where the examiner asks simple personal questions. Answer in complete sentences at a steady pace with clear pronunciation. You can expand your answers slightly to show your English ability.",
+    "is_free": true
+  }
+]

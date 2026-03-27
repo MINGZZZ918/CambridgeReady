@@ -1,0 +1,21 @@
+[
+  {
+    "id": "fce-s2-001",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Comparing Photographs — Compare two photographs and answer a question about them.",
+      "prompt": "Here are two photographs. The first shows a group of friends studying together in a library. The second shows a student studying alone at home. Compare the two photographs and say which situation you think is better for learning effectively.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "Both photographs show people studying, but the situations are quite different. In the first photo, there's a group of friends sitting around a table in a library. They seem to be discussing something together and sharing ideas. They look engaged and maybe even enjoying the experience. In the second photo, a student is sitting alone at a desk in what appears to be their bedroom, surrounded by textbooks and notes. They seem very focused and concentrated on their work. I think both approaches have their advantages. Studying in a group can be very helpful because you can discuss difficult concepts and learn from each other's perspectives. However, studying alone can be more efficient when you need to concentrate deeply on something. Personally, I think it depends on the subject — for creative tasks, group study is better, but for subjects that require memorisation, studying alone is more effective.",
+      "tips_zh": "FCE对比照片是口语考试的核心题型。技巧：1）不要逐一描述每张照片，而是进行对比（Both photos show... but in the first one... while in the second...）；2）使用对比连接词（however, whereas, on the other hand, in contrast）；3）推测照片中人物的感受和想法；4）回答问题时给出自己的观点和理由；5）控制时间，不要花太多时间描述，要留时间回答问题。"
+    },
+    "explanation_zh": "这是FCE口语第二部分——对比照片。你需要比较两张照片，找出相似和不同之处，并回答一个相关问题。这部分考查你的比较能力和表达观点的能力。",
+    "explanation_en": "This is FCE Speaking Part 2 — Comparing Photographs. You need to compare two photographs, identify similarities and differences, and answer a related question. This part tests your ability to compare and express opinions.",
+    "is_free": false
+  }
+]

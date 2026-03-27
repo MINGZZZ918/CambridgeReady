@@ -31,6 +31,7 @@ export function checkAnswer(question: Question, userAnswer: unknown): boolean {
     }
 
     case "open_write":
+    case "speaking":
       return false; // Open-ended, needs manual or AI grading
 
     default:

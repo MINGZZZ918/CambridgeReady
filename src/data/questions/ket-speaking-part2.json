@@ -1,0 +1,21 @@
+[
+  {
+    "id": "ket-s2-001",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Situation Discussion — Plan a weekend activity with your friend.",
+      "prompt": "You and your partner want to do something fun this weekend. Look at the ideas below and discuss them together. Decide what to do, when to meet, and what to bring. Ideas: go to the cinema, visit a museum, have a picnic in the park, play sports.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should go to the park and have a picnic because the weather is nice this weekend. We can meet at 10 o'clock in the morning. I can bring some sandwiches and drinks. What do you think? Maybe we can also play football after lunch. We should bring a blanket to sit on.",
+      "tips_zh": "情景讨论时，要积极与搭档互动。先提出自己的想法，然后询问对方的意见。讨论时要涵盖题目要求的所有要点（做什么、什么时候、带什么）。使用简单的连接词如 'and'、'but'、'because' 来组织你的回答。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起讨论一个实际场景，做出计划和决定。重点是展示你能用英语进行日常交流和协商。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to discuss a practical scenario with your partner, making plans and decisions together. The focus is on showing you can communicate and negotiate in everyday English.",
+    "is_free": false
+  }
+]

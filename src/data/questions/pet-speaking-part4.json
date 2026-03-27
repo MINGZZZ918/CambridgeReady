@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pet-s4-001",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 1,
+    "content": {
+      "stem": "Topic Discussion — Talk about technology and social media.",
+      "prompt": "The examiner will ask you questions about technology and social media. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "How often do you use social media? What platforms do you use?",
+        "Do you think social media is a good thing for young people? Why or why not?",
+        "Some people say that teenagers spend too much time on their phones. Do you agree?",
+        "How has technology changed the way you learn at school?"
+      ],
+      "sample_answer": "I use social media quite often — probably about an hour a day. I mainly use WeChat to talk to my friends and Bilibili to watch videos. I think social media can be good for young people because it helps us stay in touch with friends and learn new things. However, it can also be a problem if you spend too much time on it. I partly agree that teenagers use their phones too much. Sometimes I notice my friends checking their phones during meals, which isn't very polite. Technology has really changed how I learn — for example, I can watch educational videos online and use apps to practice English. It makes learning more interesting and convenient.",
+      "tips_zh": "PET话题讨论要求你就较复杂的社会话题发表看法。技巧：1）先明确表态（I think... / In my opinion...）；2）给出理由（because... / The reason is...）；3）举例说明（For example... / For instance...）；4）可以表达不同角度的观点（On the other hand... / However...）。不要害怕表达自己的真实想法，考官关注的是你的语言能力，不是观点本身。"
+    },
+    "explanation_zh": "这是PET口语第四部分——话题讨论。考官会围绕一个社会话题问你问题，你需要表达观点、给出理由并举例。这部分考查你讨论较复杂话题的能力。",
+    "explanation_en": "This is PET Speaking Part 4 — Topic Discussion. The examiner asks questions around a social topic, and you need to express opinions, give reasons, and provide examples. This part tests your ability to discuss more complex topics.",
+    "is_free": false
+  }
+]

@@ -18,7 +18,7 @@ export interface Question {
   part: number;
   question_type: QuestionType;
   sort_order: number;
-  content: MultipleChoiceContent | FillBlankContent | MatchingContent | OpenWriteContent;
+  content: MultipleChoiceContent | FillBlankContent | MatchingContent | OpenWriteContent | SpeakingContent;
   explanation_zh: string | null;
   explanation_en: string | null;
   audio_url: string | null;
@@ -74,7 +74,7 @@ export interface ExamResult {
 
 export type Level = 'ket' | 'pet' | 'fce';
 export type Skill = 'reading' | 'listening' | 'writing' | 'speaking';
-export type QuestionType = 'multiple_choice' | 'fill_blank' | 'matching' | 'open_write';
+export type QuestionType = 'multiple_choice' | 'fill_blank' | 'matching' | 'open_write' | 'speaking';
 export type Membership = 'free' | 'premium';
 export type PaymentMethod = 'wechat' | 'alipay';
 export type OrderStatus = 'pending' | 'paid' | 'failed';
@@ -122,4 +122,15 @@ export interface OpenWriteContent {
   prompt: string;
   word_limit?: number;
   sample_answer?: string;
+}
+
+export interface SpeakingContent {
+  stem: string;
+  prompt: string;
+  preparation_time_seconds?: number;
+  speaking_time_seconds?: number;
+  image_url?: string;
+  examiner_questions?: string[];
+  sample_answer?: string;
+  tips_zh?: string;
 }

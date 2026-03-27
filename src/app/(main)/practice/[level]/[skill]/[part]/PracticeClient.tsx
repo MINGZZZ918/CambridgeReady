@@ -5,9 +5,13 @@ import Link from "next/link";
 import { ArrowLeft, ArrowRight, Check, X, RotateCcw, Trophy } from "lucide-react";
 import MultipleChoice from "@/components/practice/MultipleChoice";
 import FillBlank from "@/components/practice/FillBlank";
+import WritingPrompt from "@/components/practice/WritingPrompt";
+import MatchingQuestion from "@/components/practice/MatchingQuestion";
+import SpeakingPrompt from "@/components/practice/SpeakingPrompt";
+import ListeningPlayer from "@/components/practice/ListeningPlayer";
 import ExplanationPanel from "@/components/practice/ExplanationPanel";
 import { checkAnswer } from "@/lib/utils/scoring";
-import type { Question, MultipleChoiceContent, FillBlankContent } from "@/types";
+import type { Question, MultipleChoiceContent, FillBlankContent, OpenWriteContent, MatchingContent, SpeakingContent } from "@/types";
 import type { PartInfo } from "@/lib/utils/levels";
 
 interface Props {
@@ -30,16 +34,21 @@ export default function PracticeClient({
   part,
 }: Props) {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [answers, setAnswers] = useState<Record<number, string>>({});
+  const [answers, setAnswers] = useState<Record<number, string | Record<string, string>>>({});
   const [submitted, setSubmitted] = useState<Record<number, boolean>>({});
   const [showSummary, setShowSummary] = useState(false);
 
   const currentQuestion = questions[currentIndex];
   const total = questions.length;
   const progress = total > 0 ? ((currentIndex + 1) / total) * 100 : 0;
+  const isAllSelfEval = questions.every((q) => q.question_type === "open_write" || q.question_type === "speaking");
+  const hasSpeaking = questions.some((q) => q.question_type === "speaking");
 
   const results = useMemo(() => {
     if (!showSummary) return null;
+    if (isAllSelfEval) {
+      return { correct: 0, total, percentage: 0 };
+    }
     let correct = 0;
     questions.forEach((q, i) => {
       if (answers[i] !== undefined && checkAnswer(q, answers[i])) {
@@ -47,7 +56,7 @@ export default function PracticeClient({
       }
     });
     return { correct, total, percentage: Math.round((correct / total) * 100) };
-  }, [showSummary, questions, answers, total]);
+  }, [showSummary, questions, answers, total, isAllSelfEval]);
 
   // Save results to Supabase when practice is completed
   const savedRef = useRef(false);
@@ -55,17 +64,21 @@ export default function PracticeClient({
     if (!showSummary || savedRef.current) return;
     savedRef.current = true;
 
-    const answerRecords = questions.map((q, i) => ({
-      question_id: q.id,
-      user_answer: answers[i] ?? "",
-      is_correct: answers[i] !== undefined && checkAnswer(q, answers[i]),
-      question_snapshot: {
-        question_type: q.question_type,
-        content: q.content,
-        explanation_zh: q.explanation_zh,
-        explanation_en: q.explanation_en,
-      },
-    }));
+    const answerRecords = questions.map((q, i) => {
+      const raw = answers[i];
+      const serialized = typeof raw === "object" && raw !== null ? JSON.stringify(raw) : (raw ?? "");
+      return {
+        question_id: q.id,
+        user_answer: serialized,
+        is_correct: raw !== undefined && checkAnswer(q, raw),
+        question_snapshot: {
+          question_type: q.question_type,
+          content: q.content,
+          explanation_zh: q.explanation_zh,
+          explanation_en: q.explanation_en,
+        },
+      };
+    });
 
     fetch("/api/practice", {
       method: "POST",
@@ -123,24 +136,34 @@ export default function PracticeClient({
             练习完成！
           </h2>
 
-          <div className="mt-8 flex items-center justify-center gap-12">
-            <div>
-              <div
-                className="text-4xl font-bold"
-                style={{ fontFamily: "var(--font-display)", color: levelInfo.color }}
-              >
-                {results.percentage}%
-              </div>
-              <div className="mt-1 text-sm text-text-secondary">正确率</div>
+          {isAllSelfEval ? (
+            <div className="mt-8 rounded-[--radius-sm] bg-bg p-6">
+              <p className="text-[15px] text-text-secondary leading-relaxed">
+                {hasSpeaking
+                  ? "口语练习完成！请对照每道题的参考回答进行自我评估。注意检查：发音是否清晰、内容是否完整、语法是否正确。"
+                  : "写作练习完成！请对照每道题的参考范文进行自我评估。注意检查：内容是否完整回答了所有问题、语法和拼写是否正确、用词是否恰当。"}
+              </p>
             </div>
-            <div className="h-12 w-px bg-border" />
-            <div>
-              <div className="text-4xl font-bold" style={{ fontFamily: "var(--font-display)" }}>
-                {results.correct}/{results.total}
+          ) : (
+            <div className="mt-8 flex items-center justify-center gap-12">
+              <div>
+                <div
+                  className="text-4xl font-bold"
+                  style={{ fontFamily: "var(--font-display)", color: levelInfo.color }}
+                >
+                  {results.percentage}%
+                </div>
+                <div className="mt-1 text-sm text-text-secondary">正确率</div>
               </div>
-              <div className="mt-1 text-sm text-text-secondary">答对题数</div>
+              <div className="h-12 w-px bg-border" />
+              <div>
+                <div className="text-4xl font-bold" style={{ fontFamily: "var(--font-display)" }}>
+                  {results.correct}/{results.total}
+                </div>
+                <div className="mt-1 text-sm text-text-secondary">答对题数</div>
+              </div>
             </div>
-          </div>
+          )}
 
           <div className="mt-10 flex flex-col gap-3 sm:flex-row sm:justify-center">
             <button
@@ -186,8 +209,22 @@ export default function PracticeClient({
   };
 
   const isSubmitted = !!submitted[currentIndex];
-  const hasAnswer = answers[currentIndex] !== undefined && answers[currentIndex] !== "";
-  const isCorrect = isSubmitted && currentQuestion && checkAnswer(currentQuestion, answers[currentIndex]);
+  const currentAnswer = answers[currentIndex];
+  const isMatching = currentQuestion?.question_type === "matching";
+  const hasAnswer = isMatching
+    ? typeof currentAnswer === "object" && currentAnswer !== null && Object.keys(currentAnswer).length > 0
+    : currentAnswer !== undefined && currentAnswer !== "";
+  const isOpenWrite = currentQuestion?.question_type === "open_write";
+  const isSpeaking = currentQuestion?.question_type === "speaking";
+  const openWriteWordCount = isOpenWrite && typeof currentAnswer === "string"
+    ? currentAnswer.trim().split(/\s+/).filter(Boolean).length
+    : 0;
+  const canSubmit = isSpeaking
+    ? currentAnswer === "recorded"
+    : isOpenWrite
+      ? openWriteWordCount >= 10
+      : hasAnswer;
+  const isCorrect = isSubmitted && currentQuestion && checkAnswer(currentQuestion, currentAnswer);
 
   return (
     <div className="mx-auto max-w-3xl px-6 py-8">
@@ -226,11 +263,21 @@ export default function PracticeClient({
       <div className="mt-8">
         {currentQuestion && (
           <div className="animate-fade-in" key={currentIndex}>
+            {/* Listening player */}
+            {currentQuestion.audio_url && (
+              <div className="mb-6">
+                <ListeningPlayer
+                  audioUrl={currentQuestion.audio_url}
+                  levelColor={levelInfo.color}
+                />
+              </div>
+            )}
+
             {/* Question type renderer */}
             {currentQuestion.question_type === "multiple_choice" && (
               <MultipleChoice
                 content={currentQuestion.content as MultipleChoiceContent}
-                selectedAnswer={answers[currentIndex] ?? null}
+                selectedAnswer={(answers[currentIndex] as string) ?? null}
                 submitted={isSubmitted}
                 onSelect={(answer) =>
                   setAnswers((prev) => ({ ...prev, [currentIndex]: answer }))
@@ -240,16 +287,46 @@ export default function PracticeClient({
             {currentQuestion.question_type === "fill_blank" && (
               <FillBlank
                 content={currentQuestion.content as FillBlankContent}
-                userAnswer={answers[currentIndex] ?? ""}
+                userAnswer={(answers[currentIndex] as string) ?? ""}
                 submitted={isSubmitted}
                 onChange={(answer) =>
                   setAnswers((prev) => ({ ...prev, [currentIndex]: answer }))
                 }
               />
             )}
+            {currentQuestion.question_type === "open_write" && (
+              <WritingPrompt
+                content={currentQuestion.content as OpenWriteContent}
+                userAnswer={(answers[currentIndex] as string) ?? ""}
+                submitted={isSubmitted}
+                onChange={(answer) =>
+                  setAnswers((prev) => ({ ...prev, [currentIndex]: answer }))
+                }
+              />
+            )}
+            {currentQuestion.question_type === "matching" && (
+              <MatchingQuestion
+                content={currentQuestion.content as MatchingContent}
+                userMatches={(answers[currentIndex] as Record<string, string>) ?? {}}
+                submitted={isSubmitted}
+                onChange={(matches) =>
+                  setAnswers((prev) => ({ ...prev, [currentIndex]: matches }))
+                }
+              />
+            )}
+            {currentQuestion.question_type === "speaking" && (
+              <SpeakingPrompt
+                content={currentQuestion.content as SpeakingContent}
+                submitted={isSubmitted}
+                onRecordingComplete={() =>
+                  setAnswers((prev) => ({ ...prev, [currentIndex]: "recorded" }))
+                }
+                levelColor={levelInfo.color}
+              />
+            )}
 
             {/* Result indicator */}
-            {isSubmitted && (
+            {isSubmitted && currentQuestion.question_type !== "open_write" && currentQuestion.question_type !== "speaking" && (
               <div
                 className={`mt-6 flex items-center gap-3 rounded-[--radius-md] p-4 ${
                   isCorrect ? "bg-ket-light" : "bg-red-50"
@@ -274,6 +351,26 @@ export default function PracticeClient({
                     </span>
                   </>
                 )}
+              </div>
+            )}
+            {isSubmitted && currentQuestion.question_type === "open_write" && (
+              <div className="mt-6 flex items-center gap-3 rounded-[--radius-md] bg-blue-light p-4">
+                <div className="flex h-8 w-8 items-center justify-center rounded-full bg-blue text-white">
+                  <Check size={16} />
+                </div>
+                <span className="text-[15px] font-medium text-blue">
+                  已提交，请对照范文自评
+                </span>
+              </div>
+            )}
+            {isSubmitted && currentQuestion.question_type === "speaking" && (
+              <div className="mt-6 flex items-center gap-3 rounded-[--radius-md] bg-blue-light p-4">
+                <div className="flex h-8 w-8 items-center justify-center rounded-full bg-blue text-white">
+                  <Check size={16} />
+                </div>
+                <span className="text-[15px] font-medium text-blue">
+                  已提交，请对照参考回答自评
+                </span>
               </div>
             )}
 
@@ -304,9 +401,9 @@ export default function PracticeClient({
         {!isSubmitted ? (
           <button
             onClick={handleSubmit}
-            disabled={!hasAnswer}
+            disabled={!canSubmit}
             className="inline-flex items-center gap-2 rounded-[--radius-pill] px-6 py-2.5 text-sm font-medium text-white transition-all active:scale-[0.97] disabled:opacity-40 disabled:pointer-events-none"
-            style={{ backgroundColor: hasAnswer ? levelInfo.color : undefined }}
+            style={{ backgroundColor: canSubmit ? levelInfo.color : undefined }}
           >
             提交答案
           </button>
