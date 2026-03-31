@@ -6,19 +6,19 @@ import CheckoutButtons from "@/components/payment/CheckoutButtons";
 import type { MembershipInfo } from "./page";
 
 const FREE_FEATURES = [
-  "每级别 1 套样卷",
-  "考纲解读与 FAQ",
+  "PDF 资料下载",
+  "听力音频",
   "核心词汇表",
-  "每周推送 3 道题",
+  "Writing / Speaking 在线练习（无 AI 评估）",
 ];
 
 const PREMIUM_FEATURES = [
-  "全部 2300+ 练习题",
-  "21 套完整模拟卷",
-  "中英双语详细解析",
-  "错题本自动收录",
-  "全部听力音频",
-  "学习报告",
+  "AI 写作批改（剑桥 4 维评分）",
+  "AI 口语评估（语音转写 + 4 维评分）",
+  "逐句批注与改进建议",
+  "中英双语反馈",
+  "AI 改进版范文 / 回答",
+  "全部免费资料",
 ];
 
 interface Props {
@@ -113,7 +113,7 @@ export default function PricingPageContent({ membershipInfo }: Props) {
 
             <h3 className="text-base font-semibold text-text-primary">高级会员</h3>
             <p className="mt-1.5 text-sm text-text-secondary">
-              全量题库 + 系统备考，一站式搞定
+              AI 写作批改 + AI 口语评估
             </p>
 
             <div className="mt-6 flex items-baseline gap-1">

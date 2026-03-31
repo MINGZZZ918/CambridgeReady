@@ -1,27 +1,11 @@
 import {
-  BookOpen,
-  ClipboardList,
   PenLine,
   Mic,
-  BarChart3,
-  Sparkles,
+  Download,
+  Award,
 } from "lucide-react";
 
 const FEATURES = [
-  {
-    icon: BookOpen,
-    title: "分项刷题",
-    description:
-      "按 Reading、Listening、Writing、Speaking 分项练习，逐一突破每个 Part。",
-    accent: "bg-blue-light text-blue",
-  },
-  {
-    icon: ClipboardList,
-    title: "完整模考",
-    description:
-      "还原真实考试的时间与题量，实时计时，交卷后立即出分并查看详细解析。",
-    accent: "bg-ket-light text-ket",
-  },
   {
     icon: PenLine,
     title: "AI 写作批改",
@@ -32,26 +16,25 @@ const FEATURES = [
   },
   {
     icon: Mic,
-    title: "AI 口语模拟",
+    title: "AI 口语评估",
     description:
-      "AI 考官全真模拟口语考试流程，语音识别 + 实时评分，随时随地练口语。",
+      "语音转写 + 四维评分（语法词汇、话语管理、发音、互动交际），AI 生成改进版回答。",
     tag: "高级会员",
     accent: "bg-fce-light text-fce",
   },
   {
-    icon: BarChart3,
-    title: "学习报告",
+    icon: Download,
+    title: "免费资料下载",
     description:
-      "各技能正确率、模考成绩趋势、连续学习天数，全方位追踪备考进度。",
+      "阅读练习 PDF、听力音频、核心词汇表，覆盖三个级别，注册即可免费下载。",
     accent: "bg-blue-light text-blue",
   },
   {
-    icon: Sparkles,
-    title: "AI 智能出题",
+    icon: Award,
+    title: "覆盖三大级别",
     description:
-      "基于你的错题数据，识别薄弱知识点，自动生成针对性练习题，精准提分。",
-    tag: "高级会员",
-    accent: "bg-pet-light text-pet",
+      "KET (A2)、PET (B1)、FCE (B2) 三个级别全覆盖，Writing 和 Speaking 在线练习。",
+    accent: "bg-ket-light text-ket",
   },
 ];
 
@@ -68,15 +51,15 @@ export default function Features() {
             className="mt-3 text-[clamp(1.75rem,3.5vw,2.75rem)] leading-tight tracking-tight"
             style={{ fontFamily: "var(--font-display)" }}
           >
-            一站式备考，比线下培训更高效
+            AI 驱动的剑桥英语备考
           </h2>
           <p className="mt-4 text-lg text-text-secondary leading-relaxed">
-            年费 ¥199 起，价格仅为线下培训的 1/20
+            免费资料 + AI 写作批改 + AI 口语评估
           </p>
         </div>
 
         {/* Feature grid */}
-        <div className="mx-auto mt-16 grid max-w-5xl gap-px overflow-hidden rounded-[--radius-md] border border-border bg-border sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mx-auto mt-16 grid max-w-5xl gap-px overflow-hidden rounded-[--radius-md] border border-border bg-border sm:grid-cols-2 lg:grid-cols-2">
           {FEATURES.map((feature) => (
             <div
               key={feature.title}

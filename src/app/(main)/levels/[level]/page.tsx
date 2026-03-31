@@ -1,11 +1,10 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowRight, BookOpen, Headphones, PenLine, Mic, Lock, FileText } from "lucide-react";
+import { ArrowRight, BookOpen, Headphones, PenLine, Mic, Download } from "lucide-react";
 import { LEVEL_MAP } from "@/lib/utils/constants";
 import { getPartsForLevel } from "@/lib/utils/levels";
 import { createClient } from "@/lib/supabase/server";
 import { getEffectiveMembership } from "@/lib/utils/membership";
-import { getExamsByLevel } from "@/data/mock-exams";
 import type { Skill } from "@/types";
 
 const SKILL_META: Record<Skill, { icon: typeof BookOpen; label: string; labelZh: string }> = {
@@ -37,7 +36,6 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
   }
 
   const isFreeUser = membership === "free";
-  const skills: Skill[] = ["reading", "listening", "writing", "speaking"];
 
   // Fetch user progress for this level
   const partProgress: Record<string, { total: number; correct: number }> = {};
@@ -77,19 +75,17 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
         {levelInfo.labelZh} 备考
       </h1>
       <p className="mt-2 text-text-secondary">
-        选择技能和 Part，开始分项练习
+        下载备考资料，体验 AI 写作批改和口语评估
       </p>
 
       {/* Skills sections */}
       <div className="mt-12 space-y-14">
-        {skills.map((skill) => {
+        {/* Reading & Listening — link to resources */}
+        {(["reading", "listening"] as Skill[]).map((skill) => {
           const meta = SKILL_META[skill];
-          const parts = getPartsForLevel(level, skill);
           const Icon = meta.icon;
-
           return (
             <section key={skill}>
-              {/* Skill header */}
               <div className="flex items-center gap-3">
                 <div
                   className="flex h-10 w-10 items-center justify-center rounded-xl"
@@ -105,11 +101,57 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
                 </div>
               </div>
 
-              {/* Parts grid */}
+              <Link
+                href="/resources"
+                className="mt-5 flex items-center gap-5 rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all hover:shadow-sm hover:border-border/80"
+              >
+                <div
+                  className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl"
+                  style={{ backgroundColor: levelInfo.lightBg }}
+                >
+                  <Download size={22} style={{ color: levelInfo.color }} />
+                </div>
+                <div className="flex-1">
+                  <div className="font-medium text-text-primary">
+                    下载 {meta.labelZh} 练习资料
+                  </div>
+                  <div className="mt-0.5 text-sm text-text-secondary">
+                    PDF 练习材料{skill === "listening" ? "和配套音频" : ""}，免费下载
+                  </div>
+                </div>
+                <ArrowRight size={16} className="text-text-tertiary" />
+              </Link>
+            </section>
+          );
+        })}
+
+        {/* Writing & Speaking — keep practice grids */}
+        {(["writing", "speaking"] as Skill[]).map((skill) => {
+          const meta = SKILL_META[skill];
+          const parts = getPartsForLevel(level, skill);
+          const Icon = meta.icon;
+
+          return (
+            <section key={skill}>
+              <div className="flex items-center gap-3">
+                <div
+                  className="flex h-10 w-10 items-center justify-center rounded-xl"
+                  style={{ backgroundColor: levelInfo.lightBg }}
+                >
+                  <Icon size={20} style={{ color: levelInfo.color }} />
+                </div>
+                <div>
+                  <h2 className="text-lg font-semibold tracking-tight">
+                    {meta.label}
+                  </h2>
+                  <p className="text-sm text-text-secondary">
+                    {meta.labelZh} · {isFreeUser ? "在线练习" : "AI 评估可用"}
+                  </p>
+                </div>
+              </div>
+
               <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {parts.map((part) => {
-                  const isAvailable = skill === "reading" || skill === "listening" || skill === "writing" || skill === "speaking";
-                  const isLocked = isFreeUser && part.part > 1 && isAvailable;
                   const progress = partProgress[`${skill}:${part.part}`];
                   const progressPct = progress && progress.total > 0
                     ? Math.round((progress.correct / progress.total) * 100)
@@ -117,22 +159,12 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
                   return (
                     <div
                       key={part.part}
-                      className={`group relative flex flex-col rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all ${
-                        isAvailable && !isLocked ? "hover:shadow-sm hover:border-border/80" : "opacity-60"
-                      }`}
+                      className="group relative flex flex-col rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all hover:shadow-sm hover:border-border/80"
                     >
                       <div className="flex items-center justify-between">
                         <span className="text-sm font-medium text-text-primary">
                           Part {part.part}
                         </span>
-                        {(!isAvailable || isLocked) && (
-                          <Lock size={14} className="text-text-tertiary" />
-                        )}
-                        {isAvailable && !isLocked && part.part === 1 && isFreeUser && (
-                          <span className="rounded-[--radius-pill] bg-ket-light px-2 py-0.5 text-xs font-medium text-ket">
-                            免费
-                          </span>
-                        )}
                       </div>
 
                       <h3 className="mt-2 text-[15px] font-medium text-text-primary">
@@ -160,26 +192,14 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
                         <span className="text-sm text-text-tertiary">
                           {part.count} 题
                         </span>
-
-                        {isAvailable && !isLocked ? (
-                          <Link
-                            href={`/practice/${level}/${skill}/${part.part}`}
-                            className="inline-flex items-center gap-1 text-sm font-medium transition-all group-hover:gap-2"
-                            style={{ color: levelInfo.color }}
-                          >
-                            开始练习
-                            <ArrowRight size={14} />
-                          </Link>
-                        ) : isLocked ? (
-                          <Link
-                            href="/pricing"
-                            className="text-sm text-text-tertiary hover:text-blue transition-colors"
-                          >
-                            升级解锁 →
-                          </Link>
-                        ) : (
-                          <span className="text-sm text-text-tertiary">即将开放</span>
-                        )}
+                        <Link
+                          href={`/practice/${level}/${skill}/${part.part}`}
+                          className="inline-flex items-center gap-1 text-sm font-medium transition-all group-hover:gap-2"
+                          style={{ color: levelInfo.color }}
+                        >
+                          开始练习
+                          <ArrowRight size={14} />
+                        </Link>
                       </div>
                     </div>
                   );
@@ -189,58 +209,6 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
           );
         })}
       </div>
-
-      {/* Mock exams section */}
-      {(() => {
-        const exams = getExamsByLevel(level);
-        if (exams.length === 0) return null;
-        return (
-          <div className="mt-14">
-            <div className="flex items-center gap-3">
-              <div
-                className="flex h-10 w-10 items-center justify-center rounded-xl"
-                style={{ backgroundColor: levelInfo.lightBg }}
-              >
-                <FileText size={20} style={{ color: levelInfo.color }} />
-              </div>
-              <div>
-                <h2 className="text-lg font-semibold tracking-tight">Mock Exams</h2>
-                <p className="text-sm text-text-secondary">模拟考试</p>
-              </div>
-            </div>
-
-            <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {exams.map((exam) => (
-                <Link
-                  key={exam.id}
-                  href={`/exam/${exam.id}`}
-                  className="group flex flex-col rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all hover:shadow-sm hover:border-border/80"
-                >
-                  <div className="flex items-center justify-between">
-                    <span className="text-sm font-medium text-text-primary">{exam.title}</span>
-                    {exam.isFree && (
-                      <span className="rounded-[--radius-pill] bg-ket-light px-2 py-0.5 text-xs font-medium text-ket">
-                        免费
-                      </span>
-                    )}
-                  </div>
-                  <p className="mt-2 flex-1 text-sm text-text-secondary">{exam.description}</p>
-                  <div className="mt-5 flex items-center justify-between">
-                    <span className="text-sm text-text-tertiary">{exam.timeLimitMinutes} 分钟</span>
-                    <span
-                      className="inline-flex items-center gap-1 text-sm font-medium transition-all group-hover:gap-2"
-                      style={{ color: levelInfo.color }}
-                    >
-                      开始考试
-                      <ArrowRight size={14} />
-                    </span>
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </div>
-        );
-      })()}
     </div>
   );
 }

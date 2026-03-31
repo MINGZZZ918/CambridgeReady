@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Suspense } from "react";
 import { createClient } from "@/lib/supabase/server";
-import { BookOpen, Target, Clock, ArrowRight, TrendingUp, Zap, Check, X, Crown, AlertTriangle, FileText } from "lucide-react";
+import { BookOpen, Target, Clock, ArrowRight, PenLine, Mic, Check, X, Crown, AlertTriangle, Download } from "lucide-react";
 import { LEVELS } from "@/lib/utils/constants";
 import { getMembershipStatus, getDaysUntilExpiry, formatExpiryDate } from "@/lib/utils/membership";
 import PaymentSuccessBanner from "@/components/payment/PaymentSuccessBanner";
@@ -120,7 +120,7 @@ export default async function DashboardPage() {
           </div>
           <div className="flex-1">
             <p className="text-sm font-semibold text-text-primary">升级为高级会员</p>
-            <p className="mt-0.5 text-sm text-text-secondary">解锁全部题库和模拟考试</p>
+            <p className="mt-0.5 text-sm text-text-secondary">解锁 AI 写作批改和口语评估</p>
           </div>
           <ArrowRight size={16} className="text-blue" />
         </Link>
@@ -251,39 +251,39 @@ export default async function DashboardPage() {
             className="group flex items-center gap-5 rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all hover:shadow-sm hover:border-pet/30"
           >
             <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-pet-light">
-              <Zap size={22} className="text-pet" />
+              <PenLine size={22} className="text-pet" />
             </div>
             <div className="flex-1">
-              <div className="font-medium">PET 阅读练习</div>
-              <div className="mt-0.5 text-sm text-text-secondary">最热门的备考起点</div>
+              <div className="font-medium">AI 写作批改</div>
+              <div className="mt-0.5 text-sm text-text-secondary">剑桥标准四维评分</div>
             </div>
             <ArrowRight size={16} className="text-text-tertiary transition-transform group-hover:translate-x-1" />
           </Link>
 
           <Link
-            href="/past-papers"
+            href="/levels/pet"
             className="group flex items-center gap-5 rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all hover:shadow-sm hover:border-fce/30"
           >
             <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-fce-light">
-              <FileText size={22} className="text-fce" />
+              <Mic size={22} className="text-fce" />
             </div>
             <div className="flex-1">
-              <div className="font-medium">真题专区</div>
-              <div className="mt-0.5 text-sm text-text-secondary">历年真题实战演练</div>
+              <div className="font-medium">AI 口语评估</div>
+              <div className="mt-0.5 text-sm text-text-secondary">语音转写 + 四维评分</div>
             </div>
             <ArrowRight size={16} className="text-text-tertiary transition-transform group-hover:translate-x-1" />
           </Link>
 
           <Link
-            href="/mistakes"
+            href="/resources"
             className="group flex items-center gap-5 rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all hover:shadow-sm hover:border-blue/30"
           >
             <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-blue-light">
-              <TrendingUp size={22} className="text-blue" />
+              <Download size={22} className="text-blue" />
             </div>
             <div className="flex-1">
-              <div className="font-medium">错题本</div>
-              <div className="mt-0.5 text-sm text-text-secondary">复习答错的题目</div>
+              <div className="font-medium">备考资料下载</div>
+              <div className="mt-0.5 text-sm text-text-secondary">PDF、音频、词汇表</div>
             </div>
             <ArrowRight size={16} className="text-text-tertiary transition-transform group-hover:translate-x-1" />
           </Link>

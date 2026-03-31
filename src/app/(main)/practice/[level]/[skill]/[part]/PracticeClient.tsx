@@ -326,6 +326,8 @@ export default function PracticeClient({
                   setAnswers((prev) => ({ ...prev, [currentIndex]: "recorded" }))
                 }
                 levelColor={levelInfo.color}
+                level={level}
+                isPremium={isPremium}
               />
             )}
 

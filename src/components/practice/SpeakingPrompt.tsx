@@ -1,14 +1,16 @@
 "use client";
 
 import { useState, useRef, useEffect, useCallback } from "react";
-import { Mic, MicOff, Square, Play, Pause, RotateCcw, ChevronRight, AlertCircle } from "lucide-react";
-import type { SpeakingContent } from "@/types";
+import { Mic, MicOff, Square, Play, Pause, RotateCcw, ChevronRight, AlertCircle, Sparkles, Loader2, ChevronDown } from "lucide-react";
+import type { SpeakingContent, SpeakingEvaluationResult } from "@/types";
 
 interface Props {
   content: SpeakingContent;
   submitted: boolean;
   onRecordingComplete: () => void;
   levelColor: string;
+  level?: string;
+  isPremium?: boolean;
 }
 
 type Phase = "idle" | "preparing" | "recording" | "recorded";
@@ -21,7 +23,7 @@ function getSupportedMimeType(): string {
   return "";
 }
 
-export default function SpeakingPrompt({ content, submitted, onRecordingComplete, levelColor }: Props) {
+export default function SpeakingPrompt({ content, submitted, onRecordingComplete, levelColor, level, isPremium }: Props) {
   const [phase, setPhase] = useState<Phase>("idle");
   const [prepCountdown, setPrepCountdown] = useState(0);
   const [recordingTime, setRecordingTime] = useState(0);
@@ -34,9 +36,16 @@ export default function SpeakingPrompt({ content, submitted, onRecordingComplete
   const [currentExaminerQ, setCurrentExaminerQ] = useState(0);
   const [examinerRecordings, setExaminerRecordings] = useState<Record<number, string>>({});
 
+  // AI evaluation state
+  const [evaluation, setEvaluation] = useState<SpeakingEvaluationResult | null>(null);
+  const [evaluating, setEvaluating] = useState(false);
+  const [evaluationError, setEvaluationError] = useState<string | null>(null);
+  const [showImproved, setShowImproved] = useState(false);
+
   const mediaRecorderRef = useRef<MediaRecorder | null>(null);
   const streamRef = useRef<MediaStream | null>(null);
   const chunksRef = useRef<Blob[]>([]);
+  const audioBlobRef = useRef<Blob | null>(null);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const animFrameRef = useRef<number | null>(null);
@@ -85,6 +94,7 @@ export default function SpeakingPrompt({ content, submitted, onRecordingComplete
       recorder.onstop = () => {
         const blob = new Blob(chunksRef.current, { type: mimeType || "audio/webm" });
         const url = URL.createObjectURL(blob);
+        audioBlobRef.current = blob;
 
         if (isMultiQuestion) {
           setExaminerRecordings((prev) => {
@@ -259,6 +269,51 @@ export default function SpeakingPrompt({ content, submitted, onRecordingComplete
 
   const timeWarning = speakingTime - recordingTime <= 10 && phase === "recording";
 
+  const handleEvaluation = async () => {
+    if (!audioBlobRef.current) return;
+    setEvaluating(true);
+    setEvaluationError(null);
+    try {
+      const formData = new FormData();
+      formData.append("audio", audioBlobRef.current, "recording.webm");
+      formData.append("level", level ?? "pet");
+      formData.append("prompt", `${content.stem}\n\n${content.prompt}`);
+      if (content.examiner_questions && content.examiner_questions.length > 0) {
+        formData.append("part", content.examiner_questions.join("\n"));
+      }
+
+      const res = await fetch("/api/ai/speaking-evaluation", {
+        method: "POST",
+        body: formData,
+      });
+
+      if (!res.ok) {
+        const data = await res.json();
+        throw new Error(data.error || "评估失败");
+      }
+
+      const result: SpeakingEvaluationResult = await res.json();
+      setEvaluation(result);
+    } catch (err) {
+      setEvaluationError(err instanceof Error ? err.message : "评估失败，请稍后重试");
+    } finally {
+      setEvaluating(false);
+    }
+  };
+
+  const DIMENSION_LABELS: { key: keyof SpeakingEvaluationResult["scores"]; label: string; desc: string }[] = [
+    { key: "grammar_vocabulary", label: "语法词汇", desc: "Grammar & Vocabulary" },
+    { key: "discourse_management", label: "话语管理", desc: "Discourse Management" },
+    { key: "pronunciation", label: "发音", desc: "Pronunciation" },
+    { key: "interactive_communication", label: "互动交际", desc: "Interactive Communication" },
+  ];
+
+  const ANNOTATION_STYLES = {
+    error: { bg: "bg-red-50", border: "border-red-200", dot: "bg-red-400", label: "错误" },
+    improvement: { bg: "bg-amber-50", border: "border-amber-200", dot: "bg-amber-400", label: "建议" },
+    good: { bg: "bg-ket-light", border: "border-ket/30", dot: "bg-ket", label: "亮点" },
+  };
+
   // Submitted view: show playback + sample answer
   if (submitted) {
     return (
@@ -328,6 +383,176 @@ export default function SpeakingPrompt({ content, submitted, onRecordingComplete
                 <p className="text-[15px] leading-relaxed text-text-primary whitespace-pre-line">
                   {content.sample_answer}
                 </p>
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* AI Speaking Evaluation */}
+        {!evaluation && (
+          <div className="rounded-[--radius-md] border-2 border-fce/30 bg-fce-light/50 p-6">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2">
+                <Sparkles size={18} className="text-fce" />
+                <h4 className="text-[15px] font-semibold text-fce">AI 口语评估</h4>
+              </div>
+              {isPremium ? (
+                <button
+                  onClick={handleEvaluation}
+                  disabled={evaluating}
+                  className="inline-flex items-center gap-2 rounded-[--radius-pill] bg-fce px-4 py-2 text-sm font-medium text-white hover:bg-fce/90 disabled:opacity-60"
+                >
+                  {evaluating ? (
+                    <>
+                      <Loader2 size={14} className="animate-spin" />
+                      评估中...
+                    </>
+                  ) : (
+                    "开始评估"
+                  )}
+                </button>
+              ) : (
+                <a
+                  href="/pricing"
+                  className="inline-flex items-center gap-1.5 text-sm font-medium text-fce hover:underline"
+                >
+                  升级解锁
+                </a>
+              )}
+            </div>
+            <p className="mt-2 text-sm text-text-secondary">
+              {isPremium
+                ? "AI 将转写你的录音并从语法词汇、话语管理、发音、互动交际四个维度评分"
+                : "高级会员可使用 AI 评估，获得语音转写和剑桥标准四维评分"}
+            </p>
+            {evaluationError && (
+              <p className="mt-3 text-sm text-red-500">{evaluationError}</p>
+            )}
+          </div>
+        )}
+
+        {/* AI Evaluation result */}
+        {evaluation && (
+          <div className="space-y-4">
+            {/* Transcript */}
+            <div className="rounded-[--radius-md] border border-border bg-bg-card p-5">
+              <h4 className="text-[15px] font-semibold text-text-primary mb-3">语音转写</h4>
+              <p className="text-[14px] leading-relaxed text-text-primary whitespace-pre-line bg-bg rounded-[--radius-sm] p-4">
+                {evaluation.transcript}
+              </p>
+            </div>
+
+            {/* Score card */}
+            <div className="rounded-[--radius-md] border-2 border-fce/30 bg-fce-light/50 p-6">
+              <div className="flex items-center gap-2 mb-4">
+                <Sparkles size={18} className="text-fce" />
+                <h4 className="text-[15px] font-semibold text-fce">AI 评分</h4>
+              </div>
+
+              <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
+                {DIMENSION_LABELS.map(({ key, label, desc }) => {
+                  const score = evaluation.scores[key];
+                  return (
+                    <div
+                      key={key}
+                      className="rounded-[--radius-sm] bg-white/70 p-3 text-center"
+                    >
+                      <div
+                        className="text-2xl font-bold"
+                        style={{ fontFamily: "var(--font-display)", color: "#8B5CF6" }}
+                      >
+                        {score}
+                        <span className="text-sm font-normal text-text-tertiary">/5</span>
+                      </div>
+                      <div className="mt-1 text-xs font-medium text-text-primary">{label}</div>
+                      <div className="text-[10px] text-text-tertiary">{desc}</div>
+                    </div>
+                  );
+                })}
+              </div>
+
+              {/* Total */}
+              <div className="mt-4 flex items-center justify-center gap-2 rounded-[--radius-sm] bg-white/70 py-3">
+                <span className="text-sm font-medium text-text-secondary">总分</span>
+                <span
+                  className="text-3xl font-bold"
+                  style={{ fontFamily: "var(--font-display)", color: "#8B5CF6" }}
+                >
+                  {Object.values(evaluation.scores).reduce((a, b) => a + b, 0)}
+                </span>
+                <span className="text-sm text-text-tertiary">/ 20</span>
+              </div>
+            </div>
+
+            {/* Overall feedback */}
+            <div className="rounded-[--radius-md] border border-border bg-bg-card p-5">
+              <h4 className="text-[15px] font-semibold text-text-primary mb-3">总体评价</h4>
+              <p className="text-[14px] leading-relaxed text-text-primary">
+                {evaluation.overall_feedback_zh}
+              </p>
+              <p className="mt-2 text-[13px] leading-relaxed text-text-secondary italic">
+                {evaluation.overall_feedback_en}
+              </p>
+            </div>
+
+            {/* Annotations */}
+            {evaluation.annotations.length > 0 && (
+              <div className="rounded-[--radius-md] border border-border bg-bg-card p-5">
+                <h4 className="text-[15px] font-semibold text-text-primary mb-3">逐句批注</h4>
+                <div className="space-y-2.5">
+                  {evaluation.annotations.map((ann, i) => {
+                    const style = ANNOTATION_STYLES[ann.type];
+                    return (
+                      <div
+                        key={i}
+                        className={`rounded-[--radius-sm] border ${style.border} ${style.bg} p-3`}
+                      >
+                        <div className="flex items-center gap-2 mb-1.5">
+                          <span className={`h-2 w-2 rounded-full ${style.dot}`} />
+                          <span className="text-xs font-medium text-text-secondary">
+                            {style.label}
+                          </span>
+                        </div>
+                        <p className="text-[13px] text-text-primary">
+                          &ldquo;{ann.original}&rdquo;
+                        </p>
+                        {ann.suggestion && (
+                          <p className="mt-1 text-[13px] text-ket font-medium">
+                            → {ann.suggestion}
+                          </p>
+                        )}
+                        <p className="mt-1 text-[12px] text-text-secondary">
+                          {ann.comment_zh}
+                        </p>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+
+            {/* Improved response */}
+            {evaluation.improved_response && (
+              <div className="rounded-[--radius-md] border-2 border-ket/30 bg-ket-light/50 p-5">
+                <button
+                  onClick={() => setShowImproved(!showImproved)}
+                  className="flex w-full items-center justify-between text-left"
+                >
+                  <h4 className="text-[15px] font-semibold text-ket">
+                    AI 改进版回答
+                  </h4>
+                  <ChevronDown
+                    size={16}
+                    className={`text-ket transition-transform ${showImproved ? "rotate-180" : ""}`}
+                  />
+                </button>
+                {showImproved && (
+                  <div className="mt-3 rounded-[--radius-sm] bg-white/70 p-4">
+                    <p className="text-[15px] leading-relaxed text-text-primary whitespace-pre-line">
+                      {evaluation.improved_response}
+                    </p>
+                  </div>
+                )}
               </div>
             )}
           </div>

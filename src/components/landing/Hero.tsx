@@ -1,11 +1,11 @@
 import Link from "next/link";
-import { ArrowRight, BookOpen, Users, Award, Headphones } from "lucide-react";
+import { ArrowRight, PenLine, Mic, Award, Download } from "lucide-react";
 
 const STATS = [
-  { icon: BookOpen, value: "2300+", label: "精选题目" },
-  { icon: Users, value: "21", label: "模拟考卷" },
+  { icon: PenLine, value: "AI", label: "写作批改" },
+  { icon: Mic, value: "AI", label: "口语评估" },
   { icon: Award, value: "3", label: "级别覆盖" },
-  { icon: Headphones, value: "AI", label: "智能批改" },
+  { icon: Download, value: "免费", label: "备考资料" },
 ];
 
 export default function Hero() {
@@ -22,7 +22,7 @@ export default function Hero() {
         <div className="animate-fade-in-up">
           <div className="inline-flex items-center gap-2 rounded-[--radius-pill] border border-border bg-bg-card px-4 py-1.5 text-sm text-text-secondary shadow-[0_1px_2px_rgba(0,0,0,0.04)]">
             <span className="inline-block h-1.5 w-1.5 rounded-full bg-ket animate-pulse" />
-            面向 K12 学生的剑桥英语备考平台
+            AI 驱动的剑桥英语备考平台
           </div>
         </div>
 
@@ -38,7 +38,7 @@ export default function Hero() {
 
         {/* Subtitle */}
         <p className="mt-6 max-w-xl text-lg leading-relaxed text-text-secondary animate-fade-in-up stagger-2">
-          系统化题库 · AI 写作批改 · 口语模拟考试
+          AI 写作批改 · AI 口语评估 · 免费备考资料下载
           <br className="hidden sm:block" />
           覆盖 KET、PET、FCE 全级别，助你从 A2 进阶到 B2
         </p>
@@ -49,7 +49,7 @@ export default function Hero() {
             href="/register"
             className="group inline-flex items-center gap-2 rounded-[--radius-pill] bg-blue px-7 py-3.5 text-[15px] font-medium text-white transition-all hover:bg-blue-dark active:scale-[0.97]"
           >
-            免费开始练习
+            免费注册
             <ArrowRight
               size={16}
               className="transition-transform group-hover:translate-x-0.5"

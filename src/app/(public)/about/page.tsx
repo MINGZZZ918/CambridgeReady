@@ -10,17 +10,17 @@ const VALUES = [
   {
     icon: Target,
     title: "精准备考",
-    description: "所有题目严格对标剑桥英语官方题型与难度，按 Reading、Listening、Writing、Speaking 四项技能分类，帮助学生有针对性地提升。",
+    description: "所有内容严格对标剑桥英语官方题型与难度，提供 Writing 和 Speaking 在线练习，帮助学生有针对性地提升。",
   },
   {
     icon: Sparkles,
     title: "AI 驱动",
-    description: "利用 AI 技术提供写作批改、口语模拟等智能功能，让每位学生都能获得个性化的学习反馈。",
+    description: "AI 写作批改按剑桥 4 维标准评分，AI 口语评估提供语音转写和 4 维评分，让每位学生都能获得专业级的学习反馈。",
   },
   {
     icon: BookOpen,
-    title: "体系化学习",
-    description: "从分项刷题到完整模考，从错题本到学习报告，构建完整的备考闭环，让进步清晰可见。",
+    title: "免费资料",
+    description: "阅读练习 PDF、听力音频、核心词汇表免费下载，降低备考门槛，让优质资源触手可及。",
   },
   {
     icon: Users,
@@ -45,7 +45,7 @@ export default function AboutPage() {
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-text-secondary">
           CambridgeReady 是专为 K12 学生打造的剑桥英语 (KET / PET / FCE) 在线备考平台。
-          我们相信，优质的备考资源不应受限于地域和价格，每个孩子都值得更聪明的学习方式。
+          我们提供免费备考资料下载，以及 AI 写作批改和口语评估，让每个孩子都能获得专业级的学习反馈。
         </p>
       </section>
 

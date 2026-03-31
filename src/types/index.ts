@@ -135,6 +135,27 @@ export interface SpeakingContent {
   tips_zh?: string;
 }
 
+// ===== AI Evaluation Results =====
+
+export interface SpeakingEvaluationResult {
+  scores: {
+    grammar_vocabulary: number;
+    discourse_management: number;
+    pronunciation: number;
+    interactive_communication: number;
+  };
+  transcript: string;
+  overall_feedback_zh: string;
+  overall_feedback_en: string;
+  annotations: {
+    original: string;
+    suggestion: string;
+    comment_zh: string;
+    type: "error" | "improvement" | "good";
+  }[];
+  improved_response: string;
+}
+
 // ===== Past Papers =====
 
 export interface PastPaperSection {

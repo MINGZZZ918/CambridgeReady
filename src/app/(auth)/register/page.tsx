@@ -72,14 +72,14 @@ export default function RegisterPage() {
             备考之旅
           </h2>
           <p className="mt-4 max-w-sm text-base leading-relaxed text-white/50">
-            免费注册即可体验样卷和核心功能，随时升级解锁全部内容
+            免费注册即可下载备考资料，随时升级解锁 AI 写作批改和口语评估
           </p>
 
           {/* Social proof */}
           <div className="mt-10 grid grid-cols-3 gap-6">
             {[
-              { value: "2300+", label: "练习题" },
-              { value: "21套", label: "模拟卷" },
+              { value: "AI", label: "写作批改" },
+              { value: "AI", label: "口语评估" },
               { value: "3级", label: "覆盖" },
             ].map((s) => (
               <div key={s.label}>

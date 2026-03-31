@@ -10,6 +10,7 @@ const PROTECTED_PATHS = [
   "/mistakes",
   "/progress",
   "/activate",
+  "/resources",
 ];
 
 export async function updateSession(request: NextRequest) {

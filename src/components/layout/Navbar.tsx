@@ -16,8 +16,7 @@ const GUEST_LINKS = [
 const AUTH_LINKS = [
   { href: "/dashboard", label: "首页" },
   { href: "/levels/pet", label: "练习" },
-  { href: "/past-papers", label: "真题" },
-  { href: "/mistakes", label: "错题本" },
+  { href: "/resources", label: "资料下载" },
   { href: "/progress", label: "学习进度" },
 ];
 

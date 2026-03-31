@@ -143,7 +143,7 @@ export default function LoginPage() {
             剑桥英语
           </h2>
           <p className="mt-4 max-w-sm text-base leading-relaxed text-white/50">
-            覆盖 KET、PET、FCE 三个级别，2300+ 练习题，21 套模拟卷
+            覆盖 KET、PET、FCE 三个级别，AI 写作批改 + AI 口语评估
           </p>
         </div>
 

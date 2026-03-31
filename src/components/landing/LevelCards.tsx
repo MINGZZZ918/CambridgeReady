@@ -8,7 +8,6 @@ const LEVELS = [
     cefr: "A2 Key",
     description: "剑桥英语入门级考试，适合小学高年级到初一学生。测试基础英语沟通能力。",
     skills: ["阅读与写作", "听力", "口语"],
-    questions: "500+",
     color: "#10B981",
     lightBg: "#ECFDF5",
     borderColor: "border-ket/20",
@@ -19,7 +18,6 @@ const LEVELS = [
     cefr: "B1 Preliminary",
     description: "中级英语考试，适合初中学生。证明能够在日常情境中使用英语进行有效交流。",
     skills: ["阅读", "写作", "听力", "口语"],
-    questions: "800+",
     color: "#F59E0B",
     lightBg: "#FFFBEB",
     borderColor: "border-pet/20",
@@ -31,7 +29,6 @@ const LEVELS = [
     cefr: "B2 First",
     description: "中高级英语考试，适合高中学生。达到 B2 水平后可衔接雅思备考。",
     skills: ["阅读与英语运用", "写作", "听力", "口语"],
-    questions: "1000+",
     color: "#8B5CF6",
     lightBg: "#F5F3FF",
     borderColor: "border-fce/20",
@@ -56,7 +53,7 @@ export default function LevelCards() {
             选择你的备考级别
           </h2>
           <p className="mt-4 text-lg text-text-secondary leading-relaxed">
-            从 KET 到 FCE，每个级别都有完整的题库、模拟卷和中英双语解析
+            从 KET 到 FCE，每个级别都有免费备考资料和 AI 写作/口语评估
           </p>
         </div>
 
@@ -110,19 +107,13 @@ export default function LevelCards() {
               {/* Bottom */}
               <div className="mt-8 flex items-center justify-between border-t border-border-light pt-6">
                 <span className="text-sm text-text-secondary">
-                  <span
-                    className="text-lg font-semibold text-text-primary"
-                    style={{ fontFamily: "var(--font-display)" }}
-                  >
-                    {level.questions}
-                  </span>{" "}
-                  练习题
+                  免费资料 + AI 评估
                 </span>
                 <span
                   className="inline-flex items-center gap-1 text-sm font-medium transition-all group-hover:gap-2"
                   style={{ color: level.color }}
                 >
-                  开始练习
+                  查看详情
                   <ArrowRight size={14} />
                 </span>
               </div>

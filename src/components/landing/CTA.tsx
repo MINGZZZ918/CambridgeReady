@@ -20,9 +20,7 @@ export default function CTA() {
               开始你的剑桥英语备考之旅
             </h2>
             <p className="mx-auto mt-5 max-w-lg text-lg leading-relaxed text-white/60">
-              免费注册即可体验样卷和核心功能，
-              <br className="hidden sm:block" />
-              用 AI 助力，让备考更高效
+              免费下载备考资料，升级会员解锁 AI 写作批改和口语评估
             </p>
             <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
               <Link
