@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ket-w1-001",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 1,
+    "content": {
+      "stem": "Read the note from your English friend, Alex. Write a short reply to Alex. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Alex\n\nHi!\n\nI want to go shopping this weekend. Do you want to come with me? What shops should we go to? What time shall we meet?\n\nAlex",
+      "word_limit": 35,
+      "sample_answer": "Hi Alex,\n\nYes, I'd love to go shopping with you! We should go to the big shopping centre near the station. They have great clothes shops and a bookshop. Let's meet at 10 o'clock on Saturday morning at the bus stop.\n\nSee you then!"
+    },
+    "explanation_zh": "中文解析：这是 KET 写作 Part 1，要求写一封简短回复（25词以上）。需要回答三个问题：1）是否愿意一起去；2）应该去哪些商店；3）什么时候见面。注意保持简短、清楚，用简单的句型即可。",
+    "explanation_en": "English explanation: This is KET Writing Part 1, requiring a short reply (25+ words). You need to answer three questions: 1) if you want to go; 2) what shops to visit; 3) what time to meet. Keep it short, clear, and use simple sentence structures.",
+    "is_free": true
+  },
+  {
+    "id": "ket-w1-002",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 2,
+    "content": {
+      "stem": "Read the note from your English friend, Lucy. Write a short reply to Lucy. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Lucy\n\nHi!\n\nMy family is having a barbecue next Sunday. Would you like to come? What food should I make? Can you bring anything?\n\nLucy",
+      "word_limit": 35,
+      "sample_answer": "Hi Lucy,\n\nThat sounds great! I'd love to come to your barbecue. You should make burgers and sausages — everyone likes those. I can bring some salad and drinks.\n\nSee you Sunday!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想来；2）应该做什么食物；3）你能带什么东西来。使用简单的建议句型如 \"You should...\" 和 \"I can bring...\"。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) whether you'd like to come; 2) what food to make; 3) what you can bring. Use simple suggestion structures like 'You should...' and 'I can bring...'.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-003",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 3,
+    "content": {
+      "stem": "Read the note from your English friend, Jake. Write a short reply to Jake. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Jake\n\nHi!\n\nI'm going to start going to a sports club after school. Do you want to join? What sport would you like to do? Which day is best for you?\n\nJake",
+      "word_limit": 35,
+      "sample_answer": "Hi Jake,\n\nYes, I'd like to join the sports club! I'd love to play basketball because it's my favourite sport. Thursday is the best day for me because I don't have homework club then.\n\nSee you there!"
+    },
+    "explanation_zh": "中文解析：这封回复需要回答三个问题：1）是否想加入；2）想做什么运动；3）哪一天最合适。用简单的句子表达，如 \"I'd like to...\" 和 \"...is the best day for me because...\"。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you want to join; 2) what sport you'd like to do; 3) which day is best. Use simple expressions like 'I'd like to...' and '...is the best day for me because...'.",
+    "is_free": false
+  }
+]

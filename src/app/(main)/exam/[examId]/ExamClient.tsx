@@ -22,6 +22,7 @@ interface Props {
   timeLimitMinutes: number;
   sections: Section[];
   level: string;
+  resultBasePath?: string;
 }
 
 export default function ExamClient({
@@ -30,6 +31,7 @@ export default function ExamClient({
   timeLimitMinutes,
   sections,
   level,
+  resultBasePath,
 }: Props) {
   const router = useRouter();
   const allQuestions = sections.flatMap((s) => s.questions);
@@ -151,8 +153,8 @@ export default function ExamClient({
       }),
     }).catch(() => {});
 
-    router.push(`/exam/${examId}/result`);
-  }, [examId, title, level, sections, answers, timeLimitMinutes, secondsLeft, router, allQuestions, total]);
+    router.push(`${resultBasePath ?? "/exam"}/${examId}/result`);
+  }, [examId, title, level, sections, answers, timeLimitMinutes, secondsLeft, router, allQuestions, total, resultBasePath]);
 
   const formatTime = (secs: number) => {
     const m = Math.floor(secs / 60);

@@ -8,16 +8,16 @@ const FOOTER_LINKS = {
     { label: "会员方案", href: "/pricing" },
   ],
   资源: [
-    { label: "备考指南", href: "#" },
-    { label: "核心词汇", href: "#" },
-    { label: "写作模板", href: "#" },
-    { label: "常见问题", href: "#" },
+    { label: "备考指南", href: "/guide" },
+    { label: "核心词汇", href: "/vocabulary" },
+    { label: "写作模板", href: "/writing-templates" },
+    { label: "常见问题", href: "/faq" },
   ],
   关于: [
-    { label: "关于我们", href: "#" },
-    { label: "联系方式", href: "#" },
-    { label: "用户协议", href: "#" },
-    { label: "隐私政策", href: "#" },
+    { label: "关于我们", href: "/about" },
+    { label: "联系方式", href: "/contact" },
+    { label: "用户协议", href: "/terms" },
+    { label: "隐私政策", href: "/privacy" },
   ],
 };
 

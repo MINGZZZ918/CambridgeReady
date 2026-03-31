@@ -70,6 +70,7 @@ export default async function PracticePage({
       level={level}
       skill={skill}
       part={part}
+      isPremium={membership === "premium"}
     />
   );
 }

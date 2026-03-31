@@ -134,3 +134,24 @@ export interface SpeakingContent {
   sample_answer?: string;
   tips_zh?: string;
 }
+
+// ===== Past Papers =====
+
+export interface PastPaperSection {
+  skill: Skill;
+  part: number;
+  label: string;
+  questionCount: number;
+}
+
+export interface PastPaperDef {
+  id: string;
+  level: Level;
+  year: number;
+  session: string;
+  title: string;
+  description: string;
+  timeLimitMinutes: number;
+  isFree: boolean;
+  sections: PastPaperSection[];
+}

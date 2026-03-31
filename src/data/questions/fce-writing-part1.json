@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fce-w1-001",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 1,
+    "content": {
+      "stem": "In your English class you have been talking about the environment. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people say that individuals can do nothing to help the environment and that only governments and large companies can make a difference.\n\nDo you agree?\n\nNotes\nWrite about:\n1. recycling\n2. transport\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "It is often argued that protecting the environment is the responsibility of governments and large companies rather than individuals. However, I strongly disagree with this view, as I believe everyone can contribute to solving environmental problems.\n\nFirstly, recycling is something that individuals can easily do in their daily lives. By separating waste and reusing materials, each person can significantly reduce the amount of rubbish that ends up in landfills. If millions of people recycle, the impact can be enormous.\n\nSecondly, people can make environmentally friendly choices about transport. Instead of driving everywhere, individuals can choose to walk, cycle, or use public transport. These small changes, when adopted widely, can lead to a substantial reduction in carbon emissions.\n\nFinally, individuals can influence others by setting a good example. When people see their friends and family making sustainable choices, they are more likely to do the same. This creates a positive ripple effect throughout society.\n\nIn conclusion, while governments and companies play an important role, individuals can and should take action to protect the environment."
+    },
+    "explanation_zh": "中文解析：FCE 写作 Part 1 是必答的议论文（essay），要求 140-190 词。必须使用题目给出的所有提示点（notes），加上自己的一个观点。结构应该是：引言（表明立场）→ 主体段落（每个提示点一段）→ 结论。使用连接词如 \"Firstly\"、\"Secondly\"、\"In conclusion\" 组织文章。",
+    "explanation_en": "English explanation: FCE Writing Part 1 is a compulsory essay (140-190 words). You must use ALL the notes given plus add your own idea. Structure: introduction (state your position) → body paragraphs (one per note) → conclusion. Use linking words like 'Firstly', 'Secondly', 'In conclusion' to organise your essay.",
+    "is_free": true
+  },
+  {
+    "id": "fce-w1-002",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 2,
+    "content": {
+      "stem": "In your English class you have been discussing education. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that all school subjects should be compulsory, while others think students should be free to choose what they study.\n\nWhich view do you agree with?\n\nNotes\nWrite about:\n1. motivation to learn\n2. preparing for future careers\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "The question of whether students should have the freedom to choose their subjects is widely debated. In my opinion, a combination of compulsory and optional subjects would be the best approach.\n\nRegarding motivation, students tend to work harder when they are studying subjects they are genuinely interested in. If all subjects are compulsory, some students may feel bored and lose their enthusiasm for learning. Allowing some choice can help maintain motivation.\n\nWhen it comes to preparing for future careers, it is important that students have the opportunity to focus on subjects that are relevant to their goals. For example, a student who wants to become a doctor should be able to spend more time studying science rather than art.\n\nAdditionally, having some choice teaches students to make decisions and take responsibility for their own education. This is a valuable life skill that will benefit them beyond school.\n\nTo sum up, I believe a balanced system that includes both core subjects and elective options would best serve students' needs."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论学校科目是否都应该是必修的。要使用全部提示点：学习动力、职业准备，加上你自己的一个观点。注意不要只写一面之词——可以承认对方观点再反驳，或像范文那样提出折中方案。使用学术性的表达如 \"In my opinion\"、\"When it comes to\"、\"To sum up\"。",
+    "explanation_en": "English explanation: This essay discusses whether all subjects should be compulsory. Use all notes: motivation, career preparation, plus your own idea. You can acknowledge the opposing view or propose a balanced approach. Use academic expressions like 'In my opinion', 'When it comes to', 'To sum up'.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-003",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 3,
+    "content": {
+      "stem": "In your English class you have been talking about technology and daily life. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people think that teenagers spend too much time on their phones and that this is harmful. Others believe that smartphones are useful tools for young people.\n\nWhat do you think?\n\nNotes\nWrite about:\n1. social media and friendships\n2. learning and information\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Smartphones have become an essential part of teenagers' lives, but opinions are divided on whether this is a positive or negative development. I believe that while there are some risks, smartphones can be extremely beneficial when used responsibly.\n\nWith regard to social media, it is true that spending excessive time online can be harmful. However, social media also allows teenagers to stay connected with friends, especially those who live far away. The key is finding a healthy balance between online and face-to-face communication.\n\nIn terms of learning, smartphones provide access to a vast amount of educational resources. Students can use apps to learn languages, watch educational videos, and research topics for their studies. This makes learning more accessible and convenient than ever before.\n\nFurthermore, smartphones help teenagers develop important digital skills that will be valuable in their future careers. Understanding technology is increasingly essential in the modern workplace.\n\nIn conclusion, smartphones are powerful tools that can benefit teenagers as long as they learn to use them wisely and in moderation."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论青少年使用手机的利弊。使用全部提示点：社交媒体与友谊、学习与信息获取，加上你自己的观点。展示你能平衡论述两面观点的能力——先承认风险，再说明好处。使用高级连接词如 \"With regard to\"、\"In terms of\"、\"Furthermore\"。",
+    "explanation_en": "English explanation: This essay discusses the pros and cons of teenagers using smartphones. Use all notes: social media and friendships, learning and information, plus your own idea. Show you can present a balanced argument — acknowledge risks, then explain benefits. Use advanced connectors like 'With regard to', 'In terms of', 'Furthermore'.",
+    "is_free": false
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pp-pet-2023-p1-r1-001",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 1,
+    "content": {
+      "stem": "What does the notice say?",
+      "passage": "LIBRARY NOTICE\nAll books borrowed during the summer must be returned by September 5th. Late returns will result in a fine of £1 per week.",
+      "options": [
+        { "label": "A", "text": "The library will be closed during summer." },
+        { "label": "B", "text": "You will be charged if summer books are returned late." },
+        { "label": "C", "text": "Books cannot be borrowed during the summer." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "通知说明暑期借阅的书籍必须在9月5日前归还，逾期每周罚款1英镑。因此选B——如果暑期借的书逾期归还会被收费。",
+    "explanation_en": "The notice states that books borrowed during summer must be returned by September 5th, and late returns will incur a £1 per week fine. So the answer is B.",
+    "is_free": true
+  },
+  {
+    "id": "pp-pet-2023-p1-r1-002",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 2,
+    "content": {
+      "stem": "What is the purpose of this email?",
+      "passage": "Hi Tom,\nJust a reminder that the school trip to the Science Museum has been moved from Thursday to Friday. Please bring your signed permission form by Wednesday at the latest.\nMrs. Clark",
+      "options": [
+        { "label": "A", "text": "To inform Tom about a change in the trip date." },
+        { "label": "B", "text": "To ask Tom to visit the Science Museum." },
+        { "label": "C", "text": "To tell Tom the trip has been cancelled." }
+      ],
+      "correct_answer": "A"
+    },
+    "explanation_zh": "邮件内容是通知Tom学校去科学博物馆的旅行从周四改到了周五。所以这封邮件的目的是告知行程日期变更，选A。",
+    "explanation_en": "The email informs Tom that the school trip has been moved from Thursday to Friday, so its purpose is to inform about a date change. Answer: A.",
+    "is_free": true
+  },
+  {
+    "id": "pp-pet-2023-p1-r1-003",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 3,
+    "content": {
+      "stem": "What does the sign mean?",
+      "passage": "SWIMMING POOL\nChildren under 12 must be accompanied by an adult at all times.",
+      "options": [
+        { "label": "A", "text": "Children under 12 cannot use the pool." },
+        { "label": "B", "text": "Adults must stay with young children in the pool area." },
+        { "label": "C", "text": "The pool is only for adults." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "标志说12岁以下儿童必须始终有成人陪同。这意味着成年人必须和小孩待在泳池区域，选B。",
+    "explanation_en": "The sign says children under 12 must be accompanied by an adult at all times, meaning adults must stay with young children. Answer: B.",
+    "is_free": true
+  },
+  {
+    "id": "pp-pet-2023-p1-r1-004",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 4,
+    "content": {
+      "stem": "What does Sarah want Ben to do?",
+      "passage": "Ben,\nCould you pick up my jacket from the dry cleaner's on your way home? It should be ready after 4 pm. I've already paid for it.\nThanks, Sarah",
+      "options": [
+        { "label": "A", "text": "Pay for the jacket at the dry cleaner's." },
+        { "label": "B", "text": "Take her jacket to the dry cleaner's." },
+        { "label": "C", "text": "Collect her jacket from the dry cleaner's." }
+      ],
+      "correct_answer": "C"
+    },
+    "explanation_zh": "Sarah让Ben在回家路上从干洗店取她的夹克，已经付过钱了。所以是让Ben去取（collect）夹克，选C。",
+    "explanation_en": "Sarah asks Ben to pick up (collect) her jacket from the dry cleaner's on his way home. She has already paid. Answer: C.",
+    "is_free": true
+  },
+  {
+    "id": "pp-pet-2023-p1-r1-005",
+    "level": "pet",
+    "skill": "reading",
+    "part": 1,
+    "question_type": "multiple_choice",
+    "sort_order": 5,
+    "content": {
+      "stem": "What is the shop offering?",
+      "passage": "GRAND OPENING SALE\nAll sports shoes 30% off this weekend only!\nFree pair of socks with every purchase over £50.",
+      "options": [
+        { "label": "A", "text": "A discount on all items in the shop." },
+        { "label": "B", "text": "Reduced prices on sports shoes and a gift for large orders." },
+        { "label": "C", "text": "Free sports shoes for the first 50 customers." }
+      ],
+      "correct_answer": "B"
+    },
+    "explanation_zh": "商店广告显示运动鞋打七折（30% off），消费超过50英镑还送一双袜子。所以是运动鞋降价+大额消费有赠品，选B。",
+    "explanation_en": "The shop offers 30% off sports shoes and free socks for purchases over £50 — reduced prices on sports shoes plus a gift for larger orders. Answer: B.",
+    "is_free": true
+  }
+]

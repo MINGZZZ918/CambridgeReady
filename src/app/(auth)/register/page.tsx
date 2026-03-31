@@ -200,9 +200,9 @@ export default function RegisterPage() {
 
           <p className="mt-6 text-center text-xs text-text-tertiary leading-relaxed">
             注册即表示同意{" "}
-            <a href="#" className="text-text-secondary hover:text-text-primary">用户协议</a>
+            <Link href="/terms" className="text-text-secondary hover:text-text-primary">用户协议</Link>
             {" "}和{" "}
-            <a href="#" className="text-text-secondary hover:text-text-primary">隐私政策</a>
+            <Link href="/privacy" className="text-text-secondary hover:text-text-primary">隐私政策</Link>
           </p>
         </div>
       </div>

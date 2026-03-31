@@ -6,6 +6,7 @@ const PROTECTED_PATHS = [
   "/levels",
   "/practice",
   "/exam",
+  "/past-papers",
   "/mistakes",
   "/progress",
   "/activate",
@@ -55,7 +56,7 @@ export async function updateSession(request: NextRequest) {
   }
 
   // Redirect logged-in users away from auth pages
-  if (user && (request.nextUrl.pathname === "/login" || request.nextUrl.pathname === "/register")) {
+  if (user && ["/login", "/register", "/forgot-password"].includes(request.nextUrl.pathname)) {
     const url = request.nextUrl.clone();
     url.pathname = "/dashboard";
     return NextResponse.redirect(url);

@@ -22,6 +22,7 @@ interface Props {
   level: string;
   skill: string;
   part: string;
+  isPremium?: boolean;
 }
 
 export default function PracticeClient({
@@ -32,6 +33,7 @@ export default function PracticeClient({
   level,
   skill,
   part,
+  isPremium,
 }: Props) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<number, string | Record<string, string>>>({});
@@ -302,6 +304,8 @@ export default function PracticeClient({
                 onChange={(answer) =>
                   setAnswers((prev) => ({ ...prev, [currentIndex]: answer }))
                 }
+                level={level}
+                isPremium={isPremium}
               />
             )}
             {currentQuestion.question_type === "matching" && (

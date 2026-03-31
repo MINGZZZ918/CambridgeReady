@@ -1,8 +1,10 @@
 import Link from "next/link";
+import { Suspense } from "react";
 import { createClient } from "@/lib/supabase/server";
-import { BookOpen, Target, Clock, ArrowRight, TrendingUp, Zap, Check, X, Crown, AlertTriangle } from "lucide-react";
+import { BookOpen, Target, Clock, ArrowRight, TrendingUp, Zap, Check, X, Crown, AlertTriangle, FileText } from "lucide-react";
 import { LEVELS } from "@/lib/utils/constants";
 import { getMembershipStatus, getDaysUntilExpiry, formatExpiryDate } from "@/lib/utils/membership";
+import PaymentSuccessBanner from "@/components/payment/PaymentSuccessBanner";
 
 export default async function DashboardPage() {
   const supabase = await createClient();
@@ -89,6 +91,11 @@ export default async function DashboardPage() {
 
   return (
     <div className="mx-auto max-w-7xl px-6 py-10 lg:px-8 lg:py-14">
+      {/* Payment success banner */}
+      <Suspense fallback={null}>
+        <PaymentSuccessBanner />
+      </Suspense>
+
       {/* Welcome */}
       <div>
         <h1
@@ -238,7 +245,7 @@ export default async function DashboardPage() {
         <h2 className="text-xl font-semibold tracking-tight" style={{ fontFamily: "var(--font-display)" }}>
           快速开始
         </h2>
-        <div className="mt-6 grid gap-4 sm:grid-cols-2">
+        <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           <Link
             href="/levels/pet"
             className="group flex items-center gap-5 rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all hover:shadow-sm hover:border-pet/30"
@@ -249,6 +256,20 @@ export default async function DashboardPage() {
             <div className="flex-1">
               <div className="font-medium">PET 阅读练习</div>
               <div className="mt-0.5 text-sm text-text-secondary">最热门的备考起点</div>
+            </div>
+            <ArrowRight size={16} className="text-text-tertiary transition-transform group-hover:translate-x-1" />
+          </Link>
+
+          <Link
+            href="/past-papers"
+            className="group flex items-center gap-5 rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all hover:shadow-sm hover:border-fce/30"
+          >
+            <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-fce-light">
+              <FileText size={22} className="text-fce" />
+            </div>
+            <div className="flex-1">
+              <div className="font-medium">真题专区</div>
+              <div className="mt-0.5 text-sm text-text-secondary">历年真题实战演练</div>
             </div>
             <ArrowRight size={16} className="text-text-tertiary transition-transform group-hover:translate-x-1" />
           </Link>

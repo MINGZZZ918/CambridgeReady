@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fce-w2-001",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 1,
+    "content": {
+      "stem": "You see this announcement in an English-language magazine. Write your article. Write 140–190 words.",
+      "prompt": "ARTICLES WANTED!\n\nTHE MOST USEFUL SKILL I HAVE LEARNED\n\nTell us about a skill you have learned that has been useful to you.\nHow did you learn it?\nWhy has it been so useful in your life?\n\nWrite us an article answering these questions.\nThe best articles will be published in next month's issue!",
+      "word_limit": 190,
+      "sample_answer": "The Most Useful Skill I Have Learned\n\nOf all the skills I have acquired over the years, I believe that learning to cook has been the most valuable. It is a skill that I use every single day, and it has changed my life in many positive ways.\n\nI first learned to cook when I was fourteen. My grandmother, who was an excellent cook, spent a whole summer teaching me her favourite recipes. At first, I could barely boil an egg, but gradually I became more confident. I started experimenting with different ingredients and soon discovered that cooking could be genuinely creative and enjoyable.\n\nThis skill has been incredibly useful for several reasons. Most importantly, it has allowed me to eat healthy, home-made meals instead of relying on fast food. It has also saved me a considerable amount of money. Moreover, cooking for friends and family has become one of my greatest pleasures and has helped me strengthen my relationships.\n\nI would highly recommend that everyone learns to cook — it is a skill that will serve you well throughout your life."
+    },
+    "explanation_zh": "中文解析：FCE 写作 Part 2 是选做题，这里是杂志文章。要求 140-190 词，回答提出的所有问题。文章需要有吸引人的标题，清晰的段落结构，以及生动的个人经历描述。使用高级词汇和复杂句式，如 \"Of all the skills I have acquired\"、\"Moreover\"、\"It is a skill that will serve you well\"。",
+    "explanation_en": "English explanation: FCE Writing Part 2 offers a choice of tasks — this is a magazine article (140-190 words). Answer all questions posed. Your article needs an engaging title, clear paragraph structure, and vivid personal description. Use advanced vocabulary and complex structures like 'Of all the skills I have acquired', 'Moreover', 'It is a skill that will serve you well'.",
+    "is_free": true
+  },
+  {
+    "id": "fce-w2-002",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 2,
+    "content": {
+      "stem": "You have received this email from your English-speaking friend, Chris. Write your email reply. Write 140–190 words.",
+      "prompt": "From: Chris\nSubject: Moving to a new city\n\nHi,\n\nI've just found out that my family is moving to a completely new city next month. I'm really nervous about it — I'll have to start at a new school and make new friends.\n\nHave you ever had to move or start somewhere new? How did you deal with it? Do you have any advice for me?\n\nI'd really appreciate your help!\nChris",
+      "word_limit": 190,
+      "sample_answer": "Hi Chris,\n\nI'm sorry to hear you're feeling nervous about the move, but I'm sure things will work out well in the end. I completely understand how you feel, as I went through something similar two years ago.\n\nWhen my family moved to a different city, I was terrified about starting at a new school. However, I quickly discovered that most people were very welcoming. I made an effort to join clubs and activities, which was the best way to meet people who shared my interests. Within a few weeks, I had already made some good friends.\n\nMy advice would be to try to stay positive and be open to new experiences. Don't be afraid to introduce yourself to people — most students are happy to talk to someone new. It might also help to keep in touch with your old friends through video calls, so you don't feel like you've lost those connections entirely.\n\nI'm confident that you'll settle in quickly. Let me know how it goes!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这是一封回复朋友的邮件（140-190 词）。需要回答三个问题：1）你是否有过类似经历；2）你是如何应对的；3）你有什么建议。语气要友好、鼓励，使用共情表达如 \"I completely understand how you feel\"。建议部分使用 \"My advice would be to...\"、\"It might also help to...\" 等高级句式。",
+    "explanation_en": "English explanation: This is a reply email (140-190 words) answering three questions: 1) your own experience of moving or starting new; 2) how you dealt with it; 3) your advice. Use a friendly, encouraging tone with empathetic expressions like 'I completely understand how you feel'. For advice, use structures like 'My advice would be to...', 'It might also help to...'.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-003",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 3,
+    "content": {
+      "stem": "Your teacher has asked you to write a review. Write your review. Write 140–190 words.",
+      "prompt": "A REVIEW OF A BOOK OR FILM\n\nYour English teacher has asked you to write a review of a book you have read or a film you have seen recently.\n\nIn your review, you should:\n• briefly describe what happens in the book or film\n• say what you particularly liked or disliked about it\n• explain whether you would recommend it to other students and why",
+      "word_limit": 190,
+      "sample_answer": "Review: The Hunger Games by Suzanne Collins\n\nThe Hunger Games is set in a dystopian future where young people are forced to fight to the death in a televised competition. The story follows Katniss Everdeen, a brave teenager who volunteers to take her younger sister's place in the Games. Throughout the novel, she must use her intelligence and survival skills to stay alive while questioning the cruel society she lives in.\n\nWhat I particularly enjoyed about this book was the way Collins creates tension. From the very first page, I found it impossible to put down. The characters are well-developed, and Katniss is a strong, relatable protagonist. I also appreciated the deeper themes about power, inequality, and the media.\n\nIf I had to criticise anything, it would be that the ending felt slightly rushed. However, this is a minor issue in an otherwise outstanding novel.\n\nI would wholeheartedly recommend The Hunger Games to other students. It is an exciting, thought-provoking read that appeals to teenagers and adults alike."
+    },
+    "explanation_zh": "中文解析：这是一篇书/电影评论（140-190 词）。需要包含三部分：1）简要描述内容/剧情；2）说明你特别喜欢或不喜欢的地方；3）是否推荐给其他同学及原因。使用评论专用词汇如 \"protagonist\"、\"well-developed\"、\"thought-provoking\"。既要有正面评价也可以有小批评，显示批判思维能力。",
+    "explanation_en": "English explanation: This is a book/film review (140-190 words) with three parts: 1) briefly describe the content/plot; 2) what you liked or disliked; 3) whether you'd recommend it and why. Use review vocabulary like 'protagonist', 'well-developed', 'thought-provoking'. Include both praise and minor criticism to show critical thinking.",
+    "is_free": false
+  }
+]

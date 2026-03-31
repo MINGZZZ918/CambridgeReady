@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ket-w2-001",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 1,
+    "content": {
+      "stem": "Write a short story about a day out. Your story must begin with this sentence: 'Last Saturday, my friend and I went to the park.' Write 35 words or more.",
+      "prompt": "Write a short story about a day out.\n\nYour story must begin with this sentence:\n\n\"Last Saturday, my friend and I went to the park.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "Last Saturday, my friend and I went to the park. The sun was shining and it was very warm. We played football together and then we had ice cream. After that, we sat under a big tree and talked about school. It was a really fun day. We went home at five o'clock. I want to go again next weekend."
+    },
+    "explanation_zh": "中文解析：这是 KET 写作 Part 2，要求写一个简短的故事（35词以上）。必须以给定的句子开头。使用过去时态讲述发生了什么事，描述你们做了什么、感受如何。保持句子简短、清楚。",
+    "explanation_en": "English explanation: This is KET Writing Part 2, requiring a short story (35+ words). You must start with the given sentence. Use past tenses to describe what happened, what you did, and how you felt. Keep sentences short and clear.",
+    "is_free": true
+  },
+  {
+    "id": "ket-w2-002",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 2,
+    "content": {
+      "stem": "Write a short story about a surprise. Your story must begin with this sentence: 'When I got home from school, something amazing happened.' Write 35 words or more.",
+      "prompt": "Write a short story about a surprise.\n\nYour story must begin with this sentence:\n\n\"When I got home from school, something amazing happened.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "When I got home from school, something amazing happened. I opened the front door and saw a small puppy sitting on the sofa! My parents were smiling. They said it was a present for my birthday. The puppy was brown and white. I picked it up and it licked my face. I was so happy. I decided to call him Biscuit."
+    },
+    "explanation_zh": "中文解析：这个故事要以给定的句子开头，描述一件令人惊喜的事情。包含具体细节：你看到了什么、谁在那里、你的反应和感受。使用过去时态，如 \"I opened...\"、\"I was so happy\"。",
+    "explanation_en": "English explanation: This story must begin with the given sentence and describe a surprise. Include specific details: what you saw, who was there, your reaction and feelings. Use past tenses like 'I opened...', 'I was so happy'.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-003",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 3,
+    "content": {
+      "stem": "Write a short story about a school trip. Your story must begin with this sentence: 'Our class went on a trip to the beach last week.' Write 35 words or more.",
+      "prompt": "Write a short story about a school trip.\n\nYour story must begin with this sentence:\n\n\"Our class went on a trip to the beach last week.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "Our class went on a trip to the beach last week. We took the school bus early in the morning. When we arrived, we played volleyball on the sand. Then our teacher showed us some interesting shells. We had a picnic for lunch with sandwiches and fruit. In the afternoon, some students went swimming. It was a wonderful day and everyone had a great time."
+    },
+    "explanation_zh": "中文解析：这个故事讲述一次学校旅行。按时间顺序描述：早上做了什么、午饭吃了什么、下午做了什么、最后感受如何。使用时间连接词如 \"When we arrived\"、\"Then\"、\"In the afternoon\"。",
+    "explanation_en": "English explanation: This story describes a school trip. Describe events in time order: what you did in the morning, lunch, afternoon, and your feelings at the end. Use time connectors like 'When we arrived', 'Then', 'In the afternoon'.",
+    "is_free": false
+  }
+]
