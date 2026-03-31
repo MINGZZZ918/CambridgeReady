@@ -27,6 +27,10 @@
 
 复制 `.env.example`（或手动创建 `.env.local`），填入以下变量：
 
+```bash
+cp .env.example .env.local
+```
+
 ```
 NEXT_PUBLIC_SUPABASE_URL=
 NEXT_PUBLIC_SUPABASE_ANON_KEY=
