@@ -1,14 +1,14 @@
 "use client";
 
 import { useState } from "react";
-import { PenLine, Mic, Sparkles, ArrowRight } from "lucide-react";
+import { PenLine, Mic, Sparkles, ArrowRight, ShieldCheck } from "lucide-react";
 import Link from "next/link";
 
 const WRITING_SCORES = [
-  { dimension: "Content", dimensionZh: "内容", score: 4, max: 5 },
-  { dimension: "Communicative Achievement", dimensionZh: "交际目标", score: 3, max: 5 },
-  { dimension: "Organisation", dimensionZh: "组织结构", score: 4, max: 5 },
-  { dimension: "Language", dimensionZh: "语言运用", score: 3, max: 5 },
+  { dimension: "Content", dimensionZh: "内容", score: 4, max: 5, tip: "覆盖了所有要点，但部分论述不够深入" },
+  { dimension: "Communicative Achievement", dimensionZh: "交际目标", score: 3, max: 5, tip: "语气和格式基本恰当，需更贴合目标读者" },
+  { dimension: "Organisation", dimensionZh: "组织结构", score: 4, max: 5, tip: "段落清晰，建议增加衔接词让过渡更自然" },
+  { dimension: "Language", dimensionZh: "语言运用", score: 3, max: 5, tip: "存在基础语法错误，词汇多样性需提升" },
 ];
 
 const WRITING_ANNOTATIONS = [
@@ -30,10 +30,10 @@ const WRITING_ANNOTATIONS = [
 ];
 
 const SPEAKING_SCORES = [
-  { dimension: "Grammar & Vocabulary", dimensionZh: "语法词汇", score: 4, max: 5 },
-  { dimension: "Discourse Management", dimensionZh: "话语管理", score: 3, max: 5 },
-  { dimension: "Pronunciation", dimensionZh: "发音", score: 4, max: 5 },
-  { dimension: "Interactive Communication", dimensionZh: "互动交际", score: 3, max: 5 },
+  { dimension: "Grammar & Vocabulary", dimensionZh: "语法词汇", score: 4, max: 5, tip: "语法基本正确，尝试使用更多高级词汇" },
+  { dimension: "Discourse Management", dimensionZh: "话语管理", score: 3, max: 5, tip: "回答缺少连接词，逻辑衔接需加强" },
+  { dimension: "Pronunciation", dimensionZh: "发音", score: 4, max: 5, tip: "发音清晰，注意个别单词的重音" },
+  { dimension: "Interactive Communication", dimensionZh: "互动交际", score: 3, max: 5, tip: "回答偏简短，需主动拓展内容" },
 ];
 
 type Tab = "writing" | "speaking";
@@ -53,11 +53,15 @@ export default function ProductDemo() {
             className="mt-3 text-[clamp(1.75rem,3.5vw,2.75rem)] leading-tight tracking-tight"
             style={{ fontFamily: "var(--font-display)" }}
           >
-            看看 AI 评估长什么样
+            剑桥官方标准，AI 精准评估
           </h2>
           <p className="mt-4 text-lg text-text-secondary leading-relaxed">
-            不只是打个分，而是告诉你每一句哪里好、哪里需要改
+            按照 Cambridge Assessment 官方评分维度逐项打分，精确指出每个维度的改进方向
           </p>
+          <div className="mt-4 inline-flex items-center gap-2 rounded-[--radius-pill] border border-ket/30 bg-ket-light/50 px-4 py-1.5 text-sm font-medium text-ket">
+            <ShieldCheck size={15} />
+            基于 Cambridge Assessment 官方评分标准
+          </div>
         </div>
 
         {/* Tab switcher */}
@@ -127,6 +131,10 @@ function WritingDemo() {
           <Sparkles size={16} className="text-pet" />
           <h3 className="text-sm font-semibold text-pet">AI 评分</h3>
         </div>
+        <p className="mt-1.5 flex items-center gap-1.5 text-[11px] text-text-tertiary">
+          <ShieldCheck size={12} className="text-ket" />
+          Cambridge Writing 官方评分维度
+        </p>
 
         {/* Total score */}
         <div className="mt-5 text-center">
@@ -140,8 +148,8 @@ function WritingDemo() {
           <p className="mt-1 text-sm text-text-secondary">PET Writing Part 1</p>
         </div>
 
-        {/* Dimension scores */}
-        <div className="mt-6 space-y-3.5">
+        {/* Dimension scores with tips */}
+        <div className="mt-6 space-y-4">
           {WRITING_SCORES.map((s) => (
             <div key={s.dimension}>
               <div className="flex items-center justify-between text-sm">
@@ -153,6 +161,9 @@ function WritingDemo() {
               <div className="mt-1.5">
                 <ScoreBar score={s.score} max={s.max} color="#F59E0B" />
               </div>
+              <p className="mt-1 text-[11px] leading-snug text-text-tertiary">
+                {s.tip}
+              </p>
             </div>
           ))}
         </div>
@@ -204,6 +215,10 @@ function SpeakingDemo() {
           <Sparkles size={16} className="text-fce" />
           <h3 className="text-sm font-semibold text-fce">AI 评分</h3>
         </div>
+        <p className="mt-1.5 flex items-center gap-1.5 text-[11px] text-text-tertiary">
+          <ShieldCheck size={12} className="text-ket" />
+          Cambridge Speaking 官方评分维度
+        </p>
 
         {/* Total score */}
         <div className="mt-5 text-center">
@@ -217,8 +232,8 @@ function SpeakingDemo() {
           <p className="mt-1 text-sm text-text-secondary">PET Speaking Part 2</p>
         </div>
 
-        {/* Dimension scores */}
-        <div className="mt-6 space-y-3.5">
+        {/* Dimension scores with tips */}
+        <div className="mt-6 space-y-4">
           {SPEAKING_SCORES.map((s) => (
             <div key={s.dimension}>
               <div className="flex items-center justify-between text-sm">
@@ -230,6 +245,9 @@ function SpeakingDemo() {
               <div className="mt-1.5">
                 <ScoreBar score={s.score} max={s.max} color="#8B5CF6" />
               </div>
+              <p className="mt-1 text-[11px] leading-snug text-text-tertiary">
+                {s.tip}
+              </p>
             </div>
           ))}
         </div>

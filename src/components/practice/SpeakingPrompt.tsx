@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect, useCallback } from "react";
-import { Mic, MicOff, Square, Play, Pause, RotateCcw, ChevronRight, AlertCircle, Sparkles, Loader2 } from "lucide-react";
+import { Mic, MicOff, Square, Play, Pause, RotateCcw, ChevronRight, AlertCircle, Sparkles, Loader2, ShieldCheck } from "lucide-react";
 import type { SpeakingContent, SpeakingEvaluationResult } from "@/types";
 
 interface Props {
@@ -300,11 +300,11 @@ export default function SpeakingPrompt({ content, submitted, onRecordingComplete
     }
   };
 
-  const DIMENSION_LABELS: { key: keyof SpeakingEvaluationResult["scores"]; label: string; desc: string }[] = [
-    { key: "grammar_vocabulary", label: "语法词汇", desc: "Grammar & Vocabulary" },
-    { key: "discourse_management", label: "话语管理", desc: "Discourse Management" },
-    { key: "pronunciation", label: "发音", desc: "Pronunciation" },
-    { key: "interactive_communication", label: "互动交际", desc: "Interactive Communication" },
+  const DIMENSION_LABELS: { key: keyof SpeakingEvaluationResult["scores"]; label: string; desc: string; criteria: string[] }[] = [
+    { key: "grammar_vocabulary", label: "语法词汇", desc: "Grammar & Vocabulary", criteria: ["语法是否准确", "词汇是否丰富多样"] },
+    { key: "discourse_management", label: "话语管理", desc: "Discourse Management", criteria: ["回答是否连贯", "是否使用衔接词"] },
+    { key: "pronunciation", label: "发音", desc: "Pronunciation", criteria: ["发音是否清晰", "语调是否自然"] },
+    { key: "interactive_communication", label: "互动交际", desc: "Interactive Communication", criteria: ["回答是否充分", "是否主动拓展内容"] },
   ];
 
   // Submitted view: show playback + sample answer
@@ -433,6 +433,10 @@ export default function SpeakingPrompt({ content, submitted, onRecordingComplete
                 <Sparkles size={16} className="text-fce" />
                 <h4 className="text-sm font-semibold text-fce">AI 评分</h4>
               </div>
+              <p className="mt-1.5 flex items-center gap-1.5 text-[11px] text-text-tertiary">
+                <ShieldCheck size={12} className="text-ket" />
+                Cambridge Speaking 官方评分维度
+              </p>
 
               {/* Total score */}
               <div className="mt-5 text-center">
@@ -449,13 +453,17 @@ export default function SpeakingPrompt({ content, submitted, onRecordingComplete
               </div>
 
               {/* Dimension scores with bars */}
-              <div className="mt-6 space-y-3.5">
-                {DIMENSION_LABELS.map(({ key, label }) => {
+              <div className="mt-6 space-y-4">
+                {DIMENSION_LABELS.map(({ key, label, desc, criteria }) => {
                   const score = evaluation.scores[key];
+                  const needsImprovement = score <= 3;
                   return (
                     <div key={key}>
                       <div className="flex items-center justify-between text-sm">
-                        <span className="text-text-secondary">{label}</span>
+                        <div>
+                          <span className="text-text-secondary">{label}</span>
+                          <span className="ml-1.5 text-[11px] text-text-tertiary">{desc}</span>
+                        </div>
                         <span className="font-medium text-text-primary">
                           {score}/5
                         </span>
@@ -468,6 +476,11 @@ export default function SpeakingPrompt({ content, submitted, onRecordingComplete
                           />
                         </div>
                       </div>
+                      {needsImprovement && (
+                        <p className="mt-1 text-[11px] leading-snug text-text-tertiary">
+                          待提升：{criteria.join("、")}
+                        </p>
+                      )}
                     </div>
                   );
                 })}

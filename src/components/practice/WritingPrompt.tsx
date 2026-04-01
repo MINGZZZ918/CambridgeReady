@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Sparkles, Loader2 } from "lucide-react";
+import { Sparkles, Loader2, ShieldCheck } from "lucide-react";
 import type { OpenWriteContent } from "@/types";
 
 interface Annotation {
@@ -79,11 +79,11 @@ export default function WritingPrompt({ content, userAnswer, submitted, onChange
     }
   };
 
-  const DIMENSION_LABELS: { key: keyof CorrectionResult["scores"]; label: string; desc: string }[] = [
-    { key: "content", label: "内容", desc: "Content" },
-    { key: "communicative_achievement", label: "交际目标", desc: "Communicative Achievement" },
-    { key: "organisation", label: "组织结构", desc: "Organisation" },
-    { key: "language", label: "语言运用", desc: "Language" },
+  const DIMENSION_LABELS: { key: keyof CorrectionResult["scores"]; label: string; desc: string; criteria: string[] }[] = [
+    { key: "content", label: "内容", desc: "Content", criteria: ["是否覆盖所有要点", "论述是否充分具体"] },
+    { key: "communicative_achievement", label: "交际目标", desc: "Communicative Achievement", criteria: ["语气是否得体", "是否贴合目标读者"] },
+    { key: "organisation", label: "组织结构", desc: "Organisation", criteria: ["段落是否清晰", "衔接词使用是否自然"] },
+    { key: "language", label: "语言运用", desc: "Language", criteria: ["语法是否准确", "词汇是否多样"] },
   ];
 
   return (
@@ -192,6 +192,10 @@ export default function WritingPrompt({ content, userAnswer, submitted, onChange
                   <Sparkles size={16} className="text-fce" />
                   <h4 className="text-sm font-semibold text-fce">AI 评分</h4>
                 </div>
+                <p className="mt-1.5 flex items-center gap-1.5 text-[11px] text-text-tertiary">
+                  <ShieldCheck size={12} className="text-ket" />
+                  Cambridge Writing 官方评分维度
+                </p>
 
                 {/* Total score */}
                 <div className="mt-5 text-center">
@@ -208,13 +212,17 @@ export default function WritingPrompt({ content, userAnswer, submitted, onChange
                 </div>
 
                 {/* Dimension scores with bars */}
-                <div className="mt-6 space-y-3.5">
-                  {DIMENSION_LABELS.map(({ key, label }) => {
+                <div className="mt-6 space-y-4">
+                  {DIMENSION_LABELS.map(({ key, label, desc, criteria }) => {
                     const score = correction.scores[key];
+                    const needsImprovement = score <= 3;
                     return (
                       <div key={key}>
                         <div className="flex items-center justify-between text-sm">
-                          <span className="text-text-secondary">{label}</span>
+                          <div>
+                            <span className="text-text-secondary">{label}</span>
+                            <span className="ml-1.5 text-[11px] text-text-tertiary">{desc}</span>
+                          </div>
                           <span className="font-medium text-text-primary">
                             {score}/5
                           </span>
@@ -222,6 +230,11 @@ export default function WritingPrompt({ content, userAnswer, submitted, onChange
                         <div className="mt-1.5">
                           <ScoreBar score={score} max={5} color="#8B5CF6" />
                         </div>
+                        {needsImprovement && (
+                          <p className="mt-1 text-[11px] leading-snug text-text-tertiary">
+                            待提升：{criteria.join("、")}
+                          </p>
+                        )}
                       </div>
                     );
                   })}
