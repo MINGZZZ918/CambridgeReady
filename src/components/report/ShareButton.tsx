@@ -12,7 +12,7 @@ export default function ShareButton() {
       const res = await fetch("/api/report/share", { method: "POST" });
       if (!res.ok) throw new Error("Failed to generate link");
       const { token } = await res.json();
-      const url = `${window.location.origin}/report/${token}`;
+      const url = `${window.location.origin}/r/${token}`;
       await navigator.clipboard.writeText(url);
       setStatus("copied");
       setTimeout(() => setStatus("idle"), 3000);
