@@ -49,5 +49,124 @@
     "explanation_zh": "中文解析：这封回复需要回答三个问题：1）是否想加入；2）想做什么运动；3）哪一天最合适。用简单的句子表达，如 \"I'd like to...\" 和 \"...is the best day for me because...\"。",
     "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you want to join; 2) what sport you'd like to do; 3) which day is best. Use simple expressions like 'I'd like to...' and '...is the best day for me because...'.",
     "is_free": false
+  },
+  {
+    "id": "ket-w1-004",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 4,
+    "content": {
+      "stem": "Read the note from your English friend, Emma. Write a short reply to Emma. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Emma\n\nHi!\n\nIt's my birthday next Friday! I'm having a party at my house. Can you come? What present would you like me to get for the party games? What music should I play?\n\nEmma",
+      "word_limit": 35,
+      "sample_answer": "Hi Emma,\n\nHappy birthday! Of course I can come to your party. For the party games, small prizes like sweets or stickers would be fun. You should play pop music because everyone can dance to it.\n\nSee you Friday!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）能否参加；2）派对游戏应该准备什么奖品；3）应该播放什么音乐。先表示祝贺，然后用简单的句子回答每个问题。使用 \"You should...\" 来提建议。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) whether you can come; 2) what prizes for party games; 3) what music to play. Start with a congratulation, then answer each question in simple sentences. Use 'You should...' for suggestions.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-005",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 5,
+    "content": {
+      "stem": "Read the note from your English friend, Tom. Write a short reply to Tom. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Tom\n\nHi!\n\nI want to watch a film at my house on Saturday evening. Would you like to come? What kind of film should we watch? Should I make some snacks?\n\nTom",
+      "word_limit": 35,
+      "sample_answer": "Hi Tom,\n\nYes, I'd love to come on Saturday! I think we should watch a comedy because they're really funny and we can laugh together. Yes, you should make popcorn — it's the best snack for watching films!\n\nSee you then!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想来；2）应该看什么类型的电影；3）是否需要准备零食。使用 \"I think we should...\" 来表达建议，用 \"because\" 来给出理由。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you'd like to come; 2) what kind of film to watch; 3) whether to make snacks. Use 'I think we should...' for suggestions and 'because' to give reasons.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-006",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 6,
+    "content": {
+      "stem": "Read the note from your English friend, Mia. Write a short reply to Mia. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Mia\n\nHi!\n\nWe have a school project about animals. Do you want to be my partner? Which animal should we choose? When can we start working on it?\n\nMia",
+      "word_limit": 35,
+      "sample_answer": "Hi Mia,\n\nYes, I'd love to be your partner! I think we should choose dolphins because they're really interesting and clever. We can start working on it after school on Monday. We can use the school library.\n\nSee you then!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想做搭档；2）应该选择哪种动物；3）什么时候可以开始。使用 \"I think we should...\" 提出建议，用 \"because\" 解释原因，用 \"We can...\" 说明计划。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you want to be partners; 2) which animal to choose; 3) when to start working. Use 'I think we should...' for suggestions, 'because' for reasons, and 'We can...' for plans.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-007",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 7,
+    "content": {
+      "stem": "Read the note from your English friend, Lily. Write a short reply to Lily. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Lily\n\nHi!\n\nI'm going to visit my grandparents in the countryside next weekend. Do you want to come with me? What do you think we can do there? What should we bring?\n\nLily",
+      "word_limit": 35,
+      "sample_answer": "Hi Lily,\n\nThat sounds wonderful! I'd love to come with you. I think we can go for walks and pick fruit in the garden. We should bring some warm clothes because it might be cold in the countryside, and maybe some books to read.\n\nSee you then!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想一起去；2）在那里可以做什么；3）应该带什么。使用 \"I think we can...\" 表达活动建议，\"We should bring...\" 说明需要带的东西，\"because\" 给出理由。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you want to come; 2) what you can do there; 3) what to bring. Use 'I think we can...' for activity ideas, 'We should bring...' for items, and 'because' for reasons.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-008",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 8,
+    "content": {
+      "stem": "Read the note from your English friend, Sam. Write a short reply to Sam. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Sam\n\nHi!\n\nI want to learn how to cook. Do you want to cook something together? What should we make? Where should we cook — at your house or mine?\n\nSam",
+      "word_limit": 35,
+      "sample_answer": "Hi Sam,\n\nYes, I'd love to cook together! I think we should make pasta because it's easy and really tasty. Let's cook at my house because my kitchen is quite big and we have all the things we need.\n\nCan't wait!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想一起做饭；2）应该做什么菜；3）在哪里做——你家还是他家。使用 \"I think we should make...\" 提出建议，\"Let's cook at...\" 说明地点，\"because\" 给出理由。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you want to cook together; 2) what to make; 3) where to cook. Use 'I think we should make...' for suggestions, 'Let's cook at...' for the location, and 'because' for reasons.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-009",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 9,
+    "content": {
+      "stem": "Read the note from your English friend, Grace. Write a short reply to Grace. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Grace\n\nHi!\n\nI just got a new kitten! Do you want to come and see it? What name do you think I should give it? What do I need to buy for it?\n\nGrace",
+      "word_limit": 35,
+      "sample_answer": "Hi Grace,\n\nThat's so exciting! I'd love to come and see your kitten. I think you should call it Snowball if it's white, or Biscuit if it's brown. You need to buy some cat food, a small bed, and some toys for it to play with.\n\nSee you soon!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想来看小猫；2）觉得应该起什么名字；3）需要买什么东西。使用 \"I think you should call it...\" 提供名字建议，\"You need to buy...\" 列出需要的物品。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you want to see the kitten; 2) what name to give it; 3) what to buy for it. Use 'I think you should call it...' for name suggestions and 'You need to buy...' for listing items.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-010",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 10,
+    "content": {
+      "stem": "Read the note from your English friend, Ben. Write a short reply to Ben. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Ben\n\nHi!\n\nMy family is going on a trip to the seaside next month. Do you want to come with us? What activities would you like to do at the beach? What clothes should you bring?\n\nBen",
+      "word_limit": 35,
+      "sample_answer": "Hi Ben,\n\nThank you for inviting me! I'd really love to come on the trip. At the beach, I'd like to swim in the sea and build sandcastles. I'll bring my swimsuit, shorts, T-shirts, and a sun hat to keep cool.\n\nI can't wait!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想一起去；2）想在海滩做什么活动；3）应该带什么衣服。使用 \"I'd like to...\" 说明想做的活动，\"I'll bring...\" 列出要带的衣物。注意先表示感谢再回答问题。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you want to come; 2) what activities to do at the beach; 3) what clothes to bring. Use 'I'd like to...' for activities and 'I'll bring...' for listing clothes. Start by thanking them for the invitation.",
+    "is_free": false
   }
 ]

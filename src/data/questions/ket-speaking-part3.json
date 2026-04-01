@@ -18,5 +18,145 @@
     "explanation_zh": "这是KET口语第三部分——图片描述。你需要观察一张照片并描述你看到的内容。考官会评估你描述场景、人物和活动的能力。",
     "explanation_en": "This is KET Speaking Part 3 — Picture Description. You need to observe a photograph and describe what you see. The examiner assesses your ability to describe scenes, people, and activities.",
     "is_free": false
+  },
+  {
+    "id": "ket-s3-002",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Picture Description — Describe what you see in the photograph.",
+      "prompt": "Look at this photograph of a classroom. Describe what you can see in the picture. Talk about the room, the people, and what they are doing.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/ket-classroom-scene.jpg",
+      "sample_answer": "In this picture, I can see a classroom. There are about fifteen students sitting at desks. A teacher is standing at the front of the class, next to a whiteboard. She is pointing at something on the board. Some students are writing in their notebooks and some are looking at the teacher. On the walls, there are some colourful posters and a map. The classroom looks bright and tidy. I can also see some books and pencils on the desks.",
+      "tips_zh": "描述教室场景时，先说这是什么地方（教室），然后描述里面有多少人、他们在做什么。注意描述老师和学生分别在做什么。使用方位词如 \"at the front\"、\"on the walls\"、\"on the desks\" 来说明位置。"
+    },
+    "explanation_zh": "这是KET口语第三部分——图片描述。描述一个教室场景，注意描述空间布局和人物活动。使用现在进行时描述正在发生的动作，使用方位介词描述位置。",
+    "explanation_en": "This is KET Speaking Part 3 — Picture Description. Describe a classroom scene, paying attention to spatial layout and people's activities. Use present continuous for ongoing actions and prepositions of place for positions.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s3-003",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Picture Description — Describe what you see in the photograph.",
+      "prompt": "Look at this photograph of a restaurant scene. Describe what you can see in the picture. Talk about the place, the people, and the food.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/ket-restaurant-scene.jpg",
+      "sample_answer": "In this picture, I can see a restaurant. It looks quite busy. There are several tables with people sitting at them. In the middle, a waiter is carrying plates of food to a table. A family is eating together near the window — I can see a man, a woman, and a small child. On the table, there is some pasta and salad. In the corner, two young women are looking at the menu. The restaurant has nice lighting and looks comfortable.",
+      "tips_zh": "描述餐厅场景时，先说整体环境（忙碌/安静），然后描述不同桌的人和他们在做什么。描述食物时用简单的词汇。使用方位词如 \"in the middle\"、\"near the window\"、\"in the corner\" 来描述不同位置的人。"
+    },
+    "explanation_zh": "这是KET口语第三部分——图片描述。描述一个餐厅场景，注意描述不同位置的人物和他们的活动。使用食物相关词汇和方位介词来丰富描述。",
+    "explanation_en": "This is KET Speaking Part 3 — Picture Description. Describe a restaurant scene, noting people at different positions and their activities. Use food-related vocabulary and prepositions of place to enrich your description.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s3-004",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Picture Description — Describe what you see in the photograph.",
+      "prompt": "Look at this photograph of a beach scene. Describe what you can see in the picture. Talk about the place, the people, the activities, and the weather.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/ket-beach-scene.jpg",
+      "sample_answer": "In this picture, I can see a beautiful beach. The sky is blue and the sun is shining brightly. There is golden sand and the sea looks very calm. On the left, some children are building a sandcastle together. Near the water, a boy is playing with a dog. In the middle of the picture, two people are swimming in the sea. On the right, a woman is sitting under a colourful umbrella and reading a book. It looks like a hot summer day and everyone is having a good time.",
+      "tips_zh": "描述海滩场景时，先描述整体环境（天气、沙滩、大海），然后从左到右或从前到后描述不同区域的人和活动。使用方位词 \"on the left\"、\"near the water\"、\"in the middle\"、\"on the right\" 来组织描述。加入天气描述让内容更丰富。"
+    },
+    "explanation_zh": "这是KET口语第三部分——图片描述。描述一个海滩场景，注意从不同方位描述人物和活动。结合天气描述，使用方位词有序地组织你的描述。",
+    "explanation_en": "This is KET Speaking Part 3 — Picture Description. Describe a beach scene, noting people and activities from different angles. Combine weather description and use position words to organise your description systematically.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s3-005",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Picture Description — Describe what you see in the photograph.",
+      "prompt": "Look at this photograph of a market scene. Describe what you can see in the picture. Talk about the place, the people, and the things for sale.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/ket-market-scene.jpg",
+      "sample_answer": "In this picture, I can see a busy outdoor market. There are many stalls with different things for sale. On the left, there is a fruit stall with apples, oranges, and bananas. The seller is putting some grapes into a bag for a customer. In the centre, a woman with a shopping bag is looking at some vegetables. On the right, I can see a stall selling flowers — they are very colourful. There are lots of people walking around. The market looks lively and fun.",
+      "tips_zh": "描述市场场景时，注意描述不同的摊位卖什么东西、人们在做什么。使用 \"There is/are\" 描述摊位，用具体的物品名称（水果、蔬菜、花）。描述动作用现在进行时，如 \"is putting\"、\"is looking at\"。"
+    },
+    "explanation_zh": "这是KET口语第三部分——图片描述。描述一个市场场景，注意描述不同摊位的商品和人们的购物活动。使用具体的物品名称和现在进行时描述正在发生的动作。",
+    "explanation_en": "This is KET Speaking Part 3 — Picture Description. Describe a market scene, noting different stalls and shopping activities. Use specific item names and present continuous to describe ongoing actions.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s3-006",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Picture Description — Describe what you see in the photograph.",
+      "prompt": "Look at this photograph of a sports event. Describe what you can see in the picture. Talk about the place, the players, and the people watching.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/ket-sports-event-scene.jpg",
+      "sample_answer": "In this picture, I can see a sports event. It looks like a football match on a large green field. Two teams are playing — one team is wearing red shirts and the other team is wearing blue shirts. A player in red is kicking the ball towards the goal. The goalkeeper is getting ready to stop the ball. Around the field, there are many people watching the game. Some of them are standing up and cheering. I can also see a coach on the side of the field. Everyone looks very excited.",
+      "tips_zh": "描述体育比赛场景时，先说是什么运动、在哪里进行。然后描述球员在做什么、观众在做什么。使用颜色来区分不同的队伍。描述动作用现在进行时，如 \"is kicking\"、\"is getting ready\"、\"are cheering\"。"
+    },
+    "explanation_zh": "这是KET口语第三部分——图片描述。描述一个体育比赛场景，注意区分球员和观众，使用颜色描述不同队伍，用现在进行时描述比赛中的动作。",
+    "explanation_en": "This is KET Speaking Part 3 — Picture Description. Describe a sports event scene, distinguishing between players and spectators. Use colours to describe different teams and present continuous for match actions.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s3-007",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Picture Description — Describe what you see in the photograph.",
+      "prompt": "Look at this photograph of a playground scene. Describe what you can see in the picture. Talk about the place, the children, and what they are doing.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/ket-playground-scene.jpg",
+      "sample_answer": "In this picture, I can see a playground in a park. The weather looks nice and sunny. There are several children playing on different things. On the left, two girls are going down a slide together and laughing. In the middle, a boy is climbing on a climbing frame. Near the swings, a little girl is swinging very high and her mother is standing next to her. On the right, some boys are playing on a see-saw. There is also a bench where some parents are sitting and watching their children. Everyone looks like they are having a great time.",
+      "tips_zh": "描述游乐场场景时，先说整体环境，然后按区域描述不同的游乐设施和孩子们的活动。使用游乐场相关词汇：slide（滑梯）、swings（秋千）、climbing frame（攀爬架）、see-saw（跷跷板）。用现在进行时描述孩子们正在做的事。"
+    },
+    "explanation_zh": "这是KET口语第三部分——图片描述。描述一个游乐场场景，使用游乐场相关词汇和方位词。注意描述不同区域的活动，用现在进行时描述正在进行的动作。",
+    "explanation_en": "This is KET Speaking Part 3 — Picture Description. Describe a playground scene using playground-related vocabulary and position words. Note activities in different areas and use present continuous for ongoing actions.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s3-008",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Picture Description — Describe what you see in the photograph.",
+      "prompt": "Look at this photograph of a train station scene. Describe what you can see in the picture. Talk about the place, the people, and what is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/ket-train-station-scene.jpg",
+      "sample_answer": "In this picture, I can see a train station. It's a big indoor station with a high ceiling. On the left, there is a large information board showing the times of different trains. In the middle, many people are walking with their suitcases and bags. Some of them are looking at their phones. On the right, a family is standing on the platform waiting for a train. The mother is holding a little boy's hand. Near the entrance, I can see a small coffee shop where some people are buying drinks. A train is arriving at the station. It looks like a busy morning.",
+      "tips_zh": "描述火车站场景时，先描述整体环境（大小、结构），然后描述不同区域的人和他们的活动。使用车站相关词汇：platform（站台）、information board（信息板）、suitcase（行李箱）。注意区分不同人群在做什么。"
+    },
+    "explanation_zh": "这是KET口语第三部分——图片描述。描述一个火车站场景，使用交通相关词汇和方位描述。注意描述不同区域的人群和活动，体现场景的忙碌感。",
+    "explanation_en": "This is KET Speaking Part 3 — Picture Description. Describe a train station scene using transport-related vocabulary and spatial descriptions. Note different groups of people and activities in various areas, conveying the busy atmosphere.",
+    "is_free": false
   }
 ]

@@ -49,5 +49,124 @@
     "explanation_zh": "中文解析：这是一篇书/电影评论（140-190 词）。需要包含三部分：1）简要描述内容/剧情；2）说明你特别喜欢或不喜欢的地方；3）是否推荐给其他同学及原因。使用评论专用词汇如 \"protagonist\"、\"well-developed\"、\"thought-provoking\"。既要有正面评价也可以有小批评，显示批判思维能力。",
     "explanation_en": "English explanation: This is a book/film review (140-190 words) with three parts: 1) briefly describe the content/plot; 2) what you liked or disliked; 3) whether you'd recommend it and why. Use review vocabulary like 'protagonist', 'well-developed', 'thought-provoking'. Include both praise and minor criticism to show critical thinking.",
     "is_free": false
+  },
+  {
+    "id": "fce-w2-004",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 4,
+    "content": {
+      "stem": "You see this announcement on an English-language website. Write your article. Write 140–190 words.",
+      "prompt": "ARTICLES WANTED!\n\nHOW TRAVEL CAN CHANGE YOUR LIFE\n\nHave you ever visited a place that changed the way you think about the world?\nWhere did you go and what did you experience?\nHow did this trip change you as a person?\n\nWrite us an article answering these questions.\nThe best articles will be published on our website!",
+      "word_limit": 190,
+      "sample_answer": "How Travel Can Change Your Life\n\nThey say that travel broadens the mind, and I can confirm this from personal experience. A trip I took to a rural village in Yunnan Province two years ago completely transformed my perspective on life.\n\nI had always lived in a busy city, surrounded by technology and convenience. When I arrived at the village, I was struck by how different life was there. The local people lived simply, growing their own food and relying on each other rather than on modern gadgets. Despite having far fewer material possessions than I was used to, they seemed genuinely happy and content.\n\nThis experience changed me in several significant ways. First, I stopped taking things for granted and began to appreciate the small pleasures in life. Second, I realised that happiness does not depend on wealth or possessions. Most importantly, I developed a deeper curiosity about different cultures and ways of living.\n\nI would encourage everyone to step outside their comfort zone and explore unfamiliar places. You never know how a journey might change your outlook on life."
+    },
+    "explanation_zh": "中文解析：这是一篇杂志文章（140-190 词），讲述旅行如何改变你的人生。要回答三个问题：去了哪里、经历了什么、这次旅行如何改变了你。使用生动的描述和个人反思，展示叙事能力。高级表达如 \"transformed my perspective\"、\"I was struck by\"、\"step outside their comfort zone\" 能提升文章质量。",
+    "explanation_en": "English explanation: This is a magazine article (140-190 words) about how travel changed your life. Answer three questions: where you went, what you experienced, how the trip changed you. Use vivid description and personal reflection to show narrative ability. Advanced expressions like 'transformed my perspective', 'I was struck by', 'step outside their comfort zone' elevate the article.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-005",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 5,
+    "content": {
+      "stem": "Your teacher has asked you to write a review. Write your review. Write 140–190 words.",
+      "prompt": "A REVIEW OF A RESTAURANT OR CAFE\n\nYour English teacher has asked you to write a review of a restaurant or cafe you have visited recently.\n\nIn your review, you should:\n• describe the place and its atmosphere\n• comment on the food and service\n• say whether you would recommend it and who it would be suitable for",
+      "word_limit": 190,
+      "sample_answer": "Review: The Garden Kitchen\n\nThe Garden Kitchen is a charming cafe located in the heart of the old town, tucked away down a quiet side street. The moment you step inside, you are greeted by a warm, inviting atmosphere. The interior is decorated with exposed brick walls, wooden furniture, and an abundance of plants, creating a cosy yet stylish environment.\n\nThe menu offers a delightful selection of home-made dishes, ranging from hearty soups and freshly baked bread to creative salads and pasta. I ordered the grilled chicken with roasted vegetables, which was beautifully presented and absolutely delicious. The portions were generous, and the prices were remarkably reasonable for the quality on offer. The service was friendly and attentive without being intrusive.\n\nIf I had one minor complaint, it would be that the cafe can get quite crowded at weekends, so it is advisable to book a table in advance.\n\nI would highly recommend The Garden Kitchen to anyone looking for a relaxing meal in a beautiful setting. It is particularly suitable for couples and small groups of friends."
+    },
+    "explanation_zh": "中文解析：这是一篇餐厅/咖啡馆评论（140-190 词）。需要包含三部分：1）描述地点和氛围；2）评价食物和服务；3）是否推荐以及适合什么人。使用丰富的形容词和感官描写如 \"charming\"、\"inviting\"、\"beautifully presented\"。结尾要给出推荐和适合人群，展示实用的评论写作技巧。",
+    "explanation_en": "English explanation: This is a restaurant/cafe review (140-190 words) with three parts: 1) describe the place and atmosphere; 2) comment on food and service; 3) whether you'd recommend it and who it suits. Use rich adjectives and sensory descriptions like 'charming', 'inviting', 'beautifully presented'. End with a recommendation and target audience to show practical review-writing skills.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-006",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 6,
+    "content": {
+      "stem": "Your school principal has asked students to write a report. Write your report. Write 140–190 words.",
+      "prompt": "REPORT ON AFTER-SCHOOL ACTIVITIES\n\nThe school principal wants to improve the range of after-school activities available to students. You have been asked to write a report.\n\nIn your report, you should:\n• describe the current after-school activities\n• explain what students think about them\n• suggest improvements or new activities that could be introduced",
+      "word_limit": 190,
+      "sample_answer": "Report on After-School Activities\n\nIntroduction\nThe purpose of this report is to evaluate the current after-school activities at our school and to suggest improvements based on student feedback.\n\nCurrent Situation\nAt present, the school offers a limited range of after-school activities, including basketball, football, and a reading club. While these are popular with some students, many feel that the options are too narrow and do not cater to a wide variety of interests.\n\nStudent Feedback\nA survey of 150 students revealed that 65% would like more creative activities, such as drama, photography, and music production. Several students also expressed interest in technology-related clubs, including coding and robotics. Additionally, many students mentioned that the current activities are only available twice a week, which they find insufficient.\n\nRecommendations\nBased on these findings, I would recommend the following:\n• Introduce at least three new clubs focusing on creative and technological activities.\n• Increase the frequency of sessions to three or four times per week.\n• Invite external instructors to lead specialist workshops.\n\nI believe these changes would significantly increase student participation and satisfaction."
+    },
+    "explanation_zh": "中文解析：这是一篇正式报告（140-190 词）。报告需要有清晰的结构，通常包含：引言（说明目的）、现状描述、反馈/调查结果、建议/推荐。使用正式语言和客观的语气，避免过度个人化。报告格式要求使用小标题来组织内容，建议部分用要点符号列出。",
+    "explanation_en": "English explanation: This is a formal report (140-190 words). Reports need clear structure: introduction (state purpose), current situation, feedback/findings, recommendations. Use formal, objective language — avoid being overly personal. Report format requires subheadings to organise content, and bullet points for recommendations.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-007",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 7,
+    "content": {
+      "stem": "Your school principal has asked students to write a report. Write your report. Write 140–190 words.",
+      "prompt": "REPORT ON SCHOOL FACILITIES\n\nThe school principal is considering upgrading some of the school facilities and has asked students to write a report.\n\nIn your report, you should:\n• describe which facilities are most in need of improvement\n• explain how students currently feel about these facilities\n• make recommendations for specific upgrades",
+      "word_limit": 190,
+      "sample_answer": "Report on School Facilities\n\nIntroduction\nThis report aims to identify the school facilities most in need of improvement and to propose specific upgrades based on student opinions.\n\nFacilities Requiring Improvement\nThe two areas that students feel most strongly about are the library and the sports facilities. The library, although well-stocked, has an outdated computer section with slow machines and limited seating. The sports hall lacks modern equipment, and the changing rooms are in poor condition.\n\nStudent Opinions\nAccording to a recent questionnaire, 78% of students rated the library computers as 'poor' or 'very poor.' Meanwhile, 72% expressed dissatisfaction with the sports facilities, particularly the lack of an indoor swimming pool and the worn-out athletics track.\n\nRecommendations\nI would suggest the following improvements:\n• Replace the library computers with up-to-date models and install additional power sockets for students' laptops.\n• Refurbish the changing rooms and invest in new gym equipment.\n• Consider a long-term plan to build a small indoor pool.\n\nImplementing these upgrades would greatly enhance both the academic and physical wellbeing of students."
+    },
+    "explanation_zh": "中文解析：这是另一篇正式报告（140-190 词），讨论学校设施改善。同样需要清晰的小标题结构：引言、需要改善的设施、学生意见、建议。使用数据和调查结果来支持论点（可以编造合理的数据）。正式表达如 \"This report aims to\"、\"According to a recent questionnaire\"、\"I would suggest the following\" 体现报告的专业性。",
+    "explanation_en": "English explanation: This is another formal report (140-190 words) about school facility improvements. Use clear subheading structure: introduction, facilities needing improvement, student opinions, recommendations. Support arguments with data and survey results (you may invent reasonable figures). Formal expressions like 'This report aims to', 'According to a recent questionnaire', 'I would suggest the following' convey professionalism.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-008",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 8,
+    "content": {
+      "stem": "You have received this letter from the director of a language school. Write your letter of application. Write 140–190 words.",
+      "prompt": "Dear Applicant,\n\nWe are looking for enthusiastic young people to work as summer camp assistants at our international language school. Assistants will help organise activities, support teachers, and look after students aged 10–14 from different countries.\n\nPlease write to us explaining:\n• why you are interested in this position\n• what relevant experience or skills you have\n• when you would be available to work\n\nWe look forward to hearing from you.\n\nMs Rachel Thompson\nDirector, Sunshine Language School",
+      "word_limit": 190,
+      "sample_answer": "Dear Ms Thompson,\n\nI am writing to apply for the position of summer camp assistant at Sunshine Language School. I believe I would be an excellent candidate for this role, and I am very enthusiastic about the opportunity.\n\nI am particularly interested in this position because I am passionate about working with young people and I have always enjoyed multicultural environments. As someone who speaks both Chinese and English fluently, I understand the challenges of learning a new language and would be able to empathise with students from diverse backgrounds.\n\nRegarding my experience, I have volunteered as a teaching assistant at my local primary school for the past year, where I helped organise classroom activities and supported children with their reading. I also have considerable experience in team sports, which has taught me valuable leadership and communication skills.\n\nI would be available to work throughout July and August, as my school holidays begin in late June. I am flexible with hours and happy to work at weekends if necessary.\n\nI would welcome the opportunity to discuss my application further. Thank you for considering me.\n\nYours sincerely"
+    },
+    "explanation_zh": "中文解析：这是一封正式求职信（140-190 词）。需要回答三个问题：为什么对这个职位感兴趣、你有什么相关经验或技能、何时可以工作。使用正式信件格式：\"Dear Ms Thompson\" 开头，\"Yours sincerely\" 结尾。正式表达如 \"I am writing to apply for\"、\"I would welcome the opportunity to\" 是必须的。语气要专业、自信但谦逊。",
+    "explanation_en": "English explanation: This is a formal letter of application (140-190 words). Answer three questions: why you're interested, your relevant experience/skills, your availability. Use formal letter format: 'Dear Ms Thompson' opening, 'Yours sincerely' closing. Formal expressions like 'I am writing to apply for', 'I would welcome the opportunity to' are essential. Tone should be professional, confident but modest.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-009",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 9,
+    "content": {
+      "stem": "You see this announcement on an English-language website. Write your article. Write 140–190 words.",
+      "prompt": "ARTICLES WANTED!\n\nIS IT BETTER TO LEARN FROM EXPERIENCE OR FROM BOOKS?\n\nSome people believe the best way to learn is through real-life experience, while others prefer learning from books and formal education.\n\nWhat is your view? Give examples from your own life to support your answer.\n\nThe best articles will be published next month!",
+      "word_limit": 190,
+      "sample_answer": "Is It Better to Learn from Experience or from Books?\n\nThis is a question that has fascinated thinkers for centuries, and I believe the answer lies in combining both approaches. However, if I had to choose one, I would say that experience is the more powerful teacher.\n\nBooks and formal education provide us with essential theoretical knowledge. Without them, we would have no foundation upon which to build our understanding of the world. For instance, I could never have learned mathematics or history without textbooks and dedicated teachers.\n\nHowever, some of the most valuable lessons I have learned came through direct experience. When I started my first part-time job at a bookshop, I quickly developed skills that no classroom could have taught me — dealing with difficult customers, managing my time, and working under pressure. These real-world challenges forced me to adapt and grow in ways that reading alone could never achieve.\n\nUltimately, I believe that the ideal approach is to use books as a starting point and then reinforce that knowledge through practical experience. Together, they form a complete education."
+    },
+    "explanation_zh": "中文解析：这是一篇杂志文章（140-190 词），讨论从经验中学习还是从书本中学习更好。需要表达你的观点并用个人经历来支持。文章需要有引人入胜的开头和有力的结尾。使用对比结构（Books provide... However, experience...）和个人案例来增强说服力。高级表达如 \"if I had to choose\"、\"no classroom could have taught me\" 展示语言水平。",
+    "explanation_en": "English explanation: This is a magazine article (140-190 words) discussing whether learning from experience or books is better. Express your view with personal examples. The article needs an engaging opening and strong conclusion. Use comparison structures (Books provide... However, experience...) and personal anecdotes for persuasiveness. Advanced expressions like 'if I had to choose', 'no classroom could have taught me' demonstrate language level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-010",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 10,
+    "content": {
+      "stem": "Your teacher has asked you to write a review. Write your review. Write 140–190 words.",
+      "prompt": "A REVIEW OF A TV SERIES\n\nYour English teacher has asked you to write a review of a TV series you have watched recently.\n\nIn your review, you should:\n• briefly describe what the series is about\n• say what makes it particularly enjoyable or disappointing\n• explain whether you would recommend it and to what kind of viewer",
+      "word_limit": 190,
+      "sample_answer": "Review: Sherlock (BBC)\n\nSherlock is a modern adaptation of Arthur Conan Doyle's classic detective stories, set in present-day London. The series follows Sherlock Holmes, a brilliant but socially awkward consulting detective, and his loyal companion Dr John Watson as they solve a variety of complex and often dangerous cases.\n\nWhat makes this series particularly enjoyable is the exceptional quality of the writing and acting. Benedict Cumberbatch brings an electrifying energy to the role of Sherlock, while Martin Freeman provides the perfect counterbalance as the more grounded Watson. The plots are ingeniously constructed, with unexpected twists that keep you guessing until the very end. The cinematography is also outstanding, capturing London in a way that feels both familiar and mysterious.\n\nIf I had one criticism, it would be the long wait between series — sometimes two or three years — which can be frustrating for devoted fans.\n\nI would wholeheartedly recommend Sherlock to anyone who enjoys crime dramas with intelligent storylines. It is equally suitable for teenagers and adults who appreciate sharp dialogue and compelling characters."
+    },
+    "explanation_zh": "中文解析：这是一篇电视剧评论（140-190 词）。需要包含三部分：1）简要介绍剧集内容；2）说明为什么特别好看或令人失望；3）是否推荐以及适合什么类型的观众。使用影视评论专用词汇如 \"adaptation\"、\"cinematography\"、\"compelling characters\"。结构要有正面评价也有小批评，最后给出推荐。",
+    "explanation_en": "English explanation: This is a TV series review (140-190 words) with three parts: 1) briefly describe the series; 2) explain what makes it enjoyable or disappointing; 3) whether you'd recommend it and to whom. Use TV/film review vocabulary like 'adaptation', 'cinematography', 'compelling characters'. Structure with both praise and minor criticism, ending with a recommendation.",
+    "is_free": false
   }
 ]

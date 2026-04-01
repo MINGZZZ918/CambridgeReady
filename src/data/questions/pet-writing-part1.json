@@ -49,5 +49,124 @@
     "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）推荐学哪门语言；2）学习新语言的最佳方法是什么；3）你自己是否有学习新语言的经历。给出理由来支持你的建议，分享个人经验会让回复更生动。",
     "explanation_en": "English explanation: This email requires answering three questions: 1) which language to recommend; 2) the best way to learn a new language; 3) your own experience learning languages. Support your suggestions with reasons, and sharing personal experience makes the reply more engaging.",
     "is_free": false
+  },
+  {
+    "id": "pet-w1-004",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 4,
+    "content": {
+      "stem": "Read the email from your English friend, Jake. Write an email to Jake and answer the questions. Write about 100 words.",
+      "prompt": "From: Jake\nSubject: Sports event\n\nHi!\n\nOur school is organising a sports day next month and I'm really excited about it!\n\nWhich sports events would you like to take part in? Do you think we should have team sports or individual events? What else could we do to make the day more fun?\n\nLet me know your ideas!\nJake",
+      "word_limit": 100,
+      "sample_answer": "Hi Jake,\n\nThat sounds amazing! I'm really looking forward to sports day!\n\nI'd love to take part in the 100-metre race and the long jump because I'm quite fast and I enjoy athletics. I think we should have both team sports and individual events. Team sports like football and relay races are great because everyone can join in, but individual events let people show their personal strengths.\n\nTo make the day more fun, we could have a picnic at lunchtime and maybe set up some fun activities like a water balloon fight. We could also give out medals to the winners.\n\nSee you there!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）你想参加哪些体育项目；2）应该组织团队运动还是个人项目；3）还能做什么让这一天更有趣。回答时给出具体的运动项目名称，并对团队和个人运动做出比较。使用建议句型如 \"We could...\" 和 \"I think we should...\"。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) which sports events you'd like to join; 2) whether to have team or individual events; 3) what else to do to make the day fun. Name specific sports, compare team and individual events, and use suggestion phrases like 'We could...' and 'I think we should...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-005",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 5,
+    "content": {
+      "stem": "Read the email from your English friend, Emma. Write an email to Emma and answer the questions. Write about 100 words.",
+      "prompt": "From: Emma\nSubject: New hobby\n\nHi!\n\nI've just started learning to play the guitar! It's really exciting but also quite difficult.\n\nHave you ever tried learning a musical instrument? What tips do you have for learning something new? Do you think I should join a music club at school?\n\nI'd love to hear from you!\nEmma",
+      "word_limit": 100,
+      "sample_answer": "Hi Emma,\n\nHow exciting that you're learning the guitar! I think that's a wonderful hobby.\n\nI tried learning the piano a few years ago. It was hard at first, but after a few months of practice, I could play some simple songs. My biggest tip is to practise a little bit every day, even just fifteen minutes. It's better than practising for a long time once a week. You should also watch tutorial videos online — they can be really helpful.\n\nI definitely think you should join the music club! You'll meet other students who play instruments and you can learn from each other.\n\nGood luck!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）你是否尝试过学习乐器；2）学习新事物的建议；3）是否应该加入学校音乐社团。分享个人经历可以让回答更真实，给建议时使用 \"You should...\" 和 \"My tip is...\" 等句型，表达明确的观点并说明理由。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) whether you've tried learning an instrument; 2) tips for learning something new; 3) whether to join a school music club. Share personal experience to make your answer authentic, use phrases like 'You should...' and 'My tip is...', and give clear opinions with reasons.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-006",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 6,
+    "content": {
+      "stem": "Read the email from your English friend, Lucy. Write an email to Lucy and answer the questions. Write about 100 words.",
+      "prompt": "From: Lucy\nSubject: Study abroad\n\nHi!\n\nI'm thinking about spending a term studying abroad next year. I'm considering going to Australia or Canada.\n\nWhich country do you think would be better and why? What do you think I would enjoy most about studying in another country? Is there anything I should be worried about?\n\nI really need your advice!\nLucy",
+      "word_limit": 100,
+      "sample_answer": "Hi Lucy,\n\nWhat an exciting plan! I think Canada would be a great choice because the education system is excellent and the people are very friendly. The cities are safe and clean, and you'd be able to practise your English every day.\n\nI think you would enjoy meeting students from different countries and learning about a new culture. You'd also become much more independent, which is a really valuable experience.\n\nThe only thing you might worry about is feeling homesick at first, but I'm sure you'd make new friends quickly. You should also prepare for the cold weather in winter!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）你推荐哪个国家以及原因；2）在另一个国家学习最享受什么；3）有什么需要担心的。给出具体原因支持你的选择，用积极的语气描述留学的好处，同时诚实地提到可能的困难。使用 \"I think... because...\" 来组织回答。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) which country you recommend and why; 2) what you'd enjoy most about studying abroad; 3) whether there's anything to worry about. Give specific reasons for your choice, describe the benefits positively, and honestly mention potential difficulties. Use 'I think... because...' to structure your answers.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-007",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 7,
+    "content": {
+      "stem": "Read the email from your English friend, Daniel. Write an email to Daniel and answer the questions. Write about 100 words.",
+      "prompt": "From: Daniel\nSubject: Volunteer work\n\nHi!\n\nOur teacher told us we should do some volunteer work in the community this term. I think it's a great idea!\n\nWhat kind of volunteer work do you think we should do? Where is the best place to volunteer? Have you ever done any volunteer work before?\n\nTell me what you think!\nDaniel",
+      "word_limit": 100,
+      "sample_answer": "Hi Daniel,\n\nI agree — volunteer work is a wonderful idea!\n\nI think we should help at the local animal shelter. We could walk the dogs, clean the cages, and play with the animals. It's a great way to help our community and it's really enjoyable too.\n\nAnother good option would be volunteering at a retirement home. We could spend time talking to the elderly people there, reading to them, or helping them with technology.\n\nI volunteered at a food bank last summer and it was a really rewarding experience. I learned a lot about teamwork and I felt proud to be helping others.\n\nLet me know what you decide!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）你认为应该做什么志愿活动；2）最好去哪里做志愿者；3）你是否做过志愿工作。给出具体的建议和地点，描述志愿活动的细节，并分享个人经历来支持你的观点。使用 \"We could...\" 提出建议，用过去时态描述经历。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what kind of volunteer work to do; 2) where is the best place to volunteer; 3) whether you've done volunteer work before. Give specific suggestions and locations, describe the activities in detail, and share personal experience to support your views. Use 'We could...' for suggestions and past tenses for experiences.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-008",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 8,
+    "content": {
+      "stem": "Read the email from your English friend, Sophie. Write an email to Sophie and answer the questions. Write about 100 words.",
+      "prompt": "From: Sophie\nSubject: School concert\n\nHi!\n\nOur school is planning a concert at the end of term and the teachers want students to help organise it.\n\nWhat kind of performances do you think we should have? Would you like to perform in the concert yourself? How can we make sure everyone in the school enjoys it?\n\nI can't wait to hear your ideas!\nSophie",
+      "word_limit": 100,
+      "sample_answer": "Hi Sophie,\n\nA school concert sounds fantastic! I have lots of ideas!\n\nI think we should have a variety of performances, including singing, dancing, and maybe a short play. We could also have a band playing some popular songs. This way, there would be something for everyone.\n\nI'd love to perform! I could sing a song or play the piano. I've been practising a piece by Chopin and I think it would sound great on stage.\n\nTo make sure everyone enjoys it, we should ask students from every class to suggest songs. We could also sell snacks and drinks during the interval to make it feel like a real event.\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）应该安排什么表演；2）你是否想亲自表演；3）怎样确保大家都喜欢。列举不同类型的表演让建议更丰富，分享自己的才艺显示参与热情。使用 \"I think we should...\" 和 \"We could also...\" 来提出多种建议。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what performances to have; 2) whether you'd like to perform; 3) how to make sure everyone enjoys it. List different types of performances to enrich your suggestions, share your own talents to show enthusiasm, and use 'I think we should...' and 'We could also...' to propose multiple ideas.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-009",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 9,
+    "content": {
+      "stem": "Read the email from your English friend, Alex. Write an email to Alex and answer the questions. Write about 100 words.",
+      "prompt": "From: Alex\nSubject: Moving to a new city\n\nHi!\n\nMy family is moving to a new city next month because of my dad's job. I'm feeling a bit nervous about it.\n\nWhat do you think I should do to make new friends? What's the best way to get to know a new city? Have you ever moved to a new place?\n\nI could really use some advice!\nAlex",
+      "word_limit": 100,
+      "sample_answer": "Hi Alex,\n\nI understand how you feel — moving to a new city can be a bit scary, but it can also be a wonderful adventure!\n\nTo make new friends, I think you should join some clubs or sports teams at your new school. It's the quickest way to meet people with similar interests. You should also try to be open and friendly — say hello to people and ask them questions about themselves.\n\nTo get to know the city, you could explore different neighbourhoods at the weekend and visit local cafes, parks, and shops. Maybe you could also ask your new classmates to show you around.\n\nI moved to a different town when I was ten, and although I was nervous, I ended up loving it!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）如何结交新朋友；2）了解新城市的最佳方式；3）你是否搬过家。首先表达理解和同情，然后给出实际建议。分享自己的经历可以让Alex感到安心。使用 \"I think you should...\" 和 \"You could...\" 给出建议，语气要积极鼓励。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) how to make new friends; 2) the best way to get to know a new city; 3) whether you've ever moved. Start by showing understanding and empathy, then offer practical advice. Sharing your own experience can reassure Alex. Use 'I think you should...' and 'You could...' for suggestions with an encouraging tone.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-010",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 10,
+    "content": {
+      "stem": "Read the email from your English friend, Ben. Write an email to Ben and answer the questions. Write about 100 words.",
+      "prompt": "From: Ben\nSubject: Summer job\n\nHi!\n\nI'm thinking about getting a summer job this year. I've never had a job before, so I'm not sure what to do.\n\nWhat kind of job do you think would be good for a teenager? What skills do you think I could learn from working? Do you think it's better to work or to enjoy the summer holidays?\n\nI'd love to hear your opinion!\nBen",
+      "word_limit": 100,
+      "sample_answer": "Hi Ben,\n\nGetting a summer job is a great idea! I think it would be a really valuable experience for you.\n\nFor a teenager, I think working in a cafe or a shop would be a good choice. You'd meet lots of different people and the work isn't too difficult. You could also try being a tutor if you're good at a particular subject.\n\nFrom working, you'd learn important skills like time management, communication, and how to handle money. These skills will be useful for your future career.\n\nI think it's good to work for part of the summer and keep some time free for relaxing and seeing friends. That way, you get the best of both worlds!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）什么工作适合青少年；2）可以从工作中学到什么技能；3）暑假应该工作还是享受假期。给出具体的工作建议并说明原因，列出可以学到的技能，对最后一个问题可以给出平衡的观点。使用 \"I think... would be...\" 表达建议，\"You'd learn...\" 描述好处。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what job is good for a teenager; 2) what skills you could learn from working; 3) whether to work or enjoy the holidays. Give specific job suggestions with reasons, list learnable skills, and offer a balanced view on the last question. Use 'I think... would be...' for suggestions and 'You'd learn...' to describe benefits.",
+    "is_free": false
   }
 ]

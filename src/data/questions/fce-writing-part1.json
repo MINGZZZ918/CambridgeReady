@@ -49,5 +49,124 @@
     "explanation_zh": "中文解析：这篇议论文讨论青少年使用手机的利弊。使用全部提示点：社交媒体与友谊、学习与信息获取，加上你自己的观点。展示你能平衡论述两面观点的能力——先承认风险，再说明好处。使用高级连接词如 \"With regard to\"、\"In terms of\"、\"Furthermore\"。",
     "explanation_en": "English explanation: This essay discusses the pros and cons of teenagers using smartphones. Use all notes: social media and friendships, learning and information, plus your own idea. Show you can present a balanced argument — acknowledge risks, then explain benefits. Use advanced connectors like 'With regard to', 'In terms of', 'Furthermore'.",
     "is_free": false
+  },
+  {
+    "id": "fce-w1-004",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 4,
+    "content": {
+      "stem": "In your English class you have been talking about technology in education. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that technology, such as tablets and laptops, should replace traditional textbooks in schools. Others think that printed books are still the best way to learn.\n\nWhat is your opinion?\n\nNotes\nWrite about:\n1. access to up-to-date information\n2. concentration and reading habits\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "The debate over whether technology should replace textbooks in schools is becoming increasingly relevant. While I recognise the value of traditional books, I believe that digital tools offer significant advantages for modern learners.\n\nFirst of all, digital devices provide instant access to up-to-date information. Unlike printed textbooks, which can become outdated within a few years, online resources are constantly updated. Students can access the latest research, interactive diagrams, and multimedia content that enriches their understanding of complex topics.\n\nOn the other hand, there are legitimate concerns about concentration. Studies suggest that students may find it harder to focus when reading on screens, and the temptation to browse social media is ever-present. Schools would need to implement clear guidelines to address this issue.\n\nMoreover, digital tools promote collaboration and creativity. Students can work together on shared documents, create presentations, and engage with educational apps that make learning more interactive and enjoyable.\n\nIn conclusion, I believe technology should complement rather than entirely replace textbooks, allowing students to benefit from both approaches."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论科技是否应该取代传统教科书。需要使用所有提示点：获取最新信息、专注力与阅读习惯，加上你自己的观点。展示平衡论述的能力——承认两种观点的合理性。使用学术性表达如 \"First of all\"、\"On the other hand\"、\"Moreover\"，以及让步从句如 \"While I recognise...\"。",
+    "explanation_en": "English explanation: This essay discusses whether technology should replace textbooks. Use all notes: access to up-to-date information, concentration and reading habits, plus your own idea. Show balanced argumentation — acknowledge both sides. Use academic expressions like 'First of all', 'On the other hand', 'Moreover', and concessive clauses like 'While I recognise...'.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-005",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 5,
+    "content": {
+      "stem": "In your English class you have been discussing the influence of social media. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Many people argue that social media has a negative influence on young people. Others believe it brings important benefits to society.\n\nDo you think social media does more harm than good?\n\nNotes\nWrite about:\n1. self-esteem and mental health\n2. staying informed about current events\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Social media has transformed the way we communicate, but its impact on young people remains a contentious issue. Although there are genuine risks, I believe that social media, when used thoughtfully, does more good than harm.\n\nRegarding self-esteem and mental health, it is undeniable that constantly comparing oneself to others online can lead to anxiety and insecurity. However, this problem can be mitigated through education about digital literacy and by encouraging young people to curate their feeds more carefully.\n\nWhen it comes to staying informed, social media provides unparalleled access to news and current events from around the world. Young people can engage with important social issues, raise awareness, and even participate in meaningful campaigns that drive real change.\n\nAdditionally, social media offers valuable opportunities for creative expression. Platforms like YouTube and Instagram allow young people to share their art, music, and writing with a global audience, which can boost confidence and open doors to future opportunities.\n\nTo conclude, while the risks of social media should not be ignored, its potential benefits far outweigh the drawbacks when it is used responsibly."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论社交媒体对年轻人的影响。使用所有提示点：自尊与心理健康、了解时事新闻，加上你自己的观点。要展示你能够承认负面影响同时论证正面影响。使用高级让步结构如 \"Although there are genuine risks\"、\"it is undeniable that\" 和因果分析来深化论述。",
+    "explanation_en": "English explanation: This essay discusses social media's influence on young people. Use all notes: self-esteem and mental health, staying informed about current events, plus your own idea. Show you can acknowledge negatives while arguing for positives. Use advanced concessive structures like 'Although there are genuine risks', 'it is undeniable that', and causal analysis to deepen your argument.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-006",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 6,
+    "content": {
+      "stem": "In your English class you have been talking about the importance of the arts. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people think that subjects like art, music, and drama are not important in schools and that more time should be spent on academic subjects. Others believe the arts are essential for a complete education.\n\nWhat do you think?\n\nNotes\nWrite about:\n1. creativity and personal development\n2. career prospects\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "There is an ongoing debate about whether the arts deserve a place in the school curriculum alongside traditional academic subjects. I firmly believe that art, music, and drama are essential components of a well-rounded education.\n\nFirst and foremost, the arts foster creativity and personal development. Through artistic expression, students learn to think imaginatively, solve problems in unconventional ways, and develop emotional intelligence. These skills are not easily taught through academic subjects alone and are increasingly valued in the modern workplace.\n\nWith respect to career prospects, it is a common misconception that studying the arts leads to limited opportunities. In reality, the creative industries are among the fastest-growing sectors globally, offering careers in design, media, entertainment, and technology. Furthermore, the skills gained through arts education — such as teamwork, communication, and resilience — are transferable to virtually any profession.\n\nEqually important, the arts contribute to students' mental wellbeing. Engaging in creative activities provides a healthy outlet for stress and can improve concentration in other subjects.\n\nIn summary, the arts are not a luxury but a necessity in education, and their place in schools must be protected."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论艺术学科在学校教育中的重要性。使用所有提示点：创造力与个人发展、职业前景，加上你自己的观点。采取坚定立场并使用有力论据。使用高级词汇如 \"foster\"、\"misconception\"、\"transferable\"，以及强调句式如 \"First and foremost\"、\"Equally important\"。",
+    "explanation_en": "English explanation: This essay discusses the importance of arts subjects in schools. Use all notes: creativity and personal development, career prospects, plus your own idea. Take a firm stance with strong arguments. Use advanced vocabulary like 'foster', 'misconception', 'transferable', and emphatic expressions like 'First and foremost', 'Equally important'.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-007",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 7,
+    "content": {
+      "stem": "In your English class you have been discussing globalisation. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that globalisation has brought the world closer together and improved people's lives. Others argue that it has caused problems such as cultural loss and inequality.\n\nWhat is your view?\n\nNotes\nWrite about:\n1. cultural exchange and understanding\n2. economic effects on developing countries\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Globalisation is one of the defining features of the modern world, and its effects are the subject of intense debate. On balance, I believe that globalisation has brought more benefits than drawbacks, though its challenges must be addressed.\n\nIn terms of cultural exchange, globalisation has enabled people from different backgrounds to share ideas, traditions, and perspectives. This has fostered greater understanding and tolerance between nations. For instance, international festivals, exchange programmes, and access to foreign media have broadened people's horizons considerably.\n\nHowever, the economic effects on developing countries are more complex. While globalisation has created jobs and stimulated growth in many regions, it has also widened the gap between rich and poor in some cases. Multinational companies sometimes exploit cheap labour, which raises serious ethical concerns.\n\nAnother significant benefit is the advancement of global cooperation. Challenges such as pandemics, climate change, and terrorism cannot be tackled by individual nations alone. Globalisation facilitates the collaboration needed to address these shared threats.\n\nTo conclude, globalisation is neither entirely positive nor entirely negative, but its benefits outweigh its drawbacks when managed responsibly."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论全球化的利弊。使用所有提示点：文化交流与理解、对发展中国家的经济影响，加上你自己的观点。要展示平衡分析的能力——承认全球化的问题同时肯定其好处。使用高级表达如 \"On balance\"、\"fostered greater understanding\"、\"raises serious ethical concerns\"。",
+    "explanation_en": "English explanation: This essay discusses the pros and cons of globalisation. Use all notes: cultural exchange and understanding, economic effects on developing countries, plus your own idea. Demonstrate balanced analysis — acknowledge problems while affirming benefits. Use advanced expressions like 'On balance', 'fostered greater understanding', 'raises serious ethical concerns'.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-008",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 8,
+    "content": {
+      "stem": "In your English class you have been talking about climate change. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Many people believe that urgent action is needed to deal with climate change, while others think the problem is exaggerated.\n\nDo you think enough is being done to tackle climate change?\n\nNotes\nWrite about:\n1. government policies and international agreements\n2. individual lifestyle changes\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Climate change is arguably the greatest challenge facing humanity today, and I strongly believe that far more needs to be done to address it effectively.\n\nWith regard to government policies, while international agreements such as the Paris Accord represent important steps forward, many countries have failed to meet their targets. Governments need to implement stricter regulations on emissions, invest heavily in renewable energy, and hold polluting industries accountable. Without decisive political action, meaningful progress will remain elusive.\n\nAs for individual lifestyle changes, although personal choices alone cannot solve the crisis, they are nonetheless significant. Reducing meat consumption, minimising waste, and choosing sustainable products all contribute to lowering one's carbon footprint. Moreover, when individuals demand greener options, businesses are compelled to respond.\n\nFurthermore, education plays a crucial role in combating climate change. Young people who understand the science behind the issue are more likely to advocate for change and develop innovative solutions in the future.\n\nIn conclusion, climate change requires urgent, coordinated action at every level of society. The current pace of progress is simply not sufficient."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论应对气候变化是否做了足够的努力。使用所有提示点：政府政策与国际协议、个人生活方式改变，加上你自己的观点。使用有力的观点表达如 \"I strongly believe\" 和具体的论据。高级词汇如 \"decisive\"、\"elusive\"、\"compelled\" 以及因果论证能提升文章水平。",
+    "explanation_en": "English explanation: This essay discusses whether enough is being done about climate change. Use all notes: government policies and international agreements, individual lifestyle changes, plus your own idea. Use strong opinion expressions like 'I strongly believe' with specific evidence. Advanced vocabulary like 'decisive', 'elusive', 'compelled' and causal reasoning elevate the essay.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-009",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 9,
+    "content": {
+      "stem": "In your English class you have been discussing work and personal life. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people think that working long hours is necessary for success. Others believe that maintaining a good work-life balance is more important.\n\nWhat do you think?\n\nNotes\nWrite about:\n1. health and wellbeing\n2. productivity and quality of work\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "The question of whether long working hours lead to success or whether a balanced lifestyle is preferable has become increasingly relevant in today's demanding world. I am firmly of the opinion that maintaining a healthy work-life balance is essential.\n\nFirst of all, working excessively long hours has a detrimental effect on both physical and mental health. Stress, burnout, and sleep deprivation are common consequences of overwork, and these conditions ultimately reduce a person's ability to perform well. A healthy individual is far more likely to achieve long-term success.\n\nFurthermore, research consistently shows that productivity declines after a certain number of hours. Working smarter, rather than longer, leads to higher-quality output. Employees who take regular breaks and have time for leisure activities tend to be more creative and focused when they are working.\n\nEqually importantly, a good work-life balance strengthens personal relationships. Strong connections with family and friends provide emotional support and a sense of purpose that contributes to overall life satisfaction.\n\nIn conclusion, true success encompasses not only professional achievement but also personal happiness, and this requires a balanced approach to work."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论工作与生活平衡的重要性。使用所有提示点：健康与幸福、生产力与工作质量，加上你自己的观点。使用有说服力的论证，引用研究或普遍认知。高级表达如 \"I am firmly of the opinion that\"、\"detrimental effect\"、\"encompasses\" 展示B2水平的词汇能力。",
+    "explanation_en": "English explanation: This essay discusses the importance of work-life balance. Use all notes: health and wellbeing, productivity and quality of work, plus your own idea. Use persuasive argumentation, citing research or common knowledge. Advanced expressions like 'I am firmly of the opinion that', 'detrimental effect', 'encompasses' demonstrate B2-level vocabulary.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-010",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 10,
+    "content": {
+      "stem": "In your English class you have been talking about community involvement. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that young people should be required to do volunteer work in their communities. Others think volunteering should always be a personal choice.\n\nDo you think volunteering should be compulsory for young people?\n\nNotes\nWrite about:\n1. developing a sense of responsibility\n2. the effect on young people's free time\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "The idea of making volunteer work compulsory for young people is a topic that generates strong opinions. While I appreciate the arguments on both sides, I believe that encouraging rather than forcing volunteering is the most effective approach.\n\nOn the one hand, volunteering undoubtedly helps young people develop a sense of responsibility and empathy. By working with disadvantaged communities, they gain a broader understanding of society and learn to appreciate what they have. These experiences can be truly transformative.\n\nOn the other hand, making volunteering mandatory could have a negative impact on young people's free time, which is already limited by schoolwork and extracurricular activities. If students feel forced to volunteer, they may resent the experience rather than benefit from it, which defeats the purpose entirely.\n\nInstead, I would suggest that schools create attractive volunteering programmes that inspire students to participate willingly. When young people choose to give their time, the experience is far more meaningful and rewarding for everyone involved.\n\nIn conclusion, volunteering should be actively promoted but remain a personal choice, as genuine generosity cannot be compelled."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论青年志愿服务是否应该是强制性的。使用所有提示点：培养责任感、对年轻人空闲时间的影响，加上你自己的观点。可以采用折中立场，用 \"On the one hand... On the other hand...\" 结构展示两方面的分析。高级词汇如 \"transformative\"、\"mandatory\"、\"compelled\" 提升语言水平。",
+    "explanation_en": "English explanation: This essay discusses whether youth volunteering should be compulsory. Use all notes: developing responsibility, effect on free time, plus your own idea. You can take a balanced or compromise position, using 'On the one hand... On the other hand...' structure to show analysis of both sides. Advanced vocabulary like 'transformative', 'mandatory', 'compelled' elevates language quality.",
+    "is_free": false
   }
 ]

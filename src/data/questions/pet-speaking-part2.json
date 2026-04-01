@@ -16,6 +16,139 @@
     },
     "explanation_zh": "这是PET口语第二部分——情景讨论。你需要和搭档讨论一个具体的计划，涵盖多个讨论要点，并做出决定。考官评估你的互动能力和解决问题的能力。",
     "explanation_en": "This is PET Speaking Part 2 — Situation Discussion. You need to discuss a specific plan with your partner, covering multiple discussion points and making decisions. The examiner assesses your interaction skills and problem-solving ability.",
+    "is_free": true
+  },
+  {
+    "id": "pet-s2-002",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Situation Discussion — Organise a charity event at your school.",
+      "prompt": "Your school wants to raise money for a children's hospital. You and your partner need to organise a charity event. Discuss the following points and make decisions: What type of event to organise (cake sale, fun run, talent show, or something else), When and where to hold it, How to advertise the event to students and parents, How much to charge for tickets or activities, What to do with the money raised.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think a talent show would be a great idea because lots of students could take part and it would be really entertaining. We could hold it in the school hall on a Friday afternoon so that parents could come too. To advertise it, we could make posters and put them around the school, and also share it on the school's social media page. I think we should charge about ten yuan for a ticket — that's not too expensive. We could give all the money to the children's hospital to buy toys and books for the children. What do you think?",
+      "tips_zh": "组织慈善活动的讨论需要考虑实际操作性。提出建议时，解释为什么这个活动适合学校环境。讨论时间地点要具体，宣传方式要考虑学生和家长两个群体。定价要合理，并解释善款的具体用途。使用 \"I suggest...\" 和 \"We could...\" 提出建议，用 \"What do you think about...?\" 征求意见。"
+    },
+    "explanation_zh": "这是PET口语第二部分——情景讨论。你需要和搭档一起计划一个学校慈善活动，讨论活动类型、时间地点、宣传方式、收费标准和善款用途。",
+    "explanation_en": "This is PET Speaking Part 2 — Situation Discussion. You need to plan a school charity event with your partner, discussing the type of event, when and where to hold it, how to advertise, ticket prices, and how to use the money raised.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s2-003",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Situation Discussion — Plan a sports day for your school.",
+      "prompt": "Your school is organising a sports day and your teacher has asked you to help plan it. You and your partner need to discuss the following points and make decisions: What sports and activities to include, Whether to have team events, individual events, or both, What prizes to give to winners, How to make sure everyone can take part, What food and drinks to provide during the day.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should include a mix of sports like the 100-metre race, long jump, and football. We should definitely have both team and individual events so that everyone has a chance to participate. For team events, we could have a relay race and a tug-of-war competition. For prizes, we could give medals to the top three in each event and maybe a trophy for the best team overall. To make sure everyone can take part, we should have some fun, non-competitive activities too, like a sack race or an egg-and-spoon race. We could set up a food stall with sandwiches, fruit, and water. Does that sound good to you?",
+      "tips_zh": "讨论运动会计划时，要平衡竞技性和参与性。提议的运动要多样化，包括田径、球类和趣味项目。讨论奖品时要合理（奖牌、奖杯、证书），确保每个人都能参与是重要的一点。使用 \"I think we should include...\" 和 \"We could have...\" 提出建议，用 \"Does that sound good to you?\" 征求意见。"
+    },
+    "explanation_zh": "这是PET口语第二部分——情景讨论。你需要和搭档一起计划学校运动会，讨论运动项目、比赛形式、奖品、如何让每个人参与以及餐饮安排。",
+    "explanation_en": "This is PET Speaking Part 2 — Situation Discussion. You need to plan a school sports day with your partner, discussing sports and activities, event types, prizes, inclusivity, and food arrangements.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s2-004",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Situation Discussion — Choose a new after-school club to start at your school.",
+      "prompt": "Your school has money to start one new after-school club. You and your partner need to decide which club to start. Discuss the following points and make decisions: What type of club it should be (e.g. drama, photography, coding, cooking, art), Who should run the club and how often it should meet, What equipment or materials are needed, How to get students interested in joining, Where in the school the club should meet.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think a coding club would be really popular because lots of students are interested in technology. We could ask the IT teacher, Mr. Li, to run it, and it could meet every Wednesday after school for an hour. We would need computers, of course, and maybe some books about programming for beginners. To get students interested, we could give a short presentation in assembly and show some cool projects that other students have made. I think the computer room would be the best place for the club to meet because all the equipment is already there. What kind of club would you prefer?",
+      "tips_zh": "选择课外社团的讨论需要考虑学生的兴趣和实际可行性。提出你的选择并解释原因，讨论谁来负责和活动频率，列出需要的设备和材料，提出具体的宣传方案。使用 \"I think... would be really popular because...\" 支持你的选择，用 \"We would need...\" 讨论需求，用 \"What kind of club would you prefer?\" 引导互动。"
+    },
+    "explanation_zh": "这是PET口语第二部分——情景讨论。你需要和搭档一起决定学校应该开设什么新社团，讨论社团类型、负责人和时间、设备、宣传方式和场地。",
+    "explanation_en": "This is PET Speaking Part 2 — Situation Discussion. You need to decide with your partner which new after-school club to start, discussing the type, organiser and schedule, equipment, promotion, and venue.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s2-005",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Situation Discussion — Plan a welcome party for a new student from another country.",
+      "prompt": "A new student from another country is joining your class next week. You and your partner want to organise a welcome party. Discuss the following points and make decisions: When and where to have the welcome party, What food to prepare (consider that the student might have different food preferences), What activities would help the new student feel comfortable, What small gift to give them, How to introduce them to other students in the class.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should have the party after school on their first day, in our classroom — that way it feels welcoming. For food, we could ask the student's parents if there's anything they can't eat, and then prepare a variety of snacks like fruit, biscuits, and small sandwiches. To help them feel comfortable, we could play some ice-breaker games where everyone introduces themselves and shares something interesting. We could give them a small welcome card signed by everyone in the class, and maybe a school notebook. To introduce them to other classmates, we could pair them with a 'buddy' for the first week. What do you think about that idea?",
+      "tips_zh": "欢迎新同学的讨论要体现包容和细心。时间和地点要方便，食物准备要考虑文化差异和饮食限制，活动要帮助新同学融入。礼物要体现温暖和欢迎，介绍方式要自然不尴尬。使用 \"We could...\" 和 \"I think we should...\" 提出建议，用 \"What do you think about...?\" 征求搭档意见。"
+    },
+    "explanation_zh": "这是PET口语第二部分——情景讨论。你需要和搭档一起为来自其他国家的新同学策划欢迎会，讨论时间地点、食物准备、活动安排、礼物和介绍方式。",
+    "explanation_en": "This is PET Speaking Part 2 — Situation Discussion. You need to plan a welcome party for a new international student with your partner, discussing timing, food, activities, gifts, and introductions.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s2-006",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Situation Discussion — Plan a school magazine together.",
+      "prompt": "Your teacher has asked your class to create a school magazine. You and your partner are in charge of planning it. Discuss the following points and make decisions: What sections to include in the magazine (e.g. news, interviews, reviews, sports, creative writing), How often to publish it (weekly, monthly, or once a term), Who should write the different sections, How to design the cover, Whether to make it a printed magazine or an online magazine.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think the magazine should have sections for school news, student interviews, book and film reviews, sports results, and a creative writing corner where students can share their stories and poems. I think publishing it once a month would be best — weekly would be too much work, and once a term isn't often enough. We could ask students who are good at writing to volunteer for different sections. For the cover, we could have a competition where students design it each month — that would be really fun. I think an online magazine would be better because it's cheaper and we could share it more easily. But maybe we could print a few copies for the school library too. What's your opinion?",
+      "tips_zh": "策划校园杂志的讨论要考虑内容多样性和可行性。提议的栏目要覆盖不同兴趣的读者，出版频率要合理，分配任务要考虑同学的特长。封面设计可以有创意（比如比赛征集），纸质和电子版的选择要权衡利弊。使用 \"I think... would be best because...\" 解释选择，用 \"What's your opinion?\" 邀请讨论。"
+    },
+    "explanation_zh": "这是PET口语第二部分——情景讨论。你需要和搭档一起策划一份校园杂志，讨论内容板块、出版频率、作者分配、封面设计和出版形式。",
+    "explanation_en": "This is PET Speaking Part 2 — Situation Discussion. You need to plan a school magazine with your partner, discussing sections, publishing frequency, writers, cover design, and whether to publish in print or online.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s2-007",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Situation Discussion — Plan an end-of-year celebration for your class.",
+      "prompt": "Your class is planning an end-of-year celebration. You and your partner need to organise it. Discuss the following points and make decisions: Where to hold the celebration (school hall, classroom, restaurant, or outdoor), What entertainment to have (music, games, videos, performances), Whether to have a theme for the celebration and what it should be, What food and drinks to have, How to make the celebration memorable for everyone.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should hold the celebration in the school hall because it's big enough for our whole class and we can decorate it nicely. For entertainment, we could have a slideshow of photos from the whole year and some student performances — like singing or dancing. I think a 'Hollywood Movie Night' theme would be really fun. Everyone could dress up as their favourite movie character! For food, we could do a potluck where everyone brings a dish — that way, there's lots of variety and it's not too expensive. To make it memorable, we could create a 'time capsule' with messages and photos that we can open in five years. What do you think about that?",
+      "tips_zh": "策划班级年终庆祝活动要兼顾趣味性和参与感。选择场地时考虑空间和装饰可能性，娱乐活动要有互动性，主题要有创意且大家都能参与。食物可以建议大家一起准备（potluck）来降低成本。使纪念活动有意义的想法（如时间胶囊、纪念册）会加分。使用 \"I think... would be really fun\" 和 \"What do you think about...?\" 保持讨论互动。"
+    },
+    "explanation_zh": "这是PET口语第二部分——情景讨论。你需要和搭档一起策划班级年终庆祝活动，讨论场地、娱乐节目、主题、餐饮和如何让活动令人难忘。",
+    "explanation_en": "This is PET Speaking Part 2 — Situation Discussion. You need to plan a class end-of-year celebration with your partner, discussing the venue, entertainment, theme, food, and how to make it memorable.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s2-008",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Situation Discussion — Set up a study group for exam preparation.",
+      "prompt": "Your exams are in two months and you want to set up a study group. You and your partner need to plan how it will work. Discuss the following points and make decisions: Which subjects to study together, How often to meet and for how long, Where to hold the study sessions (school library, someone's house, online), What study methods to use (practice tests, flashcards, group discussion), How to make sure everyone stays focused and motivated.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should focus on the subjects that most people find difficult, like maths and science. We could study English together too since we're all preparing for the PET exam. I suggest we meet twice a week — maybe on Tuesdays and Thursdays after school — for about two hours each time. The school library would be the best place because it's quiet and we can use the computers there. For study methods, we could start each session by reviewing our notes together, then do some practice tests, and finish by discussing any questions. To stay focused, we could set a timer for study periods with short breaks in between, and maybe reward ourselves with snacks. We should also set goals for each session. Would you like to join?",
+      "tips_zh": "策划学习小组要注重实际可行性和效率。选择科目要考虑大家的共同需求，会面频率和时长要合理（不要太频繁也不能太少），学习方法要多样化。保持专注和积极性的方法要具体可行（如番茄工作法、目标设定、奖励）。使用 \"I suggest we...\" 和 \"We could...\" 提出建议，用 \"Would you like to...?\" 保持互动。"
+    },
+    "explanation_zh": "这是PET口语第二部分——情景讨论。你需要和搭档一起计划一个备考学习小组，讨论学习科目、频率和时长、地点、学习方法和如何保持专注。",
+    "explanation_en": "This is PET Speaking Part 2 — Situation Discussion. You need to plan an exam study group with your partner, discussing subjects, meeting frequency, venue, study methods, and staying focused.",
     "is_free": false
   }
 ]

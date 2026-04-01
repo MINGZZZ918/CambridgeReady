@@ -10,13 +10,145 @@
       "stem": "Collaborative Task — Compare and discuss two photographs of people working.",
       "prompt": "Here are two photographs showing different ways of working. The first shows people working together in a modern open-plan office with computers and whiteboards. The second shows a person working from home at their kitchen table with a laptop. First, talk together about the advantages and disadvantages of each way of working. Then decide which way of working would be best for a young person starting their career.",
       "preparation_time_seconds": 10,
-      "speaking_time_seconds": 60,
-      "image_url": "/images/speaking/fce-working.jpg",
+      "speaking_time_seconds": 180,
       "sample_answer": "Looking at these two photographs, I can see very different working environments. The open-plan office looks busy and collaborative — people are interacting, sharing ideas, and there seems to be a lot of energy. On the other hand, working from home looks much more relaxed and quiet. The person at the kitchen table seems comfortable but also quite isolated. There are clear advantages to both. Working in an office allows you to build relationships with colleagues, get immediate feedback, and learn from more experienced people. However, it can be noisy and distracting. Working from home offers flexibility and eliminates commuting time, but it can be lonely and it's harder to separate work from personal life. For a young person starting their career, I would say working in an office is better because they need mentorship and networking opportunities. It's important to learn from others when you're just starting out.",
       "tips_zh": "FCE口语第三部分是协作任务，你需要和搭档一起讨论。关键技巧：1）认真听搭档的发言并做出回应（I agree with you because... / That's an interesting point, but I think...）；2）轮流发言，不要一个人说太多；3）讨论正反两面（advantages and disadvantages）；4）最后要做出决定并给出理由；5）使用高级词汇和表达方式展示你的语言水平。"
     },
     "explanation_zh": "这是FCE口语第三部分——协作任务。你和搭档需要一起讨论一组图片或选项，分析利弊，最后做出共同决定。这部分重点考查你的互动和协商能力。",
     "explanation_en": "This is FCE Speaking Part 3 — Collaborative Task. You and your partner discuss a set of images or options together, analyze pros and cons, and reach a joint decision. This part focuses on your interaction and negotiation skills.",
+    "is_free": true
+  },
+  {
+    "id": "fce-s3-002",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Collaborative Task — Discuss ways to improve life in a city.",
+      "prompt": "Here are some ideas for improving life in a city: better public transport, more green spaces, safer cycling lanes, community centres for local people, and stricter rules on pollution. First, talk together about how each of these ideas could improve city life. Then decide which two ideas would make the biggest difference.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 180,
+      "sample_answer": "Let's start by looking at each of these ideas. Better public transport would make a huge difference because it would reduce traffic congestion and make it easier for people to get to work and school. More green spaces are also very important — parks and gardens give people a place to relax, exercise, and connect with nature, which is vital for mental health in a busy urban environment. Safer cycling lanes could encourage more people to cycle instead of drive, which would help reduce both pollution and traffic. Community centres would bring local people together and create a stronger sense of belonging, especially in areas where people don't know their neighbours very well. Stricter pollution rules would obviously improve air quality, which would benefit everyone's health. If I had to choose just two, I think better public transport and more green spaces would make the biggest overall difference, because they address both practical needs and quality of life. Do you agree, or would you choose differently?",
+      "tips_zh": "协作讨论改善城市生活的方式。技巧：1）系统地讨论每个选项，不要跳过任何一个；2）解释每个想法如何改善城市生活，给出具体理由；3）做决定时说明为什么选择这两个而不是其他的；4）邀请搭档参与讨论（Do you agree? What do you think?）；5）使用评价性语言如 \"make a huge difference\"、\"vital for\" 来表达观点的强度。"
+    },
+    "explanation_zh": "这是FCE口语第三部分——讨论改善城市生活的方式。你需要和搭档讨论五个选项，分析每个的优点，然后选出最有效的两个。",
+    "explanation_en": "This is FCE Speaking Part 3 — Discussing ways to improve city life. You and your partner discuss five options, analyse the merits of each, then choose the two most effective ones.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s3-003",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Collaborative Task — Discuss ways to promote a healthy lifestyle among young people.",
+      "prompt": "Here are some ways a school could promote a healthy lifestyle among students: offering healthier school meals, organising sports competitions, teaching cooking skills, providing mental health support, and banning sugary drinks and snacks. First, talk together about how effective each of these ideas might be. Then decide which idea would be the most important to implement first.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 180,
+      "sample_answer": "These are all interesting ideas. Let's think about each one. Offering healthier school meals is a practical approach because students eat at school every day, so improving the quality of food would have an immediate impact on their diets. Organising sports competitions could motivate students who enjoy competitive activities, but it might not appeal to everyone — some students find competitions stressful rather than encouraging. Teaching cooking skills is an excellent long-term investment because it gives young people the knowledge to make healthy choices for the rest of their lives. Providing mental health support is increasingly important, as many young people struggle with stress and anxiety. This addresses the wider definition of health, which includes mental wellbeing. Banning sugary drinks and snacks might be unpopular, but it would certainly reduce unhealthy consumption at school. If I had to choose the most important one to implement first, I would say providing mental health support, because mental health underpins everything else — students who feel well psychologically are more likely to make healthier choices overall. What's your view?",
+      "tips_zh": "协作讨论如何在学校推广健康生活方式。技巧：1）对每个选项给出公正的评价，包括优点和局限；2）使用评价性语言（practical approach, excellent long-term investment）；3）做决定时给出深层次的理由，而不只是表面的好处；4）展示你对 \"健康\" 概念的全面理解（包括心理健康）；5）使用过渡语自然连接不同观点。"
+    },
+    "explanation_zh": "这是FCE口语第三部分——讨论如何在学校推广健康生活方式。你需要和搭档讨论五个方案，评估每个的有效性，然后决定哪个最应该优先实施。",
+    "explanation_en": "This is FCE Speaking Part 3 — Discussing ways to promote healthy lifestyles in schools. You and your partner discuss five proposals, evaluate each one's effectiveness, then decide which should be implemented first.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s3-004",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Collaborative Task — Discuss the qualities of a good leader.",
+      "prompt": "Here are some qualities that people think are important for a good leader: excellent communication skills, the ability to listen to others, strong decision-making, creativity and vision, and honesty and integrity. First, talk together about why each of these qualities is important for a leader. Then decide which quality is the most essential.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 180,
+      "sample_answer": "This is a really thought-provoking topic. Let's consider each quality in turn. Communication skills are fundamental because a leader needs to convey their ideas clearly and inspire others to follow their vision. Without good communication, even the best plans can fail. The ability to listen is equally crucial — a leader who doesn't listen to their team will miss valuable ideas and may make decisions that don't reflect the needs of the people they lead. Strong decision-making is essential because leaders are often faced with difficult choices under pressure, and hesitation can lead to missed opportunities. Creativity and vision allow a leader to see beyond the present and imagine better ways of doing things, which drives innovation and progress. Finally, honesty and integrity are the foundation of trust — if people don't trust their leader, nothing else matters. Choosing just one is difficult, but I would argue that honesty and integrity is the most essential quality, because without trust, a leader cannot effectively communicate, listen, decide, or inspire. Would you agree with that?",
+      "tips_zh": "协作讨论领导者的品质。技巧：1）解释每个品质为什么重要时要具体，给出例子或推理；2）使用因果关系来深化分析（Without good communication... / If people don't trust...）；3）做最终选择时要说明为什么这个品质是其他品质的基础；4）使用学术性表达如 \"fundamental\"、\"crucial\"、\"the foundation of\"；5）邀请搭档表达观点并准备回应不同意见。"
+    },
+    "explanation_zh": "这是FCE口语第三部分——讨论优秀领导者的品质。你需要和搭档讨论五个品质，分析每个为什么重要，然后决定哪个最关键。",
+    "explanation_en": "This is FCE Speaking Part 3 — Discussing the qualities of a good leader. You and your partner discuss five leadership qualities, analyse why each is important, then decide which is most essential.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s3-005",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Collaborative Task — Discuss ways to help the environment in everyday life.",
+      "prompt": "Here are some things people can do in their everyday lives to help the environment: reducing plastic use, using public transport instead of cars, buying locally produced food, saving energy at home, and planting trees in the community. First, talk together about how practical and effective each of these actions would be. Then decide which action would have the greatest impact if everyone did it.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 180,
+      "sample_answer": "Let's go through these one by one. Reducing plastic use is highly practical — people can carry reusable bags, bottles, and containers quite easily. The problem is that plastic is so convenient that many people struggle to give it up entirely. Using public transport is effective in theory, but it depends heavily on where you live. In cities with good networks, it's very feasible, but in rural areas, it may not be a realistic option. Buying locally produced food reduces the carbon footprint associated with transporting goods over long distances, and it also supports local businesses. However, it can sometimes be more expensive. Saving energy at home is perhaps the most straightforward action — turning off lights, using energy-efficient appliances, and reducing heating are all easy changes that save money too. Planting trees is wonderful for the long term, as trees absorb carbon dioxide, but it requires space and collective effort. I think if I had to choose the one with the greatest impact, it would be using public transport, because transportation is one of the largest sources of carbon emissions globally. If everyone made this switch, the effect would be enormous.",
+      "tips_zh": "协作讨论日常生活中保护环境的方式。技巧：1）评估每个行动的 \"可行性\" 和 \"有效性\" 两个维度；2）提出每个方案的潜在困难或限制；3）使用数据或常识来支持你的判断；4）做选择时要有全局视角（transportation is one of the largest sources...）；5）使用评估性语言如 \"highly practical\"、\"in theory\"、\"the most straightforward\"。"
+    },
+    "explanation_zh": "这是FCE口语第三部分——讨论日常生活中保护环境的行动。你需要和搭档讨论五个环保行动，评估每个的可行性和有效性，然后选出影响最大的一个。",
+    "explanation_en": "This is FCE Speaking Part 3 — Discussing everyday actions to help the environment. You and your partner discuss five environmental actions, evaluate the practicality and effectiveness of each, then choose the one with the greatest impact.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s3-006",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Collaborative Task — Discuss the benefits of different hobbies for young people.",
+      "prompt": "Here are some hobbies that can benefit young people: learning a musical instrument, doing team sports, reading widely, learning to code, and volunteering in the community. First, talk together about how each of these hobbies could benefit a young person. Then decide which hobby you would most recommend to a teenager.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 180,
+      "sample_answer": "These are all excellent hobbies with different benefits. Learning a musical instrument develops discipline, patience, and creativity. It also provides a wonderful outlet for self-expression and has been shown to improve memory and concentration. Team sports teach cooperation, communication, and how to handle both winning and losing — these are essential life skills. They also keep young people physically active, which is increasingly important. Reading widely exposes young people to different ideas, cultures, and perspectives. It builds vocabulary, improves writing skills, and stimulates the imagination. Learning to code is an incredibly practical skill in today's digital world. It teaches logical thinking and problem-solving, and it opens up a wide range of career opportunities. Volunteering helps young people develop empathy, social awareness, and a sense of purpose. It also looks impressive on university applications! If I had to recommend just one, I think I would choose reading widely, because it benefits almost every other area of life — it improves communication, broadens understanding, and can inspire someone to take up any of the other hobbies on the list. What would you recommend?",
+      "tips_zh": "协作讨论不同爱好对年轻人的益处。技巧：1）为每个爱好列出具体的好处，不要笼统地说 \"it's good\"；2）涵盖不同方面的益处（身体、心理、社交、职业）；3）做推荐时给出有创意的理由（reading benefits almost every other area）；4）使用被动语态和评价表达（has been shown to, is increasingly important）；5）以问题结尾邀请搭档分享观点。"
+    },
+    "explanation_zh": "这是FCE口语第三部分——讨论不同爱好对年轻人的益处。你需要和搭档讨论五种爱好的好处，然后推荐最值得青少年尝试的一种。",
+    "explanation_en": "This is FCE Speaking Part 3 — Discussing the benefits of different hobbies for young people. You and your partner discuss the advantages of five hobbies, then recommend the one most worth trying for teenagers.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s3-007",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Collaborative Task — Discuss the most important skills for the future.",
+      "prompt": "Here are some skills that people say will be important in the future: critical thinking, digital literacy, emotional intelligence, adaptability, and foreign language skills. First, talk together about why each of these skills might be important in the future. Then decide which skill young people should focus on developing the most.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 180,
+      "sample_answer": "These are all skills that will be increasingly valuable as the world changes. Critical thinking is essential because in an age of misinformation and artificial intelligence, people need to evaluate information carefully and make sound judgements. Without critical thinking, people are easily manipulated. Digital literacy goes beyond just knowing how to use a computer — it includes understanding data, online safety, and how technology shapes our lives. As more jobs become technology-driven, this skill becomes indispensable. Emotional intelligence — the ability to understand and manage your own emotions and those of others — is crucial for teamwork, leadership, and personal relationships. Machines can't replicate this, which makes it uniquely valuable. Adaptability is perhaps the most forward-looking skill, as the pace of change means that the jobs and challenges of tomorrow may look completely different from those of today. People who can adapt quickly will thrive. Foreign language skills open doors to international opportunities and deepen cultural understanding. I think young people should focus most on adaptability, because it encompasses many of the other skills and prepares you for whatever the future brings, even if we can't predict exactly what that will be.",
+      "tips_zh": "协作讨论未来最重要的技能。技巧：1）将每个技能放在未来社会的背景中分析其重要性；2）使用前瞻性语言（as the world changes, in the future, tomorrow may look different）；3）解释技能之间的关系（adaptability encompasses many other skills）；4）使用高级词汇如 \"indispensable\"、\"replicate\"、\"encompasses\"；5）提出有深度的论证，不只是说 \"it's important\"。"
+    },
+    "explanation_zh": "这是FCE口语第三部分——讨论未来最重要的技能。你需要和搭档讨论五种技能在未来的重要性，然后决定年轻人应该重点发展哪一种。",
+    "explanation_en": "This is FCE Speaking Part 3 — Discussing the most important skills for the future. You and your partner discuss why five skills will matter in the future, then decide which young people should focus on most.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s3-008",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Collaborative Task — Discuss different ways to learn a foreign language effectively.",
+      "prompt": "Here are some ways people try to learn a foreign language: attending regular classes with a teacher, using language learning apps, watching films and TV shows in the language, doing a language exchange with a native speaker, and living in a country where the language is spoken. First, talk together about the advantages and disadvantages of each approach. Then decide which method or combination of methods would be most effective for a busy teenager.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 180,
+      "sample_answer": "This is a topic close to my heart, as I'm learning English myself! Let's consider each method. Attending regular classes provides structure, grammar instruction, and a qualified teacher to correct mistakes. However, classes alone can be quite passive if students don't practise outside the classroom. Language learning apps like Duolingo are convenient and fun, but they tend to focus on vocabulary and basic phrases rather than genuine fluency. They're a good supplement but not sufficient on their own. Watching films and TV shows is an enjoyable way to improve listening skills and pick up natural expressions, though it requires a reasonable level already to benefit fully. A language exchange with a native speaker is excellent for developing conversational skills and gaining cultural insight. The challenge is finding a reliable partner and maintaining regular practice. Living abroad is undoubtedly the most immersive method, but it's not realistic for most teenagers. For a busy teenager, I would recommend a combination of regular classes for the foundation and a language exchange for real-world practice, supplemented by watching films for enjoyment and exposure. This gives a balance of structured learning and natural communication.",
+      "tips_zh": "协作讨论学习外语的有效方法。技巧：1）对每种方法都给出优缺点，不要只说好的一面；2）考虑 \"忙碌的青少年\" 这个具体场景来做推荐；3）推荐组合方案而不只是单一方法，展示全面思考；4）使用个人经历来增加真实感；5）使用连接词自然过渡不同方法的讨论（However, though, The challenge is）。"
+    },
+    "explanation_zh": "这是FCE口语第三部分——讨论学习外语的有效方法。你需要和搭档讨论五种学习方法的优缺点，然后为忙碌的青少年推荐最有效的方法或组合。",
+    "explanation_en": "This is FCE Speaking Part 3 — Discussing effective ways to learn a foreign language. You and your partner discuss the pros and cons of five methods, then recommend the most effective approach or combination for a busy teenager.",
     "is_free": false
   }
 ]

@@ -17,5 +17,138 @@
     "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起讨论一个实际场景，做出计划和决定。重点是展示你能用英语进行日常交流和协商。",
     "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to discuss a practical scenario with your partner, making plans and decisions together. The focus is on showing you can communicate and negotiate in everyday English.",
     "is_free": false
+  },
+  {
+    "id": "ket-s2-002",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Situation Discussion — Plan a birthday party for a classmate.",
+      "prompt": "Your classmate is having a birthday next week. You and your partner want to plan a surprise party. Discuss and decide: Where should you have the party? What food and drinks should you prepare? What present should you buy?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should have the party at school because it's easy for everyone to come. We could prepare some pizza and juice — most people like those. For a present, we could buy a book because she really likes reading. We should also get a birthday cake. What flavour do you think she likes? Maybe chocolate. We could decorate the classroom with balloons too.",
+      "tips_zh": "讨论派对计划时，需要涵盖三个要点：地点、食物饮料、礼物。使用 \"I think we should...\" 提出建议，\"What do you think?\" 询问搭档意见。用 \"because\" 解释你的选择。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。需要和搭档一起计划一个生日派对。讨论时要涵盖所有要点：地点、食物、礼物。展示你能用英语提出建议和做决定。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan a birthday party with your partner. Cover all the points: location, food, and present. Show you can make suggestions and decisions in English.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-003",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Situation Discussion — Choose a school trip destination.",
+      "prompt": "Your class is going on a school trip. You and your partner need to decide together. Discuss: Where should you go — the zoo, the science museum, or the beach? How should you get there? What should everyone bring?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should go to the zoo because we can see lots of different animals. It's more fun than a museum. We could take the school bus because it's cheaper than a taxi. Everyone should bring a packed lunch, some water, and a camera to take photos. Do you agree? We should also bring sun cream if it's sunny.",
+      "tips_zh": "讨论学校旅行时，要比较不同选项并给出理由。使用 \"I think... because...\" 和 \"It's more... than...\" 来比较。记得讨论所有要点：去哪里、怎么去、带什么。最后询问搭档是否同意。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起选择学校旅行的目的地。讨论中要比较不同选项、给出理由、做出决定。展示你能用英语进行协商。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to choose a school trip destination with your partner. Compare different options, give reasons, and make a decision. Show you can negotiate in English.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-004",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Situation Discussion — Decide on an after-school activity.",
+      "prompt": "You and your partner want to start a new after-school activity together. Discuss the options and decide: Which activity should you choose — art club, cooking class, or drama club? What day should you do it? What do you need for the activity?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I'd like to join the cooking class because I want to learn how to make different dishes. I think Wednesday is the best day because we don't have much homework on Wednesdays. For the cooking class, we need an apron and maybe a notebook to write down the recipes. What about you? Do you prefer cooking or something else? The drama club sounds fun too, but I think cooking is more useful.",
+      "tips_zh": "讨论课外活动时，先表达你的喜好，然后给出理由。讨论最合适的时间时，可以说明其他日子为什么不行。使用 \"I'd like to...\" 表达喜好，\"I think... is the best day because...\" 讨论时间安排。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起选择课外活动。讨论时要比较选项、选择日期、列出需要的东西。展示你能表达喜好和原因。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to choose an after-school activity with your partner. Compare options, choose a day, and list what you need. Show you can express preferences and reasons.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-005",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Situation Discussion — Organize a class event.",
+      "prompt": "Your class wants to organize a fun event at the end of term. You and your partner need to plan it. Discuss and decide: What type of event should it be — a sports day, a talent show, or a class party? Where should you hold it? What jobs need to be done to prepare?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think a talent show would be great because everyone can do something different — some people can sing, some can dance, and some can tell jokes. We should hold it in the school hall because there's a big stage there. To prepare, we need someone to make posters, someone to sell tickets, and someone to set up the chairs. Maybe we can also have some snacks and drinks for everyone. What do you think about the talent show?",
+      "tips_zh": "讨论班级活动时，要说明选择的理由、活动地点和需要做的准备工作。使用 \"I think... would be great because...\" 提出建议。列举准备工作时用 \"We need someone to...\"。记得询问搭档的意见。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起策划班级活动。讨论活动类型、地点和准备工作。展示你能用英语组织想法和分配任务。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan a class event with your partner. Discuss the type of event, location, and preparation tasks. Show you can organise ideas and assign tasks in English.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-006",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Situation Discussion — Choose a present for a friend.",
+      "prompt": "Your friend is moving to another city and you want to buy a goodbye present. You and your partner need to decide together. Discuss: What present should you buy — a photo album, a book, or a piece of jewellery? How much should you spend? Should you write a card too?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should buy a photo album and fill it with photos of us together. That would be very special because it will help her remember us. We could spend about 50 yuan — that's not too expensive. Yes, we should definitely write a card too. Everyone in the class could sign it and write a short message. That would make her really happy. Do you think a photo album is a good idea, or would you prefer something else?",
+      "tips_zh": "讨论送礼物时，要解释为什么选择某个礼物、花多少钱合适、是否需要写卡片。使用 \"I think we should... because...\" 给出建议和理由。使用 \"That would be...\" 来描述效果。记得询问搭档的看法。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起选择送别礼物。讨论礼物选择、预算和是否写卡片。展示你能表达想法、给出理由并征求他人意见。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to choose a goodbye present with your partner. Discuss the gift choice, budget, and whether to write a card. Show you can express ideas, give reasons, and ask for opinions.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-007",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Situation Discussion — Plan a holiday together.",
+      "prompt": "You and your partner want to plan a short holiday during the school break. Discuss and decide: Where should you go — the beach, the mountains, or a big city? How long should the holiday be? What activities do you want to do there?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should go to the beach because we can relax and have fun in the sun. We could go for three or four days — that's enough time to enjoy everything. At the beach, we can swim in the sea, build sandcastles, and go for walks along the coast. In the evening, we could eat seafood at a restaurant. The mountains would be nice too, but I think the beach is better for a short holiday. What do you think?",
+      "tips_zh": "讨论假期计划时，需要涵盖三个要点：去哪里、待多久、做什么活动。比较不同选项时用 \"I think... is better because...\"。描述活动时用 \"We can...\" 和 \"We could...\"。记得说明你的偏好和理由。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起计划假期。讨论目的地、时长和活动。展示你能比较不同选项、表达偏好和做出决定。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan a holiday with your partner. Discuss the destination, duration, and activities. Show you can compare options, express preferences, and make decisions.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-008",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Situation Discussion — Decide how to decorate a room.",
+      "prompt": "You and your partner are sharing a room at a summer camp. You want to make it look nice. Discuss and decide: What colour should you paint the walls? What things should you put in the room — posters, plants, or lights? How should you arrange the furniture?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should paint the walls light blue because it's a calm and happy colour. We could put some posters of our favourite singers on the wall, and maybe a small plant on the desk. For the furniture, I think we should put the two beds on opposite sides of the room so we both have space. We could put a small table in the middle and some fairy lights around the window. That would make the room really cosy. Do you like light blue, or would you prefer a different colour?",
+      "tips_zh": "讨论房间装饰时，要涵盖三个要点：墙壁颜色、放什么东西、家具怎么摆。使用 \"I think we should...\" 提出建议，\"because\" 给出理由。描述位置时用 \"on the wall\"、\"on the desk\"、\"in the middle\" 等介词短语。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起决定如何装饰房间。讨论颜色、装饰品和家具摆放。展示你能描述空间和位置，表达审美偏好。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to decide how to decorate a room with your partner. Discuss colours, decorations, and furniture arrangement. Show you can describe spaces and positions, and express aesthetic preferences.",
+    "is_free": false
   }
 ]

@@ -21,6 +21,181 @@
     },
     "explanation_zh": "这是FCE口语第四部分——深度话题讨论。考官会就社会话题问你深入的问题，你需要展示独立思考能力，从多角度分析问题。这是对你英语综合能力的全面考查。",
     "explanation_en": "This is FCE Speaking Part 4 — In-depth Topic Discussion. The examiner asks probing questions about social topics, and you need to demonstrate independent thinking and multi-perspective analysis. This is a comprehensive test of your overall English ability.",
+    "is_free": true
+  },
+  {
+    "id": "fce-s4-002",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Topic Discussion — Discuss the education system and how it could be improved.",
+      "prompt": "The examiner will ask you in-depth questions about education, learning, and the school system. Express your opinions clearly with reasons and examples, and consider alternative viewpoints.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "Do you think the current education system prepares young people well for the real world? Why or why not?",
+        "Some people think exams are the best way to assess students. Others prefer continuous assessment. What do you think?",
+        "How important is it for schools to teach practical life skills, such as managing money or cooking?",
+        "Do you think online learning could ever replace traditional classroom education?",
+        "What changes would you make to the education system if you had the power to do so?"
+      ],
+      "sample_answer": "I think the current education system does a good job of teaching academic knowledge, but it could do much more to prepare students for the real world. Many students leave school without basic practical skills like managing finances or dealing with workplace challenges. Regarding assessment, I believe a combination of exams and continuous assessment is the most fair approach. Exams test how well students perform under pressure, but they can be stressful and don't always reflect a student's true ability. Continuous assessment gives a more complete picture of what a student knows and can do over time. Teaching practical life skills is extremely important — I would argue that knowing how to manage a budget is just as valuable as knowing algebra. Schools should integrate these skills into the curriculum rather than treating them as optional extras. As for online learning, it has enormous potential, especially for flexibility and accessibility, but I don't think it can fully replace the classroom. The social interaction, structured environment, and personal guidance that a school provides are difficult to replicate online. If I could change the system, I would reduce the emphasis on memorisation, introduce more project-based learning, and ensure that every student has access to high-quality career guidance.",
+      "tips_zh": "FCE话题讨论——教育系统。技巧：1）对当前教育系统给出平衡的评价（does a good job... but could do more）；2）讨论考试制度时展示你理解不同评估方式的优缺点；3）表达强烈观点时使用 \"I would argue that\" 等高级表达；4）讨论改变时给出具体可行的建议；5）使用对比和让步结构展示复杂的思维（has enormous potential... but I don't think...）。"
+    },
+    "explanation_zh": "这是FCE口语第四部分——深度讨论教育话题。考官会问你关于教育制度、考试评估和学习方式的深入问题。你需要展示对教育话题的全面理解和独到见解。",
+    "explanation_en": "This is FCE Speaking Part 4 — In-depth discussion about education. The examiner asks probing questions about education systems, assessment methods, and learning approaches. Demonstrate comprehensive understanding and original insights on education topics.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s4-003",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Topic Discussion — Discuss the influence of media on people and society.",
+      "prompt": "The examiner will ask you in-depth questions about media, advertising, and their influence on people. Express your opinions clearly, consider both positive and negative effects, and give specific examples.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "How much influence do you think the media has on people's opinions and behaviour?",
+        "Do you think advertising has a positive or negative effect on society overall?",
+        "How has social media changed the way news is reported and consumed?",
+        "Some people argue that celebrities have too much influence on young people. Do you agree?",
+        "What responsibilities do you think media organisations have to the public?"
+      ],
+      "sample_answer": "The media has an enormous influence on how people think and behave — arguably more than ever before. Through constant exposure to news, advertising, and social media, our attitudes, desires, and even our self-image are shaped in ways we may not always be aware of. Advertising is a complex issue. On the positive side, it informs consumers about products and drives economic growth. However, it can also create unrealistic expectations, promote materialism, and exploit insecurities, particularly among young people. Social media has fundamentally changed news consumption. Anyone can now share information instantly, which makes news more democratic but also more unreliable. The rise of fake news and echo chambers — where people only see opinions they already agree with — is a serious concern for democratic societies. As for celebrity influence, I think it can be both positive and negative. When celebrities use their platforms to raise awareness about important issues, they can have a powerful positive impact. The problem arises when young people idolise celebrities for superficial reasons and measure their own worth against unrealistic standards. I believe media organisations have a responsibility to report truthfully, to distinguish clearly between news and opinion, and to consider the impact of their content on vulnerable audiences, including children.",
+      "tips_zh": "FCE话题讨论——媒体影响。技巧：1）展示你理解媒体影响的多个层面（opinions, behaviour, self-image）；2）讨论广告时展示批判性思维，分析正面和负面影响；3）使用媒体相关的专业词汇（echo chambers, fake news, democratic）；4）讨论名人影响时给出有深度的分析，不只是简单的赞同或反对；5）总结时提出建设性的观点，展示社会责任感。"
+    },
+    "explanation_zh": "这是FCE口语第四部分——深度讨论媒体影响。考官会问你关于媒体、广告和社交媒体对社会影响的深入问题。你需要展示批判性思维和对媒体生态的深入理解。",
+    "explanation_en": "This is FCE Speaking Part 4 — In-depth discussion about media influence. The examiner asks probing questions about media, advertising, and social media's impact on society. Demonstrate critical thinking and deep understanding of the media landscape.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s4-004",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Topic Discussion — Discuss health, wellbeing, and modern society.",
+      "prompt": "The examiner will ask you in-depth questions about health issues in modern society. Express your opinions clearly with supporting evidence, and consider the responsibilities of individuals and governments.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "Why do you think mental health problems are becoming more common among young people?",
+        "Some people think that fast food companies should be more heavily regulated. Do you agree?",
+        "How important is it for schools to educate students about mental health and wellbeing?",
+        "Do you think governments should make exercise compulsory for all citizens? Why or why not?",
+        "What role does technology play in both improving and damaging people's health?"
+      ],
+      "sample_answer": "Mental health problems among young people are increasing for several interconnected reasons. Social media creates constant pressure to present a perfect life, academic expectations are higher than ever, and the uncertainty of the modern world — including issues like climate change and economic instability — generates anxiety. The stigma around mental health is reducing, which means more people are seeking help, but the demand is far outstripping the support available. Regarding fast food regulation, I believe there should be stricter controls, particularly around advertising to children. Companies should be required to display clear nutritional information and reduce portion sizes. However, outright bans would be impractical and could be seen as restricting personal freedom. Schools absolutely need to educate students about mental health. It should be treated as seriously as physical health, with dedicated lessons and access to trained counsellors. Early intervention can prevent small problems from becoming serious ones. Making exercise compulsory for all citizens would be going too far — governments should encourage and facilitate exercise through better infrastructure, but individual freedom must be respected. Technology is a double-edged sword for health. It has given us incredible medical advances and health-tracking tools, but excessive screen time, sedentary lifestyles, and the mental health effects of social media are significant downsides.",
+      "tips_zh": "FCE话题讨论——健康与社会。技巧：1）讨论心理健康时展示你理解问题的多个层面（social media, academic pressure, uncertainty）；2）讨论政府监管时找到平衡点（stricter controls, but not outright bans）；3）使用因果分析来解释趋势（demand is outstripping supply）；4）使用 \"double-edged sword\" 等习语展示语言积累；5）提出具体的解决方案而不只是描述问题。"
+    },
+    "explanation_zh": "这是FCE口语第四部分——深度讨论健康与社会话题。考官会问你关于心理健康、饮食健康、政府责任和科技影响的深入问题。你需要展示对现代健康问题的全面理解。",
+    "explanation_en": "This is FCE Speaking Part 4 — In-depth discussion about health and society. The examiner asks probing questions about mental health, dietary health, government responsibility, and technology's impact. Demonstrate comprehensive understanding of modern health issues.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s4-005",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Topic Discussion — Discuss cultural identity and tradition in the modern world.",
+      "prompt": "The examiner will ask you in-depth questions about cultural identity, traditions, and how they are changing. Express your views clearly, give examples from your own culture, and consider how globalisation affects cultural identity.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "How important is it for people to maintain their cultural traditions? Can you give an example from your own culture?",
+        "Do you think globalisation is causing cultures around the world to become too similar?",
+        "How can young people learn about and appreciate their cultural heritage?",
+        "Some people think that traditional festivals are losing their meaning in modern society. Do you agree?",
+        "Is it possible to embrace other cultures while still preserving your own? How?"
+      ],
+      "sample_answer": "Maintaining cultural traditions is extremely important because they provide a sense of identity, community, and continuity. In my own culture, festivals like the Spring Festival bring families together and reinforce values like respect for elders and gratitude. These traditions connect us to our history and give us a shared sense of belonging. Globalisation is certainly making cultures more similar in some superficial ways — you can find the same international brands and fast food chains in almost every country. However, I don't think deeper cultural values and traditions are disappearing. If anything, globalisation has made some people more determined to preserve what makes their culture unique. Young people can learn about their heritage through family stories, traditional arts, local museums, and cultural events. Schools also play a vital role by including cultural education in the curriculum and organising visits to historical sites. I don't entirely agree that traditional festivals are losing their meaning — while the way we celebrate may have changed, the core values of togetherness, gratitude, and remembrance remain. It is absolutely possible to embrace other cultures while preserving your own. In fact, I think exposure to other cultures enriches our understanding and appreciation of our own traditions. The key is openness without loss of identity.",
+      "tips_zh": "FCE话题讨论——文化认同。技巧：1）用自己文化中的具体例子来支持观点（Spring Festival）；2）讨论全球化时区分 \"表面相似\" 和 \"深层文化价值\" 的不同；3）对 \"传统节日失去意义\" 的观点给出有nuance的回应，不完全同意也不完全反对；4）结尾展示包容的态度（openness without loss of identity）；5）使用高级表达如 \"continuity\"、\"reinforce values\"、\"enriches our understanding\"。"
+    },
+    "explanation_zh": "这是FCE口语第四部分——深度讨论文化认同和传统。考官会问你关于文化传统、全球化影响和文化保护的深入问题。你需要用自己文化中的例子来支持观点，展示跨文化理解能力。",
+    "explanation_en": "This is FCE Speaking Part 4 — In-depth discussion about cultural identity and tradition. The examiner asks probing questions about cultural traditions, globalisation's impact, and cultural preservation. Use examples from your own culture and demonstrate cross-cultural understanding.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s4-006",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Topic Discussion — Discuss urban development and the future of cities.",
+      "prompt": "The examiner will ask you in-depth questions about cities, urban development, and how they affect the quality of life. Express your opinions with supporting arguments and consider different aspects of city living.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What do you think are the biggest challenges facing cities today?",
+        "How could cities be designed to be more environmentally friendly?",
+        "Do you think cities are becoming less pleasant places to live? Why or why not?",
+        "What is the role of public spaces, such as parks and squares, in a city?",
+        "How do you think cities will change in the next fifty years?"
+      ],
+      "sample_answer": "The biggest challenges facing cities today include overcrowding, pollution, housing affordability, and traffic congestion. As more people migrate to urban areas, these problems are intensifying. In many cities, the cost of housing has risen so dramatically that essential workers can no longer afford to live near their workplaces, which creates social inequality and long commutes. To become more environmentally friendly, cities need to invest in green infrastructure — vertical gardens, solar panels on public buildings, comprehensive recycling systems, and electric public transport. Urban planning should prioritise pedestrians and cyclists over cars, and new developments should meet strict environmental standards. I don't think cities are necessarily becoming less pleasant, but they are changing. Some aspects of city life have improved — there are more cultural events, better restaurants, and more diverse communities than ever before. However, the loss of green spaces and increasing costs are genuine concerns. Public spaces are absolutely vital — they are where communities come together, where people exercise, relax, and socialise. A city without parks and open spaces would feel oppressive and unhealthy. Looking fifty years ahead, I imagine cities will be much more technology-driven, with smart transport systems, automated services, and possibly vertical farms. The challenge will be ensuring that these advances benefit everyone, not just those who can afford them.",
+      "tips_zh": "FCE话题讨论——城市发展。技巧：1）讨论城市问题时要全面，涵盖多个方面（housing, pollution, congestion）；2）提出具体可行的解决方案（vertical gardens, electric public transport）；3）对 \"城市是否变得不宜居\" 给出有nuance的回答；4）讨论公共空间时展示你理解其社会功能；5）展望未来时要有想象力但也要务实（the challenge will be ensuring...）。"
+    },
+    "explanation_zh": "这是FCE口语第四部分——深度讨论城市发展。考官会问你关于城市面临的挑战、环境友好型城市设计、公共空间的作用和城市未来的深入问题。你需要展示对城市议题的广泛理解。",
+    "explanation_en": "This is FCE Speaking Part 4 — In-depth discussion about urban development. The examiner asks probing questions about city challenges, environmentally friendly design, public spaces, and the future of cities. Demonstrate broad understanding of urban issues.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s4-007",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Topic Discussion — Discuss work ethics, careers, and the changing nature of work.",
+      "prompt": "The examiner will ask you in-depth questions about work, career choices, and how the world of work is changing. Express your views clearly with examples and consider the impact of technology on employment.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What qualities do you think employers value most in their employees today?",
+        "Do you think it is better to follow your passion or choose a career that pays well?",
+        "How do you think artificial intelligence will change the job market in the coming years?",
+        "Some people believe that working from home is the future of work. Do you agree?",
+        "Is job satisfaction more important than a high salary? Why?"
+      ],
+      "sample_answer": "I think the qualities employers value most today have shifted considerably. While technical skills remain important, soft skills like adaptability, communication, and problem-solving have become equally crucial. In a rapidly changing world, employers want people who can learn quickly and collaborate effectively with diverse teams. The debate between following your passion and choosing a well-paid career is a false dichotomy in many cases. Ideally, you should find something you're both interested in and reasonably good at, then work to make it financially viable. Pursuing a passion without any consideration of income can lead to frustration, but choosing a career solely for money often results in dissatisfaction. Artificial intelligence will undoubtedly transform the job market. Many routine and repetitive tasks will be automated, which may eliminate some jobs but will also create entirely new ones. The key is for education systems to prepare young people for this transition by teaching skills that machines cannot easily replicate, such as creativity, critical thinking, and emotional intelligence. Working from home has clear advantages — flexibility, no commuting, and better work-life balance — but it also has limitations. Not all jobs can be done remotely, and many people miss the social aspect of an office. I think a hybrid model will become the norm. As for job satisfaction versus salary, I believe satisfaction is more important in the long run, because spending forty years in a job you hate, regardless of how well it pays, is likely to have a devastating effect on your mental health and overall happiness.",
+      "tips_zh": "FCE话题讨论——工作与职业。技巧：1）讨论雇主看重的品质时区分 \"技术技能\" 和 \"软技能\"；2）对 \"追随热情还是选择高薪\" 给出有深度的分析，避免二元对立（false dichotomy）；3）讨论AI影响时既要承认挑战也要看到机遇；4）对 \"远程工作\" 给出平衡的评价，提出混合模式；5）使用高级表达如 \"false dichotomy\"、\"financially viable\"、\"devastating effect\"。"
+    },
+    "explanation_zh": "这是FCE口语第四部分——深度讨论工作与职业。考官会问你关于职业选择、人工智能对就业的影响、远程工作和工作满意度的深入问题。你需要展示对现代工作世界的深入思考。",
+    "explanation_en": "This is FCE Speaking Part 4 — In-depth discussion about work and careers. The examiner asks probing questions about career choices, AI's impact on employment, remote work, and job satisfaction. Demonstrate deep thinking about the modern world of work.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s4-008",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Topic Discussion — Discuss technology's impact on society and daily life.",
+      "prompt": "The examiner will ask you in-depth questions about how technology affects society, relationships, and the way we live. Express your opinions clearly, consider both benefits and drawbacks, and support your views with specific examples.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "In what ways has technology improved our daily lives? Are there any ways it has made life worse?",
+        "Do you think children are exposed to too much technology at a young age? What effects might this have?",
+        "How has technology changed the way people form and maintain relationships?",
+        "Some people worry that technology is making people less creative. Do you agree with this concern?",
+        "What technological development do you think will have the biggest impact on society in the next decade?"
+      ],
+      "sample_answer": "Technology has improved daily life in countless ways — instant communication, access to information, medical advances, and countless conveniences that would have seemed like science fiction a few decades ago. However, it has also introduced problems such as information overload, reduced attention spans, and a growing dependence on devices for even the simplest tasks. Regarding children and technology, I think early exposure needs to be carefully managed. Used appropriately, educational technology can enhance learning and develop digital skills. However, excessive screen time has been linked to sleep problems, reduced physical activity, and difficulties with social interaction. Parents and schools need to set clear boundaries. Technology has profoundly changed relationships. On one hand, it enables us to maintain connections with people across the globe, which is remarkable. On the other hand, the quality of those connections is sometimes questioned — a quick message is no substitute for a heartfelt conversation. Dating apps have also completely transformed how people meet, which has both positive and negative implications. I disagree that technology makes people less creative. In fact, tools like digital art software, music production programmes, and video editing platforms have democratised creativity, giving millions of people the ability to create and share their work. The concern should be about consumption replacing creation, not about the technology itself. As for the next decade, I believe artificial intelligence will have the most significant impact. It will transform healthcare, education, transport, and virtually every industry, but we need to ensure it is developed responsibly and ethically.",
+      "tips_zh": "FCE话题讨论——科技对社会的影响。技巧：1）讨论科技改善生活时要具体，同时也要提出负面影响；2）讨论儿童与科技时展示平衡的观点（used appropriately... however, excessive...）；3）对 \"科技是否降低创造力\" 给出有力的反驳，引用具体例子（digital art software, music production）；4）展望未来时要有见地但也要提出伦理考量；5）使用高级表达如 \"democratised creativity\"、\"no substitute for\"、\"developed responsibly and ethically\"。"
+    },
+    "explanation_zh": "这是FCE口语第四部分——深度讨论科技对社会的影响。考官会问你关于科技对日常生活、人际关系、创造力和社会发展影响的深入问题。你需要展示全面的分析能力和对科技议题的深入理解。",
+    "explanation_en": "This is FCE Speaking Part 4 — In-depth discussion about technology's impact on society. The examiner asks probing questions about technology's effects on daily life, relationships, creativity, and societal development. Demonstrate comprehensive analytical ability and deep understanding of technology issues.",
     "is_free": false
   }
 ]

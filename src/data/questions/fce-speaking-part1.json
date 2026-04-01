@@ -9,7 +9,7 @@
     "content": {
       "stem": "Personal Questions — The examiner will ask you about your life, interests, and future plans.",
       "prompt": "Answer the examiner's questions about yourself, your experiences, and your ambitions. Give extended answers with reasons, examples, and personal reflections.",
-      "speaking_time_seconds": 30,
+      "speaking_time_seconds": 60,
       "examiner_questions": [
         "Tell me about where you live. What do you like about it?",
         "What do you enjoy doing in your spare time? Has this changed over the years?",
@@ -23,5 +23,180 @@
     "explanation_zh": "这是FCE口语第一部分。考官会问你关于生活、兴趣和未来计划的问题。与PET相比，FCE要求更深入、更有思考深度的回答，需要展示复杂的语法结构和丰富的词汇。",
     "explanation_en": "This is FCE Speaking Part 1. The examiner asks about your life, interests, and future plans. Compared to PET, FCE requires deeper, more thoughtful answers that demonstrate complex grammar structures and a wide range of vocabulary.",
     "is_free": true
+  },
+  {
+    "id": "fce-s1-002",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you about your work or studies and how you spend your time.",
+      "prompt": "Answer the examiner's questions about your studies, daily routine, and learning experiences. Give detailed answers with examples and explanations.",
+      "speaking_time_seconds": 60,
+      "examiner_questions": [
+        "Tell me about what you are studying at the moment. What do you enjoy most about it?",
+        "How do you usually organise your time for studying? Do you have any particular methods?",
+        "Do you think the education system in your country is effective? Why or why not?",
+        "What is the most challenging thing you have ever had to learn? How did you overcome the difficulty?",
+        "If you could change one thing about your school or college, what would it be?"
+      ],
+      "sample_answer": "At the moment, I'm in my final year of senior high school, and I'm studying a range of subjects including English, maths, and physics. I enjoy English the most because it opens up a whole world of literature and communication. When it comes to organising my time, I tend to make a detailed study plan at the beginning of each week, which helps me stay on track and avoid last-minute cramming. I think the education system here has both strengths and weaknesses — it's very thorough in terms of academic knowledge, but there could be more emphasis on creativity and critical thinking. The most challenging thing I've learned was probably advanced mathematics, but I overcame the difficulty by watching online tutorials and practising consistently. If I could change one thing about my school, I would introduce more project-based learning, as I believe it would help students apply their knowledge to real-world situations.",
+      "tips_zh": "FCE口语第一部分关于学习和工作的话题。技巧：1）不只是描述事实，还要分析和评价（I think... because...）；2）使用过去和现在的对比来展示时态变化；3）使用条件句和虚拟语气（If I could change...）；4）提供具体例子来支持你的观点；5）展示批判性思维，不只是说好的一面。"
+    },
+    "explanation_zh": "这是FCE口语第一部分，话题围绕学习和工作。考官想了解你的学习经历、方法和对教育的看法。回答时要展示你的分析能力和批判性思维。",
+    "explanation_en": "This is FCE Speaking Part 1 focusing on work and study. The examiner wants to understand your learning experiences, methods, and views on education. Show analytical ability and critical thinking in your answers.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s1-003",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you about your social life and relationships.",
+      "prompt": "Answer the examiner's questions about your friendships, social activities, and how you interact with others. Give thoughtful answers with reasons and reflections.",
+      "speaking_time_seconds": 60,
+      "examiner_questions": [
+        "How important are your friends to you? What qualities do you value most in a friend?",
+        "Do you prefer spending time with a large group of friends or with one or two close friends? Why?",
+        "How has social media affected the way people maintain friendships, in your experience?",
+        "Can you describe a memorable occasion you spent with friends or family?",
+        "Do you think it is important to have friends from different backgrounds and cultures? Why?"
+      ],
+      "sample_answer": "My friends are extremely important to me — I would say they are one of the most valuable parts of my life. The qualities I value most are honesty and a good sense of humour, because I believe that true friends should be able to be themselves around each other. I generally prefer spending time with one or two close friends rather than in a large group, as I find the conversations more meaningful and personal. In terms of social media, it has definitely made it easier to stay in touch with people, especially those who live far away, but I sometimes worry that online communication is replacing genuine face-to-face interaction. One of my most memorable experiences was a hiking trip with my closest friends last summer — we spent three days in the mountains, and it really strengthened our bond. I absolutely think it's important to have friends from different backgrounds because it broadens your perspective and helps you become more open-minded.",
+      "tips_zh": "FCE口语第一部分关于社交生活的话题。技巧：1）使用丰富的形容词来描述人和关系（honest, supportive, open-minded）；2）表达偏好时给出充分的理由（I prefer... because...）；3）讨论社交媒体等现代话题时展示平衡的观点；4）用具体的个人经历来支持你的观点；5）使用高级表达如 \"I would say\"、\"In terms of\"、\"it has definitely\" 来增加流利度。"
+    },
+    "explanation_zh": "这是FCE口语第一部分，话题围绕社交生活和人际关系。考官想了解你的交友观、社交偏好和对现代社交方式的看法。要展示你能用英语流利地讨论人际关系话题。",
+    "explanation_en": "This is FCE Speaking Part 1 focusing on social life and relationships. The examiner wants to understand your views on friendship, social preferences, and modern social interaction. Show you can discuss interpersonal topics fluently in English.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s1-004",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you about culture, entertainment, and your cultural interests.",
+      "prompt": "Answer the examiner's questions about your cultural interests, favourite forms of entertainment, and how culture influences your life. Give extended answers with specific examples.",
+      "speaking_time_seconds": 60,
+      "examiner_questions": [
+        "What kind of books do you enjoy reading? Has your taste in books changed over time?",
+        "Do you think it is important for young people to learn about their own culture and traditions? Why?",
+        "How do you usually find out about new films, music, or TV shows?",
+        "Have you ever been to a live performance, such as a concert or a play? What was it like?",
+        "Do you think the internet has made it easier or harder to appreciate different cultures? Explain your view."
+      ],
+      "sample_answer": "I really enjoy reading fiction, particularly historical novels, because they allow me to learn about the past while being entertained by a compelling story. When I was younger, I mostly read fantasy books, but as I've grown older, I've developed an appreciation for more realistic and thought-provoking literature. I strongly believe it's important for young people to learn about their own culture and traditions, as it gives them a sense of identity and helps them understand where they come from. I usually discover new entertainment through recommendations from friends or through online platforms. Last year, I went to a classical music concert for the first time, and it was an absolutely breathtaking experience — the atmosphere in the concert hall was completely different from listening to music at home. As for the internet, I think it has mostly made it easier to appreciate different cultures, as you can access art, music, and literature from around the world with just a few clicks.",
+      "tips_zh": "FCE口语第一部分关于文化兴趣的话题。技巧：1）展示你的文化素养和广泛兴趣；2）描述变化和发展（When I was younger... but now...）；3）使用感官描写来描述体验（breathtaking, atmosphere）；4）对抽象话题如文化的重要性表达有深度的看法；5）使用强调表达如 \"I strongly believe\"、\"absolutely\" 增加表达力度。"
+    },
+    "explanation_zh": "这是FCE口语第一部分，话题围绕文化和娱乐。考官想了解你的文化兴趣和对文化相关话题的看法。展示你的文化素养和对不同艺术形式的理解。",
+    "explanation_en": "This is FCE Speaking Part 1 focusing on culture and entertainment. The examiner wants to understand your cultural interests and views on culture-related topics. Demonstrate cultural awareness and understanding of different art forms.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s1-005",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you about health, fitness, and your lifestyle.",
+      "prompt": "Answer the examiner's questions about your health habits, fitness activities, and views on healthy living. Give detailed answers with personal examples and opinions.",
+      "speaking_time_seconds": 60,
+      "examiner_questions": [
+        "What do you do to stay healthy? Has your approach to health changed recently?",
+        "Do you think young people today are more or less health-conscious than previous generations? Why?",
+        "How important is it to have a balanced diet? Do you find it easy or difficult to eat healthily?",
+        "What is your favourite form of exercise, and why do you enjoy it?",
+        "Do you think the government should do more to promote healthy lifestyles? What could they do?"
+      ],
+      "sample_answer": "To stay healthy, I try to exercise regularly and eat a balanced diet. Recently, I've started running in the mornings, which has made a noticeable difference to my energy levels throughout the day. I think young people today are actually more health-conscious in some ways — many of my friends go to the gym and pay attention to nutrition — but at the same time, we spend far too much time sitting in front of screens. Eating healthily is quite important to me, although I must admit I find it challenging when I'm busy with schoolwork, as it's tempting to just grab fast food. My favourite form of exercise is swimming because it works the whole body and I find it very relaxing. Regarding the government's role, I believe they should invest more in public sports facilities and promote health education in schools, because prevention is always better than cure.",
+      "tips_zh": "FCE口语第一部分关于健康和生活方式的话题。技巧：1）使用健康相关的专业词汇（balanced diet, nutrition, health-conscious）；2）承认事情的复杂性（in some ways... but at the same time...）；3）诚实地表达困难和挑战（I must admit I find it challenging）；4）提出建设性的建议来展示思考深度；5）使用谚语或常用表达如 \"prevention is better than cure\" 展示语言积累。"
+    },
+    "explanation_zh": "这是FCE口语第一部分，话题围绕健康和生活方式。考官想了解你的健康习惯和对健康生活的看法。要展示你能使用健康相关词汇，并能对健康话题进行有深度的讨论。",
+    "explanation_en": "This is FCE Speaking Part 1 focusing on health and lifestyle. The examiner wants to understand your health habits and views on healthy living. Show you can use health-related vocabulary and discuss health topics in depth.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s1-006",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you about technology and how it affects your daily life.",
+      "prompt": "Answer the examiner's questions about your use of technology, your opinions on its impact, and how it has changed the way people live. Give thoughtful, extended answers.",
+      "speaking_time_seconds": 60,
+      "examiner_questions": [
+        "How important is technology in your daily life? What devices do you use most?",
+        "Do you think people have become too dependent on technology? Can you give examples?",
+        "How has technology changed the way people communicate with each other?",
+        "What do you think is the most significant technological invention of the last twenty years? Why?",
+        "Are there any aspects of technology that worry you? What concerns do you have?"
+      ],
+      "sample_answer": "Technology plays an enormous role in my daily life — I use my smartphone for virtually everything, from studying and communicating to entertainment and navigation. I do think there's a risk of becoming too dependent on technology. For example, many people can no longer read a map or do basic calculations without their phone, which is somewhat concerning. Technology has fundamentally changed communication — we can now reach anyone instantly, but this convenience has come at the cost of face-to-face interaction. I would say the smartphone is probably the most significant invention of the last twenty years because it has combined so many tools into a single device and completely transformed how we live. However, I do have some concerns about technology, particularly regarding privacy and data security. The amount of personal information that companies collect about us is quite alarming, and I think there need to be stronger regulations to protect people's digital rights.",
+      "tips_zh": "FCE口语第一部分关于科技的话题。技巧：1）展示对科技利弊的平衡看法；2）使用科技相关词汇（dependent, privacy, data security, regulations）；3）提供具体例子来支持观点；4）表达担忧时使用适当的语气缓和词（somewhat, quite, I think）；5）使用高级句式如 \"this convenience has come at the cost of\" 展示语言水平。"
+    },
+    "explanation_zh": "这是FCE口语第一部分，话题围绕科技及其对日常生活的影响。考官想了解你对科技的态度和看法。要展示你能平衡地讨论科技的利弊，使用相关专业词汇。",
+    "explanation_en": "This is FCE Speaking Part 1 focusing on technology and its impact on daily life. The examiner wants to understand your attitudes and views on technology. Show you can discuss the pros and cons of technology in a balanced way using relevant vocabulary.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s1-007",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you about your plans and ambitions for the future.",
+      "prompt": "Answer the examiner's questions about your hopes, plans, and dreams for the future. Give extended answers showing reflection and forward thinking.",
+      "speaking_time_seconds": 60,
+      "examiner_questions": [
+        "Where do you see yourself in ten years' time? What would you like to be doing?",
+        "Is there a particular skill or qualification you would like to gain in the future? Why?",
+        "Do you think it is important to set goals for the future? How do you plan for your future?",
+        "Would you prefer to live and work in your own country or abroad? What are the advantages of each?",
+        "What kind of world do you hope future generations will live in?"
+      ],
+      "sample_answer": "In ten years' time, I would like to have finished university and started a career in environmental engineering. I'm passionate about sustainability, so I hope to be working on projects that make a real difference to the environment. I would really like to gain a master's degree, ideally at a university abroad, because I think studying in a different country broadens your horizons enormously. I'm a firm believer in setting goals — I find that having clear objectives helps me stay motivated and focused. As for where I'd like to live, I think there are advantages to both options. Living abroad would expose me to new cultures and ideas, but staying in my own country would allow me to contribute to its development directly. Ultimately, I hope future generations will live in a more sustainable and equitable world, where technology is used to solve problems rather than create them. It may sound idealistic, but I believe small actions today can lead to significant changes tomorrow.",
+      "tips_zh": "FCE口语第一部分关于未来计划的话题。技巧：1）使用将来时和虚拟语气表达希望和计划（I would like to, I hope to）；2）展示对未来的深度思考，不只是简单的计划；3）使用高级表达如 \"I'm a firm believer in\"、\"broaden your horizons\"；4）讨论不同选择时展示分析能力；5）表达理想主义的同时保持现实感（It may sound idealistic, but...）。"
+    },
+    "explanation_zh": "这是FCE口语第一部分，话题围绕未来计划和抱负。考官想了解你对未来的思考和规划。要展示你能用英语表达对未来的展望，包括职业目标和个人理想。",
+    "explanation_en": "This is FCE Speaking Part 1 focusing on future plans and ambitions. The examiner wants to understand your thinking and planning for the future. Show you can express future aspirations in English, including career goals and personal ideals.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s1-008",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you about media, news, and your community.",
+      "prompt": "Answer the examiner's questions about how you consume media, your involvement in your community, and your views on current issues. Give detailed, thoughtful responses.",
+      "speaking_time_seconds": 60,
+      "examiner_questions": [
+        "How do you usually keep up with the news? Do you prefer traditional media or online sources?",
+        "Do you think the news we see on social media is always reliable? Why or why not?",
+        "Are you involved in any community activities or clubs? What do you gain from them?",
+        "What do you think makes a strong and supportive community?",
+        "If you could do something to improve your local community, what would you do?"
+      ],
+      "sample_answer": "I mainly keep up with the news through online sources and social media, as they are more convenient and provide information in real time. However, I do read newspaper articles occasionally because I find they tend to offer more in-depth analysis. I don't think news on social media is always reliable — anyone can post anything, and misinformation spreads very quickly. It's crucial to check multiple sources before believing something. I'm a member of a volunteer group at my school that organises community clean-up events and visits to elderly care homes. I gain a great deal from these activities — not only practical skills but also a sense of belonging and purpose. I think a strong community is built on mutual respect, communication, and a willingness to help one another. If I could improve my local community, I would set up a neighbourhood library and community garden, as I believe these spaces bring people together and create a stronger sense of connection.",
+      "tips_zh": "FCE口语第一部分关于媒体和社区的话题。技巧：1）讨论媒体时展示批判性思维（check multiple sources, misinformation）；2）使用对比来展示不同媒体的优劣；3）讨论社区活动时展示你的社会责任感；4）使用条件句表达改善建议（If I could... I would...）；5）使用高级词汇如 \"mutual respect\"、\"sense of belonging\"、\"misinformation\" 展示B2水平。"
+    },
+    "explanation_zh": "这是FCE口语第一部分，话题围绕媒体、新闻和社区。考官想了解你获取信息的方式和对社区的看法。要展示你的批判性思维和社会意识。",
+    "explanation_en": "This is FCE Speaking Part 1 focusing on media, news, and community. The examiner wants to understand how you consume information and your views on community. Demonstrate critical thinking and social awareness.",
+    "is_free": false
   }
 ]

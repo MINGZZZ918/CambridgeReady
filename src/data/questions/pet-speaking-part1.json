@@ -23,5 +23,180 @@
     "explanation_zh": "这是PET口语第一部分。考官会问你关于日常生活、学校和兴趣的问题。与KET相比，你需要给出更长、更详细的回答，并能解释原因。",
     "explanation_en": "This is PET Speaking Part 1. The examiner asks about your daily life, school, and interests. Compared to KET, you need to give longer, more detailed answers and explain your reasons.",
     "is_free": true
+  },
+  {
+    "id": "pet-s1-002",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about music and entertainment.",
+      "prompt": "Answer the examiner's questions about music and entertainment. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What kind of music do you enjoy listening to?",
+        "Do you play any musical instruments? Would you like to learn one?",
+        "Do you prefer watching films at the cinema or at home? Why?",
+        "Tell me about a film or TV show you have enjoyed recently.",
+        "Do you like going to concerts or live performances? Why or why not?"
+      ],
+      "sample_answer": "I really enjoy listening to pop music, especially songs by Taylor Swift and Ed Sheeran. I play the piano and I've been having lessons for about four years. I prefer watching films at the cinema because the big screen and the sound system make it a much better experience. Recently, I watched a science fiction film called Interstellar and I thought it was amazing because the story was very exciting. I haven't been to many concerts, but I went to one last year and the atmosphere was incredible — I'd love to go again.",
+      "tips_zh": "回答关于音乐和娱乐的问题时，要表达你的个人偏好并解释原因。可以提到具体的歌手、电影或节目名称，这样回答更具体、更有说服力。使用比较级（bigger, better, more exciting）来表达偏好，使用现在完成时（I've been learning...）来描述持续的经历。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于音乐和娱乐的话题。你需要谈论你的音乐偏好、乐器经历、看电影的习惯以及现场演出的体验。",
+    "explanation_en": "This is PET Speaking Part 1 about music and entertainment. You need to talk about your music preferences, experience with instruments, film-watching habits, and live performance experiences.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-003",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about health and exercise.",
+      "prompt": "Answer the examiner's questions about health and exercise. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What do you do to keep fit and healthy?",
+        "How often do you do exercise? What kind of exercise do you enjoy?",
+        "Do you think young people today are healthy enough? Why or why not?",
+        "What kind of food do you usually eat? Do you think you eat healthily?",
+        "Is there a sport you would like to try in the future? Why?"
+      ],
+      "sample_answer": "I try to keep fit by playing football twice a week and cycling to school every day. I really enjoy team sports because they're more fun than exercising alone. I think some young people aren't healthy enough because they spend too much time sitting at their desks or looking at screens. I usually eat rice and vegetables, and I think my diet is quite healthy, although I sometimes eat too many sweets! In the future, I'd love to try rock climbing because it looks really exciting and it's great for building strength.",
+      "tips_zh": "谈论健康和运动时，描述你的具体运动习惯（频率、类型），表达对年轻人健康状况的看法，诚实地谈论你的饮食习惯。使用频率副词（always, usually, sometimes, rarely）描述习惯，用 \"I think... because...\" 表达观点。可以承认一些不太健康的习惯，这样更真实。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于健康和运动的话题。你需要谈论你的运动习惯、饮食健康以及对年轻人健康状况的看法。",
+    "explanation_en": "This is PET Speaking Part 1 about health and exercise. You need to talk about your exercise habits, diet, and views on the health of young people today.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-004",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about reading and learning.",
+      "prompt": "Answer the examiner's questions about reading and learning. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "How much time do you spend reading each week? What do you like to read?",
+        "Do you prefer reading books or reading things on the internet? Why?",
+        "Tell me about a book that you have really enjoyed.",
+        "Do you think reading is important for young people? Why or why not?",
+        "What is the best way to learn new things, in your opinion?"
+      ],
+      "sample_answer": "I try to read for about an hour every day before I go to bed. I mostly read novels, especially adventure and mystery stories. I prefer reading real books because I find it easier to concentrate and I like the feeling of turning the pages. A book I really enjoyed recently was Wonder by R.J. Palacio — it's about a boy who looks different from other children and it taught me a lot about kindness. I definitely think reading is important because it improves your vocabulary and helps you understand different people's perspectives. For me, the best way to learn is by combining reading with practice.",
+      "tips_zh": "谈论阅读和学习时，具体说明你读什么类型的书和花多少时间阅读。比较不同的阅读方式（纸质书vs电子阅读），推荐一本具体的书并解释为什么喜欢它。使用 \"I prefer... because...\" 和 \"I find it easier to...\" 表达偏好。谈到学习方法时，给出你的个人经验。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于阅读和学习的话题。你需要谈论你的阅读习惯、喜欢的书、对阅读重要性的看法以及你认为最好的学习方法。",
+    "explanation_en": "This is PET Speaking Part 1 about reading and learning. You need to discuss your reading habits, favourite books, views on the importance of reading, and what you think is the best way to learn.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-005",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about travel and holidays.",
+      "prompt": "Answer the examiner's questions about travel and holidays. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you enjoy travelling? Where have you been?",
+        "Tell me about the best holiday you have ever had.",
+        "Do you prefer holidays at the beach or in the mountains? Why?",
+        "What is the most interesting place you have visited?",
+        "If you could visit any country in the world, where would you go and why?"
+      ],
+      "sample_answer": "Yes, I love travelling! I've been to several cities in China, and I also visited Japan with my family last year. The best holiday I've ever had was in Hainan because the beaches were beautiful and the seafood was delicious. I prefer beach holidays because I love swimming and relaxing by the sea, although the mountains are nice for hiking. The most interesting place I've visited is the Great Wall — it's so impressive and I learned a lot about Chinese history. If I could visit any country, I'd choose the UK because I want to see London and practise my English with local people.",
+      "tips_zh": "谈论旅行和假期时，分享具体的旅行经历和目的地。用感官描写（看到的、尝到的、感受到的）让回答更生动。使用现在完成时（I've been to... / I've visited...）描述旅行经历，用虚拟条件句（If I could..., I'd...）谈论理想的旅行目的地。比较不同类型的假期时，给出明确的理由。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于旅行和假期的话题。你需要谈论你的旅行经历、最好的假期、偏好的假期类型以及理想的旅行目的地。",
+    "explanation_en": "This is PET Speaking Part 1 about travel and holidays. You need to talk about your travel experiences, best holiday, preferred type of holiday, and ideal travel destinations.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-006",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about food and cooking.",
+      "prompt": "Answer the examiner's questions about food and cooking. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What is your favourite food? Why do you like it?",
+        "Can you cook? What dishes can you make?",
+        "Do you prefer eating at home or in a restaurant? Why?",
+        "Have you ever tried food from another country? What did you think of it?",
+        "Do you think it's important for young people to learn to cook? Why?"
+      ],
+      "sample_answer": "My favourite food is dumplings because they remind me of family gatherings during Chinese New Year. My grandmother makes the best ones! I can cook a few simple dishes like fried rice and scrambled eggs with tomatoes. I usually prefer eating at home because it's healthier and cheaper, but I enjoy going to restaurants on special occasions. I've tried Japanese sushi and Italian pizza, and I loved both of them. I think it's very important for young people to learn to cook because when you leave home for university, you need to be able to look after yourself.",
+      "tips_zh": "谈论食物和烹饪时，描述你喜欢的具体食物并解释原因（味道、记忆、文化意义）。谈到烹饪能力时，可以诚实地说你会做什么和不会做什么。比较在家吃饭和在餐厅吃饭时，从不同角度（价格、健康、氛围）进行比较。提到其他国家的食物时，描述你尝试的具体经历。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于食物和烹饪的话题。你需要谈论你最喜欢的食物、烹饪能力、就餐偏好和对其他国家食物的体验。",
+    "explanation_en": "This is PET Speaking Part 1 about food and cooking. You need to discuss your favourite food, cooking ability, dining preferences, and experience with food from other countries.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-007",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about the environment.",
+      "prompt": "Answer the examiner's questions about the environment. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Are you interested in environmental issues? Which ones concern you most?",
+        "What do you do in your daily life to help the environment?",
+        "Do you think your school does enough to protect the environment? Why or why not?",
+        "How has the environment in your city changed in recent years?",
+        "What do you think is the biggest environmental problem in the world today?"
+      ],
+      "sample_answer": "Yes, I'm quite interested in environmental issues, especially pollution and climate change. In my daily life, I try to help by recycling, using a reusable water bottle, and walking to school instead of getting a lift. I think my school could do more — for example, we could have recycling bins in every classroom and use less paper. The environment in my city has improved in some ways — there are more parks and trees now — but air pollution is still a problem, especially in winter. I think the biggest environmental problem is climate change because it affects everything — the weather, animals, and people's lives.",
+      "tips_zh": "谈论环境话题时，展示你对环保问题的了解和关注。提到你在日常生活中做的具体事情（回收、节约用水、步行等），评价学校的环保措施并提出建议。使用比较级和对比（more... than before, better... but still...）描述变化。讨论全球问题时，用 \"I think the biggest problem is... because...\" 结构表达观点。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于环境的话题。你需要谈论你关心的环境问题、日常生活中的环保行动、学校的环保措施以及全球最大的环境问题。",
+    "explanation_en": "This is PET Speaking Part 1 about the environment. You need to discuss environmental issues you care about, daily eco-friendly actions, your school's environmental efforts, and the biggest global environmental problem.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-008",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about your future plans and career.",
+      "prompt": "Answer the examiner's questions about your future plans and career. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What do you want to do when you finish school?",
+        "Is there a job you would really like to have? Why does it interest you?",
+        "Do you think it's important to go to university? Why or why not?",
+        "What skills do you think are important for getting a good job?",
+        "Where would you like to live in the future? Why?"
+      ],
+      "sample_answer": "When I finish school, I'd like to study computer science at university because I'm really interested in technology. My dream job is to become a software engineer — I've been learning to code in my spare time and I find it fascinating to build things with technology. I think going to university is important because you learn a lot, not just about your subject, but also about how to think independently. I believe communication and problem-solving are the most important skills for any job. In the future, I'd like to live in a big city like Shanghai or Beijing because there are more job opportunities and things to do.",
+      "tips_zh": "谈论未来计划时，描述你的具体目标和理由。谈到理想工作时，解释你对这个职业的兴趣和了解。讨论大学教育的价值时，可以从不同角度思考（知识、社交、独立性）。使用 \"I'd like to...\" 和 \"My dream is to...\" 表达愿望，用 \"I believe...\" 和 \"I think... is important because...\" 表达看法。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于未来计划和职业的话题。你需要谈论毕业后的打算、理想职业、对大学教育的看法、重要的工作技能以及未来想住在哪里。",
+    "explanation_en": "This is PET Speaking Part 1 about future plans and career. You need to discuss what you want to do after school, your dream job, views on university education, important job skills, and where you'd like to live in the future.",
+    "is_free": false
   }
 ]

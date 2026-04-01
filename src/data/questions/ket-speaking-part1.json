@@ -23,5 +23,180 @@
     "explanation_zh": "这是KET口语第一部分，考官会问你一些关于个人信息的简单问题。回答时要用完整的句子，语速适中，发音清晰。可以适当扩展回答，展示你的英语能力。",
     "explanation_en": "This is KET Speaking Part 1, where the examiner asks simple personal questions. Answer in complete sentences at a steady pace with clear pronunciation. You can expand your answers slightly to show your English ability.",
     "is_free": true
+  },
+  {
+    "id": "ket-s1-002",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about your family.",
+      "prompt": "Answer the examiner's questions about your family. Give short, clear answers. Try to add one or two extra details.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "How many people are there in your family?",
+        "Do you have any brothers or sisters?",
+        "What does your mother or father do?",
+        "Do you often do things together as a family?",
+        "Who do you spend the most time with at home?"
+      ],
+      "sample_answer": "There are four people in my family — my parents, my younger sister, and me. My sister is eight years old. My father is a teacher and my mother works in a hospital. At weekends, we often go to the park together or watch films at home. I spend the most time with my sister because we share a bedroom.",
+      "tips_zh": "回答家庭相关问题时，可以说出家庭成员的具体信息（年龄、职业等）。使用简单的句式如 \"There are... in my family\" 和 \"My father is a...\"。不需要说太多，但每个回答最好有两到三句话。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于家庭的问题。考官想了解你的家庭情况。用简单清楚的句子回答，可以加入一些具体细节来丰富你的回答。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about your family. The examiner wants to learn about your family. Answer in simple, clear sentences and add specific details to enrich your responses.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-003",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about food.",
+      "prompt": "Answer the examiner's questions about food and eating. Give short, clear answers. Try to explain your reasons.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What is your favourite food?",
+        "Can you cook? What can you make?",
+        "Do you prefer eating at home or in a restaurant?",
+        "What do you usually have for breakfast?",
+        "Is there any food you don't like?"
+      ],
+      "sample_answer": "My favourite food is noodles because they're really delicious. I can cook a little — I can make fried rice and scrambled eggs. I prefer eating at home because my mum's cooking is the best. For breakfast, I usually have bread and milk. I don't like bitter melon because it tastes too bitter.",
+      "tips_zh": "回答关于食物的问题时，使用 \"because\" 来解释原因。可以用简单的形容词描述食物，如 \"delicious\"、\"tasty\"、\"sweet\"。说自己不喜欢的食物时，也可以说明原因。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于食物的问题。考官想了解你的饮食习惯和喜好。注意使用与食物相关的词汇和简单的形容词来描述味道。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about food. The examiner wants to learn about your eating habits and preferences. Use food-related vocabulary and simple adjectives to describe tastes.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-004",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about sports and exercise.",
+      "prompt": "Answer the examiner's questions about sports. Give short, clear answers. Try to give reasons for your opinions.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you like sports?",
+        "What sport do you play or watch?",
+        "How often do you do exercise?",
+        "Do you prefer team sports or individual sports?",
+        "Have you ever been to a sports event?"
+      ],
+      "sample_answer": "Yes, I like sports very much. I play badminton every week with my friends. I exercise about three times a week, usually after school. I prefer team sports because I enjoy playing with other people. Last year, I went to a basketball game with my dad. It was very exciting.",
+      "tips_zh": "回答运动相关问题时，可以说频率（every week, three times a week），也可以说原因（because I enjoy...）。如果被问到过去的经历，记得用过去时态（I went, It was）。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于运动的问题。考官想了解你的运动习惯。注意使用频率表达（how often）和原因表达（because）。如果提到过去的事，要用过去时态。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about sports. The examiner wants to learn about your exercise habits. Use frequency expressions (how often) and reason expressions (because). Use past tenses when talking about past events.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-005",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about your weekends.",
+      "prompt": "Answer the examiner's questions about what you do at the weekend. Give short, clear answers with some details.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What do you usually do at the weekend?",
+        "Do you prefer staying at home or going out?",
+        "Who do you spend your weekends with?",
+        "What did you do last weekend?",
+        "What would you like to do next weekend?"
+      ],
+      "sample_answer": "At the weekend, I usually sleep late and then do my homework in the morning. I prefer going out because I like fresh air. I usually spend weekends with my family or my best friend. Last weekend, I went to a bookshop and bought a new story book. Next weekend, I'd like to go to the cinema with my friends.",
+      "tips_zh": "回答周末相关问题时，注意区分时态：通常做什么（现在时），上周末做了什么（过去时），下周末想做什么（would like to / want to）。每个回答加一两个细节就够了。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于周末活动的问题。注意使用不同的时态：一般现在时（usually do）描述习惯、一般过去时（did, went）描述上周末、\"would like to\" 描述下周末的计划。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about weekends. Pay attention to different tenses: present simple (usually do) for habits, past simple (did, went) for last weekend, and 'would like to' for next weekend plans.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-006",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about your friends.",
+      "prompt": "Answer the examiner's questions about your friends. Give short, clear answers. Add details about what you do together.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you have a best friend?",
+        "How did you meet your best friend?",
+        "What do you like doing together?",
+        "How often do you see your friends?",
+        "What makes a good friend?"
+      ],
+      "sample_answer": "Yes, my best friend is called Wang Lei. We met at school when we were seven years old. We like playing computer games and riding bikes together. I see my friends every day at school and sometimes at weekends too. I think a good friend is someone who is kind and who listens to you.",
+      "tips_zh": "回答关于朋友的问题时，可以说出朋友的名字、你们怎么认识的、一起做什么。最后一个问题是开放性问题，用 \"I think...\" 表达你的看法。保持自然的语气。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于朋友的问题。考官想了解你的社交生活。注意 \"How did you meet\" 需要用过去时态回答。最后的问题可以用 \"I think...\" 来表达个人看法。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about friends. The examiner wants to learn about your social life. Note that 'How did you meet' requires past tense answers. For the last question, use 'I think...' to express personal opinions.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-007",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about school life.",
+      "prompt": "Answer the examiner's questions about your school. Give short, clear answers. Try to explain why.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What is your favourite subject at school?",
+        "What subject do you find difficult?",
+        "How do you get to school every day?",
+        "What do you do during your lunch break?",
+        "Do you like your school? Why or why not?"
+      ],
+      "sample_answer": "My favourite subject is English because I like learning new words. I find maths quite difficult, especially when we do problems with lots of numbers. I go to school by bus every day — it takes about twenty minutes. During lunch break, I eat with my friends in the canteen and then we play in the playground. Yes, I like my school because the teachers are nice and I have many friends there.",
+      "tips_zh": "回答学校相关问题时，用 \"because\" 解释原因。描述学科可以用 \"I like... because...\" 和 \"I find... difficult\"。描述日常习惯用一般现在时。记住对每个问题给出完整的回答。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于学校生活的问题。考官想了解你对学校的感受。注意用 \"because\" 给出原因，用 \"I find... difficult\" 表达觉得什么困难。描述日常习惯用一般现在时。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about school life. The examiner wants to know your feelings about school. Use 'because' for reasons, 'I find... difficult' to express difficulty. Use present simple for daily routines.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-008",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about holidays and travel.",
+      "prompt": "Answer the examiner's questions about holidays. Give short, clear answers. Share some details about your experiences.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you like going on holiday?",
+        "Where did you go for your last holiday?",
+        "Do you prefer the beach or the mountains?",
+        "What do you like to do when you are on holiday?",
+        "Where would you like to go in the future?"
+      ],
+      "sample_answer": "Yes, I really like going on holiday. Last summer, I went to Hainan with my family. I prefer the beach because I love swimming in the sea. When I'm on holiday, I like visiting new places and trying different food. In the future, I'd like to go to London because I want to see Big Ben and practise my English.",
+      "tips_zh": "回答假期相关问题时，注意时态的变化：过去的假期用过去时（I went），一般喜好用现在时（I prefer），将来的计划用 \"I'd like to\" 或 \"I want to\"。可以加入具体的地点和活动让回答更丰富。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于假期和旅行的问题。考官想了解你的旅行经历和计划。注意使用不同时态：过去时描述过去的假期，现在时表达喜好，\"would like to\" 表达未来的愿望。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about holidays and travel. The examiner wants to know about your travel experiences and plans. Use different tenses: past for previous holidays, present for preferences, and 'would like to' for future wishes.",
+    "is_free": false
   }
 ]

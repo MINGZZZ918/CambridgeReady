@@ -49,5 +49,124 @@
     "explanation_zh": "中文解析：这是一篇关于你喜欢去的地方的文章，需要回答三个问题：1）这个地方是哪里；2）在那里做什么；3）为什么它对你特别。使用描述性语言，加入感官细节（看到的、听到的、感受到的），让读者有身临其境的感觉。",
     "explanation_en": "English explanation: This article is about a place you love to visit, answering: 1) where it is; 2) what you do there; 3) why it's special. Use descriptive language and sensory details (what you see, hear, feel) to make the reader feel they are there too.",
     "is_free": false
+  },
+  {
+    "id": "pet-w2-004",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 4,
+    "content": {
+      "stem": "You see this notice in your school magazine. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nTHE BEST DAY OUT\n\nTell us about a great day out you have had.\nWhere did you go and who with?\nWhat made it so special?\n\nWrite us an article answering these questions.\nThe best articles will be published next month!",
+      "word_limit": 100,
+      "sample_answer": "The Best Day Out\n\nLast summer, I had an amazing day out at the water park with my best friends, Lily and Jack.\n\nWe arrived early in the morning and spent the whole day trying every ride. The best one was a huge water slide that was thirty metres tall. I was terrified at first, but once I went down, I loved it! We went on it five more times after that.\n\nAt lunchtime, we had burgers and ice cream by the pool. In the afternoon, we swam in the wave pool and played volleyball.\n\nWhat made the day so special was being with my friends and laughing together all day long. I'll never forget it!"
+    },
+    "explanation_zh": "中文解析：这篇文章需要描述一次美好的外出经历，回答三个问题：1）你去了哪里、和谁一起；2）你做了什么；3）是什么让这一天特别。使用过去时态叙述，加入具体细节（时间、活动、感受）让文章更生动。注意给文章加一个有吸引力的标题。",
+    "explanation_en": "English explanation: This article describes a great day out, answering: 1) where you went and with whom; 2) what you did; 3) what made it special. Use past tenses for narration, include specific details (time, activities, feelings) to make the article vivid. Add an attractive title.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-005",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 5,
+    "content": {
+      "stem": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'It was a cold, dark night and Sarah was walking home alone.' Write your story. Write about 100 words.",
+      "prompt": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:\n\n\"It was a cold, dark night and Sarah was walking home alone.\"\n\nWrite your story in about 100 words.",
+      "word_limit": 100,
+      "sample_answer": "It was a cold, dark night and Sarah was walking home alone. The streets were empty and the only sound was the wind blowing through the trees.\n\nSuddenly, she heard a strange noise behind her. She turned around quickly but couldn't see anything. Her heart was beating fast. She started walking more quickly.\n\nThen she heard the noise again — it was a quiet meowing sound. She looked down and saw a tiny kitten hiding under a bench. It was shivering and looked very hungry.\n\nSarah picked up the kitten and put it inside her jacket to keep it warm. She took it home and gave it some milk. From that night, the kitten became her best friend. She named it Midnight."
+    },
+    "explanation_zh": "中文解析：这是一个故事写作题，必须以给定的句子开头。故事要营造氛围（寒冷、黑暗的夜晚），有悬念和转折（听到声音、发现小猫），以温暖的结局收尾。使用过去时态，加入感官描写（声音、感觉），用短句营造紧张感。",
+    "explanation_en": "English explanation: This story must begin with the given sentence. Create atmosphere (cold, dark night), build suspense (hearing a noise), add a turning point (finding the kitten), and end warmly. Use past tenses, include sensory descriptions (sounds, feelings), and use short sentences to build tension.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-006",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 6,
+    "content": {
+      "stem": "You see this notice on an English-language website. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nA SPORT I ENJOY\n\nWhat sport do you enjoy playing or watching?\nHow did you become interested in it?\nWhy do you think sport is important?\n\nWrite us an article answering these questions.\nWe will publish the best articles on our website!",
+      "word_limit": 100,
+      "sample_answer": "A Sport I Enjoy\n\nThe sport I enjoy most is basketball. I play it three times a week with my school team.\n\nI became interested in basketball when I was ten years old. My older brother took me to watch a professional game, and I was amazed by how exciting it was. The next day, I asked my parents to buy me a basketball, and I've been playing ever since.\n\nI think sport is important for many reasons. It keeps you fit and healthy, teaches you how to work as a team, and helps you make new friends. When I play basketball, I also feel less stressed about schoolwork. Everyone should try to do some sport regularly!"
+    },
+    "explanation_zh": "中文解析：这篇文章需要回答三个问题：1）你喜欢什么运动；2）你是怎么开始对它感兴趣的；3）你认为运动为什么重要。用时间顺序描述你与这项运动的关系，用列举的方式说明运动的重要性。使用 \"I became interested when...\" 和 \"I think sport is important because...\" 等结构。",
+    "explanation_en": "English explanation: This article answers three questions: 1) what sport you enjoy; 2) how you became interested; 3) why sport is important. Describe your relationship with the sport chronologically, list reasons why sport is important. Use structures like 'I became interested when...' and 'I think sport is important because...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-007",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 7,
+    "content": {
+      "stem": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'Tom looked at the map and realised they were completely lost.' Write your story. Write about 100 words.",
+      "prompt": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:\n\n\"Tom looked at the map and realised they were completely lost.\"\n\nWrite your story in about 100 words.",
+      "word_limit": 100,
+      "sample_answer": "Tom looked at the map and realised they were completely lost. He and his friend, David, had been hiking in the mountains for three hours, and nothing around them looked familiar.\n\n'We should have followed the path,' said David, looking worried. They had very little water left and the sun was beginning to set.\n\nTom noticed some smoke rising in the distance. 'Look! There must be a village over there,' he said. They walked towards the smoke and soon found a small farmhouse. A kind old farmer gave them water and showed them the way back to the main road.\n\nThey arrived home late that evening, tired but grateful. Tom decided he would always bring a phone with GPS on his next hike."
+    },
+    "explanation_zh": "中文解析：这是一个故事写作题，以给定句子开头。故事需要有问题（迷路）、紧张感（太阳下山、水不够）、解决方案（发现农舍）和结局（安全回家并得到教训）。使用直接引语让故事更生动，加入描述性细节，使用过去时态和过去完成时。",
+    "explanation_en": "English explanation: This story begins with the given sentence. It needs a problem (being lost), tension (sunset, low water), a solution (finding the farmhouse), and a resolution (arriving home safely with a lesson learned). Use direct speech to make the story lively, add descriptive details, and use past tenses and past perfect.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-008",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 8,
+    "content": {
+      "stem": "You see this notice in your school magazine. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nLEARNING SOMETHING NEW\n\nTell us about a time you learned something new.\nWhat was it and how did you learn it?\nHow did it change you?\n\nWrite us an article answering these questions.\nThe best articles will be published next month!",
+      "word_limit": 100,
+      "sample_answer": "Learning Something New\n\nLast year, I decided to learn how to cook. I had always watched my mother in the kitchen, but I had never tried to make anything by myself.\n\nI started by watching cooking videos on the internet and following simple recipes. My first dish was scrambled eggs — they were a little burnt, but still tasty! Gradually, I learned to cook more difficult things like pasta and stir-fried noodles. My mother helped me whenever I got stuck.\n\nLearning to cook changed me in several ways. I became more independent and more patient. I also started eating more healthily because I could choose what ingredients to use. Now I cook dinner for my family once a week, and they always say they enjoy it!"
+    },
+    "explanation_zh": "中文解析：这篇文章需要描述学习新事物的经历，回答三个问题：1）学了什么、怎么学的；2）过程中遇到的挑战；3）这段经历如何改变了你。按时间顺序叙述，从开始到进步，描述具体细节。使用 \"I started by...\"、\"Gradually, I learned...\" 等句型展示过程。",
+    "explanation_en": "English explanation: This article describes learning something new, answering: 1) what you learned and how; 2) challenges along the way; 3) how it changed you. Narrate chronologically from beginning to progress, describing specific details. Use structures like 'I started by...', 'Gradually, I learned...' to show the process.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-009",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 9,
+    "content": {
+      "stem": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'Anna picked up the phone and heard some amazing news.' Write your story. Write about 100 words.",
+      "prompt": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:\n\n\"Anna picked up the phone and heard some amazing news.\"\n\nWrite your story in about 100 words.",
+      "word_limit": 100,
+      "sample_answer": "Anna picked up the phone and heard some amazing news. Her art teacher told her that she had won first prize in the city art competition!\n\nAnna couldn't believe it. She had spent weeks painting a picture of the sunset over the river near her house. She had almost given up several times because she couldn't get the colours right, but her teacher had encouraged her to keep trying.\n\n'Your painting will be displayed in the city gallery for a whole month,' her teacher said. Anna was so excited that she ran downstairs to tell her parents. Her mother hugged her and her father said he was very proud of her.\n\nThat evening, the whole family went out for dinner to celebrate. Anna felt that all her hard work had been worth it."
+    },
+    "explanation_zh": "中文解析：这是一个故事写作题，以给定句子开头。故事应该包含好消息的具体内容、之前的努力过程、人物的情感反应和庆祝方式。使用过去完成时描述之前的努力（had spent, had almost given up），直接引语增加真实感，描写不同人物的反应让故事更丰满。",
+    "explanation_en": "English explanation: This story begins with the given sentence. It should include the specific good news, the effort that went before, characters' emotional reactions, and a celebration. Use the past perfect to describe previous efforts (had spent, had almost given up), direct speech for authenticity, and describe different characters' reactions to enrich the story.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-010",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 10,
+    "content": {
+      "stem": "You see this notice on an English-language website. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nAN INTERESTING PERSON I KNOW\n\nTell us about an interesting person you know.\nWhat makes them interesting?\nWhat have you learned from them?\n\nWrite us an article answering these questions.\nWe will publish the best articles on our website!",
+      "word_limit": 100,
+      "sample_answer": "An Interesting Person I Know\n\nThe most interesting person I know is my uncle, Zhang Wei. He is a wildlife photographer who travels all over the world.\n\nWhat makes him interesting is that he has so many incredible stories to tell. He has been to Africa to photograph lions and elephants, and he once spent a whole week in the jungle in Borneo to take pictures of orangutans. He shows me his photographs whenever he visits, and each picture has an amazing story behind it.\n\nI have learned many things from my uncle. He taught me to be patient and to appreciate nature. He also showed me that if you follow your passion, you can turn it into a career. One day, I hope I can travel the world just like he does."
+    },
+    "explanation_zh": "中文解析：这篇文章需要描述一个有趣的人，回答三个问题：1）这个人是谁；2）什么让他们有趣；3）你从他们身上学到了什么。用具体的例子和故事来展示这个人的特别之处，而不是简单的描述。使用 \"What makes him interesting is...\" 和 \"He taught me to...\" 等高级句型。",
+    "explanation_en": "English explanation: This article describes an interesting person, answering: 1) who they are; 2) what makes them interesting; 3) what you've learned from them. Use specific examples and stories to show what makes this person special rather than simple descriptions. Use advanced structures like 'What makes him interesting is...' and 'He taught me to...'.",
+    "is_free": false
   }
 ]

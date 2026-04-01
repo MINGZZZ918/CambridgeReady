@@ -21,5 +21,176 @@
     "explanation_zh": "这是KET口语第四部分——话题讨论。考官会围绕一个话题问你几个问题，你需要给出有内容的回答。重点是展示你能就日常话题表达看法和给出理由。",
     "explanation_en": "This is KET Speaking Part 4 — Topic Discussion. The examiner asks several questions around a topic, and you need to give substantive answers. The focus is on showing you can express opinions and give reasons about everyday topics.",
     "is_free": false
+  },
+  {
+    "id": "ket-s4-002",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Topic Discussion — Talk about food and eating.",
+      "prompt": "The examiner will ask you questions about food and eating. Listen carefully and give full answers. Try to explain your reasons and give examples.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What kind of food do you like best?",
+        "Do you think it's important to eat healthy food? Why?",
+        "Do you prefer eating at home or in a restaurant? Why?",
+        "What's the best meal you've ever had?"
+      ],
+      "sample_answer": "I like Chinese food best, especially noodles and dumplings. Yes, I think eating healthy food is very important because it helps us grow strong and gives us energy for school. I prefer eating at home because my mother is a very good cook and the food is always fresh. The best meal I've ever had was a birthday dinner at a Japanese restaurant. We had sushi and it was delicious. I tried many new things that day.",
+      "tips_zh": "讨论食物话题时，要说具体的食物名称，不要太笼统。回答 \"Do you think...\" 的问题时，先说 \"Yes, I think...\" 或 \"No, I don't think...\"，然后给出理由。描述过去的经历用过去时态。"
+    },
+    "explanation_zh": "这是KET口语第四部分——话题讨论，关于食物和饮食。需要表达对食物的看法、饮食偏好和过去的经历。使用食物相关词汇和不同时态来回答不同类型的问题。",
+    "explanation_en": "This is KET Speaking Part 4 — Topic Discussion about food and eating. Express opinions about food, eating preferences, and past experiences. Use food-related vocabulary and different tenses for different question types.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s4-003",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Topic Discussion — Talk about sports and exercise.",
+      "prompt": "The examiner will ask you questions about sports and exercise. Listen carefully and give full answers. Share your opinions and experiences.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What sports do you enjoy playing or watching?",
+        "Do you think exercise is important for young people? Why?",
+        "Have you ever tried a new sport? What was it like?",
+        "Would you like to learn a new sport in the future? Which one?"
+      ],
+      "sample_answer": "I enjoy playing basketball and I also like watching football on TV. Yes, I think exercise is very important for young people because it keeps us healthy and strong. It also helps us relax after studying. Last year, I tried swimming for the first time. At first, I was a bit scared of the deep water, but my coach was very kind and helped me. Now I really enjoy it. In the future, I'd like to learn tennis because it looks exciting and I can play it with my friends.",
+      "tips_zh": "讨论运动话题时，要说明自己喜欢什么运动以及为什么。回答关于过去经历的问题时，用过去时态并描述感受。回答关于未来的问题时，用 \"I'd like to...\" 或 \"I want to...\"。每个回答尽量说三到四句话。"
+    },
+    "explanation_zh": "这是KET口语第四部分——话题讨论，关于运动和锻炼。需要讨论运动喜好、运动的重要性、过去的尝试和未来的计划。注意使用不同时态回答不同时间的问题。",
+    "explanation_en": "This is KET Speaking Part 4 — Topic Discussion about sports and exercise. Discuss your sport preferences, the importance of exercise, past experiences, and future plans. Use different tenses for questions about different time periods.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s4-004",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Topic Discussion — Talk about school and learning.",
+      "prompt": "The examiner will ask you questions about school and learning. Listen carefully and give full answers with reasons.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What is the best thing about your school?",
+        "Which school subject do you think is the most useful? Why?",
+        "Do you prefer working alone or in a group at school?",
+        "What would you change about your school if you could?",
+        "How do you study for a test?"
+      ],
+      "sample_answer": "The best thing about my school is the teachers — they are very friendly and always help us when we have problems. I think English is the most useful subject because we can use it to talk to people from other countries. I prefer working in a group because I can learn from my classmates and it's more fun. If I could change something, I would make the lunch break longer so we have more time to rest. When I study for a test, I read my notes and then I ask my parents to quiz me. I also write the important things on cards to help me remember.",
+      "tips_zh": "讨论学校话题时，要表达真实的看法。回答 \"What would you change...\" 用虚拟语气 \"I would...\"。描述学习方法时，用具体的步骤说明你是怎么做的。每个回答给出理由，使用 \"because\" 连接原因。"
+    },
+    "explanation_zh": "这是KET口语第四部分——话题讨论，关于学校和学习。需要讨论学校的优点、有用的科目、学习方式和改进建议。注意使用 \"I think... because...\" 表达看法，\"I would...\" 表达假设。",
+    "explanation_en": "This is KET Speaking Part 4 — Topic Discussion about school and learning. Discuss school positives, useful subjects, study methods, and improvements. Use 'I think... because...' for opinions and 'I would...' for hypothetical changes.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s4-005",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Topic Discussion — Talk about technology.",
+      "prompt": "The examiner will ask you questions about technology and how you use it. Listen carefully and give full answers.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "How often do you use a computer or tablet?",
+        "What do you use the internet for?",
+        "Do you think technology is good for students? Why or why not?",
+        "Do your parents have rules about how much time you can spend on your phone?"
+      ],
+      "sample_answer": "I use a computer almost every day, usually after I finish my homework. I use the internet for many things — I watch videos, listen to music, and sometimes I search for information for school projects. I think technology is good for students in some ways because we can learn new things online and practise our English with apps. But too much screen time is not good for our eyes. Yes, my parents have rules — I can only use my phone for one hour on school days, but at the weekend I can use it for a bit longer.",
+      "tips_zh": "讨论科技话题时，可以从正反两面谈。用 \"I think... is good because...\" 说优点，用 \"But...\" 说缺点。描述频率用 \"almost every day\"、\"sometimes\" 等词。说规则时用 \"I can only...\" 或 \"I'm allowed to...\"。"
+    },
+    "explanation_zh": "这是KET口语第四部分——话题讨论，关于科技。需要讨论使用科技的频率、用途、对学生的影响以及家长的规定。注意从正反两面回答问题，展示均衡的看法。",
+    "explanation_en": "This is KET Speaking Part 4 — Topic Discussion about technology. Discuss how often you use technology, what for, its impact on students, and parental rules. Answer from both positive and negative perspectives to show balanced views.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s4-006",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Topic Discussion — Talk about your family and home life.",
+      "prompt": "The examiner will ask you questions about your family and life at home. Listen carefully and give full answers with details.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What do you and your family like to do together?",
+        "Do you help with housework at home? What do you do?",
+        "Tell me about a happy family memory.",
+        "Is it important to spend time with your family? Why?"
+      ],
+      "sample_answer": "My family likes to watch films together on Friday evenings. We also go for walks in the park at weekends. Yes, I help with housework at home — I wash the dishes after dinner and I keep my room tidy. Sometimes I help my mother cook on Sundays. A happy family memory is when we went to Disneyland last summer. We went on lots of rides and my little sister was so excited. We took many photos and had a wonderful time. Yes, I think it's very important to spend time with your family because they love you and you can have fun together. It also makes everyone feel closer.",
+      "tips_zh": "讨论家庭话题时，可以说具体的活动和例子。描述家务时，列举你做的事情。说到回忆时，使用过去时态描述具体的经历。回答 \"Is it important...\" 的问题时，先表明态度再给出理由。"
+    },
+    "explanation_zh": "这是KET口语第四部分——话题讨论，关于家庭和家庭生活。需要讨论家庭活动、家务、美好回忆和家庭时间的重要性。注意使用具体的例子和细节来丰富你的回答。",
+    "explanation_en": "This is KET Speaking Part 4 — Topic Discussion about family and home life. Discuss family activities, housework, happy memories, and the importance of family time. Use specific examples and details to enrich your answers.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s4-007",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Topic Discussion — Talk about holidays and travel.",
+      "prompt": "The examiner will ask you questions about holidays and travelling. Listen carefully and give full answers. Share your experiences and opinions.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "Where did you go on your last holiday?",
+        "What do you enjoy most about going on holiday?",
+        "Do you prefer holidays in your own country or going abroad? Why?",
+        "Where would you most like to go on holiday? Why?",
+        "What do you think is the best way to travel — by plane, train, or car?"
+      ],
+      "sample_answer": "On my last holiday, I went to Beijing with my parents. We visited the Great Wall and the Forbidden City. What I enjoy most about holidays is trying new food and seeing new places. I've never been abroad, but I would like to try in the future. For now, I prefer holidays in China because there are so many beautiful places to see. I would most like to go to Australia because I want to see kangaroos and the Sydney Opera House. I think the best way to travel is by train because you can look out of the window and see the countryside. It's also very comfortable.",
+      "tips_zh": "讨论假期话题时，注意使用不同时态：过去的假期用过去时，一般喜好用现在时，未来计划用 \"would like to\" 或 \"want to\"。比较不同选项时用 \"I prefer... because...\"。可以加入具体的地名和活动来丰富回答。"
+    },
+    "explanation_zh": "这是KET口语第四部分——话题讨论，关于假期和旅行。需要讨论过去的旅行经历、旅行偏好和未来的旅行计划。注意使用不同时态和比较表达。",
+    "explanation_en": "This is KET Speaking Part 4 — Topic Discussion about holidays and travel. Discuss past travel experiences, travel preferences, and future travel plans. Use different tenses and comparative expressions.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s4-008",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Topic Discussion — Talk about your friends and social life.",
+      "prompt": "The examiner will ask you questions about friends and spending time with other people. Listen carefully and give full answers.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What do you like to do with your friends?",
+        "How do you keep in touch with friends who don't live near you?",
+        "Is it easy or difficult to make new friends? Why?",
+        "What qualities are important in a friend?",
+        "Tell me about something fun you did with your friends recently."
+      ],
+      "sample_answer": "I like to play sports and go to the cinema with my friends. Sometimes we just sit and talk in the park. To keep in touch with friends who live far away, I use WeChat to send messages and sometimes we do video calls. I think it's quite easy to make new friends at school because you see the same people every day. But it can be difficult if you are shy. I think the most important qualities in a friend are being honest and being kind. A good friend should also make you laugh. Recently, my friends and I went to a water park. We went on the big slides and splashed each other in the pool. We laughed so much — it was a really great day.",
+      "tips_zh": "讨论朋友话题时，要表达自己的看法并举例说明。回答 \"Is it easy or difficult...\" 时，可以说两方面，用 \"But\" 来转折。描述最近的经历用过去时态。使用 \"I think the most important...\" 来表达你认为什么品质最重要。"
+    },
+    "explanation_zh": "这是KET口语第四部分——话题讨论，关于朋友和社交生活。需要讨论和朋友的活动、保持联系的方式、交友的难易程度和朋友的重要品质。注意从正反两面分析问题，并用具体例子支持你的观点。",
+    "explanation_en": "This is KET Speaking Part 4 — Topic Discussion about friends and social life. Discuss activities with friends, staying in touch, making new friends, and important qualities. Analyse from different angles and support opinions with specific examples.",
+    "is_free": false
   }
 ]

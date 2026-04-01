@@ -16,6 +16,139 @@
     },
     "explanation_zh": "这是FCE口语第二部分——对比照片。你需要比较两张照片，找出相似和不同之处，并回答一个相关问题。这部分考查你的比较能力和表达观点的能力。",
     "explanation_en": "This is FCE Speaking Part 2 — Comparing Photographs. You need to compare two photographs, identify similarities and differences, and answer a related question. This part tests your ability to compare and express opinions.",
+    "is_free": true
+  },
+  {
+    "id": "fce-s2-002",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Comparing Photographs — Compare two photographs showing different living environments.",
+      "prompt": "Here are two photographs. The first shows a family living in a modern apartment in a large city, with a view of skyscrapers through the window. The second shows a family sitting on the porch of a farmhouse in the countryside, surrounded by fields and trees. Compare the two photographs and say which lifestyle you think would be more satisfying in the long term.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "These two photographs present very contrasting living environments. In the first photo, we can see a family in what appears to be a sleek, modern apartment in a city. Through the window, there are tall buildings and a busy skyline. The family looks comfortable, and the apartment seems well-equipped with all the modern conveniences you would expect. In the second photo, the scene is completely different — a family is relaxing on the porch of a rural farmhouse, surrounded by open fields and trees. The atmosphere looks peaceful and tranquil, and they seem to be enjoying the fresh air and natural surroundings. In terms of long-term satisfaction, I think this is a very personal question. City living offers career opportunities, cultural activities, and social connections, whereas rural life provides space, tranquility, and a closer connection to nature. Personally, I think I would find rural life more satisfying in the long run, because I believe that being close to nature is essential for mental wellbeing, even though I would miss the convenience of city life.",
+      "tips_zh": "对比城市与乡村生活的照片。技巧：1）描述每张照片的氛围和环境细节（sleek, tranquil）；2）使用对比连接词自然过渡（whereas, on the other hand）；3）推测照片中人物的感受；4）回答问题时考虑多个方面（career, wellbeing, convenience）；5）表达个人偏好并给出理由，同时承认另一种选择的优点。"
+    },
+    "explanation_zh": "这是FCE口语第二部分——对比城市与乡村生活的照片。你需要比较两种截然不同的生活方式，并表达哪种生活在长期来看更令人满意。",
+    "explanation_en": "This is FCE Speaking Part 2 — Comparing photographs of urban vs rural living. You need to compare two contrasting lifestyles and express which would be more satisfying long-term.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s2-003",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Comparing Photographs — Compare two photographs showing different approaches to celebrations.",
+      "prompt": "Here are two photographs. The first shows a traditional wedding ceremony with people wearing ceremonial clothing in a historic building. The second shows a modern, casual outdoor wedding with guests in relaxed clothing in a garden setting. Compare the two photographs and say which type of celebration you think is more meaningful.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "Both photographs show wedding celebrations, but the style and atmosphere are remarkably different. The first photo depicts a traditional ceremony — the people are wearing formal, ceremonial clothing, and the event is taking place in what looks like a grand historic building. Everything appears very structured and solemn, with a strong sense of tradition and ceremony. By contrast, the second photo shows a much more relaxed and informal wedding in a beautiful garden setting. The guests are dressed casually, and the overall atmosphere seems joyful and laid-back. As for which is more meaningful, I think this depends entirely on the couple's values and personality. A traditional ceremony carries cultural significance and connects people to their heritage, which many find deeply meaningful. However, a casual celebration might feel more personal and authentic, allowing people to truly relax and enjoy the occasion. Personally, I believe that what makes a celebration meaningful is not the formality or the setting, but the genuine love and connection between the people involved.",
+      "tips_zh": "对比传统与现代庆典的照片。技巧：1）描述每种庆典的氛围和特点（solemn, laid-back）；2）使用丰富的形容词来对比两种风格；3）讨论 \"意义\" 时要有深度，不要只停留在表面；4）表达个人观点时展示成熟的思考（what makes... meaningful is not... but...）；5）使用高级对比表达如 \"By contrast\"、\"remarkably different\"。"
+    },
+    "explanation_zh": "这是FCE口语第二部分——对比传统与现代庆典的照片。你需要比较两种不同风格的庆祝活动，并讨论哪种更有意义。",
+    "explanation_en": "This is FCE Speaking Part 2 — Comparing photographs of traditional vs modern celebrations. You need to compare two different celebration styles and discuss which is more meaningful.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s2-004",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Comparing Photographs — Compare two photographs showing different ways of working on a project.",
+      "prompt": "Here are two photographs. The first shows a person working alone at a computer in a quiet home office, focused intently on their screen. The second shows a group of colleagues collaborating around a whiteboard in a bright, open office. Compare the two photographs and say which approach you think leads to better results when working on a project.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "These two photographs illustrate two very different approaches to working on a project. In the first photo, a person is working independently at home, sitting at a tidy desk with a computer. They appear deeply focused and absorbed in their task, and the environment looks quiet and distraction-free. In the second photo, a team of colleagues is gathered around a whiteboard in a modern, open-plan office. They seem to be brainstorming ideas together, and the energy in the room looks dynamic and collaborative. Both approaches have clear strengths. Working alone allows for deep concentration and can be ideal for tasks that require careful analysis or creative writing. On the other hand, teamwork encourages the exchange of ideas and can lead to more innovative solutions, as different perspectives are brought together. I think the best approach depends on the nature of the project. For tasks that require creativity and innovation, collaboration tends to produce better results, but for tasks that demand precision and individual expertise, working alone may be more effective.",
+      "tips_zh": "对比个人工作与团队合作的照片。技巧：1）描述每种工作方式的环境和氛围；2）使用推测语言描述人物的状态（They appear deeply focused, The energy looks dynamic）；3）讨论各自优势时要具体（deep concentration, exchange of ideas）；4）根据不同情况给出不同建议，展示灵活的思维；5）使用条件句（For tasks that require...）展示语法能力。"
+    },
+    "explanation_zh": "这是FCE口语第二部分——对比个人工作与团队合作的照片。你需要比较两种不同的工作方式，并讨论哪种方式能产生更好的结果。",
+    "explanation_en": "This is FCE Speaking Part 2 — Comparing photographs of individual vs team work. You need to compare two working approaches and discuss which leads to better results.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s2-005",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Comparing Photographs — Compare two photographs showing different leisure activities.",
+      "prompt": "Here are two photographs. The first shows a group of young people playing football in a park on a sunny day. The second shows a young person sitting on a sofa at home, playing video games on a large screen. Compare the two photographs and say which activity you think is more beneficial for young people.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "These photographs show two very different ways that young people spend their free time. The first photo shows a group of friends playing football outdoors in a park. The sun is shining, and they all look energetic and enthusiastic. It seems like a healthy, social activity that they're really enjoying. The second photo, in contrast, shows a young person sitting on a sofa, completely absorbed in a video game. The room looks comfortable, but the activity is clearly much more sedentary and solitary. In terms of which is more beneficial, I would argue that outdoor sports like football offer greater overall benefits because they combine physical exercise, social interaction, and teamwork. These are all essential for young people's physical health and personal development. However, I wouldn't dismiss video games entirely — they can improve problem-solving skills, hand-eye coordination, and even creativity. The issue is really about balance. If a young person spends all their time gaming and never exercises, that's clearly a problem, but gaming in moderation alongside physical activity can be perfectly fine.",
+      "tips_zh": "对比户外运动与室内游戏的照片。技巧：1）描述每种活动的场景和氛围（energetic, sedentary）；2）使用评价性语言（more beneficial, greater overall benefits）；3）讨论好处时要全面（physical health, social interaction, personal development）；4）展示平衡的观点——承认两种活动都有价值；5）使用高级词汇如 \"sedentary\"、\"in moderation\" 展示语言水平。"
+    },
+    "explanation_zh": "这是FCE口语第二部分——对比户外运动与室内活动的照片。你需要比较两种不同的休闲活动，并讨论哪种对年轻人更有益。",
+    "explanation_en": "This is FCE Speaking Part 2 — Comparing photographs of outdoor sports vs indoor gaming. You need to compare two leisure activities and discuss which is more beneficial for young people.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s2-006",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Comparing Photographs — Compare two photographs showing different shopping experiences.",
+      "prompt": "Here are two photographs. The first shows a busy high street with people browsing through shop windows and carrying shopping bags. The second shows a person sitting at home, shopping online on a laptop with packages arriving at the door. Compare the two photographs and say which shopping experience you think is more enjoyable.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "These two photographs represent the two main ways people shop today. In the first photo, we can see a lively high street full of shoppers. People are looking at window displays, going in and out of shops, and carrying bags. The atmosphere looks vibrant and social — it seems like an experience people are genuinely enjoying. In the second photo, the scene is much quieter and more private. A person is sitting comfortably at home, browsing products on their laptop. There are packages by the door, suggesting they shop online regularly. Each experience has its own appeal. Shopping on the high street is more of a social occasion — you can try things on, see products in person, and enjoy the atmosphere of the town centre. Online shopping, however, offers unmatched convenience, a wider selection, and the ability to compare prices easily. Personally, I find online shopping more practical for everyday purchases, but I think going to the high street is more enjoyable as an experience because it gets you out of the house and allows you to discover things you weren't looking for.",
+      "tips_zh": "对比线下购物与网上购物的照片。技巧：1）描述每种购物方式的场景和氛围（vibrant, convenient）；2）讨论各自的独特优势（try things on, compare prices）；3）使用个人偏好来回答问题，但要承认两种方式的优点；4）区分 \"practical\" 和 \"enjoyable\" 来展示细致的思考；5）使用对比词和评价表达如 \"unmatched convenience\"、\"more of a social occasion\"。"
+    },
+    "explanation_zh": "这是FCE口语第二部分——对比线下购物与网上购物的照片。你需要比较两种不同的购物体验，并讨论哪种更令人愉快。",
+    "explanation_en": "This is FCE Speaking Part 2 — Comparing photographs of high-street vs online shopping. You need to compare two shopping experiences and discuss which is more enjoyable.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s2-007",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Comparing Photographs — Compare two photographs showing different dress codes.",
+      "prompt": "Here are two photographs. The first shows employees in a corporate office wearing formal business suits and ties. The second shows employees in a tech startup wearing casual clothes like jeans and t-shirts, working in a colourful, relaxed office. Compare the two photographs and say which dress code you think creates a better working environment.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "These photographs show two very different workplace environments, and the dress code seems to reflect the overall culture of each. In the first photo, employees are wearing formal business suits in a traditional corporate office. They look professional and serious, and the environment appears quite structured and hierarchical. In the second photo, the employees are dressed much more casually — jeans, t-shirts, and trainers — and the office itself is colourful and relaxed, with open spaces and informal seating areas. The atmosphere seems much more creative and egalitarian. I think the dress code has a significant impact on the working environment. Formal dress can help people feel professional and may be appropriate for industries like law or finance where clients expect a certain image. However, casual dress tends to make people feel more comfortable, which can encourage creativity and open communication. For most modern workplaces, I think a smart-casual approach probably creates the best environment — it maintains a level of professionalism while allowing people to express themselves and feel at ease.",
+      "tips_zh": "对比正式与休闲着装的照片。技巧：1）不仅描述着装，还要分析着装背后反映的文化（hierarchical, egalitarian）；2）讨论着装对工作环境的影响；3）根据不同行业给出不同的建议；4）提出折中方案（smart-casual）展示成熟的思维；5）使用高级形容词和名词如 \"hierarchical\"、\"egalitarian\"、\"professionalism\" 展示B2水平的词汇。"
+    },
+    "explanation_zh": "这是FCE口语第二部分——对比正式与休闲工作着装的照片。你需要比较两种不同的着装文化，并讨论哪种着装规范能创造更好的工作环境。",
+    "explanation_en": "This is FCE Speaking Part 2 — Comparing photographs of formal vs casual workplace dress codes. You need to compare two dress code cultures and discuss which creates a better working environment.",
+    "is_free": false
+  },
+  {
+    "id": "fce-s2-008",
+    "level": "fce",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Comparing Photographs — Compare two photographs showing different modes of transport.",
+      "prompt": "Here are two photographs. The first shows passengers on a crowded public bus during rush hour in a city. The second shows a person driving alone in their own car on a quiet suburban road. Compare the two photographs and say which mode of transport you think is better for people who commute to work every day.",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "These two photographs show contrasting commuting experiences. In the first photo, passengers are packed into a public bus during what is clearly rush hour. The bus looks very crowded, and the people don't look particularly comfortable — some are standing and holding on to handrails. It seems like a stressful experience. In the second photo, someone is driving their own car on a quiet road. They appear much more relaxed and comfortable, with plenty of space and the freedom to listen to music or a podcast. However, despite appearances, I think public transport is actually the better option for daily commuters, and there are several reasons for this. First, it's considerably cheaper than running a car when you factor in fuel, insurance, and parking. Second, it's much better for the environment, which is increasingly important. Third, you can actually use the time productively on a bus — reading, studying, or even working on a laptop. Driving requires your full attention. That said, public transport needs to be reliable and comfortable to be a viable alternative, and unfortunately, that isn't always the case.",
+      "tips_zh": "对比公共交通与私家车的照片。技巧：1）描述每种交通方式的场景和乘客状态；2）讨论超越表面的深层利弊（cost, environment, productivity）；3）先承认表面上的偏好（the car looks more comfortable），再提出更深层的分析；4）结尾加入限定条件（public transport needs to be reliable）展示全面思考；5）使用评价表达如 \"considerably cheaper\"、\"viable alternative\"。"
+    },
+    "explanation_zh": "这是FCE口语第二部分——对比公共交通与私家车的照片。你需要比较两种不同的通勤方式，并讨论哪种对每天上班的人来说更好。",
+    "explanation_en": "This is FCE Speaking Part 2 — Comparing photographs of public vs private transport. You need to compare two commuting modes and discuss which is better for daily commuters.",
     "is_free": false
   }
 ]

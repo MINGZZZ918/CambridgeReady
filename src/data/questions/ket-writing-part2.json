@@ -49,5 +49,124 @@
     "explanation_zh": "中文解析：这个故事讲述一次学校旅行。按时间顺序描述：早上做了什么、午饭吃了什么、下午做了什么、最后感受如何。使用时间连接词如 \"When we arrived\"、\"Then\"、\"In the afternoon\"。",
     "explanation_en": "English explanation: This story describes a school trip. Describe events in time order: what you did in the morning, lunch, afternoon, and your feelings at the end. Use time connectors like 'When we arrived', 'Then', 'In the afternoon'.",
     "is_free": false
+  },
+  {
+    "id": "ket-w2-004",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 4,
+    "content": {
+      "stem": "Write a short story about finding something. Your story must begin with this sentence: 'I was walking to school when I saw something on the ground.' Write 35 words or more.",
+      "prompt": "Write a short story about finding something.\n\nYour story must begin with this sentence:\n\n\"I was walking to school when I saw something on the ground.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "I was walking to school when I saw something on the ground. It was a small red wallet. I picked it up and opened it. Inside there was some money and a photo of a girl. I took it to the school office. Later that day, a girl from another class came to find me. She was very happy to get her wallet back. She thanked me and gave me some sweets."
+    },
+    "explanation_zh": "中文解析：这个故事讲述捡到东西的经历。按时间顺序描述：发现了什么、你做了什么、结果怎样。使用过去时态和时间连接词，如 \"Later that day\"。注意描述你的行动和最终结果。",
+    "explanation_en": "English explanation: This story describes finding something. Describe in time order: what you found, what you did with it, and the result. Use past tenses and time connectors like 'Later that day'. Focus on your actions and the outcome.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-005",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 5,
+    "content": {
+      "stem": "Write a short story about starting at a new school. Your story must begin with this sentence: 'It was my first day at a new school and I felt very nervous.' Write 35 words or more.",
+      "prompt": "Write a short story about starting at a new school.\n\nYour story must begin with this sentence:\n\n\"It was my first day at a new school and I felt very nervous.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "It was my first day at a new school and I felt very nervous. I didn't know anyone there. When I walked into the classroom, a boy smiled at me and said 'Hi, I'm David. Do you want to sit next to me?' I said yes. At break time, David showed me around the school. He introduced me to his friends. By the end of the day, I felt much happier. I had made a new friend."
+    },
+    "explanation_zh": "中文解析：这个故事讲述在新学校的第一天。描述你的感受（紧张）、发生了什么事（认识了新朋友）、最后感受变化（变得开心）。使用情感词汇如 \"nervous\"、\"happier\"，展示感受的变化。",
+    "explanation_en": "English explanation: This story describes your first day at a new school. Describe your feelings (nervous), what happened (meeting someone new), and how feelings changed (happier). Use emotion words like 'nervous' and 'happier' to show the change.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-006",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 6,
+    "content": {
+      "stem": "Write a short story about learning to cook. Your story must begin with this sentence: 'Last weekend, my mum taught me how to make a cake.' Write 35 words or more.",
+      "prompt": "Write a short story about learning to cook.\n\nYour story must begin with this sentence:\n\n\"Last weekend, my mum taught me how to make a cake.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "Last weekend, my mum taught me how to make a cake. First, we put flour, eggs, sugar, and butter in a big bowl. Then we mixed everything together. I was very excited when we put the cake in the oven. After thirty minutes, the cake was ready. It smelled delicious! We put some chocolate on top. My dad tried a piece and said it was the best cake ever. I was really proud."
+    },
+    "explanation_zh": "中文解析：这个故事讲述学做蛋糕的过程。按照步骤描述：先做了什么、然后做了什么、结果怎样。使用顺序连接词 \"First\"、\"Then\"、\"After\"。描述你的感受，如 \"excited\"、\"proud\"。",
+    "explanation_en": "English explanation: This story describes learning to bake a cake. Describe the steps in order: what you did first, then, and the result. Use sequence words like 'First', 'Then', 'After'. Include your feelings like 'excited' and 'proud'.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-007",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 7,
+    "content": {
+      "stem": "Write a short story about a rainy day. Your story must begin with this sentence: 'It started raining very hard when I was on my way home.' Write 35 words or more.",
+      "prompt": "Write a short story about a rainy day.\n\nYour story must begin with this sentence:\n\n\"It started raining very hard when I was on my way home.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "It started raining very hard when I was on my way home. I didn't have an umbrella, so I ran to the nearest shop. The shop owner was very kind and let me wait inside. I looked out of the window and watched the rain. After about twenty minutes, the rain stopped and I saw a beautiful rainbow in the sky. I took a photo of it and walked home. It was a nice surprise."
+    },
+    "explanation_zh": "中文解析：这个故事讲述雨天的一次冒险。描述遇到的问题（没有伞）、你做了什么（跑到商店）、以及结局（看到彩虹）。使用 \"so\" 表示因果关系，\"After\" 表示时间推移。加入意外的惊喜让故事更有趣。",
+    "explanation_en": "English explanation: This story describes a rainy day adventure. Describe the problem (no umbrella), what you did (ran to a shop), and the ending (seeing a rainbow). Use 'so' for cause and effect, 'After' for time passing. Add an unexpected surprise to make the story interesting.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-008",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 8,
+    "content": {
+      "stem": "Write a short story about helping someone. Your story must begin with this sentence: 'One afternoon, I saw my neighbour carrying lots of heavy bags.' Write 35 words or more.",
+      "prompt": "Write a short story about helping someone.\n\nYour story must begin with this sentence:\n\n\"One afternoon, I saw my neighbour carrying lots of heavy bags.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "One afternoon, I saw my neighbour carrying lots of heavy bags. She looked very tired, so I asked if she needed help. She smiled and said yes. I carried two bags to her front door. She was very grateful and invited me inside for some juice and biscuits. We talked for a while and she told me about her garden. She was a very nice lady. I felt happy that I helped her."
+    },
+    "explanation_zh": "中文解析：这个故事讲述帮助邻居的经历。描述你看到了什么、做了什么来帮忙、对方的反应、以及你的感受。使用 \"so\" 连接原因和行动，描述对话可以用 \"She said...\"、\"She told me...\"。",
+    "explanation_en": "English explanation: This story describes helping a neighbour. Describe what you saw, what you did to help, their reaction, and your feelings. Use 'so' to connect cause and action. For dialogue, use 'She said...' and 'She told me...'.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-009",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 9,
+    "content": {
+      "stem": "Write a short story about a school competition. Your story must begin with this sentence: 'Our school had a talent show and I decided to take part.' Write 35 words or more.",
+      "prompt": "Write a short story about a school competition.\n\nYour story must begin with this sentence:\n\n\"Our school had a talent show and I decided to take part.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "Our school had a talent show and I decided to take part. I chose to sing a song because I love singing. I practised every day after school for two weeks. On the day of the show, I felt very nervous. When it was my turn, I walked onto the stage and started singing. My friends clapped and cheered for me. I didn't win first prize, but the judges said I did a great job. I was very proud of myself."
+    },
+    "explanation_zh": "中文解析：这个故事讲述参加学校才艺比赛的经历。描述你选择了什么、如何准备、比赛时的感受、以及结果。使用时间表达如 \"On the day of the show\"、\"When it was my turn\"。即使没有获胜，也可以用 \"I was proud\" 表达积极的感受。",
+    "explanation_en": "English explanation: This story describes taking part in a school talent show. Describe what you chose, how you prepared, your feelings on the day, and the result. Use time expressions like 'On the day of the show' and 'When it was my turn'. Even without winning, show positive feelings with 'I was proud'.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-010",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 10,
+    "content": {
+      "stem": "Write a short story about a birthday surprise. Your story must begin with this sentence: 'On my birthday, my friends planned something special for me.' Write 35 words or more.",
+      "prompt": "Write a short story about a birthday surprise.\n\nYour story must begin with this sentence:\n\n\"On my birthday, my friends planned something special for me.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "On my birthday, my friends planned something special for me. When I arrived at school, nobody said 'Happy Birthday' and I felt a bit sad. But at lunchtime, my friends took me to the classroom. The room was full of balloons and there was a big cake on the teacher's desk. Everyone shouted 'Surprise!' and started singing 'Happy Birthday.' I was so surprised that I almost cried. It was the best birthday ever."
+    },
+    "explanation_zh": "中文解析：这个故事讲述一个生日惊喜。先描述一开始的失望（没人说生日快乐），然后转折到惊喜（教室里的装饰和蛋糕）。使用 \"But\" 来表示转折，\"so...that\" 来表达强烈的情感。故事要有起伏才更好。",
+    "explanation_en": "English explanation: This story describes a birthday surprise. First describe the initial disappointment (nobody said happy birthday), then the twist (decorations and cake). Use 'But' for contrast and 'so...that' for strong emotions. A good story has ups and downs.",
+    "is_free": false
   }
 ]

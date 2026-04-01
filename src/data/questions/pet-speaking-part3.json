@@ -17,6 +17,146 @@
     },
     "explanation_zh": "这是PET口语第三部分——图片描述。与KET不同，PET要求你不仅描述看到的内容，还要进行推测和分析人物的感受和行为。",
     "explanation_en": "This is PET Speaking Part 3 — Picture Description. Unlike KET, PET requires you not only to describe what you see but also to speculate and analyze the feelings and behavior of the people in the picture.",
+    "is_free": true
+  },
+  {
+    "id": "pet-s3-002",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 2,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people in an office.",
+      "prompt": "Look at this photograph showing people working in an office. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-office.jpg",
+      "sample_answer": "In this photograph, I can see a modern office with several people working. There are about five or six people in the room. In the centre, two people — a man and a woman — are sitting at a table and looking at a laptop together. They seem to be discussing something important, maybe a project or a presentation, because they both look very focused. On the left, there is a young woman talking on the phone. She looks quite busy and she's taking notes. In the background, I can see a man standing near a whiteboard with some charts on it — he might be preparing for a meeting. The office looks bright and clean, with large windows and plants. Everyone seems to be working hard, so it might be a busy day.",
+      "tips_zh": "描述办公室场景时，注意人物的不同活动和他们之间的互动关系。使用方位词（in the centre, on the left, in the background）组织描述。推测时使用 \"They seem to be...\"、\"He might be...\" 和 \"It looks like...\"。注意描述环境氛围（busy, quiet, modern）。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个办公室场景，包括人物、活动、感受和你对正在发生什么的推测。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe an office scene, including the people, their activities, feelings, and your speculation about what is happening.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-003",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 3,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a party.",
+      "prompt": "Look at this photograph showing people at a party. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-party.jpg",
+      "sample_answer": "In this photograph, I can see a group of young people at what looks like a birthday party or a celebration. There are about eight or nine people, and they all seem to be having a wonderful time. In the middle of the picture, there's a girl blowing out candles on a cake, so I think it's her birthday. Everyone around her is smiling and clapping. Some people are wearing colourful party hats. On the right side, two boys are taking photos with their phones. The room is decorated with balloons and streamers, which makes it look very festive. There's a table covered with food and drinks. Everyone looks really happy and excited — it seems like a great party.",
+      "tips_zh": "描述聚会场景时，注意整体气氛和具体细节的平衡。先说整体场景（what kind of event），再描述具体的人物和动作。使用表示情感的形容词（happy, excited, cheerful）。注意装饰和环境细节（balloons, streamers, decorations），这些都能帮助你推测场合。使用 \"It looks like...\" 和 \"I think it's...\" 进行推测。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个聚会场景，包括人物、活动、装饰、气氛和你对场合的推测。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a party scene, including the people, activities, decorations, atmosphere, and your speculation about the occasion.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-004",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 4,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a concert.",
+      "prompt": "Look at this photograph showing people at a concert or musical performance. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-concert.jpg",
+      "sample_answer": "In this photograph, I can see a large crowd of people at what appears to be an outdoor concert. There's a stage at the front with bright, colourful lights. I can see musicians on stage — it looks like there's a singer with a microphone and a guitarist. The audience seems very excited and enthusiastic. In the front rows, some people are holding up their phones to record the performance. Others have their hands in the air and seem to be dancing or clapping along to the music. Further back, I can see people standing in groups, enjoying the atmosphere. Everyone looks like they're having an amazing time. The sky is getting dark, so I think the concert is in the evening, which makes the stage lights look even more impressive.",
+      "tips_zh": "描述音乐会场景时，分层描述——先说舞台上的表演者，再说前排观众，最后说远处的人群。注意灯光、天气和整体氛围。使用 \"It appears to be...\"、\"It looks like there's...\" 进行推测。描述观众的反应要具体（holding up phones, clapping, dancing）。用形容词增强描述力（bright, colourful, impressive, enthusiastic）。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个音乐会场景，包括舞台、表演者、观众的反应和整体氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a concert scene, including the stage, performers, audience reactions, and overall atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-005",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 5,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people in a hospital waiting room.",
+      "prompt": "Look at this photograph showing people in a hospital waiting room. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-hospital.jpg",
+      "sample_answer": "In this photograph, I can see a hospital waiting room with several people sitting in chairs. It looks quite a modern hospital with clean white walls. On the left, there's an elderly man sitting with a younger woman who might be his daughter. She seems to be helping him fill in a form. They both look a little worried. In the middle, a mother is sitting with a small child on her lap. The child seems quite calm and is playing with a toy. On the right, there's a young man looking at his phone — he might be waiting for his appointment. In the background, I can see a reception desk with a nurse behind it. Some of the people look tired and anxious, which is normal in a hospital. The waiting room seems fairly quiet and peaceful.",
+      "tips_zh": "描述医院候诊室时，注意不同人物的状态和情绪。这类场景适合推测人物之间的关系（she might be his daughter）和来访原因。描述时要注意环境细节（白色墙壁、接待台、椅子排列），同时描绘不同人物的情绪（worried, calm, tired, anxious）。使用 \"who might be...\" 推测关系，\"They both look...\" 描述感受。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述医院候诊室的场景，包括不同人物、他们的活动和情绪、人物之间的关系以及环境氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a hospital waiting room, including different people, their activities and emotions, relationships between them, and the atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-006",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 6,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people in a library.",
+      "prompt": "Look at this photograph showing people in a library. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-library.jpg",
+      "sample_answer": "In this photograph, I can see a large library with rows of bookshelves filled with books. There are several people in the library. In the foreground, a young woman is sitting at a desk with a pile of books and a laptop. She looks very concentrated — she might be studying for an exam or writing an essay. Next to her, a boy is reading a thick book. He seems completely absorbed in the story. Further back, I can see two students whispering to each other — they might be working on a group project together. On the far right, a librarian is putting books back on the shelves. The library looks very peaceful and quiet, with warm lighting and comfortable chairs. It seems like a perfect place to study or read.",
+      "tips_zh": "描述图书馆场景时，注意安静的环境氛围和人们的专注状态。描述不同人物时，推测他们在做什么（studying, reading, working on a project）。使用 \"In the foreground\" 和 \"Further back\" 等方位词组织描述。注意描述细节如书架、灯光和家具。使用 \"She looks very concentrated\" 和 \"He seems completely absorbed\" 等描述来推测人物状态。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个图书馆场景，包括人物、他们的活动、推测他们的感受以及整体的安静学习氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a library scene, including people, their activities, speculations about their feelings, and the overall quiet study atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-007",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 7,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at an outdoor cafe.",
+      "prompt": "Look at this photograph showing people at an outdoor cafe. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-cafe.jpg",
+      "sample_answer": "In this photograph, I can see an outdoor cafe on what looks like a sunny day. There are several tables with colourful umbrellas to provide shade. At the nearest table, two women are sitting and chatting over cups of coffee. They seem to be good friends and they both look very relaxed and happy. One of them is laughing at something. At another table, a man is sitting alone, reading a newspaper and drinking tea. He looks calm and content. In the background, I can see a waiter carrying a tray of drinks to a table. There are also some people walking past on the street. The cafe has a very pleasant atmosphere — it looks like the kind of place where people go to relax and enjoy good weather. I think this might be a weekend because the people don't seem to be in a hurry.",
+      "tips_zh": "描述户外咖啡馆时，注意人物的社交互动和放松的氛围。描述天气和环境（sunny, umbrellas, shade），不同桌子的人物及其活动。推测时间（可能是周末因为人们很悠闲）和人物关系（they seem to be good friends）。使用 \"It looks like the kind of place where...\" 等复杂句型展示语言能力。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个户外咖啡馆的场景，包括人物、社交活动、天气环境和放松的氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe an outdoor cafe scene, including people, social activities, weather and surroundings, and the relaxed atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-008",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 8,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a gym or fitness class.",
+      "prompt": "Look at this photograph showing people at a gym or fitness class. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-gym.jpg",
+      "sample_answer": "In this photograph, I can see a group of people in a gym doing a fitness class. There seem to be about ten or twelve people, mostly young adults. They are all following an instructor who is standing at the front. It looks like they are doing some kind of aerobics or dance fitness class because they all have their arms raised and seem to be moving in time with music. The instructor looks very energetic and enthusiastic — she's smiling and encouraging everyone. Some of the participants look like they're really enjoying themselves, while others at the back seem a bit tired and are struggling to keep up. The gym is well-equipped with mirrors on the wall and bright lighting. I think this might be an evening class because the people are probably coming after work or school.",
+      "tips_zh": "描述健身房场景时，注意教练和学员之间的互动，以及不同学员的状态（enthusiastic vs tired）。描述他们在做的运动类型，推测时间（可能是晚间课程）。使用对比描述（\"Some... while others...\"）展示不同人物的反应。注意环境细节（mirrors, lighting, equipment）。使用进行时态描述正在发生的动作。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个健身房或健身课程的场景，包括教练和学员、运动类型、不同人物的状态和整体活力氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a gym or fitness class, including the instructor and participants, type of exercise, different people's energy levels, and the overall dynamic atmosphere.",
     "is_free": false
   }
 ]
