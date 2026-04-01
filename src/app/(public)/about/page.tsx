@@ -105,15 +105,6 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* Disclaimer */}
-      <section className="pb-24 lg:pb-32">
-        <div className="rounded-[--radius-md] border border-border bg-bg-card p-8 text-center">
-          <p className="text-sm text-text-tertiary">
-            CambridgeReady 是独立的第三方备考平台，与 Cambridge Assessment English 无官方关联。
-            所有考试名称及商标归其各自所有者所有。
-          </p>
-        </div>
-      </section>
     </div>
   );
 }

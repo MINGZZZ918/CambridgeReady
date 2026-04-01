@@ -20,10 +20,6 @@ const FAQ_SECTIONS = [
         a: "目前覆盖三个级别：KET (A2 Key)、PET (B1 Preliminary) 和 FCE (B2 First)。每个级别包含阅读、听力、写作和口语四个技能的备考内容。",
       },
       {
-        q: "CambridgeReady 与剑桥官方有关系吗？",
-        a: "CambridgeReady 是独立的第三方备考平台，与 Cambridge Assessment English 无官方关联。所有考试名称及商标归其各自所有者所有。",
-      },
-      {
         q: "适合什么年龄段的学生使用？",
         a: "平台主要面向 K12 学生，即小学高年级到高中阶段。KET 适合小学高年级和初中低年级；PET 适合初中生；FCE 适合高中生和英语能力较强的初中生。",
       },

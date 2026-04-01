@@ -40,9 +40,6 @@ export default function Footer() {
             <p className="mt-4 max-w-xs text-[15px] leading-relaxed text-text-secondary">
               AI 驱动的剑桥英语备考平台，提供写作批改、口语评估和免费备考资料。覆盖 KET、PET、FCE 三个级别。
             </p>
-            <p className="mt-6 text-xs text-text-tertiary">
-              本平台与 Cambridge Assessment English 无官方关联
-            </p>
           </div>
 
           {/* Link groups */}

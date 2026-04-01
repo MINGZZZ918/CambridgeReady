@@ -26,7 +26,7 @@ export default function TermsPage() {
           <section>
             <h2 className="text-lg font-semibold text-text-primary">1. 服务说明</h2>
             <p className="mt-3">
-              CambridgeReady（以下简称"本平台"）是一个 AI 驱动的剑桥英语备考平台，提供 KET、PET、FCE 三个级别的在线练习、免费备考资料下载、AI 写作批改和 AI 口语评估服务。本平台与 Cambridge Assessment English 无官方关联。
+              CambridgeReady（以下简称"本平台"）是一个 AI 驱动的剑桥英语备考平台，提供 KET、PET、FCE 三个级别的在线练习、免费备考资料下载、AI 写作批改和 AI 口语评估服务。
             </p>
           </section>
 
