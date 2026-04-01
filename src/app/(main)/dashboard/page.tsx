@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Suspense } from "react";
 import { createClient } from "@/lib/supabase/server";
-import { BookOpen, Target, Clock, ArrowRight, PenLine, Mic, Check, X, Crown, AlertTriangle, Download } from "lucide-react";
+import { BookOpen, Target, Clock, ArrowRight, PenLine, Mic, Check, X, Crown, AlertTriangle, Download, BarChart3 } from "lucide-react";
 import { LEVELS } from "@/lib/utils/constants";
 import { getMembershipStatus, getDaysUntilExpiry, formatExpiryDate } from "@/lib/utils/membership";
 import PaymentSuccessBanner from "@/components/payment/PaymentSuccessBanner";
@@ -332,6 +332,23 @@ export default async function DashboardPage() {
             <ArrowRight size={16} className="text-text-tertiary transition-transform group-hover:translate-x-1" />
           </Link>
         </div>
+      </div>
+
+      {/* Report entry */}
+      <div className="mt-8">
+        <Link
+          href="/report"
+          className="group flex items-center gap-5 rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all hover:shadow-sm hover:border-blue/30"
+        >
+          <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-blue-light">
+            <BarChart3 size={22} className="text-blue" />
+          </div>
+          <div className="flex-1">
+            <div className="font-medium">查看学习报告</div>
+            <div className="mt-0.5 text-sm text-text-secondary">AI 评估趋势、技能分析，可分享给家长查看</div>
+          </div>
+          <ArrowRight size={16} className="text-text-tertiary transition-transform group-hover:translate-x-1" />
+        </Link>
       </div>
 
       {/* Recent activity */}

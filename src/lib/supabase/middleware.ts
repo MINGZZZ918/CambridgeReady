@@ -11,6 +11,7 @@ const PROTECTED_PATHS = [
   "/progress",
   "/activate",
   "/resources",
+  "/report",
 ];
 
 export async function updateSession(request: NextRequest) {

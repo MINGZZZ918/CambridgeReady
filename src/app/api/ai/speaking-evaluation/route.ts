@@ -139,6 +139,21 @@ Please assess this spoken response according to Cambridge ${levelLabel} speaking
 
     const result = JSON.parse(jsonMatch[0]);
 
+    // Persist evaluation scores (fire-and-forget)
+    const totalScore = (result.scores.grammar_vocabulary + result.scores.discourse_management
+      + result.scores.pronunciation + result.scores.interactive_communication);
+    supabase.from("ai_evaluations").insert({
+      user_id: user.id,
+      skill: "speaking",
+      level,
+      part: part ? parseInt(part, 10) : null,
+      scores: result.scores,
+      total_score: totalScore,
+      feedback_zh: result.overall_feedback_zh,
+      prompt_text: prompt,
+      user_input: transcript,
+    }).then(({ error }) => { if (error) console.error("Save eval error:", error); });
+
     // Include transcript in response
     return NextResponse.json({
       ...result,

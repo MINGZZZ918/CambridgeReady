@@ -120,6 +120,20 @@ Please assess this essay according to Cambridge ${levelLabel} writing standards.
 
     const result = JSON.parse(jsonMatch[0]);
 
+    // Persist evaluation scores (fire-and-forget)
+    const totalScore = (result.scores.content + result.scores.communicative_achievement
+      + result.scores.organisation + result.scores.language);
+    supabase.from("ai_evaluations").insert({
+      user_id: user.id,
+      skill: "writing",
+      level,
+      scores: result.scores,
+      total_score: totalScore,
+      feedback_zh: result.overall_feedback_zh,
+      prompt_text: prompt,
+      user_input: essay,
+    }).then(({ error }) => { if (error) console.error("Save eval error:", error); });
+
     return NextResponse.json(result);
   } catch (err) {
     console.error("AI writing correction error:", err);

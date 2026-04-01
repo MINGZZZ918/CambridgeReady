@@ -156,6 +156,22 @@ export interface SpeakingEvaluationResult {
   improved_response: string;
 }
 
+// ===== AI Evaluation Record =====
+
+export interface AIEvaluation {
+  id: string;
+  user_id: string;
+  skill: 'writing' | 'speaking';
+  level: Level;
+  part: number | null;
+  scores: Record<string, number>;
+  total_score: number;
+  feedback_zh: string | null;
+  prompt_text: string | null;
+  user_input: string | null;
+  created_at: string;
+}
+
 // ===== Past Papers =====
 
 export interface PastPaperSection {

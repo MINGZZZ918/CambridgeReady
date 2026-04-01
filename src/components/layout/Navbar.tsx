@@ -67,6 +67,7 @@ const AUTH_NAV: NavItem[] = [
     ],
   },
   { label: "学习进度", href: "/progress" },
+  { label: "学习报告", href: "/report" },
 ];
 
 function DropdownMenu({ items, onClose }: { items: DropdownItem[]; onClose: () => void }) {
