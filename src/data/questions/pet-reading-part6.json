@@ -10,11 +10,13 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "a",
-      "accept_answers": ["a"]
+      "accept_answers": [
+        "a"
+      ]
     },
     "explanation_zh": "中文解析：\"gave me a guitar\"中需要不定冠词a，因为guitar是第一次被提到的单数可数名词。用a而不用the，因为读者此前不知道这把吉他。",
     "explanation_en": "English explanation: 'A guitar' uses the indefinite article because this is the first mention of the guitar. It's an unspecified, singular countable noun being introduced for the first time.",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "pet-r6-002",
@@ -27,7 +29,10 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "made",
-      "accept_answers": ["made", "produced"]
+      "accept_answers": [
+        "made",
+        "produced"
+      ]
     },
     "explanation_zh": "中文解析：\"the sounds I made were terrible\"意思是\"我发出的声音很糟糕\"。made是make的过去式，\"make sounds\"是固定搭配，意思是\"发出声音\"。produced也可以接受但不太常用。",
     "explanation_en": "English explanation: 'The sounds I made' uses 'made' (past tense of 'make'). 'Make sounds' is a common collocation meaning to produce sounds. 'Produced' is also acceptable but less natural in everyday speech.",
@@ -44,7 +49,9 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "who",
-      "accept_answers": ["who"]
+      "accept_answers": [
+        "who"
+      ]
     },
     "explanation_zh": "中文解析：\"my older sister, who had been playing guitar for years\"中who引导非限制性定语从句，修饰sister（人）。逗号后的who提供关于姐姐的补充信息。",
     "explanation_en": "English explanation: 'Who' introduces a non-defining relative clause referring to 'my older sister' (a person). The comma indicates extra, non-essential information about the sister's guitar experience.",
@@ -61,7 +68,9 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "to",
-      "accept_answers": ["to"]
+      "accept_answers": [
+        "to"
+      ]
     },
     "explanation_zh": "中文解析：\"told me to practise\"中to是不定式标记。\"tell someone to do something\"是固定结构，意思是\"告诉某人做某事\"。",
     "explanation_en": "English explanation: 'Told me to practise' uses the structure 'tell + object + to-infinitive,' meaning to instruct someone to do something. 'To' is the infinitive marker required after 'tell someone.'",
@@ -78,7 +87,11 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "because",
-      "accept_answers": ["because", "as", "since"]
+      "accept_answers": [
+        "because",
+        "as",
+        "since"
+      ]
     },
     "explanation_zh": "中文解析：\"It was boring at first, because I preferred playing video games.\"这里because解释了为什么觉得无聊——因为更喜欢玩电子游戏。as和since也可以表示原因。",
     "explanation_en": "English explanation: 'Because' introduces the reason why practising was boring — the writer preferred playing video games. 'As' and 'since' are also acceptable as they can express reason/cause.",
@@ -95,7 +108,9 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "was",
-      "accept_answers": ["was"]
+      "accept_answers": [
+        "was"
+      ]
     },
     "explanation_zh": "中文解析：\"I was able to play\"是过去时态，表示\"我能够弹奏\"。was与able搭配构成\"be able to\"的过去式，表示过去的能力。",
     "explanation_en": "English explanation: 'I was able to play' uses the past tense of 'be able to,' meaning the writer had gained the ability to play. 'Was' is the past tense of 'be' needed before 'able.'",
@@ -112,7 +127,9 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "myself",
-      "accept_answers": ["myself"]
+      "accept_answers": [
+        "myself"
+      ]
     },
     "explanation_zh": "中文解析：\"I was so proud of myself\"中myself是反身代词，因为主语和宾语是同一个人（I）。\"be proud of oneself\"意思是\"为自己感到骄傲\"。",
     "explanation_en": "English explanation: 'Proud of myself' uses the reflexive pronoun because the subject (I) and the object are the same person. 'Be proud of oneself' is a standard expression meaning to feel pride in one's own achievement.",
@@ -129,7 +146,10 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "later",
-      "accept_answers": ["later", "on"]
+      "accept_answers": [
+        "later",
+        "on"
+      ]
     },
     "explanation_zh": "中文解析：\"four years later\"意思是\"四年后\"，表示从12岁开始学吉他到现在已经过了四年。later表示在那之后。on也可以（four years on = 四年之后）。",
     "explanation_en": "English explanation: 'Four years later' means four years after that time (when the writer started learning). 'Later' indicates the passage of time. 'On' is also acceptable ('four years on' means the same thing).",
@@ -146,7 +166,10 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "every",
-      "accept_answers": ["every", "each"]
+      "accept_answers": [
+        "every",
+        "each"
+      ]
     },
     "explanation_zh": "中文解析：\"every Saturday afternoon\"意思是\"每个周六下午\"。every后接单数名词表示\"每一个\"。each也可以接受，意思相同。on也可能被接受但every更自然。",
     "explanation_en": "English explanation: 'Every Saturday afternoon' means each Saturday afternoon as a regular activity. 'Every' with a singular noun indicates regularity. 'Each' is also acceptable with a similar meaning.",
@@ -163,7 +186,9 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "in",
-      "accept_answers": ["in"]
+      "accept_answers": [
+        "in"
+      ]
     },
     "explanation_zh": "中文解析：\"one of the most important things in my life\"中in表示\"在...中\"。\"in my life\"是固定搭配，意思是\"在我的生活中\"。",
     "explanation_en": "English explanation: 'In my life' is a fixed prepositional phrase. 'One of the most important things in my life' means among the most significant aspects of the writer's life. 'In' is the correct preposition for this context.",
@@ -180,7 +205,9 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "up",
-      "accept_answers": ["up"]
+      "accept_answers": [
+        "up"
+      ]
     },
     "explanation_zh": "中文解析：\"give up\"是短语动词，意思是\"放弃\"。\"I didn't give up when it was difficult\"意思是\"困难时我没有放弃\"。up是这个短语动词的必要组成部分。",
     "explanation_en": "English explanation: 'Give up' is a phrasal verb meaning to stop trying. 'I didn't give up when it was difficult' means the writer persisted despite challenges. 'Up' is the essential particle completing this phrasal verb.",
@@ -197,7 +224,10 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "Learning to Play the Guitar\n\nWhen I was twelve years old, my parents gave me (1)_____ guitar for my birthday. At first, I had no idea how to play it. My fingers hurt when I pressed the strings, and the sounds I (2)_____ were terrible. I almost gave up after the first week.\n\nHowever, my older sister, (3)_____ had been playing guitar for years, offered to teach me. She showed me some simple chords and told me (4)_____ practise for at least twenty minutes every day. It was boring at first, (5)_____ I preferred playing video games. But slowly, I started to improve.\n\nAfter about three months, I (6)_____ able to play a few simple songs. I was so proud of (7)_____ that I played one of them at the school talent show. I was very nervous, but everyone clapped when I finished.\n\nNow, four years (8)_____, I play in a band with my friends. We practise together (9)_____ Saturday afternoon in my friend's garage. Music has become one of the most important things (10)_____ my life. I'm really glad I didn't give (11)_____ when it was difficult. My sister always says that the (12)_____ to learning anything is patience and practice.",
       "correct_answer": "key",
-      "accept_answers": ["key", "secret"]
+      "accept_answers": [
+        "key",
+        "secret"
+      ]
     },
     "explanation_zh": "中文解析：\"the key to learning anything is patience and practice\"意思是\"学习任何东西的关键是耐心和练习\"。\"the key to\"是固定搭配，意思是\"...的关键\"。secret（秘诀）也可以接受。",
     "explanation_en": "English explanation: 'The key to learning anything' means the most important factor for learning. 'Key' is commonly used in 'the key to + noun/gerund.' 'Secret' is also acceptable as 'the secret to learning' has a similar meaning.",
@@ -214,7 +244,9 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "My First Cooking Experience\n\nLast summer, I decided to learn how to cook. My mother, (1)_____ is an excellent cook, agreed to give me lessons. She told me that the most important thing was to follow the recipe carefully and not (2)_____ be afraid of making mistakes.\n\nWe started with something simple — pasta with tomato sauce. I had to chop the onions and tomatoes (3)_____ small pieces. It took me a long time because I was being very careful with the knife. Then we fried the onions in a little oil until they (4)_____ soft. After that, we added the tomatoes and let the sauce cook for about twenty minutes.",
       "correct_answer": "who",
-      "accept_answers": ["who"]
+      "accept_answers": [
+        "who"
+      ]
     },
     "explanation_zh": "中文解析：\"My mother, who is an excellent cook\"中who引导非限制性定语从句，修饰mother（人）。逗号后的who提供关于母亲的补充信息——她是一位优秀的厨师。",
     "explanation_en": "English explanation: 'Who' introduces a non-defining relative clause giving extra information about 'my mother' (a person). The comma before 'who' indicates this is additional, non-essential information about her cooking skills.",
@@ -231,7 +263,9 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "My First Cooking Experience\n\nLast summer, I decided to learn how to cook. My mother, (1)_____ is an excellent cook, agreed to give me lessons. She told me that the most important thing was to follow the recipe carefully and not (2)_____ be afraid of making mistakes.\n\nWe started with something simple — pasta with tomato sauce. I had to chop the onions and tomatoes (3)_____ small pieces. It took me a long time because I was being very careful with the knife. Then we fried the onions in a little oil until they (4)_____ soft. After that, we added the tomatoes and let the sauce cook for about twenty minutes.",
       "correct_answer": "to",
-      "accept_answers": ["to"]
+      "accept_answers": [
+        "to"
+      ]
     },
     "explanation_zh": "中文解析：\"not to be afraid\"中to是不定式标记。在\"told me...and not to be afraid\"的结构中，not to be是与前面的to follow并列的不定式结构。\"not to be afraid of making mistakes\"意思是\"不要害怕犯错\"。",
     "explanation_en": "English explanation: 'Not to be afraid' uses the infinitive marker 'to.' This is parallel with 'to follow the recipe' — she told me to follow the recipe and not to be afraid of mistakes. The infinitive 'to' is required before 'be' in this structure.",
@@ -248,7 +282,9 @@
       "stem": "Read the text below and write the missing word on each line. Write ONE word only in each gap.",
       "passage": "My First Cooking Experience\n\nLast summer, I decided to learn how to cook. My mother, (1)_____ is an excellent cook, agreed to give me lessons. She told me that the most important thing was to follow the recipe carefully and not (2)_____ be afraid of making mistakes.\n\nWe started with something simple — pasta with tomato sauce. I had to chop the onions and tomatoes (3)_____ small pieces. It took me a long time because I was being very careful with the knife. Then we fried the onions in a little oil until they (4)_____ soft. After that, we added the tomatoes and let the sauce cook for about twenty minutes.",
       "correct_answer": "into",
-      "accept_answers": ["into"]
+      "accept_answers": [
+        "into"
+      ]
     },
     "explanation_zh": "中文解析：\"chop...into small pieces\"意思是\"切成小块\"。into表示变化或转换的结果，把洋葱和番茄切成小块。这是\"cut/chop + into + pieces\"的固定搭配。",
     "explanation_en": "English explanation: 'Chop the onions and tomatoes into small pieces' uses 'into' to show the result of cutting — transforming whole vegetables into pieces. 'Into' is the standard preposition used with 'chop/cut' to indicate the resulting form or size.",

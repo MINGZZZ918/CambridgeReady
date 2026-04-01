@@ -10,16 +10,28 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 1:",
       "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
       "options": [
-        { "label": "A", "text": "goes" },
-        { "label": "B", "text": "comes" },
-        { "label": "C", "text": "takes" },
-        { "label": "D", "text": "gets" }
+        {
+          "label": "A",
+          "text": "goes"
+        },
+        {
+          "label": "B",
+          "text": "comes"
+        },
+        {
+          "label": "C",
+          "text": "takes"
+        },
+        {
+          "label": "D",
+          "text": "gets"
+        }
       ],
       "correct_answer": "B"
     },
     "explanation_zh": "中文解析：\"comes from\"是固定搭配，意思是\"来自\"。巧克力来自可可树。其他动词不能与from搭配表达\"来源于\"的意思。",
     "explanation_en": "English explanation: 'Comes from' is the correct collocation meaning 'originates from.' Chocolate comes from the cacao tree. 'Goes from,' 'takes from,' and 'gets from' don't have this meaning.",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "pet-r4-002",
@@ -32,10 +44,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 2:",
       "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
       "options": [
-        { "label": "A", "text": "use" },
-        { "label": "B", "text": "put" },
-        { "label": "C", "text": "have" },
-        { "label": "D", "text": "make" }
+        {
+          "label": "A",
+          "text": "use"
+        },
+        {
+          "label": "B",
+          "text": "put"
+        },
+        {
+          "label": "C",
+          "text": "have"
+        },
+        {
+          "label": "D",
+          "text": "make"
+        }
       ],
       "correct_answer": "A"
     },
@@ -54,10 +78,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 3:",
       "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
       "options": [
-        { "label": "A", "text": "let" },
-        { "label": "B", "text": "got" },
-        { "label": "C", "text": "made" },
-        { "label": "D", "text": "had" }
+        {
+          "label": "A",
+          "text": "let"
+        },
+        {
+          "label": "B",
+          "text": "got"
+        },
+        {
+          "label": "C",
+          "text": "made"
+        },
+        {
+          "label": "D",
+          "text": "had"
+        }
       ],
       "correct_answer": "C"
     },
@@ -76,10 +112,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 4:",
       "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
       "options": [
-        { "label": "A", "text": "carried" },
-        { "label": "B", "text": "fetched" },
-        { "label": "C", "text": "brought" },
-        { "label": "D", "text": "delivered" }
+        {
+          "label": "A",
+          "text": "carried"
+        },
+        {
+          "label": "B",
+          "text": "fetched"
+        },
+        {
+          "label": "C",
+          "text": "brought"
+        },
+        {
+          "label": "D",
+          "text": "delivered"
+        }
       ],
       "correct_answer": "C"
     },
@@ -98,10 +146,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 5:",
       "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
       "options": [
-        { "label": "A", "text": "so" },
-        { "label": "B", "text": "but" },
-        { "label": "C", "text": "because" },
-        { "label": "D", "text": "although" }
+        {
+          "label": "A",
+          "text": "so"
+        },
+        {
+          "label": "B",
+          "text": "but"
+        },
+        {
+          "label": "C",
+          "text": "because"
+        },
+        {
+          "label": "D",
+          "text": "although"
+        }
       ],
       "correct_answer": "A"
     },
@@ -120,10 +180,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 6:",
       "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
       "options": [
-        { "label": "A", "text": "between" },
-        { "label": "B", "text": "among" },
-        { "label": "C", "text": "for" },
-        { "label": "D", "text": "with" }
+        {
+          "label": "A",
+          "text": "between"
+        },
+        {
+          "label": "B",
+          "text": "among"
+        },
+        {
+          "label": "C",
+          "text": "for"
+        },
+        {
+          "label": "D",
+          "text": "with"
+        }
       ],
       "correct_answer": "B"
     },
@@ -142,10 +214,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 7:",
       "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
       "options": [
-        { "label": "A", "text": "after" },
-        { "label": "B", "text": "from" },
-        { "label": "C", "text": "since" },
-        { "label": "D", "text": "until" }
+        {
+          "label": "A",
+          "text": "after"
+        },
+        {
+          "label": "B",
+          "text": "from"
+        },
+        {
+          "label": "C",
+          "text": "since"
+        },
+        {
+          "label": "D",
+          "text": "until"
+        }
       ],
       "correct_answer": "D"
     },
@@ -164,10 +248,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 8:",
       "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
       "options": [
-        { "label": "A", "text": "invented" },
-        { "label": "B", "text": "discovered" },
-        { "label": "C", "text": "looked" },
-        { "label": "D", "text": "searched" }
+        {
+          "label": "A",
+          "text": "invented"
+        },
+        {
+          "label": "B",
+          "text": "discovered"
+        },
+        {
+          "label": "C",
+          "text": "looked"
+        },
+        {
+          "label": "D",
+          "text": "searched"
+        }
       ],
       "correct_answer": "B"
     },
@@ -186,10 +282,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 9:",
       "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
       "options": [
-        { "label": "A", "text": "plates" },
-        { "label": "B", "text": "treats" },
-        { "label": "C", "text": "meals" },
-        { "label": "D", "text": "courses" }
+        {
+          "label": "A",
+          "text": "plates"
+        },
+        {
+          "label": "B",
+          "text": "treats"
+        },
+        {
+          "label": "C",
+          "text": "meals"
+        },
+        {
+          "label": "D",
+          "text": "courses"
+        }
       ],
       "correct_answer": "B"
     },
@@ -208,10 +316,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 10:",
       "passage": "The History of Chocolate\n\nChocolate is one of the most popular foods in the world, but few people know about its long and interesting history. Chocolate (1)_____ from the cacao tree, which originally grew in Central and South America. The ancient Maya and Aztec people were the first to (2)_____ cacao beans to make a bitter drink. They believed this drink gave them energy and (3)_____ them feel strong.\n\nWhen Spanish explorers arrived in the Americas in the 16th century, they (4)_____ cacao beans back to Europe. At first, Europeans didn't like the bitter taste, (5)_____ they added sugar and honey to make it sweeter. Chocolate quickly became a fashionable drink (6)_____ wealthy Europeans.\n\nIt wasn't (7)_____ the 19th century that people learned how to make solid chocolate bars. A Swiss chocolatier (8)_____ a way to add milk to chocolate, creating the smooth, creamy taste we know today. Since then, chocolate has become one of the world's favourite (9)_____, enjoyed by millions of people (10)_____ day.",
       "options": [
-        { "label": "A", "text": "this" },
-        { "label": "B", "text": "all" },
-        { "label": "C", "text": "every" },
-        { "label": "D", "text": "each" }
+        {
+          "label": "A",
+          "text": "this"
+        },
+        {
+          "label": "B",
+          "text": "all"
+        },
+        {
+          "label": "C",
+          "text": "every"
+        },
+        {
+          "label": "D",
+          "text": "each"
+        }
       ],
       "correct_answer": "C"
     },
@@ -230,10 +350,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 1:",
       "passage": "The Importance of Sleep\n\nMost teenagers need between eight and ten hours of sleep each night, but many of them (1)_____ far less than this. There are several reasons why young people today find it hard to get enough rest.\n\nOne of the biggest problems is the use of electronic devices. Many teenagers spend the hours (2)_____ bedtime looking at their phones or tablets. The bright light from these screens (3)_____ it harder for the brain to prepare for sleep. Experts recommend turning off all devices at (4)_____ an hour before going to bed.\n\nAnother issue is that some teenagers drink too (5)_____ coffee or energy drinks during the day. These drinks contain caffeine, which keeps the body awake. It is much better to drink water or juice instead.",
       "options": [
-        { "label": "A", "text": "take" },
-        { "label": "B", "text": "get" },
-        { "label": "C", "text": "do" },
-        { "label": "D", "text": "have" }
+        {
+          "label": "A",
+          "text": "take"
+        },
+        {
+          "label": "B",
+          "text": "get"
+        },
+        {
+          "label": "C",
+          "text": "do"
+        },
+        {
+          "label": "D",
+          "text": "have"
+        }
       ],
       "correct_answer": "B"
     },
@@ -252,10 +384,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 2:",
       "passage": "The Importance of Sleep\n\nMost teenagers need between eight and ten hours of sleep each night, but many of them (1)_____ far less than this. There are several reasons why young people today find it hard to get enough rest.\n\nOne of the biggest problems is the use of electronic devices. Many teenagers spend the hours (2)_____ bedtime looking at their phones or tablets. The bright light from these screens (3)_____ it harder for the brain to prepare for sleep. Experts recommend turning off all devices at (4)_____ an hour before going to bed.\n\nAnother issue is that some teenagers drink too (5)_____ coffee or energy drinks during the day. These drinks contain caffeine, which keeps the body awake. It is much better to drink water or juice instead.",
       "options": [
-        { "label": "A", "text": "after" },
-        { "label": "B", "text": "until" },
-        { "label": "C", "text": "before" },
-        { "label": "D", "text": "during" }
+        {
+          "label": "A",
+          "text": "after"
+        },
+        {
+          "label": "B",
+          "text": "until"
+        },
+        {
+          "label": "C",
+          "text": "before"
+        },
+        {
+          "label": "D",
+          "text": "during"
+        }
       ],
       "correct_answer": "C"
     },
@@ -274,10 +418,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 3:",
       "passage": "The Importance of Sleep\n\nMost teenagers need between eight and ten hours of sleep each night, but many of them (1)_____ far less than this. There are several reasons why young people today find it hard to get enough rest.\n\nOne of the biggest problems is the use of electronic devices. Many teenagers spend the hours (2)_____ bedtime looking at their phones or tablets. The bright light from these screens (3)_____ it harder for the brain to prepare for sleep. Experts recommend turning off all devices at (4)_____ an hour before going to bed.\n\nAnother issue is that some teenagers drink too (5)_____ coffee or energy drinks during the day. These drinks contain caffeine, which keeps the body awake. It is much better to drink water or juice instead.",
       "options": [
-        { "label": "A", "text": "gets" },
-        { "label": "B", "text": "does" },
-        { "label": "C", "text": "makes" },
-        { "label": "D", "text": "puts" }
+        {
+          "label": "A",
+          "text": "gets"
+        },
+        {
+          "label": "B",
+          "text": "does"
+        },
+        {
+          "label": "C",
+          "text": "makes"
+        },
+        {
+          "label": "D",
+          "text": "puts"
+        }
       ],
       "correct_answer": "C"
     },
@@ -296,10 +452,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 4:",
       "passage": "The Importance of Sleep\n\nMost teenagers need between eight and ten hours of sleep each night, but many of them (1)_____ far less than this. There are several reasons why young people today find it hard to get enough rest.\n\nOne of the biggest problems is the use of electronic devices. Many teenagers spend the hours (2)_____ bedtime looking at their phones or tablets. The bright light from these screens (3)_____ it harder for the brain to prepare for sleep. Experts recommend turning off all devices at (4)_____ an hour before going to bed.\n\nAnother issue is that some teenagers drink too (5)_____ coffee or energy drinks during the day. These drinks contain caffeine, which keeps the body awake. It is much better to drink water or juice instead.",
       "options": [
-        { "label": "A", "text": "last" },
-        { "label": "B", "text": "least" },
-        { "label": "C", "text": "less" },
-        { "label": "D", "text": "fewest" }
+        {
+          "label": "A",
+          "text": "last"
+        },
+        {
+          "label": "B",
+          "text": "least"
+        },
+        {
+          "label": "C",
+          "text": "less"
+        },
+        {
+          "label": "D",
+          "text": "fewest"
+        }
       ],
       "correct_answer": "B"
     },
@@ -318,10 +486,22 @@
       "stem": "Read the text and choose the correct word for each gap.\n\nGap 5:",
       "passage": "The Importance of Sleep\n\nMost teenagers need between eight and ten hours of sleep each night, but many of them (1)_____ far less than this. There are several reasons why young people today find it hard to get enough rest.\n\nOne of the biggest problems is the use of electronic devices. Many teenagers spend the hours (2)_____ bedtime looking at their phones or tablets. The bright light from these screens (3)_____ it harder for the brain to prepare for sleep. Experts recommend turning off all devices at (4)_____ an hour before going to bed.\n\nAnother issue is that some teenagers drink too (5)_____ coffee or energy drinks during the day. These drinks contain caffeine, which keeps the body awake. It is much better to drink water or juice instead.",
       "options": [
-        { "label": "A", "text": "many" },
-        { "label": "B", "text": "more" },
-        { "label": "C", "text": "much" },
-        { "label": "D", "text": "few" }
+        {
+          "label": "A",
+          "text": "many"
+        },
+        {
+          "label": "B",
+          "text": "more"
+        },
+        {
+          "label": "C",
+          "text": "much"
+        },
+        {
+          "label": "D",
+          "text": "few"
+        }
       ],
       "correct_answer": "C"
     },

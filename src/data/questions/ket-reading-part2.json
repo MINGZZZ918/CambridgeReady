@@ -10,20 +10,44 @@
       "stem": "Maria wants to learn to cook simple meals at the weekend.",
       "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
       "options": [
-        { "label": "A", "text": "Green Park Sports Centre" },
-        { "label": "B", "text": "City Cooking School" },
-        { "label": "C", "text": "Sunshine Dance Studio" },
-        { "label": "D", "text": "Happy Readers Book Club" },
-        { "label": "E", "text": "Star Music Academy" },
-        { "label": "F", "text": "Little Artists Workshop" },
-        { "label": "G", "text": "Tech Kids Club" },
-        { "label": "H", "text": "Riverside Swimming Pool" }
+        {
+          "label": "A",
+          "text": "Green Park Sports Centre"
+        },
+        {
+          "label": "B",
+          "text": "City Cooking School"
+        },
+        {
+          "label": "C",
+          "text": "Sunshine Dance Studio"
+        },
+        {
+          "label": "D",
+          "text": "Happy Readers Book Club"
+        },
+        {
+          "label": "E",
+          "text": "Star Music Academy"
+        },
+        {
+          "label": "F",
+          "text": "Little Artists Workshop"
+        },
+        {
+          "label": "G",
+          "text": "Tech Kids Club"
+        },
+        {
+          "label": "H",
+          "text": "Riverside Swimming Pool"
+        }
       ],
       "correct_answer": "B"
     },
     "explanation_zh": "中文解析：Maria想在周末学做简单的饭菜。选项B——城市烹饪学校，周末为初学者开设课程，两小时学会做简单健康的饭菜。完全符合Maria的需求。",
     "explanation_en": "English explanation: Maria wants to learn to cook simple meals at the weekend. Option B — City Cooking School — offers weekend classes for beginners to learn easy, healthy meals. This matches exactly what Maria is looking for.",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "ket-r2-002",
@@ -36,14 +60,38 @@
       "stem": "Tom is 10 years old and wants to do something active on Saturdays.",
       "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
       "options": [
-        { "label": "A", "text": "Green Park Sports Centre" },
-        { "label": "B", "text": "City Cooking School" },
-        { "label": "C", "text": "Sunshine Dance Studio" },
-        { "label": "D", "text": "Happy Readers Book Club" },
-        { "label": "E", "text": "Star Music Academy" },
-        { "label": "F", "text": "Little Artists Workshop" },
-        { "label": "G", "text": "Tech Kids Club" },
-        { "label": "H", "text": "Riverside Swimming Pool" }
+        {
+          "label": "A",
+          "text": "Green Park Sports Centre"
+        },
+        {
+          "label": "B",
+          "text": "City Cooking School"
+        },
+        {
+          "label": "C",
+          "text": "Sunshine Dance Studio"
+        },
+        {
+          "label": "D",
+          "text": "Happy Readers Book Club"
+        },
+        {
+          "label": "E",
+          "text": "Star Music Academy"
+        },
+        {
+          "label": "F",
+          "text": "Little Artists Workshop"
+        },
+        {
+          "label": "G",
+          "text": "Tech Kids Club"
+        },
+        {
+          "label": "H",
+          "text": "Riverside Swimming Pool"
+        }
       ],
       "correct_answer": "C"
     },
@@ -62,14 +110,38 @@
       "stem": "Lisa enjoys reading and wants to meet other people who like books.",
       "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
       "options": [
-        { "label": "A", "text": "Green Park Sports Centre" },
-        { "label": "B", "text": "City Cooking School" },
-        { "label": "C", "text": "Sunshine Dance Studio" },
-        { "label": "D", "text": "Happy Readers Book Club" },
-        { "label": "E", "text": "Star Music Academy" },
-        { "label": "F", "text": "Little Artists Workshop" },
-        { "label": "G", "text": "Tech Kids Club" },
-        { "label": "H", "text": "Riverside Swimming Pool" }
+        {
+          "label": "A",
+          "text": "Green Park Sports Centre"
+        },
+        {
+          "label": "B",
+          "text": "City Cooking School"
+        },
+        {
+          "label": "C",
+          "text": "Sunshine Dance Studio"
+        },
+        {
+          "label": "D",
+          "text": "Happy Readers Book Club"
+        },
+        {
+          "label": "E",
+          "text": "Star Music Academy"
+        },
+        {
+          "label": "F",
+          "text": "Little Artists Workshop"
+        },
+        {
+          "label": "G",
+          "text": "Tech Kids Club"
+        },
+        {
+          "label": "H",
+          "text": "Riverside Swimming Pool"
+        }
       ],
       "correct_answer": "D"
     },
@@ -88,14 +160,38 @@
       "stem": "Jack wants to learn to play a musical instrument after school.",
       "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
       "options": [
-        { "label": "A", "text": "Green Park Sports Centre" },
-        { "label": "B", "text": "City Cooking School" },
-        { "label": "C", "text": "Sunshine Dance Studio" },
-        { "label": "D", "text": "Happy Readers Book Club" },
-        { "label": "E", "text": "Star Music Academy" },
-        { "label": "F", "text": "Little Artists Workshop" },
-        { "label": "G", "text": "Tech Kids Club" },
-        { "label": "H", "text": "Riverside Swimming Pool" }
+        {
+          "label": "A",
+          "text": "Green Park Sports Centre"
+        },
+        {
+          "label": "B",
+          "text": "City Cooking School"
+        },
+        {
+          "label": "C",
+          "text": "Sunshine Dance Studio"
+        },
+        {
+          "label": "D",
+          "text": "Happy Readers Book Club"
+        },
+        {
+          "label": "E",
+          "text": "Star Music Academy"
+        },
+        {
+          "label": "F",
+          "text": "Little Artists Workshop"
+        },
+        {
+          "label": "G",
+          "text": "Tech Kids Club"
+        },
+        {
+          "label": "H",
+          "text": "Riverside Swimming Pool"
+        }
       ],
       "correct_answer": "E"
     },
@@ -114,14 +210,38 @@
       "stem": "Sophie likes art and is free on Saturday afternoons.",
       "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
       "options": [
-        { "label": "A", "text": "Green Park Sports Centre" },
-        { "label": "B", "text": "City Cooking School" },
-        { "label": "C", "text": "Sunshine Dance Studio" },
-        { "label": "D", "text": "Happy Readers Book Club" },
-        { "label": "E", "text": "Star Music Academy" },
-        { "label": "F", "text": "Little Artists Workshop" },
-        { "label": "G", "text": "Tech Kids Club" },
-        { "label": "H", "text": "Riverside Swimming Pool" }
+        {
+          "label": "A",
+          "text": "Green Park Sports Centre"
+        },
+        {
+          "label": "B",
+          "text": "City Cooking School"
+        },
+        {
+          "label": "C",
+          "text": "Sunshine Dance Studio"
+        },
+        {
+          "label": "D",
+          "text": "Happy Readers Book Club"
+        },
+        {
+          "label": "E",
+          "text": "Star Music Academy"
+        },
+        {
+          "label": "F",
+          "text": "Little Artists Workshop"
+        },
+        {
+          "label": "G",
+          "text": "Tech Kids Club"
+        },
+        {
+          "label": "H",
+          "text": "Riverside Swimming Pool"
+        }
       ],
       "correct_answer": "F"
     },
@@ -140,14 +260,38 @@
       "stem": "David wants to learn about computers and the internet during the week.",
       "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
       "options": [
-        { "label": "A", "text": "Green Park Sports Centre" },
-        { "label": "B", "text": "City Cooking School" },
-        { "label": "C", "text": "Sunshine Dance Studio" },
-        { "label": "D", "text": "Happy Readers Book Club" },
-        { "label": "E", "text": "Star Music Academy" },
-        { "label": "F", "text": "Little Artists Workshop" },
-        { "label": "G", "text": "Tech Kids Club" },
-        { "label": "H", "text": "Riverside Swimming Pool" }
+        {
+          "label": "A",
+          "text": "Green Park Sports Centre"
+        },
+        {
+          "label": "B",
+          "text": "City Cooking School"
+        },
+        {
+          "label": "C",
+          "text": "Sunshine Dance Studio"
+        },
+        {
+          "label": "D",
+          "text": "Happy Readers Book Club"
+        },
+        {
+          "label": "E",
+          "text": "Star Music Academy"
+        },
+        {
+          "label": "F",
+          "text": "Little Artists Workshop"
+        },
+        {
+          "label": "G",
+          "text": "Tech Kids Club"
+        },
+        {
+          "label": "H",
+          "text": "Riverside Swimming Pool"
+        }
       ],
       "correct_answer": "G"
     },
@@ -166,14 +310,38 @@
       "stem": "Mr Brown is an adult who wants to exercise early in the morning before work.",
       "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
       "options": [
-        { "label": "A", "text": "Green Park Sports Centre" },
-        { "label": "B", "text": "City Cooking School" },
-        { "label": "C", "text": "Sunshine Dance Studio" },
-        { "label": "D", "text": "Happy Readers Book Club" },
-        { "label": "E", "text": "Star Music Academy" },
-        { "label": "F", "text": "Little Artists Workshop" },
-        { "label": "G", "text": "Tech Kids Club" },
-        { "label": "H", "text": "Riverside Swimming Pool" }
+        {
+          "label": "A",
+          "text": "Green Park Sports Centre"
+        },
+        {
+          "label": "B",
+          "text": "City Cooking School"
+        },
+        {
+          "label": "C",
+          "text": "Sunshine Dance Studio"
+        },
+        {
+          "label": "D",
+          "text": "Happy Readers Book Club"
+        },
+        {
+          "label": "E",
+          "text": "Star Music Academy"
+        },
+        {
+          "label": "F",
+          "text": "Little Artists Workshop"
+        },
+        {
+          "label": "G",
+          "text": "Tech Kids Club"
+        },
+        {
+          "label": "H",
+          "text": "Riverside Swimming Pool"
+        }
       ],
       "correct_answer": "H"
     },
@@ -192,14 +360,38 @@
       "stem": "Anna is 12 years old and wants to try different sports every day.",
       "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
       "options": [
-        { "label": "A", "text": "Green Park Sports Centre" },
-        { "label": "B", "text": "City Cooking School" },
-        { "label": "C", "text": "Sunshine Dance Studio" },
-        { "label": "D", "text": "Happy Readers Book Club" },
-        { "label": "E", "text": "Star Music Academy" },
-        { "label": "F", "text": "Little Artists Workshop" },
-        { "label": "G", "text": "Tech Kids Club" },
-        { "label": "H", "text": "Riverside Swimming Pool" }
+        {
+          "label": "A",
+          "text": "Green Park Sports Centre"
+        },
+        {
+          "label": "B",
+          "text": "City Cooking School"
+        },
+        {
+          "label": "C",
+          "text": "Sunshine Dance Studio"
+        },
+        {
+          "label": "D",
+          "text": "Happy Readers Book Club"
+        },
+        {
+          "label": "E",
+          "text": "Star Music Academy"
+        },
+        {
+          "label": "F",
+          "text": "Little Artists Workshop"
+        },
+        {
+          "label": "G",
+          "text": "Tech Kids Club"
+        },
+        {
+          "label": "H",
+          "text": "Riverside Swimming Pool"
+        }
       ],
       "correct_answer": "A"
     },
@@ -218,14 +410,38 @@
       "stem": "Carlos has never played guitar before and wants to start lessons.",
       "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
       "options": [
-        { "label": "A", "text": "Green Park Sports Centre" },
-        { "label": "B", "text": "City Cooking School" },
-        { "label": "C", "text": "Sunshine Dance Studio" },
-        { "label": "D", "text": "Happy Readers Book Club" },
-        { "label": "E", "text": "Star Music Academy" },
-        { "label": "F", "text": "Little Artists Workshop" },
-        { "label": "G", "text": "Tech Kids Club" },
-        { "label": "H", "text": "Riverside Swimming Pool" }
+        {
+          "label": "A",
+          "text": "Green Park Sports Centre"
+        },
+        {
+          "label": "B",
+          "text": "City Cooking School"
+        },
+        {
+          "label": "C",
+          "text": "Sunshine Dance Studio"
+        },
+        {
+          "label": "D",
+          "text": "Happy Readers Book Club"
+        },
+        {
+          "label": "E",
+          "text": "Star Music Academy"
+        },
+        {
+          "label": "F",
+          "text": "Little Artists Workshop"
+        },
+        {
+          "label": "G",
+          "text": "Tech Kids Club"
+        },
+        {
+          "label": "H",
+          "text": "Riverside Swimming Pool"
+        }
       ],
       "correct_answer": "E"
     },
@@ -244,14 +460,38 @@
       "stem": "Mrs Lee wants to learn to make healthy food. She is only free at the weekend.",
       "passage": "A) Green Park Sports Centre — Tennis, swimming and football for all ages. Open every day 7am–9pm.\nB) City Cooking School — Weekend classes for beginners. Learn to make easy, healthy meals in just two hours.\nC) Sunshine Dance Studio — Modern dance and ballet classes every Saturday morning for children aged 8–14.\nD) Happy Readers Book Club — Meet every Sunday at the library to talk about your favourite books.\nE) Star Music Academy — Guitar and piano lessons after school. All levels welcome.\nF) Little Artists Workshop — Drawing and painting classes for young people on Saturday afternoons.\nG) Tech Kids Club — Learn to build websites and apps. Wednesday and Friday evenings.\nH) Riverside Swimming Pool — Early morning swimming for adults. Open 6am–8am on weekdays.",
       "options": [
-        { "label": "A", "text": "Green Park Sports Centre" },
-        { "label": "B", "text": "City Cooking School" },
-        { "label": "C", "text": "Sunshine Dance Studio" },
-        { "label": "D", "text": "Happy Readers Book Club" },
-        { "label": "E", "text": "Star Music Academy" },
-        { "label": "F", "text": "Little Artists Workshop" },
-        { "label": "G", "text": "Tech Kids Club" },
-        { "label": "H", "text": "Riverside Swimming Pool" }
+        {
+          "label": "A",
+          "text": "Green Park Sports Centre"
+        },
+        {
+          "label": "B",
+          "text": "City Cooking School"
+        },
+        {
+          "label": "C",
+          "text": "Sunshine Dance Studio"
+        },
+        {
+          "label": "D",
+          "text": "Happy Readers Book Club"
+        },
+        {
+          "label": "E",
+          "text": "Star Music Academy"
+        },
+        {
+          "label": "F",
+          "text": "Little Artists Workshop"
+        },
+        {
+          "label": "G",
+          "text": "Tech Kids Club"
+        },
+        {
+          "label": "H",
+          "text": "Riverside Swimming Pool"
+        }
       ],
       "correct_answer": "B"
     },

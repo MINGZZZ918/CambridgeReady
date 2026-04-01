@@ -17,7 +17,7 @@
     },
     "explanation_zh": "这是KET口语第三部分——图片描述。你需要观察一张照片并描述你看到的内容。考官会评估你描述场景、人物和活动的能力。",
     "explanation_en": "This is KET Speaking Part 3 — Picture Description. You need to observe a photograph and describe what you see. The examiner assesses your ability to describe scenes, people, and activities.",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "ket-s3-002",

@@ -10,11 +10,13 @@
       "stem": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
       "passage": "First sentence: 'They cancelled the concert because of the heavy rain.'\nKey word: CALLED\nSecond sentence: 'The concert ______ because of the heavy rain.'",
       "correct_answer": "was called off",
-      "accept_answers": ["was called off"]
+      "accept_answers": [
+        "was called off"
+      ]
     },
     "explanation_zh": "中文解析：原句说'他们因大雨取消了音乐会'，用的是主动语态的'cancelled'。第二句需要用被动语态和短语动词'call off'（取消）来改写。'call off'的被动形式是'was called off'，保持了原句的过去时态和含义。这道题考查的是主动语态到被动语态的转换以及短语动词的掌握。",
     "explanation_en": "English explanation: The original sentence uses 'cancelled' in the active voice. The transformation requires the phrasal verb 'call off' (meaning to cancel) in the passive voice. Since the subject changes to 'The concert' (the thing being cancelled), we need the passive form 'was called off.' This tests knowledge of passive voice transformation and the phrasal verb 'call off.'",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "fce-r4-002",
@@ -27,7 +29,9 @@
       "stem": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
       "passage": "First sentence: 'I haven't seen my cousin for three years.'\nKey word: LAST\nSecond sentence: 'The ______ my cousin was three years ago.'",
       "correct_answer": "last time I saw",
-      "accept_answers": ["last time I saw"]
+      "accept_answers": [
+        "last time I saw"
+      ]
     },
     "explanation_zh": "中文解析：原句用现在完成时表示'我已经三年没见到我表弟了'。第二句需要用'last'这个词来改写，变成'我最后一次见到表弟是三年前'。正确答案是'last time I saw'，使用过去简单时态来表达相同的含义。这道题考查的是现在完成时与过去时之间的转换。",
     "explanation_en": "English explanation: The original sentence uses the present perfect ('haven't seen') with 'for three years' to express duration. The transformation requires restructuring with 'last' to express the same idea differently: 'The last time I saw my cousin was three years ago.' This tests the ability to convert between present perfect (duration) and past simple (point in time) expressions.",
@@ -44,7 +48,9 @@
       "stem": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
       "passage": "First sentence: ''You broke my laptop!' Sarah said to her brother.'\nKey word: ACCUSED\nSecond sentence: 'Sarah ______ her laptop.'",
       "correct_answer": "accused her brother of breaking",
-      "accept_answers": ["accused her brother of breaking"]
+      "accept_answers": [
+        "accused her brother of breaking"
+      ]
     },
     "explanation_zh": "中文解析：原句是直接引语，Sarah对她弟弟说'你弄坏了我的笔记本电脑！'。第二句需要用'accused'转换为间接引语/转述语。'Accuse someone of doing something'（指控某人做了某事）是固定搭配，因此答案是'accused her brother of breaking'。这道题考查的是直接引语到间接引语的转换以及动词搭配。",
     "explanation_en": "English explanation: The original sentence is direct speech where Sarah blames her brother for breaking her laptop. The transformation uses 'accuse' in reported speech. The pattern is 'accuse someone of doing something,' giving us 'accused her brother of breaking.' This tests reported speech transformation and the verb pattern 'accuse + person + of + -ing.'",
@@ -61,7 +67,9 @@
       "stem": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
       "passage": "First sentence: 'It's possible that Emma missed the train.'\nKey word: MAY\nSecond sentence: 'Emma ______ the train.'",
       "correct_answer": "may have missed",
-      "accept_answers": ["may have missed"]
+      "accept_answers": [
+        "may have missed"
+      ]
     },
     "explanation_zh": "中文解析：原句说'Emma可能错过了火车'，用'It's possible that'表达可能性。第二句需要用'may'来表达相同的意思。由于事件发生在过去，需要用'may + have + 过去分词'结构，即'may have missed'。这道题考查的是情态动词表推测的用法，特别是对过去事件的推测。",
     "explanation_en": "English explanation: The original sentence expresses possibility about a past event using 'It's possible that.' The key word 'may' must be used to express the same meaning. Since the event is in the past, we need 'may + have + past participle,' giving us 'may have missed.' This tests the use of modal verbs for speculation about past events.",
@@ -78,7 +86,10 @@
       "stem": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
       "passage": "First sentence: 'I regret not studying harder for the exam.'\nKey word: WISH\nSecond sentence: 'I ______ harder for the exam.'",
       "correct_answer": "wish I had studied",
-      "accept_answers": ["wish I had studied", "wish I'd studied"]
+      "accept_answers": [
+        "wish I had studied",
+        "wish I'd studied"
+      ]
     },
     "explanation_zh": "中文解析：原句说'我后悔没有为考试更努力学习'，用'regret not doing'表达对过去的遗憾。第二句需要用'wish'来改写。'Wish + 过去完成时'用于表达对过去事情的遗憾，因此答案是'wish I had studied'。这道题考查的是虚拟语气中wish的用法，表达对过去的遗憾。",
     "explanation_en": "English explanation: The original sentence expresses regret about a past action using 'regret not doing.' The transformation uses 'wish' to express the same regret. 'Wish + past perfect' is used for regrets about the past, giving us 'wish I had studied.' This tests the third conditional wish structure (wish + past perfect for past regrets).",
@@ -95,7 +106,9 @@
       "stem": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
       "passage": "First sentence: 'The film was so boring that we left before the end.'\nKey word: SUCH\nSecond sentence: 'It was ______ that we left before the end.'",
       "correct_answer": "such a boring film",
-      "accept_answers": ["such a boring film"]
+      "accept_answers": [
+        "such a boring film"
+      ]
     },
     "explanation_zh": "中文解析：原句用'so + 形容词 + that'结构表示'电影太无聊了以至于我们没看完就走了'。第二句需要用'such'来改写。'Such + a/an + 形容词 + 名词 + that'是等价结构，因此答案是'such a boring film'。这道题考查的是so...that和such...that两种结果状语从句结构之间的转换。",
     "explanation_en": "English explanation: The original sentence uses 'so + adjective + that' to express consequence. The transformation requires 'such' to express the same meaning. The pattern changes from 'so + adjective' to 'such + a/an + adjective + noun,' giving us 'such a boring film.' This tests the ability to convert between 'so...that' and 'such...that' structures.",
@@ -112,7 +125,9 @@
       "stem": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
       "passage": "First sentence: 'We couldn't go to the beach because of the storm.'\nKey word: PREVENTED\nSecond sentence: 'The storm ______ to the beach.'",
       "correct_answer": "prevented us from going",
-      "accept_answers": ["prevented us from going"]
+      "accept_answers": [
+        "prevented us from going"
+      ]
     },
     "explanation_zh": "中文解析：原句说'因为暴风雨我们不能去海滩'。第二句需要用'prevented'来改写，主语变为'The storm'。'Prevent someone from doing something'（阻止某人做某事）是固定搭配，因此答案是'prevented us from going'。这道题考查的是因果关系的句式转换以及prevent的搭配用法。",
     "explanation_en": "English explanation: The original sentence expresses that the storm caused an inability to go to the beach. The transformation requires using 'prevented' with the storm as the subject. The pattern is 'prevent + someone + from + -ing,' giving us 'prevented us from going.' This tests the ability to restructure cause-and-effect sentences and knowledge of the verb pattern 'prevent + object + from + gerund.'",
@@ -129,7 +144,10 @@
       "stem": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
       "passage": "First sentence: 'Tom started learning Japanese two years ago.'\nKey word: BEEN\nSecond sentence: 'Tom ______ Japanese for two years.'",
       "correct_answer": "has been learning",
-      "accept_answers": ["has been learning", "has been studying"]
+      "accept_answers": [
+        "has been learning",
+        "has been studying"
+      ]
     },
     "explanation_zh": "中文解析：原句用过去时说'Tom两年前开始学日语'，暗示他现在仍在学习。第二句需要用'been'来改写，表达从过去持续到现在的动作。'Has been learning'是现在完成进行时，用于表示从过去某个时间点开始一直持续到现在的动作。这道题考查的是过去简单时（表示起点）到现在完成进行时（表示持续）的转换。",
     "explanation_en": "English explanation: The original sentence uses the past simple ('started') with a time reference ('two years ago'), implying the action continues to the present. The transformation requires 'been' to form the present perfect continuous 'has been learning,' which expresses an action that began in the past and is still ongoing. This tests the conversion from past simple (indicating a starting point) to present perfect continuous (indicating duration up to now).",
@@ -146,7 +164,10 @@
       "stem": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
       "passage": "First sentence: 'Running a marathon is not as easy as people think.'\nKey word: THAN\nSecond sentence: 'Running a marathon is ______ people think.'",
       "correct_answer": "harder than",
-      "accept_answers": ["harder than", "more difficult than"]
+      "accept_answers": [
+        "harder than",
+        "more difficult than"
+      ]
     },
     "explanation_zh": "中文解析：原句说'跑马拉松不像人们想的那么容易'，用'not as...as'结构。第二句需要用'than'来改写，转换为比较级结构。'Not as easy as' 等于 'harder than'或'more difficult than'，因此答案是'harder than'。这道题考查的是'not as + 形容词 + as'到比较级结构的转换。",
     "explanation_en": "English explanation: The original sentence uses 'not as easy as' to make a comparison. The transformation requires 'than' to express the same idea using a comparative structure. 'Not as easy as' is equivalent to 'harder than' or 'more difficult than,' so the answer is 'harder than.' This tests the ability to convert between 'not as...as' and comparative structures.",
@@ -163,7 +184,9 @@
       "stem": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
       "passage": "First sentence: ''I'm sorry I forgot your birthday,' Mark said to his sister.'\nKey word: APOLOGISED\nSecond sentence: 'Mark ______ his sister's birthday.'",
       "correct_answer": "apologised for forgetting",
-      "accept_answers": ["apologised for forgetting"]
+      "accept_answers": [
+        "apologised for forgetting"
+      ]
     },
     "explanation_zh": "中文解析：原句是直接引语，Mark说'对不起我忘了你的生日'。第二句需要用'apologised'转换为间接引语。'Apologise for doing something'（为做了某事道歉）是固定搭配，因此答案是'apologised for forgetting'。注意这里用动名词forgetting表示已经发生的动作。这道题考查的是直接引语到间接引语的转换以及apologise的搭配用法。",
     "explanation_en": "English explanation: The original sentence is direct speech where Mark apologises for forgetting a birthday. The transformation uses 'apologised' in reported speech. The pattern is 'apologise for + -ing,' giving us 'apologised for forgetting.' The gerund 'forgetting' represents the completed action he is sorry about. This tests reported speech transformation and the verb pattern 'apologise + for + gerund.'",

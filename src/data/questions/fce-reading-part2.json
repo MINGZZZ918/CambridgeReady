@@ -10,19 +10,40 @@
       "stem": "Which sentence has been removed from gap 1?",
       "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
       "options": [
-        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
-        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
-        { "label": "C", "text": "The results exceeded everyone's expectations." },
-        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
-        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
-        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
-        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+        {
+          "label": "A",
+          "text": "She received numerous enquiries from other institutions wanting to adopt similar technology."
+        },
+        {
+          "label": "B",
+          "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester."
+        },
+        {
+          "label": "C",
+          "text": "The results exceeded everyone's expectations."
+        },
+        {
+          "label": "D",
+          "text": "Despite her qualifications, employers told her she lacked practical experience."
+        },
+        {
+          "label": "E",
+          "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision."
+        },
+        {
+          "label": "F",
+          "text": "She remains passionate about inspiring the next generation of engineers."
+        },
+        {
+          "label": "G",
+          "text": "Her parents had hoped she would pursue a career in medicine instead."
+        }
       ],
       "correct_answer": "B"
     },
     "explanation_zh": "中文解析：空格1前面说Maria在小镇长大，周末拆装旧收音机；后面说'正是在那里她第一次接触到机器人技术，加入了一个学生俱乐部'。'那里'显然指的是一所大学。选项B说她18岁获得奖学金去曼彻斯特大学学习电气工程，完美衔接了上下文——从小镇成长到进入大学。",
     "explanation_en": "English explanation: Gap 1 sits between Maria's childhood hobby of taking apart radios and the sentence 'It was there that she first encountered robotics, joining a student club.' The word 'there' must refer to a place — logically a university. Option B fits perfectly: winning a scholarship to study engineering at university connects her childhood interest to discovering robotics through a student club.",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "fce-r2-002",
@@ -35,13 +56,34 @@
       "stem": "Which sentence has been removed from gap 2?",
       "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
       "options": [
-        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
-        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
-        { "label": "C", "text": "The results exceeded everyone's expectations." },
-        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
-        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
-        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
-        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+        {
+          "label": "A",
+          "text": "She received numerous enquiries from other institutions wanting to adopt similar technology."
+        },
+        {
+          "label": "B",
+          "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester."
+        },
+        {
+          "label": "C",
+          "text": "The results exceeded everyone's expectations."
+        },
+        {
+          "label": "D",
+          "text": "Despite her qualifications, employers told her she lacked practical experience."
+        },
+        {
+          "label": "E",
+          "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision."
+        },
+        {
+          "label": "F",
+          "text": "She remains passionate about inspiring the next generation of engineers."
+        },
+        {
+          "label": "G",
+          "text": "Her parents had hoped she would pursue a career in medicine instead."
+        }
       ],
       "correct_answer": "D"
     },
@@ -60,13 +102,34 @@
       "stem": "Which sentence has been removed from gap 3?",
       "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
       "options": [
-        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
-        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
-        { "label": "C", "text": "The results exceeded everyone's expectations." },
-        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
-        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
-        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
-        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+        {
+          "label": "A",
+          "text": "She received numerous enquiries from other institutions wanting to adopt similar technology."
+        },
+        {
+          "label": "B",
+          "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester."
+        },
+        {
+          "label": "C",
+          "text": "The results exceeded everyone's expectations."
+        },
+        {
+          "label": "D",
+          "text": "Despite her qualifications, employers told her she lacked practical experience."
+        },
+        {
+          "label": "E",
+          "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision."
+        },
+        {
+          "label": "F",
+          "text": "She remains passionate about inspiring the next generation of engineers."
+        },
+        {
+          "label": "G",
+          "text": "Her parents had hoped she would pursue a career in medicine instead."
+        }
       ],
       "correct_answer": "E"
     },
@@ -85,13 +148,34 @@
       "stem": "Which sentence has been removed from gap 4?",
       "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
       "options": [
-        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
-        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
-        { "label": "C", "text": "The results exceeded everyone's expectations." },
-        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
-        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
-        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
-        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+        {
+          "label": "A",
+          "text": "She received numerous enquiries from other institutions wanting to adopt similar technology."
+        },
+        {
+          "label": "B",
+          "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester."
+        },
+        {
+          "label": "C",
+          "text": "The results exceeded everyone's expectations."
+        },
+        {
+          "label": "D",
+          "text": "Despite her qualifications, employers told her she lacked practical experience."
+        },
+        {
+          "label": "E",
+          "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision."
+        },
+        {
+          "label": "F",
+          "text": "She remains passionate about inspiring the next generation of engineers."
+        },
+        {
+          "label": "G",
+          "text": "Her parents had hoped she would pursue a career in medicine instead."
+        }
       ],
       "correct_answer": "C"
     },
@@ -110,13 +194,34 @@
       "stem": "Which sentence has been removed from gap 5?",
       "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
       "options": [
-        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
-        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
-        { "label": "C", "text": "The results exceeded everyone's expectations." },
-        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
-        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
-        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
-        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+        {
+          "label": "A",
+          "text": "She received numerous enquiries from other institutions wanting to adopt similar technology."
+        },
+        {
+          "label": "B",
+          "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester."
+        },
+        {
+          "label": "C",
+          "text": "The results exceeded everyone's expectations."
+        },
+        {
+          "label": "D",
+          "text": "Despite her qualifications, employers told her she lacked practical experience."
+        },
+        {
+          "label": "E",
+          "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision."
+        },
+        {
+          "label": "F",
+          "text": "She remains passionate about inspiring the next generation of engineers."
+        },
+        {
+          "label": "G",
+          "text": "Her parents had hoped she would pursue a career in medicine instead."
+        }
       ],
       "correct_answer": "A"
     },
@@ -135,13 +240,34 @@
       "stem": "Which sentence has been removed from gap 6?",
       "passage": "Maria Chen: From Lab Assistant to Leading Robotics Engineer\n\nMaria Chen always knew she wanted to work with technology. Growing up in a small town in northern England, she spent her weekends taking apart old radios and reassembling them, much to her parents' frustration. [GAP 1] It was there that she first encountered robotics, joining a student club that built simple automated machines.\n\nAfter graduating with a first-class degree, Maria struggled to find work in her chosen field. [GAP 2] Rather than giving up, she took a position as a laboratory assistant at a medical research facility, where her job was to maintain and calibrate equipment.\n\nIt was during this period that Maria had the idea that would define her career. [GAP 3] She realised that many of the repetitive tasks carried out by researchers could be performed more accurately by robotic systems. Working in her spare time, she designed a prototype for an automated sample-handling device.\n\nHer supervisor was initially sceptical but agreed to let Maria test the device in the lab. [GAP 4] Within six months, the lab's output had increased by forty percent, and error rates had dropped significantly.\n\nNews of Maria's invention spread quickly through the research community. [GAP 5] She was offered a position at one of the country's leading technology firms, where she now heads a team of thirty engineers developing robotic systems for hospitals and laboratories.\n\nToday, Maria's devices are used in over two hundred facilities worldwide. [GAP 6] She frequently visits schools to encourage young people — especially girls — to consider careers in engineering, telling them that curiosity and persistence matter more than having the perfect qualifications.\n\nRemoved sentences:\nA. She received numerous enquiries from other institutions wanting to adopt similar technology.\nB. At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester.\nC. The results exceeded everyone's expectations.\nD. Despite her qualifications, employers told her she lacked practical experience.\nE. She noticed that scientists often spent hours on tasks that were monotonous but required great precision.\nF. She remains passionate about inspiring the next generation of engineers.\nG. Her parents had hoped she would pursue a career in medicine instead.",
       "options": [
-        { "label": "A", "text": "She received numerous enquiries from other institutions wanting to adopt similar technology." },
-        { "label": "B", "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester." },
-        { "label": "C", "text": "The results exceeded everyone's expectations." },
-        { "label": "D", "text": "Despite her qualifications, employers told her she lacked practical experience." },
-        { "label": "E", "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision." },
-        { "label": "F", "text": "She remains passionate about inspiring the next generation of engineers." },
-        { "label": "G", "text": "Her parents had hoped she would pursue a career in medicine instead." }
+        {
+          "label": "A",
+          "text": "She received numerous enquiries from other institutions wanting to adopt similar technology."
+        },
+        {
+          "label": "B",
+          "text": "At the age of eighteen, she won a scholarship to study electrical engineering at the University of Manchester."
+        },
+        {
+          "label": "C",
+          "text": "The results exceeded everyone's expectations."
+        },
+        {
+          "label": "D",
+          "text": "Despite her qualifications, employers told her she lacked practical experience."
+        },
+        {
+          "label": "E",
+          "text": "She noticed that scientists often spent hours on tasks that were monotonous but required great precision."
+        },
+        {
+          "label": "F",
+          "text": "She remains passionate about inspiring the next generation of engineers."
+        },
+        {
+          "label": "G",
+          "text": "Her parents had hoped she would pursue a career in medicine instead."
+        }
       ],
       "correct_answer": "F"
     },
@@ -160,13 +286,34 @@
       "stem": "Which sentence has been removed from gap 1?",
       "passage": "The Art of Restoring Old Buildings\n\nWhen architect James Thornton first visited the abandoned textile mill on the outskirts of Leeds, he saw potential where others saw only decay. The roof had partially collapsed, the windows were shattered, and weeds had forced their way through cracks in the floor. [GAP 1] He immediately began sketching plans to transform the derelict structure into a community arts centre.\n\nThe project was not without its challenges. [GAP 2] Local planning regulations required that the building's Victorian facade be preserved exactly as it was, which meant that all structural improvements had to be carried out from the inside. This added considerably to the cost and complexity of the work.\n\nJames assembled a team of specialists, including stonemasons who understood traditional building techniques. [GAP 3] Modern materials were used only where they would be invisible from the outside, ensuring that the building's historical character remained intact.\n\nAfter eighteen months of painstaking work, the mill reopened to widespread acclaim. [GAP 4] The interior had been completely reimagined, with soaring open-plan spaces flooded with natural light, while the exterior looked much as it had when the mill was first built in 1867.\n\nThe project has since won several architectural awards. [GAP 5] James has been invited to consult on similar restoration projects across the country, and the mill itself has become a model for how industrial heritage can be given new life.\n\nFor James, the greatest reward is seeing the building in daily use. [GAP 6] 'Every time I walk through the door, I'm reminded that the best architecture isn't about creating something entirely new — it's about understanding what's already there and bringing out its potential,' he says.\n\nRemoved sentences:\nA. Yet beneath the surface damage, the original stonework and iron framework were remarkably sound.\nB. He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve.\nC. Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation.\nD. Their expertise proved invaluable in repairing the original brickwork without compromising its appearance.\nE. Perhaps the most significant obstacle was balancing modern safety standards with historical preservation.\nF. It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it.\nG. The original architect had envisioned the building as a symbol of the town's industrial prosperity.",
       "options": [
-        { "label": "A", "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound." },
-        { "label": "B", "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve." },
-        { "label": "C", "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation." },
-        { "label": "D", "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance." },
-        { "label": "E", "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation." },
-        { "label": "F", "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it." },
-        { "label": "G", "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity." }
+        {
+          "label": "A",
+          "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound."
+        },
+        {
+          "label": "B",
+          "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve."
+        },
+        {
+          "label": "C",
+          "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation."
+        },
+        {
+          "label": "D",
+          "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance."
+        },
+        {
+          "label": "E",
+          "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation."
+        },
+        {
+          "label": "F",
+          "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it."
+        },
+        {
+          "label": "G",
+          "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity."
+        }
       ],
       "correct_answer": "A"
     },
@@ -185,13 +332,34 @@
       "stem": "Which sentence has been removed from gap 3?",
       "passage": "The Art of Restoring Old Buildings\n\nWhen architect James Thornton first visited the abandoned textile mill on the outskirts of Leeds, he saw potential where others saw only decay. The roof had partially collapsed, the windows were shattered, and weeds had forced their way through cracks in the floor. [GAP 1] He immediately began sketching plans to transform the derelict structure into a community arts centre.\n\nThe project was not without its challenges. [GAP 2] Local planning regulations required that the building's Victorian facade be preserved exactly as it was, which meant that all structural improvements had to be carried out from the inside. This added considerably to the cost and complexity of the work.\n\nJames assembled a team of specialists, including stonemasons who understood traditional building techniques. [GAP 3] Modern materials were used only where they would be invisible from the outside, ensuring that the building's historical character remained intact.\n\nAfter eighteen months of painstaking work, the mill reopened to widespread acclaim. [GAP 4] The interior had been completely reimagined, with soaring open-plan spaces flooded with natural light, while the exterior looked much as it had when the mill was first built in 1867.\n\nThe project has since won several architectural awards. [GAP 5] James has been invited to consult on similar restoration projects across the country, and the mill itself has become a model for how industrial heritage can be given new life.\n\nFor James, the greatest reward is seeing the building in daily use. [GAP 6] 'Every time I walk through the door, I'm reminded that the best architecture isn't about creating something entirely new — it's about understanding what's already there and bringing out its potential,' he says.\n\nRemoved sentences:\nA. Yet beneath the surface damage, the original stonework and iron framework were remarkably sound.\nB. He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve.\nC. Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation.\nD. Their expertise proved invaluable in repairing the original brickwork without compromising its appearance.\nE. Perhaps the most significant obstacle was balancing modern safety standards with historical preservation.\nF. It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it.\nG. The original architect had envisioned the building as a symbol of the town's industrial prosperity.",
       "options": [
-        { "label": "A", "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound." },
-        { "label": "B", "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve." },
-        { "label": "C", "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation." },
-        { "label": "D", "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance." },
-        { "label": "E", "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation." },
-        { "label": "F", "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it." },
-        { "label": "G", "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity." }
+        {
+          "label": "A",
+          "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound."
+        },
+        {
+          "label": "B",
+          "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve."
+        },
+        {
+          "label": "C",
+          "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation."
+        },
+        {
+          "label": "D",
+          "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance."
+        },
+        {
+          "label": "E",
+          "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation."
+        },
+        {
+          "label": "F",
+          "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it."
+        },
+        {
+          "label": "G",
+          "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity."
+        }
       ],
       "correct_answer": "D"
     },
@@ -210,13 +378,34 @@
       "stem": "Which sentence has been removed from gap 5?",
       "passage": "The Art of Restoring Old Buildings\n\nWhen architect James Thornton first visited the abandoned textile mill on the outskirts of Leeds, he saw potential where others saw only decay. The roof had partially collapsed, the windows were shattered, and weeds had forced their way through cracks in the floor. [GAP 1] He immediately began sketching plans to transform the derelict structure into a community arts centre.\n\nThe project was not without its challenges. [GAP 2] Local planning regulations required that the building's Victorian facade be preserved exactly as it was, which meant that all structural improvements had to be carried out from the inside. This added considerably to the cost and complexity of the work.\n\nJames assembled a team of specialists, including stonemasons who understood traditional building techniques. [GAP 3] Modern materials were used only where they would be invisible from the outside, ensuring that the building's historical character remained intact.\n\nAfter eighteen months of painstaking work, the mill reopened to widespread acclaim. [GAP 4] The interior had been completely reimagined, with soaring open-plan spaces flooded with natural light, while the exterior looked much as it had when the mill was first built in 1867.\n\nThe project has since won several architectural awards. [GAP 5] James has been invited to consult on similar restoration projects across the country, and the mill itself has become a model for how industrial heritage can be given new life.\n\nFor James, the greatest reward is seeing the building in daily use. [GAP 6] 'Every time I walk through the door, I'm reminded that the best architecture isn't about creating something entirely new — it's about understanding what's already there and bringing out its potential,' he says.\n\nRemoved sentences:\nA. Yet beneath the surface damage, the original stonework and iron framework were remarkably sound.\nB. He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve.\nC. Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation.\nD. Their expertise proved invaluable in repairing the original brickwork without compromising its appearance.\nE. Perhaps the most significant obstacle was balancing modern safety standards with historical preservation.\nF. It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it.\nG. The original architect had envisioned the building as a symbol of the town's industrial prosperity.",
       "options": [
-        { "label": "A", "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound." },
-        { "label": "B", "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve." },
-        { "label": "C", "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation." },
-        { "label": "D", "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance." },
-        { "label": "E", "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation." },
-        { "label": "F", "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it." },
-        { "label": "G", "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity." }
+        {
+          "label": "A",
+          "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound."
+        },
+        {
+          "label": "B",
+          "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve."
+        },
+        {
+          "label": "C",
+          "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation."
+        },
+        {
+          "label": "D",
+          "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance."
+        },
+        {
+          "label": "E",
+          "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation."
+        },
+        {
+          "label": "F",
+          "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it."
+        },
+        {
+          "label": "G",
+          "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity."
+        }
       ],
       "correct_answer": "F"
     },
@@ -235,13 +424,34 @@
       "stem": "Which sentence has been removed from gap 6?",
       "passage": "The Art of Restoring Old Buildings\n\nWhen architect James Thornton first visited the abandoned textile mill on the outskirts of Leeds, he saw potential where others saw only decay. The roof had partially collapsed, the windows were shattered, and weeds had forced their way through cracks in the floor. [GAP 1] He immediately began sketching plans to transform the derelict structure into a community arts centre.\n\nThe project was not without its challenges. [GAP 2] Local planning regulations required that the building's Victorian facade be preserved exactly as it was, which meant that all structural improvements had to be carried out from the inside. This added considerably to the cost and complexity of the work.\n\nJames assembled a team of specialists, including stonemasons who understood traditional building techniques. [GAP 3] Modern materials were used only where they would be invisible from the outside, ensuring that the building's historical character remained intact.\n\nAfter eighteen months of painstaking work, the mill reopened to widespread acclaim. [GAP 4] The interior had been completely reimagined, with soaring open-plan spaces flooded with natural light, while the exterior looked much as it had when the mill was first built in 1867.\n\nThe project has since won several architectural awards. [GAP 5] James has been invited to consult on similar restoration projects across the country, and the mill itself has become a model for how industrial heritage can be given new life.\n\nFor James, the greatest reward is seeing the building in daily use. [GAP 6] 'Every time I walk through the door, I'm reminded that the best architecture isn't about creating something entirely new — it's about understanding what's already there and bringing out its potential,' he says.\n\nRemoved sentences:\nA. Yet beneath the surface damage, the original stonework and iron framework were remarkably sound.\nB. He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve.\nC. Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation.\nD. Their expertise proved invaluable in repairing the original brickwork without compromising its appearance.\nE. Perhaps the most significant obstacle was balancing modern safety standards with historical preservation.\nF. It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it.\nG. The original architect had envisioned the building as a symbol of the town's industrial prosperity.",
       "options": [
-        { "label": "A", "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound." },
-        { "label": "B", "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve." },
-        { "label": "C", "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation." },
-        { "label": "D", "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance." },
-        { "label": "E", "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation." },
-        { "label": "F", "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it." },
-        { "label": "G", "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity." }
+        {
+          "label": "A",
+          "text": "Yet beneath the surface damage, the original stonework and iron framework were remarkably sound."
+        },
+        {
+          "label": "B",
+          "text": "He believes that breathing new life into old buildings strengthens communities in ways that new constructions rarely achieve."
+        },
+        {
+          "label": "C",
+          "text": "Critics praised the seamless blend of old and new, calling it a masterclass in sympathetic renovation."
+        },
+        {
+          "label": "D",
+          "text": "Their expertise proved invaluable in repairing the original brickwork without compromising its appearance."
+        },
+        {
+          "label": "E",
+          "text": "Perhaps the most significant obstacle was balancing modern safety standards with historical preservation."
+        },
+        {
+          "label": "F",
+          "text": "It has also sparked a wider conversation about the value of preserving industrial architecture rather than demolishing it."
+        },
+        {
+          "label": "G",
+          "text": "The original architect had envisioned the building as a symbol of the town's industrial prosperity."
+        }
       ],
       "correct_answer": "B"
     },

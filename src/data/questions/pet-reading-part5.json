@@ -10,16 +10,28 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 1:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "did" },
-        { "label": "B", "text": "made" },
-        { "label": "C", "text": "had" },
-        { "label": "D", "text": "went" }
+        {
+          "label": "A",
+          "text": "did"
+        },
+        {
+          "label": "B",
+          "text": "made"
+        },
+        {
+          "label": "C",
+          "text": "had"
+        },
+        {
+          "label": "D",
+          "text": "went"
+        }
       ],
       "correct_answer": "B"
     },
     "explanation_zh": "中文解析：\"made a trip\"是固定搭配，意思是\"进行了一次旅行\"。虽然\"took a trip\"也可以但选项中没有took。\"did a trip\"不是标准搭配；\"had a trip\"也不太常用；\"went\"后面需要接\"on a trip\"才正确。",
     "explanation_en": "English explanation: 'Made a trip' is a standard collocation meaning 'took a trip.' 'Did a trip' is not standard English. 'Had a trip' is less common. 'Went' would need 'on' (went on a trip) to be correct.",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "pet-r5-002",
@@ -32,10 +44,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 2:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "excited" },
-        { "label": "B", "text": "exciting" },
-        { "label": "C", "text": "excite" },
-        { "label": "D", "text": "excitement" }
+        {
+          "label": "A",
+          "text": "excited"
+        },
+        {
+          "label": "B",
+          "text": "exciting"
+        },
+        {
+          "label": "C",
+          "text": "excite"
+        },
+        {
+          "label": "D",
+          "text": "excitement"
+        }
       ],
       "correct_answer": "A"
     },
@@ -54,10 +78,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 3:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "lasted" },
-        { "label": "B", "text": "spent" },
-        { "label": "C", "text": "passed" },
-        { "label": "D", "text": "continued" }
+        {
+          "label": "A",
+          "text": "lasted"
+        },
+        {
+          "label": "B",
+          "text": "spent"
+        },
+        {
+          "label": "C",
+          "text": "passed"
+        },
+        {
+          "label": "D",
+          "text": "continued"
+        }
       ],
       "correct_answer": "A"
     },
@@ -76,10 +112,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 4:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "hotter" },
-        { "label": "B", "text": "hottest" },
-        { "label": "C", "text": "more hot" },
-        { "label": "D", "text": "most hot" }
+        {
+          "label": "A",
+          "text": "hotter"
+        },
+        {
+          "label": "B",
+          "text": "hottest"
+        },
+        {
+          "label": "C",
+          "text": "more hot"
+        },
+        {
+          "label": "D",
+          "text": "most hot"
+        }
       ],
       "correct_answer": "A"
     },
@@ -98,10 +146,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 5:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "who" },
-        { "label": "B", "text": "where" },
-        { "label": "C", "text": "which" },
-        { "label": "D", "text": "what" }
+        {
+          "label": "A",
+          "text": "who"
+        },
+        {
+          "label": "B",
+          "text": "where"
+        },
+        {
+          "label": "C",
+          "text": "which"
+        },
+        {
+          "label": "D",
+          "text": "what"
+        }
       ],
       "correct_answer": "C"
     },
@@ -120,10 +180,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 6:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "should" },
-        { "label": "B", "text": "would" },
-        { "label": "C", "text": "could" },
-        { "label": "D", "text": "must" }
+        {
+          "label": "A",
+          "text": "should"
+        },
+        {
+          "label": "B",
+          "text": "would"
+        },
+        {
+          "label": "C",
+          "text": "could"
+        },
+        {
+          "label": "D",
+          "text": "must"
+        }
       ],
       "correct_answer": "B"
     },
@@ -142,10 +214,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 7:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "and" },
-        { "label": "B", "text": "or" },
-        { "label": "C", "text": "but" },
-        { "label": "D", "text": "so" }
+        {
+          "label": "A",
+          "text": "and"
+        },
+        {
+          "label": "B",
+          "text": "or"
+        },
+        {
+          "label": "C",
+          "text": "but"
+        },
+        {
+          "label": "D",
+          "text": "so"
+        }
       ],
       "correct_answer": "C"
     },
@@ -164,10 +248,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 8:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "what" },
-        { "label": "B", "text": "which" },
-        { "label": "C", "text": "who" },
-        { "label": "D", "text": "where" }
+        {
+          "label": "A",
+          "text": "what"
+        },
+        {
+          "label": "B",
+          "text": "which"
+        },
+        {
+          "label": "C",
+          "text": "who"
+        },
+        {
+          "label": "D",
+          "text": "where"
+        }
       ],
       "correct_answer": "B"
     },
@@ -186,10 +282,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 9:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "many" },
-        { "label": "B", "text": "more" },
-        { "label": "C", "text": "most" },
-        { "label": "D", "text": "much" }
+        {
+          "label": "A",
+          "text": "many"
+        },
+        {
+          "label": "B",
+          "text": "more"
+        },
+        {
+          "label": "C",
+          "text": "most"
+        },
+        {
+          "label": "D",
+          "text": "much"
+        }
       ],
       "correct_answer": "D"
     },
@@ -208,10 +316,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 10:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "during" },
-        { "label": "B", "text": "while" },
-        { "label": "C", "text": "for" },
-        { "label": "D", "text": "since" }
+        {
+          "label": "A",
+          "text": "during"
+        },
+        {
+          "label": "B",
+          "text": "while"
+        },
+        {
+          "label": "C",
+          "text": "for"
+        },
+        {
+          "label": "D",
+          "text": "since"
+        }
       ],
       "correct_answer": "A"
     },
@@ -230,10 +350,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 11:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "mustn't" },
-        { "label": "B", "text": "shouldn't" },
-        { "label": "C", "text": "can't" },
-        { "label": "D", "text": "won't" }
+        {
+          "label": "A",
+          "text": "mustn't"
+        },
+        {
+          "label": "B",
+          "text": "shouldn't"
+        },
+        {
+          "label": "C",
+          "text": "can't"
+        },
+        {
+          "label": "D",
+          "text": "won't"
+        }
       ],
       "correct_answer": "C"
     },
@@ -252,10 +384,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 12:",
       "passage": "My First Trip Abroad\n\nLast summer, I (1)_____ my first trip to another country. My family and I flew to Barcelona, Spain. I was really (2)_____ because I had never been on a plane before. The flight (3)_____ about two hours, and I spent the whole time looking out of the window.\n\nWhen we arrived, the weather was much (4)_____ than at home. It was 35 degrees! We stayed in a small hotel (5)_____ was very close to the beach. Every morning, we (6)_____ walk to the sea and spend the whole day swimming and building sandcastles.\n\nThe food in Spain was delicious, (7)_____ my favourite was the fresh fruit. I also tried paella, (8)_____ is a traditional Spanish rice dish. I liked it so (9)_____ that I asked my mum to learn how to cook it at home.\n\nI took lots of photos (10)_____ the trip to show my friends. I (11)_____ wait to go back to Spain again. It was the (12)_____ holiday I've ever had!",
       "options": [
-        { "label": "A", "text": "good" },
-        { "label": "B", "text": "better" },
-        { "label": "C", "text": "best" },
-        { "label": "D", "text": "well" }
+        {
+          "label": "A",
+          "text": "good"
+        },
+        {
+          "label": "B",
+          "text": "better"
+        },
+        {
+          "label": "C",
+          "text": "best"
+        },
+        {
+          "label": "D",
+          "text": "well"
+        }
       ],
       "correct_answer": "C"
     },
@@ -274,10 +418,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 1:",
       "passage": "A Visit to the Zoo\n\nLast weekend, my class went on a school trip to the zoo. We had been looking (1)_____ to it for weeks. The zoo is about an hour's drive from our school, so we (2)_____ by coach. When we arrived, a zookeeper was waiting to show (3)_____ around.\n\nThe first animals we saw were the penguins. They were so funny to watch (4)_____ they walked in a line and then jumped into the water. After that, we went to see the elephants, (5)_____ are my favourite animals. The zookeeper told us many interesting facts about (6)_____ elephants live in the wild.",
       "options": [
-        { "label": "A", "text": "forward" },
-        { "label": "B", "text": "up" },
-        { "label": "C", "text": "ahead" },
-        { "label": "D", "text": "out" }
+        {
+          "label": "A",
+          "text": "forward"
+        },
+        {
+          "label": "B",
+          "text": "up"
+        },
+        {
+          "label": "C",
+          "text": "ahead"
+        },
+        {
+          "label": "D",
+          "text": "out"
+        }
       ],
       "correct_answer": "A"
     },
@@ -296,10 +452,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 2:",
       "passage": "A Visit to the Zoo\n\nLast weekend, my class went on a school trip to the zoo. We had been looking (1)_____ to it for weeks. The zoo is about an hour's drive from our school, so we (2)_____ by coach. When we arrived, a zookeeper was waiting to show (3)_____ around.\n\nThe first animals we saw were the penguins. They were so funny to watch (4)_____ they walked in a line and then jumped into the water. After that, we went to see the elephants, (5)_____ are my favourite animals. The zookeeper told us many interesting facts about (6)_____ elephants live in the wild.",
       "options": [
-        { "label": "A", "text": "went" },
-        { "label": "B", "text": "travelled" },
-        { "label": "C", "text": "moved" },
-        { "label": "D", "text": "drove" }
+        {
+          "label": "A",
+          "text": "went"
+        },
+        {
+          "label": "B",
+          "text": "travelled"
+        },
+        {
+          "label": "C",
+          "text": "moved"
+        },
+        {
+          "label": "D",
+          "text": "drove"
+        }
       ],
       "correct_answer": "B"
     },
@@ -318,10 +486,22 @@
       "stem": "Read the text below and choose the correct word for each space.\n\nSpace 3:",
       "passage": "A Visit to the Zoo\n\nLast weekend, my class went on a school trip to the zoo. We had been looking (1)_____ to it for weeks. The zoo is about an hour's drive from our school, so we (2)_____ by coach. When we arrived, a zookeeper was waiting to show (3)_____ around.\n\nThe first animals we saw were the penguins. They were so funny to watch (4)_____ they walked in a line and then jumped into the water. After that, we went to see the elephants, (5)_____ are my favourite animals. The zookeeper told us many interesting facts about (6)_____ elephants live in the wild.",
       "options": [
-        { "label": "A", "text": "them" },
-        { "label": "B", "text": "us" },
-        { "label": "C", "text": "we" },
-        { "label": "D", "text": "our" }
+        {
+          "label": "A",
+          "text": "them"
+        },
+        {
+          "label": "B",
+          "text": "us"
+        },
+        {
+          "label": "C",
+          "text": "we"
+        },
+        {
+          "label": "D",
+          "text": "our"
+        }
       ],
       "correct_answer": "B"
     },

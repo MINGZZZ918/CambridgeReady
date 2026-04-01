@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowRight, BookOpen, Headphones, PenLine, Mic, Download } from "lucide-react";
+import { ArrowRight, BookOpen, Headphones, PenLine, Mic, Download, Lock } from "lucide-react";
 import { LEVEL_MAP } from "@/lib/utils/constants";
 import { getPartsForLevel } from "@/lib/utils/levels";
 import { createClient } from "@/lib/supabase/server";
@@ -152,6 +152,7 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
 
               <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {parts.map((part) => {
+                  const isLocked = isFreeUser && part.part > 1;
                   const progress = partProgress[`${skill}:${part.part}`];
                   const progressPct = progress && progress.total > 0
                     ? Math.round((progress.correct / progress.total) * 100)
@@ -159,12 +160,18 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
                   return (
                     <div
                       key={part.part}
-                      className="group relative flex flex-col rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all hover:shadow-sm hover:border-border/80"
+                      className={`group relative flex flex-col rounded-[--radius-md] border border-border bg-bg-card p-6 transition-all ${isLocked ? "opacity-60" : "hover:shadow-sm hover:border-border/80"}`}
                     >
                       <div className="flex items-center justify-between">
                         <span className="text-sm font-medium text-text-primary">
                           Part {part.part}
                         </span>
+                        {isLocked && (
+                          <span className="inline-flex items-center gap-1 rounded-[--radius-pill] bg-gray-100 px-2 py-0.5 text-xs text-text-tertiary">
+                            <Lock size={10} />
+                            会员专享
+                          </span>
+                        )}
                       </div>
 
                       <h3 className="mt-2 text-[15px] font-medium text-text-primary">
@@ -174,7 +181,7 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
                         {part.name}
                       </p>
 
-                      {progress && progress.total > 0 && (
+                      {!isLocked && progress && progress.total > 0 && (
                         <div className="mt-3">
                           <p className="text-xs text-text-tertiary">
                             已做 {progress.total} 题 · 正确率 {progressPct}%
@@ -192,14 +199,24 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
                         <span className="text-sm text-text-tertiary">
                           {part.count} 题
                         </span>
-                        <Link
-                          href={`/practice/${level}/${skill}/${part.part}`}
-                          className="inline-flex items-center gap-1 text-sm font-medium transition-all group-hover:gap-2"
-                          style={{ color: levelInfo.color }}
-                        >
-                          开始练习
-                          <ArrowRight size={14} />
-                        </Link>
+                        {isLocked ? (
+                          <Link
+                            href="/pricing"
+                            className="inline-flex items-center gap-1 text-sm font-medium text-text-tertiary transition-all hover:text-blue"
+                          >
+                            升级解锁
+                            <Lock size={12} />
+                          </Link>
+                        ) : (
+                          <Link
+                            href={`/practice/${level}/${skill}/${part.part}`}
+                            className="inline-flex items-center gap-1 text-sm font-medium transition-all group-hover:gap-2"
+                            style={{ color: levelInfo.color }}
+                          >
+                            开始练习
+                            <ArrowRight size={14} />
+                          </Link>
+                        )}
                       </div>
                     </div>
                   );

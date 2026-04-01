@@ -10,11 +10,15 @@
       "stem": "Read the article about dolphins and fill in the missing word.",
       "passage": "Dolphins are one of the most intelligent animals in the ___. They live in oceans all around the world.",
       "correct_answer": "sea",
-      "accept_answers": ["sea", "world", "ocean"]
+      "accept_answers": [
+        "sea",
+        "world",
+        "ocean"
+      ]
     },
     "explanation_zh": "中文解析：这句话说海豚是___中最聪明的动物之一。根据下一句说它们生活在全世界的海洋里，这里填 sea（海）、world（世界）或 ocean（海洋）都是合理的。最佳答案是 sea。",
     "explanation_en": "English explanation: The sentence says dolphins are one of the most intelligent animals in the ___. Since the next sentence mentions they live in oceans around the world, 'sea', 'world', or 'ocean' all fit. The best answer is 'sea'.",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "ket-r4-002",
@@ -27,7 +31,9 @@
       "stem": "Read the article about dolphins and fill in the missing word.",
       "passage": "Dolphins like to live together in groups. A group of dolphins is ___ a pod.",
       "correct_answer": "called",
-      "accept_answers": ["called"]
+      "accept_answers": [
+        "called"
+      ]
     },
     "explanation_zh": "中文解析：这句话说一群海豚___一个 pod（海豚群）。这里需要填 called（被称为），因为 is called 表示「被称作」。这是一个常见的被动语态结构。",
     "explanation_en": "English explanation: The sentence says a group of dolphins is ___ a pod. The missing word is 'called' — 'is called a pod' means 'is known as a pod'. This is a common passive voice structure.",
@@ -44,7 +50,13 @@
       "stem": "Read the article about dolphins and fill in the missing word.",
       "passage": "Dolphins eat fish and other small sea animals. They are very ___ swimmers and can move quickly through the water.",
       "correct_answer": "good",
-      "accept_answers": ["good", "fast", "quick", "great", "strong"]
+      "accept_answers": [
+        "good",
+        "fast",
+        "quick",
+        "great",
+        "strong"
+      ]
     },
     "explanation_zh": "中文解析：这句话说海豚是非常___的游泳者，能在水中快速移动。根据上下文，good（好的）、fast（快的）、quick（迅速的）、great（出色的）或 strong（强壮的）都可以接受。",
     "explanation_en": "English explanation: The sentence says dolphins are very ___ swimmers and can move quickly through the water. Words like 'good', 'fast', 'quick', 'great', or 'strong' all work in this context to describe their swimming ability.",
@@ -61,7 +73,9 @@
       "stem": "Read the article about dolphins and fill in the missing word.",
       "passage": "Baby dolphins stay close to ___ mothers for the first few years of their lives.",
       "correct_answer": "their",
-      "accept_answers": ["their"]
+      "accept_answers": [
+        "their"
+      ]
     },
     "explanation_zh": "中文解析：这句话说小海豚在出生后的头几年会待在___妈妈身边。这里需要一个形容词性物主代词 their（它们的），因为主语是 baby dolphins（复数）。",
     "explanation_en": "English explanation: The sentence says baby dolphins stay close to ___ mothers. The missing word is 'their' — the possessive pronoun matching the plural subject 'baby dolphins'. They stay close to their mothers.",
@@ -78,7 +92,10 @@
       "stem": "Read the article about dolphins and fill in the missing word.",
       "passage": "Dolphins talk to each other using special sounds. Scientists have been ___ to understand what these sounds mean.",
       "correct_answer": "trying",
-      "accept_answers": ["trying", "working"]
+      "accept_answers": [
+        "trying",
+        "working"
+      ]
     },
     "explanation_zh": "中文解析：这句话说科学家们一直在___理解这些声音的含义。have been trying 是现在完成进行时，表示一直在尝试。trying 或 working 都是合理的答案。",
     "explanation_en": "English explanation: The sentence says scientists have been ___ to understand what the sounds mean. 'Trying' fits with 'have been trying' (present perfect continuous), meaning they have been attempting to understand. 'Working' also works in this context.",
@@ -95,7 +112,10 @@
       "stem": "Read the article about dolphins and fill in the missing word.",
       "passage": "Many people enjoy watching dolphins because they often jump out of the water and ___ to be playing.",
       "correct_answer": "seem",
-      "accept_answers": ["seem", "appear"]
+      "accept_answers": [
+        "seem",
+        "appear"
+      ]
     },
     "explanation_zh": "中文解析：这句话说很多人喜欢看海豚，因为它们经常跳出水面，___在玩耍。seem to be playing 表示「看起来在玩耍」。seem 和 appear 都可以接受。",
     "explanation_en": "English explanation: The sentence says dolphins often jump out of the water and ___ to be playing. 'Seem' fits perfectly — 'seem to be playing' means 'appear to be playing'. Both 'seem' and 'appear' are acceptable answers.",
@@ -112,7 +132,10 @@
       "stem": "Read the article about pandas and fill in the missing word.",
       "passage": "Giant pandas live in the mountains of central China. They are ___ of the most famous animals in the world.",
       "correct_answer": "one",
-      "accept_answers": ["one", "some"]
+      "accept_answers": [
+        "one",
+        "some"
+      ]
     },
     "explanation_zh": "中文解析：这句话说大熊猫是世界上最著名的动物___。one of the most famous 表示「最著名的之一」，这是一个常见的英语表达。some 也可以接受。",
     "explanation_en": "English explanation: The sentence says pandas are ___ of the most famous animals in the world. 'One' fits perfectly — 'one of the most famous' is a very common English expression. 'Some' is also acceptable.",
@@ -129,7 +152,11 @@
       "stem": "Read the article about pandas and fill in the missing word.",
       "passage": "Pandas spend most of ___ day eating bamboo. An adult panda can eat up to 38 kilograms of bamboo every day.",
       "correct_answer": "the",
-      "accept_answers": ["the", "their", "each"]
+      "accept_answers": [
+        "the",
+        "their",
+        "each"
+      ]
     },
     "explanation_zh": "中文解析：这句话说熊猫花大部分___时间吃竹子。most of the day 表示「一天中的大部分时间」，their day（它们的一天）或 each day（每天）也可以接受。",
     "explanation_en": "English explanation: The sentence says pandas spend most of ___ day eating bamboo. 'The' works well — 'most of the day' means for the greater part of the day. 'Their' and 'each' are also acceptable alternatives.",
@@ -146,7 +173,10 @@
       "stem": "Read the article about pandas and fill in the missing word.",
       "passage": "Baby pandas are very small when they are born. They weigh only about 100 grams, ___ is lighter than a cup of tea.",
       "correct_answer": "which",
-      "accept_answers": ["which", "that"]
+      "accept_answers": [
+        "which",
+        "that"
+      ]
     },
     "explanation_zh": "中文解析：这句话说新生熊猫宝宝只有大约100克重，___比一杯茶还轻。这里需要一个关系代词来引导定语从句，which 或 that 都可以。which 是最佳答案。",
     "explanation_en": "English explanation: The sentence says baby pandas weigh about 100 grams, ___ is lighter than a cup of tea. A relative pronoun is needed to connect the two clauses. 'Which' is the best answer, and 'that' is also acceptable.",
@@ -163,7 +193,9 @@
       "stem": "Read the article about pandas and fill in the missing word.",
       "passage": "Pandas like to live alone. They do ___ usually spend time with other pandas, except when mothers are looking after their babies.",
       "correct_answer": "not",
-      "accept_answers": ["not"]
+      "accept_answers": [
+        "not"
+      ]
     },
     "explanation_zh": "中文解析：这句话说熊猫喜欢独居。它们通常___和其他熊猫在一起，除了母亲照顾幼崽的时候。do not spend time 表示「不花时间在一起」，这里需要 not 来构成否定句。",
     "explanation_en": "English explanation: The sentence says pandas like to live alone and do ___ usually spend time with other pandas. The word 'not' is needed to form the negative — 'do not usually spend time with other pandas'. This matches the meaning that pandas prefer to be alone.",
@@ -180,7 +212,9 @@
       "stem": "Read the article about pandas and fill in the missing word.",
       "passage": "There are only about 1,800 giant pandas left in the wild. Many people ___ working hard to protect them and their forests.",
       "correct_answer": "are",
-      "accept_answers": ["are"]
+      "accept_answers": [
+        "are"
+      ]
     },
     "explanation_zh": "中文解析：这句话说野外只剩下大约1800只大熊猫。许多人___努力保护它们和它们的森林。Many people are working 是现在进行时，表示「许多人正在努力工作」。这里需要 are。",
     "explanation_en": "English explanation: The sentence says many people ___ working hard to protect pandas and their forests. 'Are' is needed to form the present continuous tense — 'are working hard' means they are currently making efforts to protect pandas.",
@@ -197,7 +231,11 @@
       "stem": "Read the article about pandas and fill in the missing word.",
       "passage": "Thanks to these efforts, the number of pandas has started to grow. People ___ that one day there will be many more pandas in the wild.",
       "correct_answer": "hope",
-      "accept_answers": ["hope", "believe", "think"]
+      "accept_answers": [
+        "hope",
+        "believe",
+        "think"
+      ]
     },
     "explanation_zh": "中文解析：这句话说由于这些努力，熊猫的数量已开始增长。人们___有一天野外会有更多的熊猫。hope（希望）、believe（相信）或 think（认为）都是合理的答案，表示人们对未来的期望。",
     "explanation_en": "English explanation: The sentence says people ___ that one day there will be many more pandas in the wild. 'Hope' is the best answer — people hope for more pandas. 'Believe' and 'think' are also acceptable as they express people's positive outlook about the future of pandas.",

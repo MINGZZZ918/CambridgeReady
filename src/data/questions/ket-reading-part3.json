@@ -10,15 +10,24 @@
       "stem": "Why did Emma start bird watching?",
       "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
       "options": [
-        { "label": "A", "text": "She saw a bird in her garden and wanted to know what it was." },
-        { "label": "B", "text": "Her friends at school told her about it." },
-        { "label": "C", "text": "She joined a bird watching club." }
+        {
+          "label": "A",
+          "text": "She saw a bird in her garden and wanted to know what it was."
+        },
+        {
+          "label": "B",
+          "text": "Her friends at school told her about it."
+        },
+        {
+          "label": "C",
+          "text": "She joined a bird watching club."
+        }
       ],
       "correct_answer": "A"
     },
     "explanation_zh": "中文解析：根据文章第一段，Emma在花园里看到了一只美丽的蓝色鸟，想知道它是什么鸟，于是翻看了爷爷送的书，发现是翠鸟。从此开始了观鸟。选项A正确。选项B错误，朋友们觉得这个爱好很奇怪；选项C错误，加入俱乐部是后来的事。",
     "explanation_en": "English explanation: According to the first paragraph, Emma saw a beautiful blue bird in her garden and wanted to find out what it was, so she looked in her grandfather's book. That's how she started bird watching. Option A is correct. Option B is wrong because her friends think it's strange. Option C is wrong because she joined the club later.",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "ket-r3-002",
@@ -31,9 +40,18 @@
       "stem": "What does Emma write in her notebook?",
       "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
       "options": [
-        { "label": "A", "text": "Stories about her trips to the park" },
-        { "label": "B", "text": "Information about the birds she sees" },
-        { "label": "C", "text": "Messages to her grandfather about birds" }
+        {
+          "label": "A",
+          "text": "Stories about her trips to the park"
+        },
+        {
+          "label": "B",
+          "text": "Information about the birds she sees"
+        },
+        {
+          "label": "C",
+          "text": "Messages to her grandfather about birds"
+        }
       ],
       "correct_answer": "B"
     },
@@ -52,9 +70,18 @@
       "stem": "How does Emma feel about bird watching?",
       "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
       "options": [
-        { "label": "A", "text": "She thinks it is boring now." },
-        { "label": "B", "text": "She feels relaxed and enjoys it." },
-        { "label": "C", "text": "She is worried her friends don't like it." }
+        {
+          "label": "A",
+          "text": "She thinks it is boring now."
+        },
+        {
+          "label": "B",
+          "text": "She feels relaxed and enjoys it."
+        },
+        {
+          "label": "C",
+          "text": "She is worried her friends don't like it."
+        }
       ],
       "correct_answer": "B"
     },
@@ -73,9 +100,18 @@
       "stem": "What happened at the lake?",
       "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
       "options": [
-        { "label": "A", "text": "Emma lost her notebook." },
-        { "label": "B", "text": "Emma saw a heron and photographed it." },
-        { "label": "C", "text": "Emma went swimming with her friends." }
+        {
+          "label": "A",
+          "text": "Emma lost her notebook."
+        },
+        {
+          "label": "B",
+          "text": "Emma saw a heron and photographed it."
+        },
+        {
+          "label": "C",
+          "text": "Emma went swimming with her friends."
+        }
       ],
       "correct_answer": "B"
     },
@@ -94,9 +130,18 @@
       "stem": "What is true about Emma's school friends now?",
       "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
       "options": [
-        { "label": "A", "text": "They all think bird watching is strange." },
-        { "label": "B", "text": "Some of them want to try bird watching." },
-        { "label": "C", "text": "They have already joined the bird watching club." }
+        {
+          "label": "A",
+          "text": "They all think bird watching is strange."
+        },
+        {
+          "label": "B",
+          "text": "Some of them want to try bird watching."
+        },
+        {
+          "label": "C",
+          "text": "They have already joined the bird watching club."
+        }
       ],
       "correct_answer": "B"
     },
@@ -115,9 +160,18 @@
       "stem": "Where does Emma live?",
       "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
       "options": [
-        { "label": "A", "text": "In a big city by the sea" },
-        { "label": "B", "text": "In a small town close to the sea" },
-        { "label": "C", "text": "On a farm in the countryside" }
+        {
+          "label": "A",
+          "text": "In a big city by the sea"
+        },
+        {
+          "label": "B",
+          "text": "In a small town close to the sea"
+        },
+        {
+          "label": "C",
+          "text": "On a farm in the countryside"
+        }
       ],
       "correct_answer": "B"
     },
@@ -136,9 +190,18 @@
       "stem": "Who gave Emma the book about birds?",
       "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
       "options": [
-        { "label": "A", "text": "Her teacher" },
-        { "label": "B", "text": "Her grandfather" },
-        { "label": "C", "text": "Her best friend" }
+        {
+          "label": "A",
+          "text": "Her teacher"
+        },
+        {
+          "label": "B",
+          "text": "Her grandfather"
+        },
+        {
+          "label": "C",
+          "text": "Her best friend"
+        }
       ],
       "correct_answer": "B"
     },
@@ -157,9 +220,18 @@
       "stem": "How many types of birds does Emma know now?",
       "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
       "options": [
-        { "label": "A", "text": "Exactly fifty" },
-        { "label": "B", "text": "More than fifty" },
-        { "label": "C", "text": "Less than twenty" }
+        {
+          "label": "A",
+          "text": "Exactly fifty"
+        },
+        {
+          "label": "B",
+          "text": "More than fifty"
+        },
+        {
+          "label": "C",
+          "text": "Less than twenty"
+        }
       ],
       "correct_answer": "B"
     },
@@ -178,9 +250,18 @@
       "stem": "What was the first bird Emma found in her garden?",
       "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
       "options": [
-        { "label": "A", "text": "A heron" },
-        { "label": "B", "text": "A kingfisher" },
-        { "label": "C", "text": "A parrot" }
+        {
+          "label": "A",
+          "text": "A heron"
+        },
+        {
+          "label": "B",
+          "text": "A kingfisher"
+        },
+        {
+          "label": "C",
+          "text": "A parrot"
+        }
       ],
       "correct_answer": "B"
     },
@@ -199,9 +280,18 @@
       "stem": "Where does Emma's bird watching club go to find unusual birds?",
       "passage": "Emma is fourteen years old and lives in a small town near the sea. Last year, her grandfather gave her a book about birds for her birthday. At first, Emma wasn't very interested, but one morning she saw a beautiful blue bird in her garden. She wanted to find out what kind of bird it was, so she looked in the book. It was a kingfisher! After that, Emma started going to the park every weekend with the book and a pair of binoculars.\n\nNow Emma knows more than fifty different birds. She writes notes about each bird she sees — what colour it is, where she found it, and what it was doing. She has a special notebook just for this. Her friends at school think it is a strange hobby, but Emma doesn't mind. She says it makes her feel calm and happy.\n\nLast month, Emma joined a bird watching club for young people. They go on trips together to lakes and forests to find unusual birds. Emma's favourite trip was to a lake where she saw a heron for the first time. She took a photo of it with her phone and showed it to everyone at school. Now some of her friends want to come on the next trip too.",
       "options": [
-        { "label": "A", "text": "To shopping centres and museums" },
-        { "label": "B", "text": "To lakes and forests" },
-        { "label": "C", "text": "To the beach and the school garden" }
+        {
+          "label": "A",
+          "text": "To shopping centres and museums"
+        },
+        {
+          "label": "B",
+          "text": "To lakes and forests"
+        },
+        {
+          "label": "C",
+          "text": "To the beach and the school garden"
+        }
       ],
       "correct_answer": "B"
     },

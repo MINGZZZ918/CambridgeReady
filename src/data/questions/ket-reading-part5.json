@@ -10,11 +10,14 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "Hi Sam, I went to the new shopping centre ___ Saturday with my mum.",
       "correct_answer": "on",
-      "accept_answers": ["on", "last"]
+      "accept_answers": [
+        "on",
+        "last"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「我___周六和妈妈去了新的购物中心」。在星期几前面用介词 on，所以答案是 on。last（上个）也可以接受。",
     "explanation_en": "English explanation: The sentence says 'I went to the new shopping centre ___ Saturday'. The preposition 'on' is used before days of the week — 'on Saturday'. 'Last' is also acceptable as 'last Saturday'.",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "ket-r5-002",
@@ -27,7 +30,10 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "There ___ lots of shops and a really big food court with restaurants from different countries.",
       "correct_answer": "were",
-      "accept_answers": ["were", "are"]
+      "accept_answers": [
+        "were",
+        "are"
+      ]
     },
     "explanation_zh": "中文解析：这句话说那里___很多商店和一个很大的美食广场。因为前面用了过去时 went，所以这里用 were（有，过去式）。如果理解为对现状的描述，are 也可以。",
     "explanation_en": "English explanation: The sentence says 'There ___ lots of shops and a really big food court'. Since the email describes a past visit ('went'), 'were' is the best answer. 'Are' is also acceptable if describing the current state of the shopping centre.",
@@ -44,7 +50,11 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "I bought a new jacket ___ it was half price in the sale.",
       "correct_answer": "because",
-      "accept_answers": ["because", "as", "since"]
+      "accept_answers": [
+        "because",
+        "as",
+        "since"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「我买了一件新夹克___它在打折时半价」。这里需要一个表示原因的连词，because（因为）、as（因为）或 since（因为）都可以。",
     "explanation_en": "English explanation: The sentence says 'I bought a new jacket ___ it was half price in the sale'. A conjunction of reason is needed — 'because', 'as', or 'since' all work to explain why the jacket was bought.",
@@ -61,7 +71,10 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "We also had lunch at ___ Italian restaurant. The pizza was delicious!",
       "correct_answer": "an",
-      "accept_answers": ["an", "the"]
+      "accept_answers": [
+        "an",
+        "the"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「我们还在___意大利餐厅吃了午饭」。Italian 以元音音素开头，所以不定冠词用 an。如果是特指某个餐厅，the 也可以。",
     "explanation_en": "English explanation: The sentence says 'We also had lunch at ___ Italian restaurant'. Since 'Italian' starts with a vowel sound, the indefinite article 'an' is used. 'The' is also acceptable if referring to a specific restaurant.",
@@ -78,7 +91,10 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "My mum enjoyed ___ too. She bought some books and a new bag.",
       "correct_answer": "it",
-      "accept_answers": ["it", "herself"]
+      "accept_answers": [
+        "it",
+        "herself"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「我妈妈也很享受___」。这里需要一个代词指代去购物中心这件事，所以用 it。herself（她自己，强调）也可以接受。",
     "explanation_en": "English explanation: The sentence says 'My mum enjoyed ___ too'. A pronoun is needed to refer to the shopping trip — 'it' is the best answer. 'Herself' is also acceptable as an emphatic pronoun meaning she herself also enjoyed it.",
@@ -95,7 +111,9 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "Would you like to go ___ me next weekend? Let me know! Bye, Lily",
       "correct_answer": "with",
-      "accept_answers": ["with"]
+      "accept_answers": [
+        "with"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「你想下周末和我一起去吗？」。go with me 表示「和我一起去」，这里需要介词 with。",
     "explanation_en": "English explanation: The sentence says 'Would you like to go ___ me next weekend?' The preposition 'with' is needed — 'go with me' means to accompany someone. This is a common phrase at A2 level.",
@@ -112,7 +130,9 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "Hi Alex, Thank you for inviting me ___ your birthday party next Saturday.",
       "correct_answer": "to",
-      "accept_answers": ["to"]
+      "accept_answers": [
+        "to"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「谢谢你邀请我___你下周六的生日派对」。invite someone to 表示「邀请某人去」，所以这里需要介词 to。",
     "explanation_en": "English explanation: The sentence says 'Thank you for inviting me ___ your birthday party'. The phrase 'invite someone to' requires the preposition 'to'. This is a fixed expression at A2 level.",
@@ -129,7 +149,10 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "I would love to come! I have ___ bought a present for you.",
       "correct_answer": "already",
-      "accept_answers": ["already", "even"]
+      "accept_answers": [
+        "already",
+        "even"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「我很想来！我___给你买了礼物」。already（已经）表示动作已经完成，have already bought 是现在完成时的常见用法。even（甚至）也可以接受。",
     "explanation_en": "English explanation: The sentence says 'I have ___ bought a present for you'. 'Already' fits perfectly — 'have already bought' means the present was purchased before now. This is a common use of the present perfect tense. 'Even' is also acceptable.",
@@ -146,7 +169,9 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "Can you tell me how to get ___ your house? I have never been there before.",
       "correct_answer": "to",
-      "accept_answers": ["to"]
+      "accept_answers": [
+        "to"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「你能告诉我怎么到___你家吗？我以前没去过」。get to 表示「到达」，是一个常见的动词短语。这里需要介词 to。",
     "explanation_en": "English explanation: The sentence says 'Can you tell me how to get ___ your house?' The phrasal expression 'get to' means 'arrive at' or 'reach'. The preposition 'to' is required here.",
@@ -163,7 +188,11 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "I will come by bus ___ my dad is using the car that day.",
       "correct_answer": "because",
-      "accept_answers": ["because", "as", "since"]
+      "accept_answers": [
+        "because",
+        "as",
+        "since"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「我会坐公交来___我爸爸那天要用车」。这里需要一个表示原因的连词，because（因为）、as（因为）或 since（因为）都可以。",
     "explanation_en": "English explanation: The sentence says 'I will come by bus ___ my dad is using the car that day'. A conjunction of reason is needed — 'because', 'as', or 'since' all explain why the writer will take the bus.",
@@ -180,7 +209,10 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "Is there ___ I should bring? Like food or drinks for the party?",
       "correct_answer": "anything",
-      "accept_answers": ["anything", "something"]
+      "accept_answers": [
+        "anything",
+        "something"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「有___我应该带的吗？比如派对的食物或饮料？」。anything（任何东西）用在疑问句中，表示「有什么东西吗」。something 也可以接受。",
     "explanation_en": "English explanation: The sentence asks 'Is there ___ I should bring?' 'Anything' is commonly used in questions to mean 'something or other'. 'Something' is also acceptable, though 'anything' is more natural in questions.",
@@ -197,7 +229,9 @@
       "stem": "Read the email and fill in the missing word.",
       "passage": "I am really looking forward ___ seeing you. See you on Saturday! From, Katie",
       "correct_answer": "to",
-      "accept_answers": ["to"]
+      "accept_answers": [
+        "to"
+      ]
     },
     "explanation_zh": "中文解析：这句话说「我真的很期待___见到你」。look forward to 是一个固定短语，表示「期待」，后面接动名词（seeing）。这里需要介词 to。",
     "explanation_en": "English explanation: The sentence says 'I am really looking forward ___ seeing you'. 'Look forward to' is a fixed phrase meaning 'to be excited about something in the future'. The preposition 'to' is required, followed by a gerund (seeing).",

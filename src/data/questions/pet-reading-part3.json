@@ -10,16 +10,28 @@
       "stem": "Read the passage and answer the question.\n\nWhat is the main reason Sarah started her own business?",
       "passage": "Sarah Mitchell always loved baking. As a child, she spent weekends helping her grandmother make cakes and biscuits. After finishing university with a degree in business, she worked in an office for five years. Although the pay was good, Sarah felt something was missing. She didn't enjoy sitting at a desk all day, and she missed the creativity she felt in the kitchen.\n\nOne evening, Sarah brought some homemade cupcakes to a friend's birthday party. Everyone loved them, and several people asked if she could make cakes for their events. That gave Sarah an idea. She started making cakes at home in the evenings and selling them to friends and neighbours. Within six months, she had so many orders that she decided to leave her office job and open a small bakery.\n\nThe first year was difficult. Sarah had to learn about running a shop, hiring staff, and managing money. There were days when she wondered if she had made the right decision. But slowly, more and more customers discovered her bakery, and today it is one of the most popular shops in town. Sarah says the best part of her job is seeing customers smile when they taste her cakes.",
       "options": [
-        { "label": "A", "text": "She wanted to earn more money than she did in her office job." },
-        { "label": "B", "text": "She was unhappy in her office job and wanted to do something creative." },
-        { "label": "C", "text": "Her grandmother encouraged her to open a bakery." },
-        { "label": "D", "text": "She couldn't find another office job after being made redundant." }
+        {
+          "label": "A",
+          "text": "She wanted to earn more money than she did in her office job."
+        },
+        {
+          "label": "B",
+          "text": "She was unhappy in her office job and wanted to do something creative."
+        },
+        {
+          "label": "C",
+          "text": "Her grandmother encouraged her to open a bakery."
+        },
+        {
+          "label": "D",
+          "text": "She couldn't find another office job after being made redundant."
+        }
       ],
       "correct_answer": "B"
     },
     "explanation_zh": "中文解析：文章说Sarah虽然办公室工资不错，但觉得缺少什么，不喜欢整天坐在办公桌前，怀念在厨房的创造力。选项B正确——她在办公室工作不开心，想做有创意的事。选项A错误，文中没提赚更多钱；选项C错误，祖母没有鼓励她开店；选项D错误，她是主动离职的。",
     "explanation_en": "English explanation: The passage states that although the pay was good, Sarah felt something was missing — she didn't enjoy sitting at a desk and missed the creativity of the kitchen. Option B correctly captures this. Option A is wrong because money wasn't the motivation. Option C is wrong because her grandmother didn't encourage her. Option D is wrong because she chose to leave, not made redundant.",
-    "is_free": false
+    "is_free": true
   },
   {
     "id": "pet-r3-002",
@@ -32,10 +44,22 @@
       "stem": "Read the passage and answer the question.\n\nWhat happened at Sarah's friend's birthday party?",
       "passage": "Sarah Mitchell always loved baking. As a child, she spent weekends helping her grandmother make cakes and biscuits. After finishing university with a degree in business, she worked in an office for five years. Although the pay was good, Sarah felt something was missing. She didn't enjoy sitting at a desk all day, and she missed the creativity she felt in the kitchen.\n\nOne evening, Sarah brought some homemade cupcakes to a friend's birthday party. Everyone loved them, and several people asked if she could make cakes for their events. That gave Sarah an idea. She started making cakes at home in the evenings and selling them to friends and neighbours. Within six months, she had so many orders that she decided to leave her office job and open a small bakery.\n\nThe first year was difficult. Sarah had to learn about running a shop, hiring staff, and managing money. There were days when she wondered if she had made the right decision. But slowly, more and more customers discovered her bakery, and today it is one of the most popular shops in town. Sarah says the best part of her job is seeing customers smile when they taste her cakes.",
       "options": [
-        { "label": "A", "text": "Sarah decided immediately to quit her office job." },
-        { "label": "B", "text": "People enjoyed her cupcakes and some wanted to order cakes from her." },
-        { "label": "C", "text": "Sarah's grandmother taught her a new recipe." },
-        { "label": "D", "text": "A business investor offered to help Sarah open a bakery." }
+        {
+          "label": "A",
+          "text": "Sarah decided immediately to quit her office job."
+        },
+        {
+          "label": "B",
+          "text": "People enjoyed her cupcakes and some wanted to order cakes from her."
+        },
+        {
+          "label": "C",
+          "text": "Sarah's grandmother taught her a new recipe."
+        },
+        {
+          "label": "D",
+          "text": "A business investor offered to help Sarah open a bakery."
+        }
       ],
       "correct_answer": "B"
     },
@@ -54,10 +78,22 @@
       "stem": "Read the passage and answer the question.\n\nWhat does Sarah enjoy most about her work now?",
       "passage": "Sarah Mitchell always loved baking. As a child, she spent weekends helping her grandmother make cakes and biscuits. After finishing university with a degree in business, she worked in an office for five years. Although the pay was good, Sarah felt something was missing. She didn't enjoy sitting at a desk all day, and she missed the creativity she felt in the kitchen.\n\nOne evening, Sarah brought some homemade cupcakes to a friend's birthday party. Everyone loved them, and several people asked if she could make cakes for their events. That gave Sarah an idea. She started making cakes at home in the evenings and selling them to friends and neighbours. Within six months, she had so many orders that she decided to leave her office job and open a small bakery.\n\nThe first year was difficult. Sarah had to learn about running a shop, hiring staff, and managing money. There were days when she wondered if she had made the right decision. But slowly, more and more customers discovered her bakery, and today it is one of the most popular shops in town. Sarah says the best part of her job is seeing customers smile when they taste her cakes.",
       "options": [
-        { "label": "A", "text": "Making a lot of money from her popular bakery." },
-        { "label": "B", "text": "Being her own boss and not having to work for someone else." },
-        { "label": "C", "text": "Watching customers enjoy her cakes." },
-        { "label": "D", "text": "Teaching her staff how to bake." }
+        {
+          "label": "A",
+          "text": "Making a lot of money from her popular bakery."
+        },
+        {
+          "label": "B",
+          "text": "Being her own boss and not having to work for someone else."
+        },
+        {
+          "label": "C",
+          "text": "Watching customers enjoy her cakes."
+        },
+        {
+          "label": "D",
+          "text": "Teaching her staff how to bake."
+        }
       ],
       "correct_answer": "C"
     },
@@ -76,10 +112,22 @@
       "stem": "Read the passage and answer the question.\n\nAccording to the article, what is the biggest advantage of cycling to work?",
       "passage": "More and more people in cities around the world are choosing to cycle to work instead of driving or taking public transport. There are many reasons for this growing trend.\n\nFirst and most importantly, cycling is excellent exercise. Studies show that people who cycle regularly are healthier and have more energy during the day. Unlike going to the gym, cycling to work means you get exercise without having to find extra time in your busy schedule.\n\nCycling is also much cheaper than driving. You don't need to pay for petrol, parking, or expensive car repairs. A good bicycle costs far less than a car and needs very little maintenance.\n\nAnother benefit is that cycling helps the environment. Cars produce harmful gases that pollute the air and contribute to climate change. By choosing a bicycle, you reduce your carbon footprint and help keep the air clean.\n\nOf course, cycling isn't always easy. Bad weather, busy roads, and long distances can make it challenging. But many cities are now building better cycle lanes and providing safe places to park bicycles, making it easier and safer than ever before.",
       "options": [
-        { "label": "A", "text": "It saves money on petrol and parking." },
-        { "label": "B", "text": "It provides exercise that fits into your daily routine." },
-        { "label": "C", "text": "It helps reduce air pollution." },
-        { "label": "D", "text": "Cities are building more cycle lanes." }
+        {
+          "label": "A",
+          "text": "It saves money on petrol and parking."
+        },
+        {
+          "label": "B",
+          "text": "It provides exercise that fits into your daily routine."
+        },
+        {
+          "label": "C",
+          "text": "It helps reduce air pollution."
+        },
+        {
+          "label": "D",
+          "text": "Cities are building more cycle lanes."
+        }
       ],
       "correct_answer": "B"
     },
@@ -98,10 +146,22 @@
       "stem": "Read the passage and answer the question.\n\nWhat problem with cycling does the writer mention?",
       "passage": "More and more people in cities around the world are choosing to cycle to work instead of driving or taking public transport. There are many reasons for this growing trend.\n\nFirst and most importantly, cycling is excellent exercise. Studies show that people who cycle regularly are healthier and have more energy during the day. Unlike going to the gym, cycling to work means you get exercise without having to find extra time in your busy schedule.\n\nCycling is also much cheaper than driving. You don't need to pay for petrol, parking, or expensive car repairs. A good bicycle costs far less than a car and needs very little maintenance.\n\nAnother benefit is that cycling helps the environment. Cars produce harmful gases that pollute the air and contribute to climate change. By choosing a bicycle, you reduce your carbon footprint and help keep the air clean.\n\nOf course, cycling isn't always easy. Bad weather, busy roads, and long distances can make it challenging. But many cities are now building better cycle lanes and providing safe places to park bicycles, making it easier and safer than ever before.",
       "options": [
-        { "label": "A", "text": "Bicycles are expensive to buy and maintain." },
-        { "label": "B", "text": "It is difficult to find places to park bicycles." },
-        { "label": "C", "text": "Weather conditions and traffic can make cycling difficult." },
-        { "label": "D", "text": "Cycling makes people too tired to work properly." }
+        {
+          "label": "A",
+          "text": "Bicycles are expensive to buy and maintain."
+        },
+        {
+          "label": "B",
+          "text": "It is difficult to find places to park bicycles."
+        },
+        {
+          "label": "C",
+          "text": "Weather conditions and traffic can make cycling difficult."
+        },
+        {
+          "label": "D",
+          "text": "Cycling makes people too tired to work properly."
+        }
       ],
       "correct_answer": "C"
     },
@@ -120,10 +180,22 @@
       "stem": "Read the passage and answer the question.\n\nWhy did James decide to learn to cook?",
       "passage": "When James Parker moved away from home to start university, he quickly realised that he couldn't live on takeaway food forever. Not only was it expensive, but he was also putting on weight and feeling tired all the time. His flatmate, who was an excellent cook, suggested they take turns making dinner. James agreed but was embarrassed to admit he could barely boil an egg.\n\nJames decided to start with simple recipes he found online. His first attempt at pasta sauce was terrible — too salty and burnt at the bottom. But he didn't give up. He watched cooking videos, read food blogs, and practised whenever he could. Gradually, his meals improved, and his flatmates started complimenting his food.\n\nBy the end of his first year at university, James could cook about twenty different meals. He found that cooking was actually relaxing after a long day of studying. He also discovered that eating home-cooked food helped him concentrate better and gave him more energy for his studies.\n\nNow in his final year, James often cooks for groups of friends. He even started a cooking blog where he shares easy recipes for other students. He says that learning to cook is one of the best things he's done at university — alongside getting his degree, of course.",
       "options": [
-        { "label": "A", "text": "His flatmate taught him some recipes." },
-        { "label": "B", "text": "He wanted to start a cooking blog." },
-        { "label": "C", "text": "Eating takeaway food was costing too much and affecting his health." },
-        { "label": "D", "text": "His parents told him he needed to learn before going to university." }
+        {
+          "label": "A",
+          "text": "His flatmate taught him some recipes."
+        },
+        {
+          "label": "B",
+          "text": "He wanted to start a cooking blog."
+        },
+        {
+          "label": "C",
+          "text": "Eating takeaway food was costing too much and affecting his health."
+        },
+        {
+          "label": "D",
+          "text": "His parents told him he needed to learn before going to university."
+        }
       ],
       "correct_answer": "C"
     },
@@ -142,10 +214,22 @@
       "stem": "Read the passage and answer the question.\n\nWhat was James's first cooking experience like?",
       "passage": "When James Parker moved away from home to start university, he quickly realised that he couldn't live on takeaway food forever. Not only was it expensive, but he was also putting on weight and feeling tired all the time. His flatmate, who was an excellent cook, suggested they take turns making dinner. James agreed but was embarrassed to admit he could barely boil an egg.\n\nJames decided to start with simple recipes he found online. His first attempt at pasta sauce was terrible — too salty and burnt at the bottom. But he didn't give up. He watched cooking videos, read food blogs, and practised whenever he could. Gradually, his meals improved, and his flatmates started complimenting his food.\n\nBy the end of his first year at university, James could cook about twenty different meals. He found that cooking was actually relaxing after a long day of studying. He also discovered that eating home-cooked food helped him concentrate better and gave him more energy for his studies.\n\nNow in his final year, James often cooks for groups of friends. He even started a cooking blog where he shares easy recipes for other students. He says that learning to cook is one of the best things he's done at university — alongside getting his degree, of course.",
       "options": [
-        { "label": "A", "text": "His flatmates enjoyed the meal he made." },
-        { "label": "B", "text": "He made a pasta sauce that didn't turn out well." },
-        { "label": "C", "text": "He successfully cooked a complicated recipe." },
-        { "label": "D", "text": "He burnt the kitchen and had to call for help." }
+        {
+          "label": "A",
+          "text": "His flatmates enjoyed the meal he made."
+        },
+        {
+          "label": "B",
+          "text": "He made a pasta sauce that didn't turn out well."
+        },
+        {
+          "label": "C",
+          "text": "He successfully cooked a complicated recipe."
+        },
+        {
+          "label": "D",
+          "text": "He burnt the kitchen and had to call for help."
+        }
       ],
       "correct_answer": "B"
     },
@@ -164,10 +248,22 @@
       "stem": "Read the passage and answer the question.\n\nWhat unexpected benefit did James discover from cooking?",
       "passage": "When James Parker moved away from home to start university, he quickly realised that he couldn't live on takeaway food forever. Not only was it expensive, but he was also putting on weight and feeling tired all the time. His flatmate, who was an excellent cook, suggested they take turns making dinner. James agreed but was embarrassed to admit he could barely boil an egg.\n\nJames decided to start with simple recipes he found online. His first attempt at pasta sauce was terrible — too salty and burnt at the bottom. But he didn't give up. He watched cooking videos, read food blogs, and practised whenever he could. Gradually, his meals improved, and his flatmates started complimenting his food.\n\nBy the end of his first year at university, James could cook about twenty different meals. He found that cooking was actually relaxing after a long day of studying. He also discovered that eating home-cooked food helped him concentrate better and gave him more energy for his studies.\n\nNow in his final year, James often cooks for groups of friends. He even started a cooking blog where he shares easy recipes for other students. He says that learning to cook is one of the best things he's done at university — alongside getting his degree, of course.",
       "options": [
-        { "label": "A", "text": "He made money by selling food to other students." },
-        { "label": "B", "text": "He found cooking relaxing and it helped his studies." },
-        { "label": "C", "text": "He became famous on social media for his recipes." },
-        { "label": "D", "text": "He decided to change his degree to study cooking." }
+        {
+          "label": "A",
+          "text": "He made money by selling food to other students."
+        },
+        {
+          "label": "B",
+          "text": "He found cooking relaxing and it helped his studies."
+        },
+        {
+          "label": "C",
+          "text": "He became famous on social media for his recipes."
+        },
+        {
+          "label": "D",
+          "text": "He decided to change his degree to study cooking."
+        }
       ],
       "correct_answer": "B"
     },
@@ -186,10 +282,22 @@
       "stem": "Read the passage and answer the question.\n\nWhat is the writer's opinion about learning to cook at university?",
       "passage": "When James Parker moved away from home to start university, he quickly realised that he couldn't live on takeaway food forever. Not only was it expensive, but he was also putting on weight and feeling tired all the time. His flatmate, who was an excellent cook, suggested they take turns making dinner. James agreed but was embarrassed to admit he could barely boil an egg.\n\nJames decided to start with simple recipes he found online. His first attempt at pasta sauce was terrible — too salty and burnt at the bottom. But he didn't give up. He watched cooking videos, read food blogs, and practised whenever he could. Gradually, his meals improved, and his flatmates started complimenting his food.\n\nBy the end of his first year at university, James could cook about twenty different meals. He found that cooking was actually relaxing after a long day of studying. He also discovered that eating home-cooked food helped him concentrate better and gave him more energy for his studies.\n\nNow in his final year, James often cooks for groups of friends. He even started a cooking blog where he shares easy recipes for other students. He says that learning to cook is one of the best things he's done at university — alongside getting his degree, of course.",
       "options": [
-        { "label": "A", "text": "It was more important than his academic studies." },
-        { "label": "B", "text": "It was a valuable experience, second only to getting his degree." },
-        { "label": "C", "text": "It was a waste of time that distracted from studying." },
-        { "label": "D", "text": "It was only useful because it helped him make friends." }
+        {
+          "label": "A",
+          "text": "It was more important than his academic studies."
+        },
+        {
+          "label": "B",
+          "text": "It was a valuable experience, second only to getting his degree."
+        },
+        {
+          "label": "C",
+          "text": "It was a waste of time that distracted from studying."
+        },
+        {
+          "label": "D",
+          "text": "It was only useful because it helped him make friends."
+        }
       ],
       "correct_answer": "B"
     },
@@ -208,10 +316,22 @@
       "stem": "Read the passage and answer the question.\n\nWhat is the best title for this passage?",
       "passage": "When James Parker moved away from home to start university, he quickly realised that he couldn't live on takeaway food forever. Not only was it expensive, but he was also putting on weight and feeling tired all the time. His flatmate, who was an excellent cook, suggested they take turns making dinner. James agreed but was embarrassed to admit he could barely boil an egg.\n\nJames decided to start with simple recipes he found online. His first attempt at pasta sauce was terrible — too salty and burnt at the bottom. But he didn't give up. He watched cooking videos, read food blogs, and practised whenever he could. Gradually, his meals improved, and his flatmates started complimenting his food.\n\nBy the end of his first year at university, James could cook about twenty different meals. He found that cooking was actually relaxing after a long day of studying. He also discovered that eating home-cooked food helped him concentrate better and gave him more energy for his studies.\n\nNow in his final year, James often cooks for groups of friends. He even started a cooking blog where he shares easy recipes for other students. He says that learning to cook is one of the best things he's done at university — alongside getting his degree, of course.",
       "options": [
-        { "label": "A", "text": "How to Become a Professional Chef" },
-        { "label": "B", "text": "A Student's Journey from Takeaways to Home Cooking" },
-        { "label": "C", "text": "Why University Food Is So Expensive" },
-        { "label": "D", "text": "The Most Popular Student Cooking Blog" }
+        {
+          "label": "A",
+          "text": "How to Become a Professional Chef"
+        },
+        {
+          "label": "B",
+          "text": "A Student's Journey from Takeaways to Home Cooking"
+        },
+        {
+          "label": "C",
+          "text": "Why University Food Is So Expensive"
+        },
+        {
+          "label": "D",
+          "text": "The Most Popular Student Cooking Blog"
+        }
       ],
       "correct_answer": "B"
     },
@@ -230,10 +350,22 @@
       "stem": "Read the passage and answer the question.\n\nWhy did Anna's family move to the countryside?",
       "passage": "When Anna was ten years old, her family left the busy city of Manchester and moved to a small village in the Lake District. Her parents had always dreamed of living somewhere quieter, where they could enjoy nature and have more space. Anna's father, who worked as a graphic designer, was able to do his job from home using his computer, so the move didn't affect his career.\n\nAt first, Anna was upset about leaving her friends and her school. The village was very different from what she was used to — there were no cinemas, no shopping centres, and the nearest town was a thirty-minute drive away. She felt lonely during the first few weeks and missed the excitement of city life.\n\nHowever, things slowly began to change. Anna joined the local school and made new friends who showed her the beautiful countryside. They went hiking, swimming in lakes, and exploring old castles. Anna discovered that she loved being outdoors, something she had rarely done in the city.\n\nThree years later, Anna cannot imagine living anywhere else. She still keeps in touch with her old friends online, but she says the countryside has given her a completely different way of life that she wouldn't want to change.",
       "options": [
-        { "label": "A", "text": "Anna's father got a new job in the Lake District." },
-        { "label": "B", "text": "Her parents wanted a quieter life with more space and nature." },
-        { "label": "C", "text": "Anna asked her parents to move so she could go hiking." },
-        { "label": "D", "text": "Their house in Manchester was too expensive." }
+        {
+          "label": "A",
+          "text": "Anna's father got a new job in the Lake District."
+        },
+        {
+          "label": "B",
+          "text": "Her parents wanted a quieter life with more space and nature."
+        },
+        {
+          "label": "C",
+          "text": "Anna asked her parents to move so she could go hiking."
+        },
+        {
+          "label": "D",
+          "text": "Their house in Manchester was too expensive."
+        }
       ],
       "correct_answer": "B"
     },
@@ -252,10 +384,22 @@
       "stem": "Read the passage and answer the question.\n\nHow did Anna feel when she first moved to the village?",
       "passage": "When Anna was ten years old, her family left the busy city of Manchester and moved to a small village in the Lake District. Her parents had always dreamed of living somewhere quieter, where they could enjoy nature and have more space. Anna's father, who worked as a graphic designer, was able to do his job from home using his computer, so the move didn't affect his career.\n\nAt first, Anna was upset about leaving her friends and her school. The village was very different from what she was used to — there were no cinemas, no shopping centres, and the nearest town was a thirty-minute drive away. She felt lonely during the first few weeks and missed the excitement of city life.\n\nHowever, things slowly began to change. Anna joined the local school and made new friends who showed her the beautiful countryside. They went hiking, swimming in lakes, and exploring old castles. Anna discovered that she loved being outdoors, something she had rarely done in the city.\n\nThree years later, Anna cannot imagine living anywhere else. She still keeps in touch with her old friends online, but she says the countryside has given her a completely different way of life that she wouldn't want to change.",
       "options": [
-        { "label": "A", "text": "She was excited about the new adventure." },
-        { "label": "B", "text": "She was happy to leave her school." },
-        { "label": "C", "text": "She felt lonely and missed city life." },
-        { "label": "D", "text": "She immediately loved the countryside." }
+        {
+          "label": "A",
+          "text": "She was excited about the new adventure."
+        },
+        {
+          "label": "B",
+          "text": "She was happy to leave her school."
+        },
+        {
+          "label": "C",
+          "text": "She felt lonely and missed city life."
+        },
+        {
+          "label": "D",
+          "text": "She immediately loved the countryside."
+        }
       ],
       "correct_answer": "C"
     },
@@ -274,10 +418,22 @@
       "stem": "Read the passage and answer the question.\n\nWhat helped Anna start enjoying life in the village?",
       "passage": "When Anna was ten years old, her family left the busy city of Manchester and moved to a small village in the Lake District. Her parents had always dreamed of living somewhere quieter, where they could enjoy nature and have more space. Anna's father, who worked as a graphic designer, was able to do his job from home using his computer, so the move didn't affect his career.\n\nAt first, Anna was upset about leaving her friends and her school. The village was very different from what she was used to — there were no cinemas, no shopping centres, and the nearest town was a thirty-minute drive away. She felt lonely during the first few weeks and missed the excitement of city life.\n\nHowever, things slowly began to change. Anna joined the local school and made new friends who showed her the beautiful countryside. They went hiking, swimming in lakes, and exploring old castles. Anna discovered that she loved being outdoors, something she had rarely done in the city.\n\nThree years later, Anna cannot imagine living anywhere else. She still keeps in touch with her old friends online, but she says the countryside has given her a completely different way of life that she wouldn't want to change.",
       "options": [
-        { "label": "A", "text": "Her old friends came to visit her in the village." },
-        { "label": "B", "text": "She made new friends who introduced her to outdoor activities." },
-        { "label": "C", "text": "Her parents bought her a computer to keep her entertained." },
-        { "label": "D", "text": "A new cinema was built in the village." }
+        {
+          "label": "A",
+          "text": "Her old friends came to visit her in the village."
+        },
+        {
+          "label": "B",
+          "text": "She made new friends who introduced her to outdoor activities."
+        },
+        {
+          "label": "C",
+          "text": "Her parents bought her a computer to keep her entertained."
+        },
+        {
+          "label": "D",
+          "text": "A new cinema was built in the village."
+        }
       ],
       "correct_answer": "B"
     },
@@ -296,10 +452,22 @@
       "stem": "Read the passage and answer the question.\n\nWhat does Anna say about her life in the countryside now?",
       "passage": "When Anna was ten years old, her family left the busy city of Manchester and moved to a small village in the Lake District. Her parents had always dreamed of living somewhere quieter, where they could enjoy nature and have more space. Anna's father, who worked as a graphic designer, was able to do his job from home using his computer, so the move didn't affect his career.\n\nAt first, Anna was upset about leaving her friends and her school. The village was very different from what she was used to — there were no cinemas, no shopping centres, and the nearest town was a thirty-minute drive away. She felt lonely during the first few weeks and missed the excitement of city life.\n\nHowever, things slowly began to change. Anna joined the local school and made new friends who showed her the beautiful countryside. They went hiking, swimming in lakes, and exploring old castles. Anna discovered that she loved being outdoors, something she had rarely done in the city.\n\nThree years later, Anna cannot imagine living anywhere else. She still keeps in touch with her old friends online, but she says the countryside has given her a completely different way of life that she wouldn't want to change.",
       "options": [
-        { "label": "A", "text": "She plans to move back to Manchester after finishing school." },
-        { "label": "B", "text": "She has lost touch with all her old friends from the city." },
-        { "label": "C", "text": "She loves her new life and wouldn't want to change it." },
-        { "label": "D", "text": "She still prefers city life but has accepted the move." }
+        {
+          "label": "A",
+          "text": "She plans to move back to Manchester after finishing school."
+        },
+        {
+          "label": "B",
+          "text": "She has lost touch with all her old friends from the city."
+        },
+        {
+          "label": "C",
+          "text": "She loves her new life and wouldn't want to change it."
+        },
+        {
+          "label": "D",
+          "text": "She still prefers city life but has accepted the move."
+        }
       ],
       "correct_answer": "C"
     },
@@ -318,10 +486,22 @@
       "stem": "Read the passage and answer the question.\n\nWhat would be the best title for this passage?",
       "passage": "When Anna was ten years old, her family left the busy city of Manchester and moved to a small village in the Lake District. Her parents had always dreamed of living somewhere quieter, where they could enjoy nature and have more space. Anna's father, who worked as a graphic designer, was able to do his job from home using his computer, so the move didn't affect his career.\n\nAt first, Anna was upset about leaving her friends and her school. The village was very different from what she was used to — there were no cinemas, no shopping centres, and the nearest town was a thirty-minute drive away. She felt lonely during the first few weeks and missed the excitement of city life.\n\nHowever, things slowly began to change. Anna joined the local school and made new friends who showed her the beautiful countryside. They went hiking, swimming in lakes, and exploring old castles. Anna discovered that she loved being outdoors, something she had rarely done in the city.\n\nThree years later, Anna cannot imagine living anywhere else. She still keeps in touch with her old friends online, but she says the countryside has given her a completely different way of life that she wouldn't want to change.",
       "options": [
-        { "label": "A", "text": "The Best Hiking Routes in the Lake District" },
-        { "label": "B", "text": "From City Girl to Country Lover" },
-        { "label": "C", "text": "Why Children Should Live in the Countryside" },
-        { "label": "D", "text": "How to Make Friends at a New School" }
+        {
+          "label": "A",
+          "text": "The Best Hiking Routes in the Lake District"
+        },
+        {
+          "label": "B",
+          "text": "From City Girl to Country Lover"
+        },
+        {
+          "label": "C",
+          "text": "Why Children Should Live in the Countryside"
+        },
+        {
+          "label": "D",
+          "text": "How to Make Friends at a New School"
+        }
       ],
       "correct_answer": "B"
     },

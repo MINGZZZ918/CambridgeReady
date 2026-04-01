@@ -10,9 +10,18 @@
       "stem": "What does this notice mean?",
       "passage": "CITY LIBRARY: Books can be borrowed for up to 2 weeks. Please ask at the desk if you need more time.",
       "options": [
-        { "label": "A", "text": "You can keep library books for two weeks or ask to keep them longer." },
-        { "label": "B", "text": "You must return books after two days." },
-        { "label": "C", "text": "The library is only open for two weeks." }
+        {
+          "label": "A",
+          "text": "You can keep library books for two weeks or ask to keep them longer."
+        },
+        {
+          "label": "B",
+          "text": "You must return books after two days."
+        },
+        {
+          "label": "C",
+          "text": "The library is only open for two weeks."
+        }
       ],
       "correct_answer": "A"
     },
@@ -31,15 +40,24 @@
       "stem": "What does this announcement say?",
       "passage": "SCHOOL NOTICE: The art room will be closed on Wednesday afternoon for cleaning. Art classes will move to Room 12.",
       "options": [
-        { "label": "A", "text": "There are no art classes on Wednesday." },
-        { "label": "B", "text": "Art classes on Wednesday afternoon will be in a different room." },
-        { "label": "C", "text": "Room 12 will be closed for cleaning." }
+        {
+          "label": "A",
+          "text": "There are no art classes on Wednesday."
+        },
+        {
+          "label": "B",
+          "text": "Art classes on Wednesday afternoon will be in a different room."
+        },
+        {
+          "label": "C",
+          "text": "Room 12 will be closed for cleaning."
+        }
       ],
       "correct_answer": "B"
     },
     "explanation_zh": "中文解析：学校通知说美术室周三下午关闭进行清洁，美术课搬到12号教室。选项B正确——周三下午的美术课会在另一个教室上。选项A错误，美术课没有取消，只是换了地方；选项C错误，是美术室关闭清洁，不是12号教室。",
     "explanation_en": "English explanation: The school notice says the art room will be closed on Wednesday afternoon for cleaning, and art classes will move to Room 12. Option B is correct — Wednesday afternoon art classes will be in a different room. Option A is wrong because classes aren't cancelled, just moved. Option C is wrong because the art room is being cleaned, not Room 12.",
-    "is_free": true
+    "is_free": false
   },
   {
     "id": "ket-r1-003",
@@ -52,15 +70,24 @@
       "stem": "What does this sign mean?",
       "passage": "SALE! All shoes half price this weekend only. Maximum 2 pairs per customer.",
       "options": [
-        { "label": "A", "text": "Shoes are cheaper this weekend but you can only buy two pairs." },
-        { "label": "B", "text": "You can buy shoes for free this weekend." },
-        { "label": "C", "text": "The shop only sells two types of shoes." }
+        {
+          "label": "A",
+          "text": "Shoes are cheaper this weekend but you can only buy two pairs."
+        },
+        {
+          "label": "B",
+          "text": "You can buy shoes for free this weekend."
+        },
+        {
+          "label": "C",
+          "text": "The shop only sells two types of shoes."
+        }
       ],
       "correct_answer": "A"
     },
     "explanation_zh": "中文解析：这个商店标牌说本周末所有鞋子半价，每位顾客最多买两双。选项A正确——鞋子本周末更便宜，但每人只能买两双。选项B错误，半价不是免费；选项C错误，限制的是每人能买的数量，不是鞋子的种类。",
     "explanation_en": "English explanation: The shop sign says all shoes are half price this weekend only, with a maximum of 2 pairs per customer. Option A is correct — shoes are cheaper this weekend but limited to two pairs per person. Option B is wrong because half price is not free. Option C is wrong because the limit is on how many pairs you can buy, not how many types are available.",
-    "is_free": true
+    "is_free": false
   },
   {
     "id": "ket-r1-004",
@@ -73,9 +100,18 @@
       "stem": "What does this warning say?",
       "passage": "WEATHER WARNING: Strong winds expected tonight. Please close all windows and bring garden furniture inside.",
       "options": [
-        { "label": "A", "text": "It will rain a lot tonight." },
-        { "label": "B", "text": "People should prepare for strong winds tonight." },
-        { "label": "C", "text": "The garden will be closed tonight." }
+        {
+          "label": "A",
+          "text": "It will rain a lot tonight."
+        },
+        {
+          "label": "B",
+          "text": "People should prepare for strong winds tonight."
+        },
+        {
+          "label": "C",
+          "text": "The garden will be closed tonight."
+        }
       ],
       "correct_answer": "B"
     },
@@ -94,9 +130,18 @@
       "stem": "What does this notice tell you?",
       "passage": "BUS TIMETABLE CHANGE: From Monday 5th May, the 8:15 morning bus will leave at 8:00. All other times stay the same.",
       "options": [
-        { "label": "A", "text": "All morning buses will leave earlier from May." },
-        { "label": "B", "text": "One morning bus will leave 15 minutes earlier from 5th May." },
-        { "label": "C", "text": "The bus service will stop on 5th May." }
+        {
+          "label": "A",
+          "text": "All morning buses will leave earlier from May."
+        },
+        {
+          "label": "B",
+          "text": "One morning bus will leave 15 minutes earlier from 5th May."
+        },
+        {
+          "label": "C",
+          "text": "The bus service will stop on 5th May."
+        }
       ],
       "correct_answer": "B"
     },
@@ -115,9 +160,18 @@
       "stem": "What does this note mean?",
       "passage": "TODAY'S SPECIAL: Chicken soup with bread — £3.50. Available from 12:00 to 2:00 only. No soup on Mondays.",
       "options": [
-        { "label": "A", "text": "You can buy the soup at any time during the day." },
-        { "label": "B", "text": "The soup costs £3.50 and is only served at lunchtime, except Mondays." },
-        { "label": "C", "text": "The restaurant is closed on Mondays." }
+        {
+          "label": "A",
+          "text": "You can buy the soup at any time during the day."
+        },
+        {
+          "label": "B",
+          "text": "The soup costs £3.50 and is only served at lunchtime, except Mondays."
+        },
+        {
+          "label": "C",
+          "text": "The restaurant is closed on Mondays."
+        }
       ],
       "correct_answer": "B"
     },
@@ -136,9 +190,18 @@
       "stem": "What does this sign mean?",
       "passage": "SWIMMING POOL RULES: No running near the pool. Children under 8 must be with an adult at all times.",
       "options": [
-        { "label": "A", "text": "Children of any age can swim alone." },
-        { "label": "B", "text": "Young children need an adult with them and nobody should run by the pool." },
-        { "label": "C", "text": "Adults are not allowed to use the pool." }
+        {
+          "label": "A",
+          "text": "Children of any age can swim alone."
+        },
+        {
+          "label": "B",
+          "text": "Young children need an adult with them and nobody should run by the pool."
+        },
+        {
+          "label": "C",
+          "text": "Adults are not allowed to use the pool."
+        }
       ],
       "correct_answer": "B"
     },
@@ -157,9 +220,18 @@
       "stem": "What does this notice tell passengers?",
       "passage": "TRAIN DELAY: The 9:30 train to Manchester is delayed by 20 minutes. We are sorry for any problems this may cause.",
       "options": [
-        { "label": "A", "text": "The train to Manchester has been cancelled today." },
-        { "label": "B", "text": "The 9:30 train to Manchester will leave later than planned." },
-        { "label": "C", "text": "All trains to Manchester are running 20 minutes early." }
+        {
+          "label": "A",
+          "text": "The train to Manchester has been cancelled today."
+        },
+        {
+          "label": "B",
+          "text": "The 9:30 train to Manchester will leave later than planned."
+        },
+        {
+          "label": "C",
+          "text": "All trains to Manchester are running 20 minutes early."
+        }
       ],
       "correct_answer": "B"
     },
@@ -178,9 +250,18 @@
       "stem": "What does this sign tell drivers?",
       "passage": "CAR PARK: Free parking for first 2 hours. After that, £1.50 per hour. Pay at the machine before you leave.",
       "options": [
-        { "label": "A", "text": "Parking is always free in this car park." },
-        { "label": "B", "text": "You can park for free for two hours, then you must pay." },
-        { "label": "C", "text": "You must pay £1.50 when you arrive." }
+        {
+          "label": "A",
+          "text": "Parking is always free in this car park."
+        },
+        {
+          "label": "B",
+          "text": "You can park for free for two hours, then you must pay."
+        },
+        {
+          "label": "C",
+          "text": "You must pay £1.50 when you arrive."
+        }
       ],
       "correct_answer": "B"
     },
@@ -199,9 +280,18 @@
       "stem": "What does this message say?",
       "passage": "Hi Tom, I can't come to football practice today because I hurt my leg. Can you tell the coach? Thanks, Ben.",
       "options": [
-        { "label": "A", "text": "Ben wants Tom to tell the coach he won't be at practice." },
-        { "label": "B", "text": "Tom has hurt his leg and can't play football." },
-        { "label": "C", "text": "The coach cancelled football practice today." }
+        {
+          "label": "A",
+          "text": "Ben wants Tom to tell the coach he won't be at practice."
+        },
+        {
+          "label": "B",
+          "text": "Tom has hurt his leg and can't play football."
+        },
+        {
+          "label": "C",
+          "text": "The coach cancelled football practice today."
+        }
       ],
       "correct_answer": "A"
     },
@@ -220,9 +310,18 @@
       "stem": "What does this notice mean?",
       "passage": "MUSEUM: Free entry for students with a school card. All visitors must leave bags at the front desk.",
       "options": [
-        { "label": "A", "text": "Students can enter free if they show a school card, and everyone must leave their bags at the desk." },
-        { "label": "B", "text": "The museum is free for everyone on school days." },
-        { "label": "C", "text": "Students must buy a school card to enter the museum." }
+        {
+          "label": "A",
+          "text": "Students can enter free if they show a school card, and everyone must leave their bags at the desk."
+        },
+        {
+          "label": "B",
+          "text": "The museum is free for everyone on school days."
+        },
+        {
+          "label": "C",
+          "text": "Students must buy a school card to enter the museum."
+        }
       ],
       "correct_answer": "A"
     },
@@ -241,9 +340,18 @@
       "stem": "What does this notice say?",
       "passage": "PARK NOTICE: Please keep dogs on a lead. Do not pick the flowers. The park closes at 8pm from October to March.",
       "options": [
-        { "label": "A", "text": "Dogs are not allowed in the park at any time." },
-        { "label": "B", "text": "Visitors must keep dogs on a lead, leave flowers alone, and note winter closing times." },
-        { "label": "C", "text": "The park is only open in summer." }
+        {
+          "label": "A",
+          "text": "Dogs are not allowed in the park at any time."
+        },
+        {
+          "label": "B",
+          "text": "Visitors must keep dogs on a lead, leave flowers alone, and note winter closing times."
+        },
+        {
+          "label": "C",
+          "text": "The park is only open in summer."
+        }
       ],
       "correct_answer": "B"
     },
