@@ -12,10 +12,10 @@ const FOOTER_LINKS = {
     { label: "核心词汇", href: "/vocabulary" },
     { label: "写作模板", href: "/writing-templates" },
     { label: "常见问题", href: "/faq" },
+    { label: "联系方式", href: "/contact" },
   ],
   关于: [
     { label: "关于我们", href: "/about" },
-    { label: "联系方式", href: "/contact" },
     { label: "用户协议", href: "/terms" },
     { label: "隐私政策", href: "/privacy" },
   ],

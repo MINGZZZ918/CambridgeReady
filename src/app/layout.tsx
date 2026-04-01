@@ -16,9 +16,40 @@ const notoSansSC = Noto_Sans_SC({
 });
 
 export const metadata: Metadata = {
-  title: "CambridgeReady — 剑桥英语备考平台",
+  title: {
+    default: "CambridgeReady — AI 驱动的剑桥英语备考平台",
+    template: "%s — CambridgeReady",
+  },
   description:
-    "为 K12 学生打造的剑桥英语 KET/PET/FCE 智能备考平台。海量真题、模拟考试、错题本、智能学习进度追踪。",
+    "专为 K12 学生打造的剑桥英语备考平台。AI 写作批改、AI 口语评估、免费备考资料下载，覆盖 KET、PET、FCE 三个级别。",
+  keywords: [
+    "剑桥英语",
+    "KET",
+    "PET",
+    "FCE",
+    "备考",
+    "AI 写作批改",
+    "AI 口语评估",
+    "Cambridge English",
+    "K12",
+    "英语考试",
+  ],
+  openGraph: {
+    title: "CambridgeReady — AI 驱动的剑桥英语备考平台",
+    description:
+      "AI 写作批改 + AI 口语评估 + 免费备考资料，覆盖 KET、PET、FCE 三个级别。专为 K12 学生打造。",
+    url: "https://www.youngcambridgeready.com",
+    siteName: "CambridgeReady",
+    locale: "zh_CN",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "CambridgeReady — AI 驱动的剑桥英语备考平台",
+    description:
+      "AI 写作批改 + AI 口语评估 + 免费备考资料，覆盖 KET、PET、FCE 三个级别。",
+  },
+  metadataBase: new URL("https://www.youngcambridgeready.com"),
 };
 
 export default function RootLayout({
