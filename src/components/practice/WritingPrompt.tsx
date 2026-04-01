@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Sparkles, Loader2, ChevronDown } from "lucide-react";
+import { Sparkles, Loader2 } from "lucide-react";
 import type { OpenWriteContent } from "@/types";
 
 interface Annotation {
@@ -33,12 +33,23 @@ interface Props {
   isPremium?: boolean;
 }
 
+function ScoreBar({ score, max, color }: { score: number; max: number; color: string }) {
+  const pct = (score / max) * 100;
+  return (
+    <div className="h-2 flex-1 rounded-full bg-gray-100">
+      <div
+        className="h-full rounded-full transition-all duration-700"
+        style={{ width: `${pct}%`, backgroundColor: color }}
+      />
+    </div>
+  );
+}
+
 export default function WritingPrompt({ content, userAnswer, submitted, onChange, level, isPremium }: Props) {
   const [showSample, setShowSample] = useState(false);
   const [correction, setCorrection] = useState<CorrectionResult | null>(null);
   const [correcting, setCorrecting] = useState(false);
   const [correctionError, setCorrectionError] = useState<string | null>(null);
-  const [showImproved, setShowImproved] = useState(false);
 
   const wordCount = userAnswer.trim() === "" ? 0 : userAnswer.trim().split(/\s+/).length;
 
@@ -74,12 +85,6 @@ export default function WritingPrompt({ content, userAnswer, submitted, onChange
     { key: "organisation", label: "组织结构", desc: "Organisation" },
     { key: "language", label: "语言运用", desc: "Language" },
   ];
-
-  const ANNOTATION_STYLES = {
-    error: { bg: "bg-red-50", border: "border-red-200", dot: "bg-red-400", label: "错误" },
-    improvement: { bg: "bg-amber-50", border: "border-amber-200", dot: "bg-amber-400", label: "建议" },
-    good: { bg: "bg-ket-light", border: "border-ket/30", dot: "bg-ket", label: "亮点" },
-  };
 
   return (
     <div className="space-y-6">
@@ -180,120 +185,116 @@ export default function WritingPrompt({ content, userAnswer, submitted, onChange
 
           {/* AI Correction result */}
           {correction && (
-            <div className="space-y-4">
-              {/* Score card */}
-              <div className="rounded-[--radius-md] border-2 border-fce/30 bg-fce-light/50 p-6">
-                <div className="flex items-center gap-2 mb-4">
-                  <Sparkles size={18} className="text-fce" />
-                  <h4 className="text-[15px] font-semibold text-fce">AI 评分</h4>
+            <div className="grid gap-6 lg:grid-cols-5">
+              {/* Score card — left */}
+              <div className="rounded-[--radius-md] border border-border bg-bg-card p-6 lg:col-span-2">
+                <div className="flex items-center gap-2">
+                  <Sparkles size={16} className="text-fce" />
+                  <h4 className="text-sm font-semibold text-fce">AI 评分</h4>
                 </div>
 
-                <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
-                  {DIMENSION_LABELS.map(({ key, label, desc }) => {
+                {/* Total score */}
+                <div className="mt-5 text-center">
+                  <div
+                    className="text-5xl font-bold text-text-primary"
+                    style={{ fontFamily: "var(--font-display)" }}
+                  >
+                    {Object.values(correction.scores).reduce((a, b) => a + b, 0)}
+                    <span className="text-lg font-normal text-text-tertiary"> / 20</span>
+                  </div>
+                  <p className="mt-1 text-sm text-text-secondary">
+                    {(level ?? "pet").toUpperCase()} Writing
+                  </p>
+                </div>
+
+                {/* Dimension scores with bars */}
+                <div className="mt-6 space-y-3.5">
+                  {DIMENSION_LABELS.map(({ key, label }) => {
                     const score = correction.scores[key];
                     return (
-                      <div
-                        key={key}
-                        className="rounded-[--radius-sm] bg-white/70 p-3 text-center"
-                      >
-                        <div
-                          className="text-2xl font-bold"
-                          style={{ fontFamily: "var(--font-display)", color: "#8B5CF6" }}
-                        >
-                          {score}
-                          <span className="text-sm font-normal text-text-tertiary">/5</span>
+                      <div key={key}>
+                        <div className="flex items-center justify-between text-sm">
+                          <span className="text-text-secondary">{label}</span>
+                          <span className="font-medium text-text-primary">
+                            {score}/5
+                          </span>
                         </div>
-                        <div className="mt-1 text-xs font-medium text-text-primary">{label}</div>
-                        <div className="text-[10px] text-text-tertiary">{desc}</div>
+                        <div className="mt-1.5">
+                          <ScoreBar score={score} max={5} color="#8B5CF6" />
+                        </div>
                       </div>
                     );
                   })}
                 </div>
 
-                {/* Total */}
-                <div className="mt-4 flex items-center justify-center gap-2 rounded-[--radius-sm] bg-white/70 py-3">
-                  <span className="text-sm font-medium text-text-secondary">总分</span>
-                  <span
-                    className="text-3xl font-bold"
-                    style={{ fontFamily: "var(--font-display)", color: "#8B5CF6" }}
-                  >
-                    {Object.values(correction.scores).reduce((a, b) => a + b, 0)}
-                  </span>
-                  <span className="text-sm text-text-tertiary">/ 20</span>
-                </div>
-              </div>
-
-              {/* Overall feedback */}
-              <div className="rounded-[--radius-md] border border-border bg-bg-card p-5">
-                <h4 className="text-[15px] font-semibold text-text-primary mb-3">总体评价</h4>
-                <p className="text-[14px] leading-relaxed text-text-primary">
+                {/* Overall feedback */}
+                <p className="mt-6 rounded-lg bg-fce-light/60 p-3 text-xs leading-relaxed text-text-secondary">
                   {correction.overall_feedback_zh}
                 </p>
-                <p className="mt-2 text-[13px] leading-relaxed text-text-secondary italic">
-                  {correction.overall_feedback_en}
-                </p>
+                {correction.overall_feedback_en && (
+                  <p className="mt-2 rounded-lg bg-bg p-3 text-xs leading-relaxed text-text-tertiary italic">
+                    {correction.overall_feedback_en}
+                  </p>
+                )}
               </div>
 
-              {/* Annotations */}
-              {correction.annotations.length > 0 && (
-                <div className="rounded-[--radius-md] border border-border bg-bg-card p-5">
-                  <h4 className="text-[15px] font-semibold text-text-primary mb-3">逐句批注</h4>
-                  <div className="space-y-2.5">
-                    {correction.annotations.map((ann, i) => {
-                      const style = ANNOTATION_STYLES[ann.type];
-                      return (
-                        <div
-                          key={i}
-                          className={`rounded-[--radius-sm] border ${style.border} ${style.bg} p-3`}
-                        >
-                          <div className="flex items-center gap-2 mb-1.5">
-                            <span className={`h-2 w-2 rounded-full ${style.dot}`} />
-                            <span className="text-xs font-medium text-text-secondary">
-                              {style.label}
+              {/* Annotations + improved — right */}
+              <div className="space-y-6 lg:col-span-3">
+                {/* Annotations */}
+                {correction.annotations.length > 0 && (
+                  <div className="rounded-[--radius-md] border border-border bg-bg-card p-6">
+                    <div className="flex items-center gap-2">
+                      <Sparkles size={16} className="text-fce" />
+                      <h4 className="text-sm font-semibold text-fce">逐句批注</h4>
+                    </div>
+
+                    <div className="mt-5 space-y-4">
+                      {correction.annotations.map((ann, i) => (
+                        <div key={i} className="rounded-lg border border-border-light bg-bg p-4">
+                          {/* Original with strikethrough */}
+                          <p className="text-[15px] text-text-primary">
+                            <span className={`mr-2 inline-flex h-5 w-5 items-center justify-center rounded-full text-[11px] font-bold text-white ${
+                              ann.type === "error" ? "bg-red-400" : ann.type === "improvement" ? "bg-amber-400" : "bg-ket"
+                            }`}>
+                              {i + 1}
                             </span>
-                          </div>
-                          <p className="text-[13px] text-text-primary">
-                            &ldquo;{ann.original}&rdquo;
+                            {ann.type === "good" ? (
+                              <span>{ann.original}</span>
+                            ) : (
+                              <span className="line-through decoration-red-300/60">{ann.original}</span>
+                            )}
                           </p>
-                          {ann.suggestion && (
-                            <p className="mt-1 text-[13px] text-ket font-medium">
+                          {/* Comment */}
+                          <p className="mt-2 pl-7 text-sm font-medium text-fce">
+                            {ann.comment_zh}
+                          </p>
+                          {/* Suggestion */}
+                          {ann.suggestion && ann.type !== "good" && (
+                            <p className="mt-1.5 pl-7 text-sm text-ket">
                               → {ann.suggestion}
                             </p>
                           )}
-                          <p className="mt-1 text-[12px] text-text-secondary">
-                            {ann.comment_zh}
-                          </p>
                         </div>
-                      );
-                    })}
+                      ))}
+                    </div>
                   </div>
-                </div>
-              )}
+                )}
 
-              {/* Improved essay */}
-              {correction.improved_essay && (
-                <div className="rounded-[--radius-md] border-2 border-ket/30 bg-ket-light/50 p-5">
-                  <button
-                    onClick={() => setShowImproved(!showImproved)}
-                    className="flex w-full items-center justify-between text-left"
-                  >
-                    <h4 className="text-[15px] font-semibold text-ket">
-                      AI 改进版范文
-                    </h4>
-                    <ChevronDown
-                      size={16}
-                      className={`text-ket transition-transform ${showImproved ? "rotate-180" : ""}`}
-                    />
-                  </button>
-                  {showImproved && (
-                    <div className="mt-3 rounded-[--radius-sm] bg-white/70 p-4">
+                {/* Improved essay */}
+                {correction.improved_essay && (
+                  <div className="rounded-[--radius-md] border border-border bg-bg-card p-6">
+                    <div className="flex items-center gap-2">
+                      <Sparkles size={16} className="text-ket" />
+                      <h4 className="text-sm font-semibold text-ket">AI 改进版范文</h4>
+                    </div>
+                    <div className="mt-4 rounded-lg bg-ket-light/40 p-4">
                       <p className="text-[15px] leading-relaxed text-text-primary whitespace-pre-line">
                         {correction.improved_essay}
                       </p>
                     </div>
-                  )}
-                </div>
-              )}
+                  </div>
+                )}
+              </div>
             </div>
           )}
 
