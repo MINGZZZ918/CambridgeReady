@@ -70,7 +70,10 @@ export async function POST(request: Request) {
       return_url: `${siteUrl}/dashboard?payment=success`,
     });
 
-    return NextResponse.json({ url: result.url });
+    return NextResponse.json({
+      url: result.url,
+      url_qrcode: result.url_qrcode,
+    });
   } catch (error) {
     console.error('Checkout error:', error);
     return NextResponse.json(

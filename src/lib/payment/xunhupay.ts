@@ -45,6 +45,7 @@ interface CreatePaymentParams {
 
 interface PaymentResponse {
   url: string;
+  url_qrcode?: string;
   errcode?: number;
   errmsg?: string;
 }
