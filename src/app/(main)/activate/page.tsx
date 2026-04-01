@@ -1,7 +1,8 @@
 'use client';
 
 import { useState, type ChangeEvent, type FormEvent } from 'react';
-import { KeyRound, CheckCircle, AlertCircle } from 'lucide-react';
+import { KeyRound, CheckCircle, AlertCircle, ArrowRight } from 'lucide-react';
+import Link from 'next/link';
 
 function formatCode(raw: string): string {
   const cleaned = raw.replace(/[^A-Za-z0-9]/g, '').toUpperCase().slice(0, 16);
@@ -95,7 +96,7 @@ export default function ActivatePage() {
               value={code}
               onChange={handleChange}
               placeholder="XXXX-XXXX-XXXX-XXXX"
-              className="w-full rounded-[8px] border border-border bg-bg px-4 py-3 text-center text-lg font-mono tracking-widest text-text-primary placeholder:text-text-tertiary focus:border-blue focus:outline-none focus:ring-2 focus:ring-blue/20"
+              className="w-full rounded-[--radius-sm] border border-border bg-bg px-4 py-3 text-center text-lg font-mono tracking-widest text-text-primary placeholder:text-text-tertiary focus:border-blue focus:outline-none focus:ring-2 focus:ring-blue/20"
               autoComplete="off"
               spellCheck={false}
               maxLength={19}
@@ -114,7 +115,7 @@ export default function ActivatePage() {
         {/* Result message */}
         {result && (
           <div
-            className={`mt-5 flex items-start gap-2.5 rounded-[8px] p-4 text-sm ${
+            className={`mt-5 flex items-start gap-2.5 rounded-[--radius-sm] p-4 text-sm ${
               result.type === 'success'
                 ? 'bg-ket-light text-ket'
                 : 'bg-red-50 text-red-600'
@@ -127,6 +128,16 @@ export default function ActivatePage() {
             )}
             <span>{result.message}</span>
           </div>
+        )}
+
+        {result?.type === 'success' && (
+          <Link
+            href="/dashboard"
+            className="mt-4 flex w-full items-center justify-center gap-2 rounded-[--radius-pill] bg-blue py-3 text-[15px] font-medium text-white transition-all hover:bg-blue-dark active:scale-[0.97]"
+          >
+            开始练习
+            <ArrowRight size={16} />
+          </Link>
         )}
       </div>
     </div>

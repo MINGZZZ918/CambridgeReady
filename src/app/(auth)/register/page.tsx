@@ -37,7 +37,13 @@ export default function RegisterPage() {
     });
 
     if (authError) {
-      setError(authError.message);
+      const errorMessages: Record<string, string> = {
+        "User already registered": "该邮箱已注册，请直接登录",
+        "Password should be at least 6 characters": "密码至少需要 6 个字符",
+        "Unable to validate email address: invalid format": "邮箱格式不正确",
+        "Signup requires a valid password": "请输入有效的密码",
+      };
+      setError(errorMessages[authError.message] || authError.message);
       setLoading(false);
       return;
     }

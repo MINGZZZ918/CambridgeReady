@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useEffect, useRef } from "react";
 import Link from "next/link";
-import { ArrowLeft, ArrowRight, Check, X, RotateCcw, Trophy, ChevronRight } from "lucide-react";
+import { ArrowLeft, ArrowRight, Check, X, RotateCcw, Trophy, ChevronRight, Lock } from "lucide-react";
 import MultipleChoice from "@/components/practice/MultipleChoice";
 import FillBlank from "@/components/practice/FillBlank";
 import WritingPrompt from "@/components/practice/WritingPrompt";
@@ -204,36 +204,76 @@ export default function PracticeClient({
               <div className="mt-8 border-t border-border-light pt-6">
                 <p className="text-sm text-text-tertiary text-center mb-3">继续练习</p>
                 <div className="flex flex-col gap-2">
-                  {nextPart && (
-                    <Link
-                      href={`/practice/${level}/${skill}/${nextPart.part}`}
-                      className="flex items-center justify-between rounded-[--radius-sm] border border-border bg-bg p-3 transition-all hover:bg-bg-card hover:border-border/80"
-                    >
-                      <div className="flex items-center gap-2">
-                        <span
-                          className="rounded-[--radius-pill] px-2 py-0.5 text-xs font-bold"
-                          style={{ backgroundColor: levelInfo.lightBg, color: levelInfo.color }}
-                        >
-                          Part {nextPart.part}
-                        </span>
-                        <span className="text-sm text-text-primary">{nextPart.nameZh}</span>
-                      </div>
-                      <ChevronRight size={14} className="text-text-tertiary" />
-                    </Link>
-                  )}
-                  {otherParts.filter((p) => p !== nextPart).map((p) => (
-                    <Link
-                      key={p.part}
-                      href={`/practice/${level}/${skill}/${p.part}`}
-                      className="flex items-center justify-between rounded-[--radius-sm] border border-border-light bg-bg p-3 transition-all hover:bg-bg-card"
-                    >
-                      <div className="flex items-center gap-2">
-                        <span className="text-xs font-medium text-text-tertiary">Part {p.part}</span>
-                        <span className="text-sm text-text-secondary">{p.nameZh}</span>
-                      </div>
-                      <ChevronRight size={14} className="text-text-tertiary" />
-                    </Link>
-                  ))}
+                  {nextPart && (() => {
+                    const locked = !isPremium && nextPart.part > 1;
+                    return locked ? (
+                      <Link
+                        href="/pricing"
+                        className="flex items-center justify-between rounded-[--radius-sm] border border-border bg-bg p-3 opacity-60"
+                      >
+                        <div className="flex items-center gap-2">
+                          <span
+                            className="rounded-[--radius-pill] px-2 py-0.5 text-xs font-bold"
+                            style={{ backgroundColor: levelInfo.lightBg, color: levelInfo.color }}
+                          >
+                            Part {nextPart.part}
+                          </span>
+                          <span className="text-sm text-text-secondary">{nextPart.nameZh}</span>
+                        </div>
+                        <div className="flex items-center gap-1 text-text-tertiary">
+                          <Lock size={12} />
+                          <span className="text-xs">升级解锁</span>
+                        </div>
+                      </Link>
+                    ) : (
+                      <Link
+                        href={`/practice/${level}/${skill}/${nextPart.part}`}
+                        className="flex items-center justify-between rounded-[--radius-sm] border border-border bg-bg p-3 transition-all hover:bg-bg-card hover:border-border/80"
+                      >
+                        <div className="flex items-center gap-2">
+                          <span
+                            className="rounded-[--radius-pill] px-2 py-0.5 text-xs font-bold"
+                            style={{ backgroundColor: levelInfo.lightBg, color: levelInfo.color }}
+                          >
+                            Part {nextPart.part}
+                          </span>
+                          <span className="text-sm text-text-primary">{nextPart.nameZh}</span>
+                        </div>
+                        <ChevronRight size={14} className="text-text-tertiary" />
+                      </Link>
+                    );
+                  })()}
+                  {otherParts.filter((p) => p !== nextPart).map((p) => {
+                    const locked = !isPremium && p.part > 1;
+                    return locked ? (
+                      <Link
+                        key={p.part}
+                        href="/pricing"
+                        className="flex items-center justify-between rounded-[--radius-sm] border border-border-light bg-bg p-3 opacity-60"
+                      >
+                        <div className="flex items-center gap-2">
+                          <span className="text-xs font-medium text-text-tertiary">Part {p.part}</span>
+                          <span className="text-sm text-text-secondary">{p.nameZh}</span>
+                        </div>
+                        <div className="flex items-center gap-1 text-text-tertiary">
+                          <Lock size={12} />
+                          <span className="text-xs">升级解锁</span>
+                        </div>
+                      </Link>
+                    ) : (
+                      <Link
+                        key={p.part}
+                        href={`/practice/${level}/${skill}/${p.part}`}
+                        className="flex items-center justify-between rounded-[--radius-sm] border border-border-light bg-bg p-3 transition-all hover:bg-bg-card"
+                      >
+                        <div className="flex items-center gap-2">
+                          <span className="text-xs font-medium text-text-tertiary">Part {p.part}</span>
+                          <span className="text-sm text-text-secondary">{p.nameZh}</span>
+                        </div>
+                        <ChevronRight size={14} className="text-text-tertiary" />
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
             );

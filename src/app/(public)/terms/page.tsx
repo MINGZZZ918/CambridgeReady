@@ -19,14 +19,14 @@ export default function TermsPage() {
           用户协议
         </h1>
         <p className="mt-6 text-center text-text-secondary">
-          最后更新：2025 年 1 月 1 日
+          最后更新：2026 年 4 月 1 日
         </p>
 
         <div className="mt-16 space-y-10 text-[15px] leading-relaxed text-text-secondary">
           <section>
             <h2 className="text-lg font-semibold text-text-primary">1. 服务说明</h2>
             <p className="mt-3">
-              CambridgeReady（以下简称"本平台"）是一个在线英语备考学习平台，提供剑桥英语 KET、PET、FCE 考试的练习题、模拟考试及学习工具。本平台与 Cambridge Assessment English 无官方关联。
+              CambridgeReady（以下简称"本平台"）是一个 AI 驱动的剑桥英语备考平台，提供 KET、PET、FCE 三个级别的在线练习、免费备考资料下载、AI 写作批改和 AI 口语评估服务。本平台与 Cambridge Assessment English 无官方关联。
             </p>
           </section>
 
@@ -40,7 +40,7 @@ export default function TermsPage() {
           <section>
             <h2 className="text-lg font-semibold text-text-primary">3. 会员服务</h2>
             <p className="mt-3">
-              本平台提供免费和付费（高级会员）两种服务等级。高级会员可享受完整题库、全部模考、AI 写作批改等功能。会员费用以购买时页面显示的价格为准，目前为 ¥499/年。
+              本平台提供免费和付费（高级会员）两种服务等级。免费用户可下载备考资料并进行写作和口语的在线练习；高级会员可享受 AI 写作批改（剑桥标准四维评分）和 AI 口语评估（语音转写 + 四维评分）等功能。会员费用以购买时页面显示的价格为准，目前为 ¥499/年。
             </p>
           </section>
 
@@ -66,21 +66,28 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-lg font-semibold text-text-primary">7. 免责声明</h2>
+            <h2 className="text-lg font-semibold text-text-primary">7. AI 功能使用条款</h2>
+            <p className="mt-3">
+              本平台的 AI 写作批改和口语评估功能由第三方人工智能服务提供技术支持。AI 生成的评分和反馈仅供参考，不代表官方考试评分标准。用户在使用 AI 功能时提交的内容将被发送至第三方 AI 服务进行处理，处理完成后不会被长期存储。用户应避免在提交的内容中包含敏感个人信息。
+            </p>
+          </section>
+
+          <section>
+            <h2 className="text-lg font-semibold text-text-primary">8. 免责声明</h2>
             <p className="mt-3">
               本平台尽力确保内容的准确性，但不对学习效果或考试结果做任何保证。所有练习题目为模拟题，非官方真题。本平台不承担因使用本服务产生的任何间接损失。
             </p>
           </section>
 
           <section>
-            <h2 className="text-lg font-semibold text-text-primary">8. 协议变更</h2>
+            <h2 className="text-lg font-semibold text-text-primary">9. 协议变更</h2>
             <p className="mt-3">
               本平台保留随时修改本协议的权利。修改后的条款将在平台上公布，继续使用本平台即视为接受修改后的条款。
             </p>
           </section>
 
           <section>
-            <h2 className="text-lg font-semibold text-text-primary">9. 联系方式</h2>
+            <h2 className="text-lg font-semibold text-text-primary">10. 联系方式</h2>
             <p className="mt-3">
               如对本协议有任何疑问，请联系：support@cambridgeready.com
             </p>

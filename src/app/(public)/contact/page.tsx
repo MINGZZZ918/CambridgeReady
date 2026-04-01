@@ -1,4 +1,5 @@
 import { Mail, MessageCircle, Clock } from "lucide-react";
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -11,6 +12,7 @@ const CONTACTS = [
     icon: Mail,
     title: "电子邮件",
     value: "support@cambridgeready.com",
+    href: "mailto:support@cambridgeready.com",
     description: "一般咨询、合作洽谈、投诉建议",
   },
   {
@@ -61,7 +63,13 @@ export default function ContactPage() {
                 {item.title}
               </h3>
               <p className="mt-2 text-base font-medium text-text-primary">
-                {item.value}
+                {"href" in item ? (
+                  <a href={item.href} className="text-blue hover:text-blue-dark transition-colors">
+                    {item.value}
+                  </a>
+                ) : (
+                  item.value
+                )}
               </p>
               <p className="mt-2 text-sm text-text-secondary">
                 {item.description}
@@ -83,12 +91,12 @@ export default function ContactPage() {
           <p className="mt-3 text-text-secondary">
             在联系我们之前，你也可以查看常见问题页面，也许能找到你需要的答案。
           </p>
-          <a
+          <Link
             href="/faq"
             className="mt-5 inline-block rounded-[--radius-pill] bg-blue px-6 py-2.5 text-sm font-medium text-white transition-colors hover:bg-blue-dark"
           >
             查看常见问题
-          </a>
+          </Link>
         </div>
       </section>
     </div>

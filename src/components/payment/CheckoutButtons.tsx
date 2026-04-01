@@ -8,9 +8,11 @@ interface CheckoutButtonsProps {
 
 export default function CheckoutButtons({ plan }: CheckoutButtonsProps) {
   const [loading, setLoading] = useState<'wechat' | 'alipay' | null>(null);
+  const [error, setError] = useState('');
 
   async function handleCheckout(paymentMethod: 'wechat' | 'alipay') {
     setLoading(paymentMethod);
+    setError('');
     try {
       const res = await fetch('/api/checkout', {
         method: 'POST',
@@ -21,13 +23,13 @@ export default function CheckoutButtons({ plan }: CheckoutButtonsProps) {
       const data = await res.json();
 
       if (!res.ok) {
-        alert(data.error || '支付创建失败，请重试');
+        setError(data.error || '支付创建失败，请重试');
         return;
       }
 
       window.location.href = data.url;
     } catch {
-      alert('网络错误，请重试');
+      setError('网络错误，请重试');
     } finally {
       setLoading(null);
     }
@@ -35,6 +37,11 @@ export default function CheckoutButtons({ plan }: CheckoutButtonsProps) {
 
   return (
     <div className="mt-8 flex flex-col gap-3">
+      {error && (
+        <div className="rounded-[--radius-sm] bg-red-50 px-4 py-3 text-sm text-red-600">
+          {error}
+        </div>
+      )}
       <button
         onClick={() => handleCheckout('wechat')}
         disabled={loading !== null}

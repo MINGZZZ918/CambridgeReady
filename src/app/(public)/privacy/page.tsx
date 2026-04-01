@@ -19,7 +19,7 @@ export default function PrivacyPage() {
           隐私政策
         </h1>
         <p className="mt-6 text-center text-text-secondary">
-          最后更新：2025 年 1 月 1 日
+          最后更新：2026 年 4 月 1 日
         </p>
 
         <div className="mt-16 space-y-10 text-[15px] leading-relaxed text-text-secondary">
@@ -30,9 +30,10 @@ export default function PrivacyPage() {
             </p>
             <ul className="mt-3 list-disc space-y-2 pl-6">
               <li>注册信息：电子邮件地址、密码（加密存储）</li>
-              <li>学习数据：练习记录、考试成绩、错题记录、学习进度</li>
+              <li>学习数据：练习记录、学习进度</li>
               <li>支付信息：订单号、支付方式、支付状态（我们不直接存储银行卡或支付宝/微信支付账户信息，支付由第三方支付服务处理）</li>
               <li>设备信息：浏览器类型、操作系统、IP 地址（用于安全防护）</li>
+              <li>AI 评估数据：当你使用 AI 写作批改或口语评估功能时，你提交的写作内容或录音会被发送至第三方 AI 服务进行处理（详见第 4 条）</li>
             </ul>
           </section>
 
@@ -53,7 +54,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-lg font-semibold text-text-primary">3. 数据存储与安全</h2>
             <p className="mt-3">
-              用户数据存储在 Supabase 提供的安全云数据库中，所有数据表均启用行级安全策略 (Row-Level Security)，确保用户只能访问自己的数据。数据传输全程使用 HTTPS 加密。
+              用户数据存储在安全的云数据库中，所有数据表均启用行级安全策略 (Row-Level Security)，确保用户只能访问自己的数据。数据传输全程使用 HTTPS 加密。
             </p>
           </section>
 
@@ -66,6 +67,7 @@ export default function PrivacyPage() {
               <li>经你明确同意</li>
               <li>法律法规要求</li>
               <li>为提供服务所必需的第三方服务商（如支付处理商），且这些服务商受相应保密义务约束</li>
+              <li>AI 写作批改和口语评估功能使用第三方 AI 服务处理你提交的内容。你的写作文本或语音录音将被发送至 AI 服务商进行分析和评分，处理完成后不会被长期存储。我们不会将你的个人身份信息与 AI 服务商共享。</li>
             </ul>
           </section>
 

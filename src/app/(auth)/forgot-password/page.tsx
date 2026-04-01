@@ -25,7 +25,11 @@ export default function ForgotPasswordPage() {
     );
 
     if (resetError) {
-      setError(resetError.message);
+      const errorMessages: Record<string, string> = {
+        "Unable to validate email address: invalid format": "邮箱格式不正确",
+        "For security purposes, you can only request this once every 60 seconds": "出于安全考虑，每 60 秒只能请求一次",
+      };
+      setError(errorMessages[resetError.message] || resetError.message);
       setLoading(false);
       return;
     }
