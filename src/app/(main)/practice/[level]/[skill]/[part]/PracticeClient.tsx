@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useEffect, useRef } from "react";
 import Link from "next/link";
-import { ArrowLeft, ArrowRight, Check, X, RotateCcw, Trophy } from "lucide-react";
+import { ArrowLeft, ArrowRight, Check, X, RotateCcw, Trophy, ChevronRight } from "lucide-react";
 import MultipleChoice from "@/components/practice/MultipleChoice";
 import FillBlank from "@/components/practice/FillBlank";
 import WritingPrompt from "@/components/practice/WritingPrompt";
@@ -13,6 +13,7 @@ import ExplanationPanel from "@/components/practice/ExplanationPanel";
 import { checkAnswer } from "@/lib/utils/scoring";
 import type { Question, MultipleChoiceContent, FillBlankContent, OpenWriteContent, MatchingContent, SpeakingContent } from "@/types";
 import type { PartInfo } from "@/lib/utils/levels";
+import { getPartsForLevel } from "@/lib/utils/levels";
 
 interface Props {
   questions: Question[];
@@ -189,6 +190,54 @@ export default function PracticeClient({
               <ArrowRight size={16} />
             </Link>
           </div>
+
+          {/* Quick navigation to other parts */}
+          {(() => {
+            const allParts = getPartsForLevel(level, skill as "reading" | "listening" | "writing" | "speaking");
+            const currentPart = parseInt(part);
+            const nextPart = allParts.find((p) => p.part === currentPart + 1);
+            const otherParts = allParts.filter((p) => p.part !== currentPart);
+
+            if (otherParts.length === 0) return null;
+
+            return (
+              <div className="mt-8 border-t border-border-light pt-6">
+                <p className="text-sm text-text-tertiary text-center mb-3">继续练习</p>
+                <div className="flex flex-col gap-2">
+                  {nextPart && (
+                    <Link
+                      href={`/practice/${level}/${skill}/${nextPart.part}`}
+                      className="flex items-center justify-between rounded-[--radius-sm] border border-border bg-bg p-3 transition-all hover:bg-bg-card hover:border-border/80"
+                    >
+                      <div className="flex items-center gap-2">
+                        <span
+                          className="rounded-[--radius-pill] px-2 py-0.5 text-xs font-bold"
+                          style={{ backgroundColor: levelInfo.lightBg, color: levelInfo.color }}
+                        >
+                          Part {nextPart.part}
+                        </span>
+                        <span className="text-sm text-text-primary">{nextPart.nameZh}</span>
+                      </div>
+                      <ChevronRight size={14} className="text-text-tertiary" />
+                    </Link>
+                  )}
+                  {otherParts.filter((p) => p !== nextPart).map((p) => (
+                    <Link
+                      key={p.part}
+                      href={`/practice/${level}/${skill}/${p.part}`}
+                      className="flex items-center justify-between rounded-[--radius-sm] border border-border-light bg-bg p-3 transition-all hover:bg-bg-card"
+                    >
+                      <div className="flex items-center gap-2">
+                        <span className="text-xs font-medium text-text-tertiary">Part {p.part}</span>
+                        <span className="text-sm text-text-secondary">{p.nameZh}</span>
+                      </div>
+                      <ChevronRight size={14} className="text-text-tertiary" />
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            );
+          })()}
         </div>
       </div>
     );

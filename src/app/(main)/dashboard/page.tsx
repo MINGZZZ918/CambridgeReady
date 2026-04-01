@@ -176,6 +176,50 @@ export default async function DashboardPage() {
         </div>
       )}
 
+      {/* New user onboarding */}
+      {totalQuestions === 0 && (
+        <div className="mt-10 rounded-[--radius-md] border-2 border-blue/20 bg-gradient-to-br from-blue-light/50 to-bg-card p-8">
+          <h2
+            className="text-xl font-semibold tracking-tight"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            欢迎来到 CambridgeReady！
+          </h2>
+          <p className="mt-2 text-[15px] text-text-secondary leading-relaxed">
+            三步开始你的剑桥英语备考之旅：
+          </p>
+          <div className="mt-6 grid gap-4 sm:grid-cols-3">
+            <div className="flex gap-3">
+              <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-blue text-sm font-bold text-white">
+                1
+              </div>
+              <div>
+                <p className="text-sm font-medium text-text-primary">选择级别</p>
+                <p className="mt-0.5 text-xs text-text-secondary">KET / PET / FCE</p>
+              </div>
+            </div>
+            <div className="flex gap-3">
+              <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-pet text-sm font-bold text-white">
+                2
+              </div>
+              <div>
+                <p className="text-sm font-medium text-text-primary">练习写作 / 口语</p>
+                <p className="mt-0.5 text-xs text-text-secondary">Part 1 免费体验</p>
+              </div>
+            </div>
+            <div className="flex gap-3">
+              <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-fce text-sm font-bold text-white">
+                3
+              </div>
+              <div>
+                <p className="text-sm font-medium text-text-primary">获取 AI 评估</p>
+                <p className="mt-0.5 text-xs text-text-secondary">四维评分 + 逐句批注</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Quick stats */}
       <div className="mt-10 grid gap-px overflow-hidden rounded-[--radius-md] border border-border bg-border sm:grid-cols-3">
         {[

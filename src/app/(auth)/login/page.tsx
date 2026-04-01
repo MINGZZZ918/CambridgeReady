@@ -185,18 +185,6 @@ export default function LoginPage() {
             <LoginForm />
           </Suspense>
 
-          {/* WeChat placeholder */}
-          <div className="mt-8 flex items-center gap-4">
-            <div className="h-px flex-1 bg-border-light" />
-            <span className="text-xs text-text-tertiary">或</span>
-            <div className="h-px flex-1 bg-border-light" />
-          </div>
-          <button
-            disabled
-            className="mt-4 flex w-full items-center justify-center gap-2 rounded-[--radius-pill] border border-border py-3 text-[15px] text-text-secondary transition-colors hover:bg-bg disabled:opacity-50"
-          >
-            微信登录（即将开放）
-          </button>
         </div>
       </div>
     </div>
