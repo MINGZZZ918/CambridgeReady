@@ -29,9 +29,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="sm:col-span-2 lg:col-span-1">
             <Link href="/" className="flex items-center gap-2">
-              <div className="flex h-9 w-9 items-center justify-center rounded-[10px] bg-blue text-white font-bold text-sm">
-                CR
-              </div>
+              <img src="/logo.png" alt="CambridgeReady" className="h-9 w-9 rounded-[10px] object-contain" />
               <span
                 className="text-lg tracking-tight"
                 style={{ fontFamily: "var(--font-display)" }}

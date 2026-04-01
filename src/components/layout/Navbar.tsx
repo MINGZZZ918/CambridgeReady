@@ -86,9 +86,7 @@ export default function Navbar() {
         <div className="flex h-16 items-center justify-between lg:h-20">
           {/* Logo */}
           <Link href={user ? "/dashboard" : "/"} className="flex items-center gap-2 group">
-            <div className="flex h-9 w-9 items-center justify-center rounded-[10px] bg-blue text-white font-bold text-sm tracking-tight">
-              CR
-            </div>
+            <img src="/logo.png" alt="CambridgeReady" className="h-9 w-9 rounded-[10px] object-contain" />
             <span
               className="text-lg tracking-tight text-text-primary"
               style={{ fontFamily: "var(--font-display)" }}

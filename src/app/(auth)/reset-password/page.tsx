@@ -55,9 +55,7 @@ export default function ResetPasswordPage() {
       {/* Left decorative panel */}
       <div className="hidden w-[45%] bg-cta-bg lg:flex lg:flex-col lg:justify-between lg:p-12">
         <Link href="/" className="flex items-center gap-2">
-          <div className="flex h-9 w-9 items-center justify-center rounded-[10px] bg-white text-cta-bg font-bold text-sm">
-            CR
-          </div>
+          <img src="/logo.png" alt="CambridgeReady" className="h-9 w-9 rounded-[10px] object-contain" />
           <span
             className="text-lg tracking-tight text-white"
             style={{ fontFamily: "var(--font-display)" }}
@@ -87,9 +85,7 @@ export default function ResetPasswordPage() {
       <div className="flex flex-1 flex-col justify-center px-6 py-12 sm:px-12 lg:px-20">
         <div className="mx-auto w-full max-w-sm">
           <Link href="/" className="mb-10 flex items-center gap-2 lg:hidden">
-            <div className="flex h-9 w-9 items-center justify-center rounded-[10px] bg-blue text-white font-bold text-sm">
-              CR
-            </div>
+            <img src="/logo.png" alt="CambridgeReady" className="h-9 w-9 rounded-[10px] object-contain" />
             <span className="text-lg tracking-tight" style={{ fontFamily: "var(--font-display)" }}>
               CambridgeReady
             </span>
