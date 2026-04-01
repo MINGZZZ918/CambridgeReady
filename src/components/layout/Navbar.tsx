@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { Menu, X, LogOut, ChevronDown, PenLine, Mic, Download, BookOpen, FileText, GraduationCap, BarChart3 } from "lucide-react";
+import { Menu, X, LogOut, ChevronDown, PenLine, Mic, Download, BookOpen, FileText, GraduationCap, HelpCircle } from "lucide-react";
 import { createClient } from "@/lib/supabase/client";
 import type { User } from "@supabase/supabase-js";
 
@@ -26,7 +26,6 @@ const GUEST_NAV: NavItem[] = [
     children: [
       { href: "#features", label: "AI 写作批改", desc: "剑桥官方四维评分 + 逐句批注", icon: PenLine },
       { href: "#features", label: "AI 口语评估", desc: "语音转写 + 四维评分", icon: Mic },
-      { href: "#features", label: "免费备考资料", desc: "PDF、音频、词汇表下载", icon: Download },
     ],
   },
   {
@@ -35,6 +34,15 @@ const GUEST_NAV: NavItem[] = [
       { href: "#levels", label: "KET (A2 Key)", desc: "剑桥通用英语入门级" },
       { href: "#levels", label: "PET (B1 Preliminary)", desc: "剑桥通用英语中级" },
       { href: "#levels", label: "FCE (B2 First)", desc: "剑桥通用英语中高级" },
+    ],
+  },
+  {
+    label: "免费资源",
+    children: [
+      { href: "/resources", label: "备考资料下载", desc: "PDF、音频、词汇表", icon: Download },
+      { href: "/vocabulary", label: "核心词汇", desc: "KET/PET/FCE 高频词汇", icon: BookOpen },
+      { href: "/writing-templates", label: "写作模板", desc: "各题型写作框架", icon: FileText },
+      { href: "/faq", label: "常见问题", desc: "使用帮助与解答", icon: HelpCircle },
     ],
   },
   { label: "会员方案", href: "#pricing" },
