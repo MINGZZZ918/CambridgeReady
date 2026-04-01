@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { createClient } from '@supabase/supabase-js';
-import { verifySign } from '@/lib/payment/xunhupay';
+import { verifySign, getCredentials } from '@/lib/payment/xunhupay';
 
 export async function POST(request: Request) {
   try {
@@ -11,22 +11,17 @@ export async function POST(request: Request) {
       params[decodeURIComponent(key)] = decodeURIComponent(rest.join('='));
     }
 
-    const appsecret = process.env.XUNHUPAY_APPSECRET!;
-    if (!verifySign(params, appsecret)) {
-      console.error('Payment notify: invalid signature');
-      return new NextResponse('fail', { status: 400 });
-    }
-
-    if (params.status !== 'OD') {
-      return new NextResponse('success', { status: 200 });
-    }
-
     const supabase = createClient(
       process.env.NEXT_PUBLIC_SUPABASE_URL!,
       process.env.SUPABASE_SERVICE_ROLE_KEY!
     );
 
+    // Look up order to determine payment method and get the correct appsecret
     const orderId = params.trade_order_id;
+    if (!orderId) {
+      console.error('Payment notify: missing trade_order_id');
+      return new NextResponse('fail', { status: 400 });
+    }
 
     const { data: order, error: fetchError } = await supabase
       .from('payment_orders')
@@ -37,6 +32,17 @@ export async function POST(request: Request) {
     if (fetchError || !order) {
       console.error('Payment notify: order not found', orderId);
       return new NextResponse('fail', { status: 400 });
+    }
+
+    // Verify signature with the correct channel secret
+    const { appsecret } = getCredentials(order.payment_method);
+    if (!verifySign(params, appsecret)) {
+      console.error('Payment notify: invalid signature');
+      return new NextResponse('fail', { status: 400 });
+    }
+
+    if (params.status !== 'OD') {
+      return new NextResponse('success', { status: 200 });
     }
 
     if (order.status === 'paid') {
@@ -71,7 +77,7 @@ export async function POST(request: Request) {
     const { error: updateProfileError } = await supabase
       .from('profiles')
       .update({
-        membership: order.plan,
+        membership: 'premium',
         membership_expires_at: expiresAt.toISOString(),
         updated_at: new Date().toISOString(),
       })

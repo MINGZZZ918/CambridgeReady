@@ -2,6 +2,19 @@ import { createHash } from 'crypto';
 
 const XUNHUPAY_API = 'https://api.xunhupay.com/payment/do.html';
 
+export function getCredentials(type: 'wechat' | 'alipay') {
+  if (type === 'wechat') {
+    return {
+      appid: process.env.XUNHUPAY_WECHAT_APPID!,
+      appsecret: process.env.XUNHUPAY_WECHAT_APPSECRET!,
+    };
+  }
+  return {
+    appid: process.env.XUNHUPAY_ALIPAY_APPID!,
+    appsecret: process.env.XUNHUPAY_ALIPAY_APPSECRET!,
+  };
+}
+
 export function generateSign(
   params: Record<string, string>,
   appsecret: string
@@ -39,8 +52,7 @@ interface PaymentResponse {
 export async function createPayment(
   opts: CreatePaymentParams
 ): Promise<PaymentResponse> {
-  const appid = process.env.XUNHUPAY_APPID!;
-  const appsecret = process.env.XUNHUPAY_APPSECRET!;
+  const { appid, appsecret } = getCredentials(opts.type);
 
   const params: Record<string, string> = {
     version: '1.1',
@@ -57,10 +69,14 @@ export async function createPayment(
 
   params.hash = generateSign(params, appsecret);
 
+  const formBody = Object.entries(params)
+    .map(([k, v]) => `${encodeURIComponent(k)}=${encodeURIComponent(v)}`)
+    .join('&');
+
   const res = await fetch(XUNHUPAY_API, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(params),
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: formBody,
   });
 
   const data = await res.json();

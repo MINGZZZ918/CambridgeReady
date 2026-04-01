@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { Check, ArrowRight } from "lucide-react";
-import CheckoutButtons from "@/components/payment/CheckoutButtons";
 
 const TIERS = [
   {
@@ -106,7 +105,13 @@ export default function Pricing() {
 
                 {/* CTA */}
                 {tier.plan ? (
-                  <CheckoutButtons plan={tier.plan} />
+                  <Link
+                    href="/pricing"
+                    className="mt-8 flex items-center justify-center gap-2 rounded-[--radius-pill] bg-blue py-3 text-[15px] font-medium text-white transition-all hover:bg-blue-dark active:scale-[0.97]"
+                  >
+                    {tier.cta}
+                    <ArrowRight size={15} />
+                  </Link>
                 ) : (
                   <Link
                     href={tier.href}

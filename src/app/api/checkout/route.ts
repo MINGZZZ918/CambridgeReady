@@ -1,18 +1,20 @@
 import { NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
+import { createClient as createAdminClient } from '@supabase/supabase-js';
 import { PLANS, type PlanKey } from '@/lib/payment/config';
 import { createPayment } from '@/lib/payment/xunhupay';
 import type { PaymentMethod } from '@/types';
 
 export async function POST(request: Request) {
   try {
+    // Auth check with user's session
     const supabase = await createClient();
     const {
       data: { user },
     } = await supabase.auth.getUser();
 
     if (!user) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+      return NextResponse.json({ error: '请先登录' }, { status: 401 });
     }
 
     const { plan, paymentMethod } = (await request.json()) as {
@@ -34,7 +36,13 @@ export async function POST(request: Request) {
 
     const orderId = `CR${Date.now()}${Math.random().toString(36).slice(2, 8)}`;
 
-    const { error: insertError } = await supabase.from('payment_orders').insert({
+    // Use service role client to bypass RLS for order insertion
+    const adminClient = createAdminClient(
+      process.env.NEXT_PUBLIC_SUPABASE_URL!,
+      process.env.SUPABASE_SERVICE_ROLE_KEY!
+    );
+
+    const { error: insertError } = await adminClient.from('payment_orders').insert({
       order_id: orderId,
       user_id: user.id,
       plan,
@@ -46,7 +54,7 @@ export async function POST(request: Request) {
     if (insertError) {
       console.error('Insert order error:', insertError);
       return NextResponse.json(
-        { error: 'Failed to create order' },
+        { error: '创建订单失败，请重试' },
         { status: 500 }
       );
     }
@@ -66,7 +74,7 @@ export async function POST(request: Request) {
   } catch (error) {
     console.error('Checkout error:', error);
     return NextResponse.json(
-      { error: 'Failed to create checkout session' },
+      { error: '支付创建失败，请重试' },
       { status: 500 }
     );
   }
