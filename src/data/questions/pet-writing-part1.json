@@ -168,5 +168,260 @@
     "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）什么工作适合青少年；2）可以从工作中学到什么技能；3）暑假应该工作还是享受假期。给出具体的工作建议并说明原因，列出可以学到的技能，对最后一个问题可以给出平衡的观点。使用 \"I think... would be...\" 表达建议，\"You'd learn...\" 描述好处。",
     "explanation_en": "English explanation: This email requires answering three questions: 1) what job is good for a teenager; 2) what skills you could learn from working; 3) whether to work or enjoy the holidays. Give specific job suggestions with reasons, list learnable skills, and offer a balanced view on the last question. Use 'I think... would be...' for suggestions and 'You'd learn...' to describe benefits.",
     "is_free": false
+  },
+  {
+    "id": "pet-w1-011",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 11,
+    "content": {
+      "stem": "Read the email from your English friend, Chris. Write an email to Chris and answer the questions. Write about 100 words.",
+      "prompt": "From: Chris\nSubject: Healthy lifestyle\n\nHi!\n\nI've decided to start living a healthier lifestyle. I want to eat better and exercise more, but I don't know where to start.\n\nWhat kind of food do you think I should eat more of? What's the best type of exercise for a beginner? Do you have any other tips for a healthy lifestyle?\n\nHelp me out!\nChris",
+      "word_limit": 100,
+      "sample_answer": "Hi Chris,\n\nThat's a great decision! Living a healthier lifestyle will make you feel so much better.\n\nI think you should eat more fruit, vegetables, and whole grains. Try to have a balanced breakfast every morning — something like porridge with fruit or eggs on toast. You should also drink plenty of water instead of sugary drinks.\n\nFor a beginner, I think walking or jogging is the best exercise because you don't need any special equipment. You could start with a short walk every day and gradually increase the distance.\n\nMy other tips are to get at least eight hours of sleep and try to reduce the time you spend looking at screens before bed.\n\nGood luck with your new lifestyle!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）应该多吃什么食物；2）对初学者来说最好的运动是什么；3）其他健康生活建议。给出具体、可行的建议，使用 \"I think you should...\" 和 \"Try to...\" 等句型。结尾要表示鼓励和支持。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what food to eat more of; 2) the best exercise for a beginner; 3) other healthy lifestyle tips. Give specific, practical advice using phrases like 'I think you should...' and 'Try to...'. End with encouragement and support.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-012",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 12,
+    "content": {
+      "stem": "Read the email from your English friend, Hannah. Write an email to Hannah and answer the questions. Write about 100 words.",
+      "prompt": "From: Hannah\nSubject: School project\n\nHi!\n\nWe have to do a group project about the environment for our science class. I'm in charge of our team.\n\nWhat environmental topic do you think we should focus on? How should we present our project (poster, video, or presentation)? What's the best way to make sure everyone in the group does their fair share of work?\n\nI need your advice!\nHannah",
+      "word_limit": 100,
+      "sample_answer": "Hi Hannah,\n\nYour project sounds really interesting! I have some ideas for you.\n\nI think you should focus on plastic pollution in the oceans because it's a very important topic right now. You could talk about how plastic affects sea animals and what people can do to reduce plastic waste.\n\nI'd suggest making a video because it would be more engaging than a poster. You could include interviews with classmates about their recycling habits and show some facts and statistics.\n\nTo make sure everyone does their share, you should divide the work clearly at the beginning. Give each person a specific task with a deadline, and have regular meetings to check everyone's progress.\n\nGood luck with the project!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）应该关注什么环保主题；2）如何呈现项目；3）如何确保每个人都完成分内工作。给出具体的主题建议并解释原因，比较不同的展示方式，提供实用的团队管理建议。使用 \"I'd suggest...\" 和 \"You should...\" 提出建议。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what environmental topic to focus on; 2) how to present the project; 3) how to ensure everyone does their share. Give a specific topic suggestion with reasons, compare different presentation formats, and provide practical team management advice. Use 'I'd suggest...' and 'You should...' for recommendations.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-013",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 13,
+    "content": {
+      "stem": "Read the email from your English friend, Ryan. Write an email to Ryan and answer the questions. Write about 100 words.",
+      "prompt": "From: Ryan\nSubject: Technology and free time\n\nHi!\n\nMy parents think I spend too much time using technology — my phone, computer, and video games. They want me to find other things to do in my free time.\n\nWhat do you think about spending a lot of time on technology? What activities would you suggest I try instead? Do you think parents should control how much technology teenagers use?\n\nWhat's your view?\nRyan",
+      "word_limit": 100,
+      "sample_answer": "Hi Ryan,\n\nI understand your situation — my parents sometimes say the same thing to me!\n\nI think technology is great, but I agree that spending too much time on screens isn't good for your eyes or your health. It's important to have a balance.\n\nI'd suggest trying some outdoor activities like cycling, hiking, or playing a sport with friends. You could also try drawing, reading, or learning to cook. These activities are fun and help you develop new skills.\n\nI think parents should give advice about technology use, but they shouldn't be too strict. It's better to agree on a reasonable time limit together rather than having rules forced on you.\n\nHope that helps!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）你对大量使用科技产品的看法；2）建议什么替代活动；3）父母是否应该控制青少年使用科技的时间。表达理解（表示你也有类似经历），给出平衡的观点，建议具体的替代活动。使用 \"I think... but...\" 展示多角度思考。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) your view on spending lots of time on technology; 2) what alternative activities to suggest; 3) whether parents should control teenagers' technology use. Show understanding (mention similar experiences), give a balanced view, and suggest specific alternative activities. Use 'I think... but...' to show multi-perspective thinking.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-014",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 14,
+    "content": {
+      "stem": "Read the email from your English friend, Olivia. Write an email to Olivia and answer the questions. Write about 100 words.",
+      "prompt": "From: Olivia\nSubject: Keeping a pet\n\nHi!\n\nI'm thinking about getting a pet, but I'm not sure what kind of animal would be best. My parents say I need to show that I'm responsible enough.\n\nWhat kind of pet do you think I should get? What are the advantages and disadvantages of having a pet? How can I show my parents that I'm responsible?\n\nI'd love your advice!\nOlivia",
+      "word_limit": 100,
+      "sample_answer": "Hi Olivia,\n\nHow exciting that you might get a pet! I think it's a wonderful idea.\n\nI'd suggest getting a cat because they're quite independent and don't need as much attention as dogs. They're also great company and very entertaining to watch!\n\nThe advantages of having a pet are that they keep you company, teach you responsibility, and can make you feel less stressed. The disadvantages are that they need feeding, cleaning, and sometimes vet visits, which can be expensive.\n\nTo show your parents you're responsible, you could start by helping more with chores around the house. You could also offer to look after a friend's pet for a weekend to prove you can do it.\n\nI hope you get your pet soon!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）推荐什么宠物；2）养宠物的优缺点；3）如何向父母证明自己有责任心。推荐宠物时要给出原因，列举优缺点时要全面，提供具体的行动方案来证明责任心。使用 \"I'd suggest...\" 提建议，\"The advantages/disadvantages are...\" 对比优缺点。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what pet to recommend; 2) advantages and disadvantages of having a pet; 3) how to show parents you're responsible. Give reasons for your pet recommendation, list comprehensive pros and cons, and provide specific action plans to prove responsibility. Use 'I'd suggest...' and 'The advantages/disadvantages are...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-015",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 15,
+    "content": {
+      "stem": "Read the email from your English friend, James. Write an email to James and answer the questions. Write about 100 words.",
+      "prompt": "From: James\nSubject: Weekend plans\n\nHi!\n\nI've got some friends visiting from another city this weekend. I want to show them a good time, but I'm not sure what to plan.\n\nWhat are the best things to do in your city at the weekend? Where do you think I should take them to eat? Is there anything special happening this weekend that we could go to?\n\nGive me some ideas!\nJames",
+      "word_limit": 100,
+      "sample_answer": "Hi James,\n\nHow exciting that your friends are visiting! I'm sure you'll have a great weekend together.\n\nThere are lots of fun things to do in our city. I think you should take them to the old town area — it's really beautiful and there are lots of interesting shops and cafes. You could also visit the city park or go to the new science museum, which is really impressive.\n\nFor food, I'd recommend the noodle restaurant on Main Street. The food is delicious and not too expensive. You could also try the street food market near the river.\n\nI think there's a music festival happening in the park this weekend, so you could take your friends there. It should be a lot of fun!\n\nEnjoy your weekend!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）你所在城市周末最好的活动；2）去哪里吃饭；3）这个周末有没有特别活动。给出多个具体的建议（地点名称、活动），推荐餐厅时说明原因（好吃、便宜等），提到特别活动增加实用性。使用 \"I think you should...\" 和 \"I'd recommend...\" 提出建议。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) best things to do in your city at the weekend; 2) where to eat; 3) any special events this weekend. Give multiple specific suggestions (place names, activities), explain why you recommend a restaurant, and mention special events for added usefulness. Use 'I think you should...' and 'I'd recommend...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-016",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 16,
+    "content": {
+      "stem": "Read the email from your English friend, Mia. Write an email to Mia and answer the questions. Write about 100 words.",
+      "prompt": "From: Mia\nSubject: Social media\n\nHi!\n\nMy parents are worried about me using social media. They think it's dangerous for young people.\n\nDo you use social media? What do you enjoy about it? Do you think there are any risks, and how can we stay safe online?\n\nI'd like to know your thoughts!\nMia",
+      "word_limit": 100,
+      "sample_answer": "Hi Mia,\n\nI understand why your parents are worried — my parents were concerned at first too.\n\nYes, I use social media to keep in touch with friends and follow my favourite musicians and sports teams. I enjoy it because it's a fun way to share photos and see what my friends are doing.\n\nHowever, I think there are some risks. You should never share personal information like your address or phone number. Some people online might not be who they say they are, so you should be careful about talking to strangers. It's also important not to spend too much time on social media.\n\nTo stay safe, I'd suggest making your account private and only accepting friend requests from people you know in real life.\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）你是否使用社交媒体；2）你喜欢社交媒体的什么；3）有什么风险以及如何安全使用。先肯定社交媒体的好处，然后诚实地谈论风险，最后给出安全使用的建议。使用 \"I enjoy it because...\" 描述好处，\"You should never...\" 和 \"I'd suggest...\" 提供安全建议。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) whether you use social media; 2) what you enjoy about it; 3) any risks and how to stay safe. Acknowledge the benefits first, honestly discuss risks, then give safety advice. Use 'I enjoy it because...' for benefits, 'You should never...' and 'I'd suggest...' for safety tips.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-017",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 17,
+    "content": {
+      "stem": "Read the email from your English friend, Nathan. Write an email to Nathan and answer the questions. Write about 100 words.",
+      "prompt": "From: Nathan\nSubject: School uniform\n\nHi!\n\nOur school is thinking about making all students wear a school uniform. Some students are happy about it, but others aren't.\n\nWhat do you think about school uniforms? What are the advantages of wearing a uniform? Are there any disadvantages?\n\nI'd love to hear your opinion!\nNathan",
+      "word_limit": 100,
+      "sample_answer": "Hi Nathan,\n\nThat's an interesting topic! I have strong opinions about this.\n\nPersonally, I think school uniforms are a good idea. One big advantage is that they make everyone look equal, so students don't get judged by what they wear. This can help reduce bullying. Uniforms also save time in the morning because you don't have to decide what to put on!\n\nHowever, there are some disadvantages. Uniforms can be expensive for families, and some students feel they can't express their personality. They can also be uncomfortable, especially in hot weather.\n\nOverall, I think the advantages outweigh the disadvantages, but I believe students should have some choice — for example, being allowed to choose between trousers and skirts.\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）你对校服的看法；2）穿校服的优点；3）有什么缺点。表达清晰的个人观点，分别列出优点和缺点并给出理由。最后可以给出一个综合结论。使用 \"One big advantage is that...\" 和 \"However, there are some disadvantages\" 组织论点。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) your view on school uniforms; 2) advantages of wearing a uniform; 3) any disadvantages. Express a clear personal opinion, list pros and cons with reasons, and offer a balanced conclusion. Use 'One big advantage is that...' and 'However, there are some disadvantages' to structure your arguments.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-018",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 18,
+    "content": {
+      "stem": "Read the email from your English friend, Grace. Write an email to Grace and answer the questions. Write about 100 words.",
+      "prompt": "From: Grace\nSubject: Film night\n\nHi!\n\nI'm organising a film night at my house for our friends this Friday. I need help choosing what to watch!\n\nWhat type of film do you think we should watch? Do you have a specific film you would recommend? What snacks and drinks should I get for the evening?\n\nHelp me plan it!\nGrace",
+      "word_limit": 100,
+      "sample_answer": "Hi Grace,\n\nA film night sounds like so much fun! I'd love to help you plan it.\n\nI think we should watch a comedy because everyone will be in a good mood and we can all laugh together. If people prefer something more exciting, an adventure film would also be great.\n\nI'd recommend watching The Secret Life of Walter Mitty. It's funny, exciting, and it has a really positive message. The scenery in the film is beautiful too!\n\nFor snacks, you should get some popcorn — you can't have a film night without it! You could also get some crisps, chocolate, and sweets. For drinks, some juice and hot chocolate would be perfect, especially since it'll be cold on Friday evening.\n\nI can't wait!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）应该看什么类型的电影；2）推荐一部具体的电影；3）应该准备什么零食和饮料。说明你推荐某种电影类型的原因，推荐具体电影时简要描述其特点，零食建议要符合电影之夜的氛围。使用 \"I'd recommend watching...\" 推荐电影，\"You should get...\" 建议零食。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what type of film to watch; 2) a specific film recommendation; 3) what snacks and drinks to get. Explain why you recommend a certain genre, briefly describe the recommended film, and suggest snacks that fit a film night atmosphere. Use 'I'd recommend watching...' and 'You should get...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-019",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 19,
+    "content": {
+      "stem": "Read the email from your English friend, Leo. Write an email to Leo and answer the questions. Write about 100 words.",
+      "prompt": "From: Leo\nSubject: Environmental project\n\nHi!\n\nOur school wants to become more environmentally friendly. The head teacher has asked students for ideas.\n\nWhat changes do you think the school should make? How can students help to protect the environment at school? Do you think it's important for schools to be environmentally friendly?\n\nI need some good ideas!\nLeo",
+      "word_limit": 100,
+      "sample_answer": "Hi Leo,\n\nWhat a great project! I think every school should try to be more environmentally friendly.\n\nI think the school should start by putting recycling bins in every classroom and the cafeteria. You could also set up a garden where students can grow vegetables and flowers. Another idea is to use less paper by doing more work on computers.\n\nStudents can help by bringing reusable water bottles instead of buying plastic ones. They could also start a 'green team' to come up with new environmental ideas each month and organise litter-picking days around the school.\n\nI definitely think it's important for schools to be environmentally friendly because it teaches young people good habits that they'll keep for life.\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）学校应该做什么改变；2）学生如何在学校帮助保护环境；3）学校做到环保是否重要。提出具体可行的建议，从学校设施和学生行动两个层面讨论，解释为什么学校环保教育很重要。使用 \"I think the school should...\" 和 \"Students can help by...\" 提出不同层面的建议。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what changes the school should make; 2) how students can help protect the environment; 3) whether it's important for schools to be eco-friendly. Give specific, practical suggestions at both the school facility and student action levels, and explain why environmental education matters. Use 'I think the school should...' and 'Students can help by...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-020",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 20,
+    "content": {
+      "stem": "Read the email from your English friend, Zoe. Write an email to Zoe and answer the questions. Write about 100 words.",
+      "prompt": "From: Zoe\nSubject: Exchange student\n\nHi!\n\nAn exchange student from Japan is coming to stay with my family for two weeks. I want to make sure she has a great time.\n\nWhat things should I show her in our area? What should I cook for her, considering she might not be used to our food? How can I help her feel comfortable and welcome?\n\nI really want your suggestions!\nZoe",
+      "word_limit": 100,
+      "sample_answer": "Hi Zoe,\n\nHow wonderful that you're hosting an exchange student! I'm sure she'll love staying with you.\n\nI think you should show her the most famous places in our area, like the old castle and the riverside walk. You could also take her to the local market — she'd probably love seeing all the different food and crafts. A visit to a museum or art gallery would be interesting too.\n\nFor food, I'd suggest cooking some simple dishes that are easy to enjoy, like pasta or grilled chicken with salad. You could also ask her what Japanese food she misses and try making it together — that would be a fun activity!\n\nTo help her feel welcome, make sure to introduce her to your friends and include her in your daily activities. A small welcome gift, like a notebook with a kind message, would be a lovely touch.\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）应该带她参观当地什么地方；2）应该给她做什么食物；3）如何让她感到舒适和受欢迎。推荐具体的景点和活动，考虑文化差异推荐食物，提供贴心的欢迎方式。使用 \"I think you should show her...\" 和 \"I'd suggest cooking...\" 提出建议。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what to show her in your area; 2) what to cook considering different food preferences; 3) how to make her feel comfortable and welcome. Recommend specific attractions and activities, suggest food considering cultural differences, and offer thoughtful welcoming ideas. Use 'I think you should show her...' and 'I'd suggest cooking...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-021",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 21,
+    "content": {
+      "stem": "Read the email from your English friend, Ethan. Write an email to Ethan and answer the questions. Write about 100 words.",
+      "prompt": "From: Ethan\nSubject: Saving money\n\nHi!\n\nI want to save up money to buy a new bike, but I keep spending all my pocket money. I need help!\n\nDo you have any tips for saving money? How do you manage your own pocket money? Do you think it's important for teenagers to learn about money?\n\nAny advice would be great!\nEthan",
+      "word_limit": 100,
+      "sample_answer": "Hi Ethan,\n\nI know how hard it can be to save money — I've had the same problem!\n\nMy best tip is to set a savings target and put some money aside every week. Even a small amount adds up over time. You could keep your savings in a jar or open a savings account. Another tip is to avoid buying things you don't really need — before buying something, ask yourself if you'll still want it in a week.\n\nI manage my pocket money by dividing it into three parts: one for saving, one for things I need, and one for fun. This way, I can still enjoy my money while saving for bigger things.\n\nI think it's very important for teenagers to learn about money because it's a skill we'll need for the rest of our lives.\n\nGood luck saving for your bike!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）省钱的建议；2）你如何管理自己的零用钱；3）青少年学习理财是否重要。给出实用的省钱技巧，分享自己的理财方法，解释为什么理财教育对年轻人很重要。使用 \"My best tip is to...\" 给建议，\"I manage my money by...\" 分享经验。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) tips for saving money; 2) how you manage your pocket money; 3) whether it's important for teenagers to learn about money. Give practical saving tips, share your own money management methods, and explain why financial literacy matters for young people. Use 'My best tip is to...' and 'I manage my money by...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-022",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 22,
+    "content": {
+      "stem": "Read the email from your English friend, Chloe. Write an email to Chloe and answer the questions. Write about 100 words.",
+      "prompt": "From: Chloe\nSubject: Talent show\n\nHi!\n\nOur school is having a talent show next month. I'd love to take part, but I'm really nervous about performing in front of people.\n\nWhat talent do you think I should perform? How can I prepare so I do well? Do you have any tips for dealing with stage fright?\n\nPlease help me feel more confident!\nChloe",
+      "word_limit": 100,
+      "sample_answer": "Hi Chloe,\n\nDon't worry — it's completely normal to feel nervous about performing! I think you should definitely take part.\n\nI know you have a beautiful singing voice, so I think you should sing a song that you love. When you're performing something you enjoy, your confidence shows naturally.\n\nTo prepare, practise your performance every day in front of a mirror. You could also perform for your family or close friends first to get used to having an audience. Record yourself on your phone so you can see what looks good.\n\nFor stage fright, take deep breaths before you go on stage and remember that the audience wants you to succeed. Focus on enjoying the performance rather than worrying about making mistakes.\n\nYou'll be amazing!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）推荐什么才艺表演；2）如何准备才能表现好；3）如何应对怯场。给出具体的表演建议并说明原因，提供循序渐进的练习方法，分享克服紧张的技巧。语气要鼓励和支持。使用 \"I think you should...\" 提建议，\"To prepare...\" 给出步骤。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what talent to perform; 2) how to prepare well; 3) tips for dealing with stage fright. Give a specific performance suggestion with reasons, provide progressive practice methods, and share techniques for overcoming nervousness. Keep an encouraging and supportive tone. Use 'I think you should...' and 'To prepare...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-023",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 23,
+    "content": {
+      "stem": "Read the email from your English friend, Max. Write an email to Max and answer the questions. Write about 100 words.",
+      "prompt": "From: Max\nSubject: Photography hobby\n\nHi!\n\nI've just got a new camera for my birthday and I want to take up photography as a hobby.\n\nWhat kind of things do you think I should photograph to start with? Do you know any good ways to improve my photography skills? Should I share my photos on social media?\n\nI'm really excited to get started!\nMax",
+      "word_limit": 100,
+      "sample_answer": "Hi Max,\n\nCongratulations on your new camera! Photography is a fantastic hobby.\n\nTo start with, I think you should photograph things around you — like nature, buildings, and your friends and family. Landscapes are a great way to practise because you can experiment with light and angles. You could also try taking photos of food or pets, which are always popular!\n\nTo improve your skills, I'd suggest watching online tutorials about composition and lighting. You could also join a photography club or follow professional photographers on social media for inspiration. The most important thing is to practise as much as possible.\n\nI think sharing your photos online is a great idea! You'll get feedback from other people and it can motivate you to keep improving. Just be careful not to share photos that reveal personal information like your home address.\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）初学者应该拍什么；2）如何提高摄影技巧；3）是否应该在社交媒体分享照片。推荐适合初学者的拍摄主题，提供具体的学习方法（在线教程、加入社团等），对社交媒体分享给出平衡的建议。使用 \"I'd suggest...\" 和 \"The most important thing is...\" 提供指导。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what to photograph as a beginner; 2) how to improve photography skills; 3) whether to share photos on social media. Recommend subjects suitable for beginners, provide specific learning methods (online tutorials, joining clubs), and give balanced advice about social media sharing. Use 'I'd suggest...' and 'The most important thing is...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-024",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 24,
+    "content": {
+      "stem": "Read the email from your English friend, Isla. Write an email to Isla and answer the questions. Write about 100 words.",
+      "prompt": "From: Isla\nSubject: Community event\n\nHi!\n\nOur neighbourhood is planning a community event to bring people together. The organisers want ideas from everyone.\n\nWhat kind of event do you think would be best? Where should it be held and when? How can we make sure people of all ages enjoy it?\n\nSend me your best ideas!\nIsla",
+      "word_limit": 100,
+      "sample_answer": "Hi Isla,\n\nA community event is a lovely idea! It's great to see people in the neighbourhood getting together.\n\nI think a street fair would be the best kind of event. It could have food stalls, games, live music, and maybe an art or craft market. There could also be a small stage for local performers.\n\nI think it should be held in the park in the centre of the neighbourhood, on a Saturday afternoon in summer so the weather is nice and most people are free.\n\nTo make sure all ages enjoy it, you could plan different activities — like face painting and a bouncy castle for young children, a football tournament for teenagers, and a tea tent with live music for older people.\n\nI hope it goes well!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）什么类型的活动最好；2）应该在哪里、什么时候举办；3）如何确保所有年龄段的人都能享受。推荐具体的活动形式并描述其内容，选择合理的时间和地点并解释原因，为不同年龄群体提供不同的活动安排。使用 \"I think... would be the best...\" 和 \"To make sure...\" 组织建议。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) what kind of event would be best; 2) where and when to hold it; 3) how to ensure people of all ages enjoy it. Recommend a specific event type and describe its content, choose a reasonable time and place with reasons, and plan different activities for different age groups. Use 'I think... would be the best...' and 'To make sure...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w1-025",
+    "level": "pet",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 25,
+    "content": {
+      "stem": "Read the email from your English friend, Finn. Write an email to Finn and answer the questions. Write about 100 words.",
+      "prompt": "From: Finn\nSubject: Online learning\n\nHi!\n\nMy school has started offering some lessons online in the evenings, and my parents want me to try them.\n\nWhat do you think about learning online compared to learning in a classroom? Have you ever taken an online course? What advice would you give me for studying effectively at home?\n\nI'd appreciate your thoughts!\nFinn",
+      "word_limit": 100,
+      "sample_answer": "Hi Finn,\n\nOnline learning can be really useful if you approach it the right way!\n\nI think both online and classroom learning have their advantages. Online learning is more flexible because you can study at your own pace and watch videos again if you don't understand something. However, it can be harder to stay focused, and you miss the social side of being with classmates.\n\nI took an online English course last year, and it was really helpful. I liked being able to pause and replay the lessons, and the quizzes at the end helped me check my understanding.\n\nMy advice for studying at home is to find a quiet place without distractions, set a regular study schedule, and take short breaks every thirty minutes. It also helps to take notes just like you would in a real classroom.\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这封邮件需要回答三个问题：1）在线学习和课堂学习的比较；2）你是否上过在线课程；3）在家有效学习的建议。客观比较两种学习方式的优缺点，分享在线学习的个人体验，给出实用的居家学习技巧。使用 \"I think both... have their advantages\" 比较，\"My advice is to...\" 提供建议。",
+    "explanation_en": "English explanation: This email requires answering three questions: 1) comparing online and classroom learning; 2) whether you've taken an online course; 3) advice for studying effectively at home. Objectively compare the pros and cons of both learning methods, share your personal online learning experience, and give practical home study tips. Use 'I think both... have their advantages' for comparison and 'My advice is to...' for suggestions.",
+    "is_free": false
   }
 ]

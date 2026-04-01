@@ -168,5 +168,260 @@
     "explanation_zh": "中文解析：这篇议论文讨论青年志愿服务是否应该是强制性的。使用所有提示点：培养责任感、对年轻人空闲时间的影响，加上你自己的观点。可以采用折中立场，用 \"On the one hand... On the other hand...\" 结构展示两方面的分析。高级词汇如 \"transformative\"、\"mandatory\"、\"compelled\" 提升语言水平。",
     "explanation_en": "English explanation: This essay discusses whether youth volunteering should be compulsory. Use all notes: developing responsibility, effect on free time, plus your own idea. You can take a balanced or compromise position, using 'On the one hand... On the other hand...' structure to show analysis of both sides. Advanced vocabulary like 'transformative', 'mandatory', 'compelled' elevates language quality.",
     "is_free": false
+  },
+  {
+    "id": "fce-w1-011",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 11,
+    "content": {
+      "stem": "In your English class you have been discussing mental health awareness. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that schools should teach students about mental health and emotional wellbeing. Others think this is the responsibility of parents and families.\n\nDo you think schools should play a role in mental health education?\n\nNotes\nWrite about:\n1. reducing stigma around mental health\n2. the pressure of academic life\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Mental health has become one of the most significant issues facing young people today, and I firmly believe that schools should play an active role in addressing it.\n\nTo begin with, schools are uniquely positioned to reduce the stigma around mental health. By incorporating mental health education into the curriculum, students learn that seeking help is a sign of strength, not weakness. Open discussions in a safe environment can normalise conversations about feelings and emotions, which benefits the entire school community.\n\nMoreover, the academic pressure that students face on a daily basis makes it essential for schools to address mental wellbeing directly. Exams, deadlines, and the constant pursuit of high grades can cause significant stress and anxiety. Schools that equip students with coping strategies — such as mindfulness, time management, and resilience-building techniques — are better preparing them for life.\n\nFurthermore, not all families have the knowledge or resources to discuss mental health effectively. Schools can bridge this gap by providing professional support and guidance to every student, regardless of their background.\n\nIn conclusion, mental health education in schools is not a luxury but a necessity that benefits both individuals and society as a whole."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论学校是否应该在心理健康教育中发挥作用。使用所有提示点：减少心理健康方面的污名化、学业压力，加上你自己的观点。使用论证技巧如举例和因果分析。高级词汇如 \"stigma\"、\"normalise\"、\"resilience-building\" 展示B2水平。",
+    "explanation_en": "English explanation: This essay discusses whether schools should play a role in mental health education. Use all notes: reducing stigma, academic pressure, plus your own idea. Use argumentation techniques like examples and causal analysis. Advanced vocabulary like 'stigma', 'normalise', 'resilience-building' demonstrates B2 level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-012",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 12,
+    "content": {
+      "stem": "In your English class you have been talking about the role of science in society. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people think that scientific research should always be funded by governments. Others believe that private companies should invest more in science.\n\nWhat is your opinion?\n\nNotes\nWrite about:\n1. medical research and public health\n2. the motivation behind scientific discoveries\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "The question of who should fund scientific research is of great importance, as it affects the direction and priorities of discovery. I believe that both government and private funding are necessary, but for different reasons.\n\nWhen it comes to medical research and public health, government funding is essential. Diseases that affect large populations — such as malaria or tuberculosis — may not be profitable for companies to research, yet the benefits to humanity are immense. Governments have a duty to invest in areas where the public good is at stake, regardless of commercial potential.\n\nHowever, the motivation behind scientific discoveries also matters. Private companies often drive innovation because they are motivated by competition and the desire to bring new products to market quickly. Many of the technologies we use daily — from smartphones to electric vehicles — were developed with private investment.\n\nAdditionally, collaboration between governments and private enterprises can produce the best outcomes. Joint funding models allow researchers to pursue ambitious projects while ensuring that discoveries are accessible to all.\n\nIn conclusion, a balanced approach that combines public and private funding is the most effective way to advance scientific knowledge and benefit society."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论科学研究应该由谁来资助。使用所有提示点：医学研究与公共健康、科学发现背后的动机，加上你自己的观点。展示你能分析不同资助来源的优缺点。使用高级表达如 \"of great importance\"、\"regardless of commercial potential\"、\"joint funding models\"。",
+    "explanation_en": "English explanation: This essay discusses who should fund scientific research. Use all notes: medical research and public health, motivation behind discoveries, plus your own idea. Show you can analyse the pros and cons of different funding sources. Use advanced expressions like 'of great importance', 'regardless of commercial potential', 'joint funding models'.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-013",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 13,
+    "content": {
+      "stem": "In your English class you have been discussing digital transformation in everyday life. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that the increasing use of artificial intelligence will improve our lives. Others worry that it could cause serious problems for society.\n\nDo you think AI will do more good than harm?\n\nNotes\nWrite about:\n1. employment and the job market\n2. healthcare and scientific progress\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Artificial intelligence is transforming nearly every aspect of our lives, and the debate over its impact grows more urgent each year. While I acknowledge the risks, I believe that AI will ultimately do more good than harm if managed responsibly.\n\nRegarding employment, it is true that AI may automate many routine jobs, leading to redundancies in certain sectors. However, history shows that technological revolutions also create new types of work. The key is to ensure that education systems prepare young people for the jobs of the future, rather than those of the past.\n\nIn terms of healthcare, AI has already demonstrated remarkable potential. From diagnosing diseases more accurately than human doctors to accelerating drug development, AI-driven tools are saving lives and improving patient outcomes. These advances represent some of the most compelling arguments in favour of the technology.\n\nEqually significant is AI's potential to address environmental challenges. Machine learning algorithms can optimise energy consumption, predict natural disasters, and improve agricultural efficiency, all of which contribute to a more sustainable world.\n\nTo sum up, AI presents both opportunities and challenges, but with proper regulation and ethical oversight, its benefits will far exceed its risks."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论人工智能对社会的影响。使用所有提示点：就业与劳动力市场、医疗保健与科学进步，加上你自己的观点。展示你对科技话题的深入思考。高级词汇如 \"redundancies\"、\"compelling\"、\"ethical oversight\" 和因果分析结构提升文章水平。",
+    "explanation_en": "English explanation: This essay discusses AI's impact on society. Use all notes: employment and the job market, healthcare and scientific progress, plus your own idea. Show deep thinking about technology topics. Advanced vocabulary like 'redundancies', 'compelling', 'ethical oversight' and causal analysis structures elevate the essay.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-014",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 14,
+    "content": {
+      "stem": "In your English class you have been talking about cultural diversity. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people think that living in a culturally diverse society is beneficial. Others believe it can lead to misunderstanding and conflict.\n\nWhat is your view?\n\nNotes\nWrite about:\n1. learning from different perspectives\n2. challenges of communication and integration\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Cultural diversity is a defining feature of many modern societies, and I strongly believe that its benefits far outweigh any challenges it may present.\n\nFirst of all, living alongside people from different cultural backgrounds provides invaluable opportunities to learn from different perspectives. Exposure to new ideas, traditions, and ways of thinking broadens our understanding of the world and fosters empathy. In diverse communities, people develop the ability to see issues from multiple angles, which is a vital skill in an interconnected world.\n\nAdmittedly, communication barriers and difficulties with integration can arise in diverse societies. Misunderstandings may occur when people have different customs or values. However, these challenges can be overcome through education, community events, and policies that promote inclusion and mutual respect.\n\nMoreover, cultural diversity drives creativity and innovation. Research consistently shows that diverse teams produce more original ideas and better solutions than homogeneous groups. This is true in business, science, and the arts alike.\n\nIn conclusion, while cultural diversity requires effort and understanding from all members of society, it enriches our lives immeasurably and should be embraced rather than feared."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论文化多样性的利弊。使用所有提示点：从不同视角学习、沟通与融合的挑战，加上你自己的观点。使用让步结构如 \"Admittedly... However...\" 来承认对方观点再进行反驳。高级词汇如 \"invaluable\"、\"fosters empathy\"、\"homogeneous\" 展示B2水平。",
+    "explanation_en": "English explanation: This essay discusses the pros and cons of cultural diversity. Use all notes: learning from different perspectives, communication and integration challenges, plus your own idea. Use concessive structures like 'Admittedly... However...' to acknowledge then refute the opposing view. Advanced vocabulary like 'invaluable', 'fosters empathy', 'homogeneous' demonstrates B2 level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-015",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 15,
+    "content": {
+      "stem": "In your English class you have been discussing ethical consumerism. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that consumers have a responsibility to buy products that are ethically produced, even if they cost more. Others think price and convenience are more important.\n\nWhat do you think?\n\nNotes\nWrite about:\n1. working conditions in factories\n2. environmental impact of production\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "The debate over ethical consumerism raises important questions about our responsibilities as shoppers. I believe that consumers should make ethical choices wherever possible, though I recognise this is not always straightforward.\n\nFirst and foremost, the working conditions in many factories around the world remain deeply troubling. When consumers choose products from companies that treat their workers fairly and pay living wages, they send a powerful message to the market. Demand for ethical goods encourages more companies to adopt responsible practices.\n\nAdditionally, the environmental impact of production is a growing concern. Fast fashion, for example, generates enormous quantities of waste and pollution. By choosing sustainably produced items — even if they cost slightly more — consumers can help reduce the environmental damage caused by mass production.\n\nHowever, it is important to acknowledge that not everyone can afford to buy ethical products. The responsibility should not fall solely on individuals. Governments must introduce regulations that make ethical production the standard, rather than the expensive exception.\n\nIn conclusion, ethical consumerism is a shared responsibility. While consumers should strive to make better choices, systemic change is equally essential."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论消费者是否有责任购买道德生产的产品。使用所有提示点：工厂工作条件、生产的环境影响，加上你自己的观点。展示你对社会责任和经济现实之间张力的理解。高级词汇如 \"ethical consumerism\"、\"living wages\"、\"systemic change\" 体现B2水平。",
+    "explanation_en": "English explanation: This essay discusses whether consumers should buy ethically produced products. Use all notes: factory working conditions, environmental impact of production, plus your own idea. Show understanding of the tension between social responsibility and economic reality. Advanced vocabulary like 'ethical consumerism', 'living wages', 'systemic change' demonstrates B2 level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-016",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 16,
+    "content": {
+      "stem": "In your English class you have been talking about urban planning and city life. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people think that modern cities should be designed primarily for cars and drivers. Others believe that cities should prioritise pedestrians and cyclists.\n\nWhich view do you support?\n\nNotes\nWrite about:\n1. pollution and public health\n2. convenience and economic activity\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "The design of our cities has a profound impact on the quality of life for their inhabitants. I firmly believe that cities should prioritise pedestrians and cyclists over private cars.\n\nWith regard to pollution and public health, car-dominated cities suffer from poor air quality, noise pollution, and high rates of respiratory illness. In contrast, cities that encourage walking and cycling create healthier environments where residents can breathe cleaner air and incorporate physical activity into their daily routines.\n\nIt is sometimes argued that cars are essential for economic activity and convenience. While this is partly true, well-designed public transport systems, cycling infrastructure, and pedestrian zones can actually boost local businesses. Research shows that people who walk or cycle through a neighbourhood are more likely to visit shops and cafes than those who drive past at speed.\n\nFurthermore, pedestrian-friendly cities tend to have stronger communities. When streets are designed for people rather than vehicles, residents interact more with their neighbours, which fosters social cohesion and a greater sense of belonging.\n\nIn conclusion, cities that put people first create healthier, more prosperous, and more connected communities."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论城市应该为汽车还是行人和自行车设计。使用所有提示点：污染与公共健康、便利性与经济活动，加上你自己的观点。使用具体论据和反驳对立观点的技巧。高级表达如 \"profound impact\"、\"social cohesion\"、\"incorporate physical activity\" 展示语言水平。",
+    "explanation_en": "English explanation: This essay discusses whether cities should be designed for cars or for pedestrians and cyclists. Use all notes: pollution and public health, convenience and economic activity, plus your own idea. Use specific evidence and techniques for refuting opposing arguments. Advanced expressions like 'profound impact', 'social cohesion', 'incorporate physical activity' demonstrate language level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-017",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 17,
+    "content": {
+      "stem": "In your English class you have been discussing the gap year concept. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people think that taking a gap year before university is a waste of time. Others believe it is a valuable experience that helps young people grow.\n\nDo you think taking a gap year is a good idea?\n\nNotes\nWrite about:\n1. personal maturity and independence\n2. the risk of losing academic momentum\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "The question of whether young people should take a gap year before university is one that divides opinion. On balance, I believe that a well-planned gap year can be an enormously positive experience.\n\nIn terms of personal maturity, a gap year offers young people the chance to step outside their comfort zone, face new challenges, and develop independence. Whether travelling, volunteering, or working, students gain real-world experience that helps them approach university with greater confidence and a clearer sense of purpose.\n\nAdmittedly, there is a risk of losing academic momentum. After a year away from formal education, some students may find it difficult to return to disciplined study. However, research suggests that gap-year students often perform better at university because they are more motivated and have a stronger sense of direction.\n\nMoreover, a gap year can help students make more informed career choices. Many young people enter university without a clear idea of what they want to do. Time spent exploring different fields can prevent costly changes of direction later.\n\nIn conclusion, while a gap year is not for everyone, those who plan it thoughtfully are likely to reap significant personal and academic benefits."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论间隔年（gap year）是否是一个好主意。使用所有提示点：个人成熟与独立、失去学术动力的风险，加上你自己的观点。使用让步+反驳结构（Admittedly... However...）。高级表达如 \"step outside their comfort zone\"、\"reap significant benefits\"、\"costly changes of direction\" 提升文章质量。",
+    "explanation_en": "English explanation: This essay discusses whether taking a gap year is a good idea. Use all notes: personal maturity and independence, risk of losing academic momentum, plus your own idea. Use concession-refutation structure (Admittedly... However...). Advanced expressions like 'step outside their comfort zone', 'reap significant benefits', 'costly changes of direction' elevate the essay.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-018",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 18,
+    "content": {
+      "stem": "In your English class you have been talking about sustainability and the fashion industry. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people think that fast fashion is harmless and provides affordable clothing for everyone. Others argue that it damages the environment and exploits workers.\n\nWhat is your view on fast fashion?\n\nNotes\nWrite about:\n1. environmental waste and pollution\n2. affordability and access to clothing\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Fast fashion has revolutionised the clothing industry by making trendy garments available at low prices. However, I believe that its environmental and social costs are far too high to be acceptable.\n\nFirst of all, the environmental waste generated by fast fashion is staggering. The industry is responsible for enormous quantities of water pollution, textile waste, and carbon emissions. Many cheaply made garments end up in landfills within months of purchase, contributing to a throwaway culture that is simply unsustainable.\n\nIt is true that fast fashion makes clothing affordable and accessible. For many people on low incomes, these brands provide their only option for buying new clothes. This is a valid point that cannot be dismissed. Nevertheless, affordability should not come at the expense of the planet or human rights.\n\nFurthermore, the workers who produce fast fashion garments often endure appalling conditions for very low wages. Consumers deserve to know that the clothes they buy have not been made through exploitation.\n\nIn conclusion, while I understand the appeal of cheap clothing, we must find ways to make fashion both affordable and sustainable. Supporting second-hand clothing, choosing quality over quantity, and demanding greater transparency from brands are all steps in the right direction."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论快时尚的利弊。使用所有提示点：环境浪费与污染、可负担性与获得衣物的机会，加上你自己的观点。展示你能承认对方观点的合理性（affordability is valid）同时坚持你的立场。高级词汇如 \"staggering\"、\"unsustainable\"、\"transparency\" 体现B2水平。",
+    "explanation_en": "English explanation: This essay discusses the pros and cons of fast fashion. Use all notes: environmental waste and pollution, affordability and access to clothing, plus your own idea. Show you can acknowledge the validity of the opposing view (affordability is valid) while maintaining your position. Advanced vocabulary like 'staggering', 'unsustainable', 'transparency' demonstrates B2 level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-019",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 19,
+    "content": {
+      "stem": "In your English class you have been discussing the importance of learning foreign languages. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that learning a foreign language is essential in today's world. Others think that translation technology has made language learning unnecessary.\n\nDo you think everyone should learn at least one foreign language?\n\nNotes\nWrite about:\n1. career opportunities and travel\n2. the effectiveness of translation apps\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "In an increasingly connected world, the question of whether language learning remains necessary is highly relevant. Despite advances in translation technology, I am convinced that learning a foreign language is as important as ever.\n\nWith regard to career opportunities, speaking a foreign language opens doors that would otherwise remain closed. Employers in international business, diplomacy, tourism, and education actively seek multilingual candidates. Furthermore, travelling to a foreign country is a far richer experience when you can communicate with local people in their own language.\n\nWhile translation apps have improved dramatically, they are far from perfect. They struggle with nuance, humour, and cultural context — precisely the elements that make genuine communication meaningful. Relying solely on technology creates a barrier between people rather than removing one.\n\nMoreover, learning a language has significant cognitive benefits. Research shows that bilingual individuals have sharper memory, better problem-solving skills, and even a reduced risk of cognitive decline in later life. These benefits extend far beyond mere communication.\n\nIn conclusion, translation technology is a useful supplement, but it can never replace the deep understanding and personal connections that come from learning a language properly."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论在翻译技术时代学习外语是否仍然必要。使用所有提示点：职业机会与旅行、翻译应用的有效性，加上你自己的观点。反驳 \"翻译技术使语言学习不必要\" 的观点时要具体。高级表达如 \"nuance\"、\"cognitive benefits\"、\"cognitive decline\" 展示词汇深度。",
+    "explanation_en": "English explanation: This essay discusses whether language learning is still necessary in the age of translation technology. Use all notes: career opportunities and travel, effectiveness of translation apps, plus your own idea. Be specific when refuting the argument that translation technology makes language learning unnecessary. Advanced expressions like 'nuance', 'cognitive benefits', 'cognitive decline' show vocabulary depth.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-020",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 20,
+    "content": {
+      "stem": "In your English class you have been talking about space exploration. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that governments should spend more money on space exploration. Others think the money would be better spent on solving problems on Earth.\n\nWhat is your opinion?\n\nNotes\nWrite about:\n1. scientific knowledge and technological innovation\n2. poverty and healthcare on Earth\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "The debate over whether governments should invest in space exploration or focus resources on earthly problems is both complex and compelling. I believe that space exploration is a worthwhile investment, provided that it does not come at the expense of essential services.\n\nFirst of all, space exploration has been a powerful driver of scientific knowledge and technological innovation. Technologies originally developed for space programmes — including satellite communications, water purification systems, and medical imaging devices — have had enormous practical benefits on Earth. Without the ambition to explore beyond our planet, many of these breakthroughs would never have occurred.\n\nNevertheless, it is undeniable that millions of people still suffer from poverty, hunger, and inadequate healthcare. Spending vast sums on space while ignoring these pressing issues is morally questionable. Governments must strike a balance between looking outward and addressing the needs of their citizens.\n\nAdditionally, space exploration inspires future generations to pursue careers in science, technology, engineering, and mathematics. This inspiration has a ripple effect that strengthens society as a whole.\n\nIn conclusion, space exploration and solving earthly problems are not mutually exclusive. With careful planning, governments can and should pursue both."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论政府是否应该增加太空探索投入。使用所有提示点：科学知识与技术创新、地球上的贫困和医疗，加上你自己的观点。采用折中立场，展示你能同时理解两种观点。高级表达如 \"at the expense of\"、\"morally questionable\"、\"mutually exclusive\" 展示B2水平词汇。",
+    "explanation_en": "English explanation: This essay discusses whether governments should spend more on space exploration. Use all notes: scientific knowledge and technological innovation, poverty and healthcare on Earth, plus your own idea. Take a balanced position showing you can understand both views. Advanced expressions like 'at the expense of', 'morally questionable', 'mutually exclusive' demonstrate B2-level vocabulary.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-021",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 21,
+    "content": {
+      "stem": "In your English class you have been discussing the role of sport in society. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people think that competitive sport is important because it teaches discipline and teamwork. Others believe it puts too much pressure on young people and can be harmful.\n\nDo you think competitive sport is beneficial or harmful for young people?\n\nNotes\nWrite about:\n1. physical fitness and healthy habits\n2. the pressure to win and its effects\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Competitive sport is a significant part of many young people's lives, and the debate over whether it is beneficial or harmful remains contentious. On the whole, I believe that competitive sport offers far more advantages than disadvantages when managed appropriately.\n\nIn terms of physical fitness, competitive sport encourages young people to adopt healthy habits that can last a lifetime. Regular training builds strength, endurance, and coordination, while reducing the risk of obesity and related health problems. In an age when many teenagers lead increasingly sedentary lives, this is invaluable.\n\nHowever, it is important to acknowledge that the pressure to win can have negative consequences. When winning becomes the sole focus, young athletes may experience anxiety, burnout, or even injury from overtraining. Coaches and parents must ensure that participation remains enjoyable and that effort is valued above results.\n\nAdditionally, competitive sport develops crucial life skills such as resilience, goal-setting, and the ability to cope with both success and failure. These qualities serve young people well in all areas of life, from education to future careers.\n\nIn conclusion, competitive sport is largely beneficial, but only when adults create a supportive environment that prioritises wellbeing over victory."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论竞技体育对年轻人是有益还是有害。使用所有提示点：体能与健康习惯、赢的压力及其影响，加上你自己的观点。使用条件限定如 \"when managed appropriately\" 来展示思维深度。高级词汇如 \"sedentary\"、\"resilience\"、\"burnout\" 体现B2水平。",
+    "explanation_en": "English explanation: This essay discusses whether competitive sport is beneficial or harmful for young people. Use all notes: physical fitness and healthy habits, pressure to win and its effects, plus your own idea. Use conditional qualifications like 'when managed appropriately' to show depth of thinking. Advanced vocabulary like 'sedentary', 'resilience', 'burnout' demonstrates B2 level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-022",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 22,
+    "content": {
+      "stem": "In your English class you have been talking about privacy in the digital age. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people think that companies should be allowed to collect personal data to improve their services. Others believe that personal privacy should be protected at all costs.\n\nWhat is your view?\n\nNotes\nWrite about:\n1. personalised services and user experience\n2. the risk of data misuse and surveillance\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Digital privacy has become one of the most pressing issues of our time, as technology companies collect ever-increasing amounts of personal data. I believe that while data collection can offer benefits, individuals' right to privacy must be strongly protected.\n\nIt is true that data collection enables companies to provide personalised services that enhance the user experience. Tailored recommendations, targeted advertising, and customised content can make technology more useful and convenient. Many consumers willingly share their data in exchange for these benefits.\n\nHowever, the risk of data misuse is very real and deeply concerning. Personal information can be exploited for manipulation, sold to third parties without consent, or stolen through security breaches. In some cases, mass data collection has enabled forms of surveillance that threaten fundamental freedoms.\n\nFurthermore, many people are unaware of how much data is being collected about them and how it is being used. Greater transparency and stronger legislation are urgently needed to give individuals genuine control over their personal information.\n\nIn conclusion, the convenience of personalised services should never outweigh the fundamental right to privacy. Strict regulations and informed consent must be the foundation of any data collection practice."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论数字隐私与数据收集。使用所有提示点：个性化服务与用户体验、数据滥用和监控的风险，加上你自己的观点。展示你对科技伦理问题的理解。高级词汇如 \"exploitation\"、\"surveillance\"、\"transparency\"、\"fundamental freedoms\" 体现B2水平。",
+    "explanation_en": "English explanation: This essay discusses digital privacy and data collection. Use all notes: personalised services and user experience, risk of data misuse and surveillance, plus your own idea. Show understanding of technology ethics issues. Advanced vocabulary like 'exploitation', 'surveillance', 'transparency', 'fundamental freedoms' demonstrates B2 level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-023",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 23,
+    "content": {
+      "stem": "In your English class you have been discussing the future of food production. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that genetically modified (GM) food is the solution to world hunger. Others think it is dangerous and unnatural.\n\nWhat do you think about GM food?\n\nNotes\nWrite about:\n1. feeding a growing world population\n2. potential health and environmental risks\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "The question of whether genetically modified food is a solution or a threat is one of the most debated issues in modern science. I believe that GM food has significant potential, but it must be developed and regulated with extreme caution.\n\nWith the world's population expected to reach ten billion by 2050, feeding everyone is an enormous challenge. GM crops that are resistant to drought, disease, and pests could dramatically increase food production in regions where conventional farming struggles. In this respect, genetic modification offers a genuinely promising avenue for tackling hunger.\n\nNevertheless, the potential health and environmental risks cannot be ignored. While there is no conclusive evidence that GM food is harmful to humans, long-term effects remain uncertain. Moreover, GM crops could damage biodiversity by outcompeting natural species or creating resistant superweeds.\n\nAdditionally, there is a question of fairness. Large corporations often control GM seeds, which can make small farmers dependent on expensive products they cannot produce themselves. This raises important ethical and economic concerns.\n\nIn conclusion, GM food should be pursued as part of the solution to food insecurity, but only with rigorous scientific oversight, transparent labelling, and protection for small-scale farmers."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论转基因食品的利弊。使用所有提示点：养活不断增长的世界人口、潜在的健康和环境风险，加上你自己的观点。展示对科学争议话题的客观分析能力。高级词汇如 \"biodiversity\"、\"rigorous oversight\"、\"food insecurity\" 体现B2水平。",
+    "explanation_en": "English explanation: This essay discusses the pros and cons of GM food. Use all notes: feeding a growing world population, potential health and environmental risks, plus your own idea. Show objective analytical ability on a scientific controversy. Advanced vocabulary like 'biodiversity', 'rigorous oversight', 'food insecurity' demonstrates B2 level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-024",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 24,
+    "content": {
+      "stem": "In your English class you have been talking about the influence of advertising. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that advertising helps consumers make informed choices. Others argue that it manipulates people into buying things they do not need.\n\nWhat is your opinion on advertising?\n\nNotes\nWrite about:\n1. product information and consumer awareness\n2. the psychological techniques used in advertising\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "Advertising is an unavoidable part of modern life, appearing on our screens, in our streets, and across our social media feeds. While it serves some useful purposes, I believe that advertising is primarily designed to manipulate rather than inform.\n\nOn the one hand, advertising can provide consumers with useful product information. When a company launches a new product, advertising helps people learn about its features, compare it with alternatives, and make purchasing decisions. In this sense, it plays a legitimate role in a functioning market economy.\n\nOn the other hand, the psychological techniques used in modern advertising are increasingly sophisticated and often manipulative. Advertisers exploit insecurities, create artificial needs, and use emotional appeals to bypass rational thinking. This is particularly concerning when it targets young people, who may lack the critical awareness to recognise these strategies.\n\nMoreover, the sheer volume of advertising contributes to a culture of overconsumption. People are constantly encouraged to buy more, regardless of whether they need it, which has damaging consequences for both personal finances and the environment.\n\nIn conclusion, while advertising can be informative, its manipulative potential demands stronger regulation and greater public awareness of the tactics employed."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论广告的正面与负面影响。使用所有提示点：产品信息与消费者意识、广告中使用的心理技巧，加上你自己的观点。展示批判性思维能力和对广告影响力的深入理解。高级词汇如 \"manipulate\"、\"bypass rational thinking\"、\"overconsumption\" 展示B2水平。",
+    "explanation_en": "English explanation: This essay discusses the positive and negative effects of advertising. Use all notes: product information and consumer awareness, psychological techniques in advertising, plus your own idea. Show critical thinking ability and deep understanding of advertising's influence. Advanced vocabulary like 'manipulate', 'bypass rational thinking', 'overconsumption' demonstrates B2 level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w1-025",
+    "level": "fce",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 25,
+    "content": {
+      "stem": "In your English class you have been discussing the importance of lifelong learning. Now your English teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Write 140–190 words.",
+      "prompt": "Some people believe that education should end when you finish school or university. Others think that people should continue learning throughout their lives.\n\nDo you think lifelong learning is important?\n\nNotes\nWrite about:\n1. keeping up with changes in technology and the workplace\n2. personal fulfilment and intellectual growth\n3. .......... (your own idea)",
+      "word_limit": 190,
+      "sample_answer": "In a world that is changing at an unprecedented pace, the idea that education ends with a diploma or degree seems increasingly outdated. I strongly believe that lifelong learning is not merely important — it is essential.\n\nFirst of all, the rapid pace of technological change means that the skills people learn at school may become obsolete within a few years of graduation. Workers who fail to update their knowledge risk being left behind as industries evolve. Continuous professional development is therefore vital for career survival and growth in the modern economy.\n\nBeyond practical considerations, lifelong learning contributes to personal fulfilment and intellectual growth. The pleasure of mastering a new skill, exploring a new subject, or understanding a complex idea does not diminish with age. On the contrary, many people find learning more rewarding as they mature because they can draw on a wider range of life experiences.\n\nAdditionally, lifelong learning promotes active citizenship. People who continue to educate themselves are better equipped to engage critically with social and political issues, which strengthens democratic society.\n\nIn conclusion, learning should be regarded not as a phase of life but as a way of life, bringing both practical and personal rewards at every stage."
+    },
+    "explanation_zh": "中文解析：这篇议论文讨论终身学习的重要性。使用所有提示点：跟上技术和职场变化、个人满足和智力成长，加上你自己的观点。使用强调性语言和高级论证结构。高级词汇如 \"unprecedented\"、\"obsolete\"、\"active citizenship\" 以及修辞技巧如 \"not merely important — it is essential\" 展示B2以上的语言水平。",
+    "explanation_en": "English explanation: This essay discusses the importance of lifelong learning. Use all notes: keeping up with changes in technology and the workplace, personal fulfilment and intellectual growth, plus your own idea. Use emphatic language and advanced argumentation structures. Advanced vocabulary like 'unprecedented', 'obsolete', 'active citizenship' and rhetorical devices like 'not merely important — it is essential' demonstrate B2+ language level.",
+    "is_free": false
   }
 ]

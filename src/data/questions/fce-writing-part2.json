@@ -168,5 +168,260 @@
     "explanation_zh": "中文解析：这是一篇电视剧评论（140-190 词）。需要包含三部分：1）简要介绍剧集内容；2）说明为什么特别好看或令人失望；3）是否推荐以及适合什么类型的观众。使用影视评论专用词汇如 \"adaptation\"、\"cinematography\"、\"compelling characters\"。结构要有正面评价也有小批评，最后给出推荐。",
     "explanation_en": "English explanation: This is a TV series review (140-190 words) with three parts: 1) briefly describe the series; 2) explain what makes it enjoyable or disappointing; 3) whether you'd recommend it and to whom. Use TV/film review vocabulary like 'adaptation', 'cinematography', 'compelling characters'. Structure with both praise and minor criticism, ending with a recommendation.",
     "is_free": false
+  },
+  {
+    "id": "fce-w2-011",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 11,
+    "content": {
+      "stem": "You see this announcement on an English-language website. Write your article. Write 140–190 words.",
+      "prompt": "ARTICLES WANTED!\n\nA PERSON WHO HAS INFLUENCED YOU\n\nWho is the person who has had the greatest influence on your life?\nHow have they influenced you?\nWhat have you learned from them?\n\nWrite us an article answering these questions.\nThe best articles will be published on our website!",
+      "word_limit": 190,
+      "sample_answer": "A Person Who Has Influenced Me\n\nWhen I think about the people who have shaped me as a person, one individual stands out above all others: my secondary school English teacher, Ms Wang.\n\nMs Wang was not just an exceptional teacher — she was someone who genuinely believed in every student's potential. When I first entered her class, I was shy and lacked confidence in my English ability. She noticed this immediately and went out of her way to encourage me, always offering constructive feedback rather than criticism.\n\nHer influence on me has been profound. She taught me that making mistakes is an essential part of learning and that perseverance is more important than natural talent. More importantly, she showed me the power of believing in yourself. Thanks to her encouragement, I began to participate more actively in class, entered English competitions, and eventually developed a genuine love for the language.\n\nThe lesson I have taken from Ms Wang is that a single person's kindness and patience can transform someone's life. I hope one day to have the same positive impact on others."
+    },
+    "explanation_zh": "中文解析：这是一篇关于影响你的人的杂志文章（140-190 词）。回答三个问题：谁对你影响最大、他们如何影响了你、你从他们身上学到了什么。使用具体的故事细节和个人反思。高级表达如 \"stands out above all others\"、\"went out of her way\"、\"profound\" 展示叙事和表达能力。",
+    "explanation_en": "English explanation: This is a magazine article about a person who has influenced you (140-190 words). Answer three questions: who has influenced you most, how they influenced you, what you learned from them. Use specific story details and personal reflection. Advanced expressions like 'stands out above all others', 'went out of her way', 'profound' demonstrate narrative and expressive ability.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-012",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 12,
+    "content": {
+      "stem": "You have received this email from your English-speaking friend, Sarah. Write your email reply. Write 140–190 words.",
+      "prompt": "From: Sarah\nSubject: Career ideas\n\nHi,\n\nI'm starting to think about what career I want to pursue after university, but I have no idea what to do! I'm interested in so many things that I find it impossible to choose.\n\nHow did you decide what you want to do in the future? What do you think is the most important factor when choosing a career — money, enjoyment, or something else?\n\nI'd love to hear your thoughts!\nSarah",
+      "word_limit": 190,
+      "sample_answer": "Hi Sarah,\n\nIt's completely normal to feel overwhelmed when thinking about your future career — I went through exactly the same thing not long ago! Let me share how I approached the decision.\n\nFor me, the turning point came when I stopped thinking about specific job titles and started focusing on what activities genuinely energise me. I realised that I love solving problems and working with people, which led me to consider careers in areas like project management and education. I found it helpful to do some voluntary work and job shadowing to get a real sense of what different roles involve.\n\nAs for what matters most when choosing a career, I firmly believe that enjoyment should come first. If you spend every day doing something you find meaningful, you are far more likely to excel at it — and the financial rewards often follow naturally. That said, it is also practical to consider whether a career can provide the lifestyle you want.\n\nMy advice would be to explore as much as possible before making a decision. There's no rush — the right path will become clearer with time.\n\nTake care!"
+    },
+    "explanation_zh": "中文解析：这是一封回复朋友关于职业选择的邮件（140-190 词）。需要回答两个问题：你是怎么决定未来方向的、选择职业时最重要的因素是什么。语气要友好支持，分享个人经验并给出建议。高级表达如 \"the turning point came when\"、\"I firmly believe that\" 展示语言水平。",
+    "explanation_en": "English explanation: This is a reply email about career choices (140-190 words). Answer two questions: how you decided your future direction, what the most important factor is when choosing a career. Use a friendly, supportive tone, share personal experience, and give advice. Advanced expressions like 'the turning point came when', 'I firmly believe that' demonstrate language level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-013",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 13,
+    "content": {
+      "stem": "Your teacher has asked you to write a review. Write your review. Write 140–190 words.",
+      "prompt": "A REVIEW OF AN APP OR WEBSITE\n\nYour English teacher has asked you to write a review of an app or website that you use regularly.\n\nIn your review, you should:\n• explain what the app or website is for and how it works\n• describe what you find most useful and any drawbacks\n• say whether you would recommend it to other students",
+      "word_limit": 190,
+      "sample_answer": "Review: Duolingo Language Learning App\n\nDuolingo is a free language-learning app that uses gamification to make studying a new language fun and engaging. The app offers courses in over forty languages and is available on both smartphones and computers.\n\nThe way it works is simple: users complete short lessons covering vocabulary, grammar, and listening comprehension. Each lesson takes only five to ten minutes, making it easy to fit into a busy schedule. The app tracks your progress with streaks and achievements, which provides excellent motivation to practise daily.\n\nWhat I find most useful is the variety of exercises and the instant feedback on mistakes. The app also adapts to your level, presenting more challenging material as you improve. However, one significant drawback is that it focuses heavily on translation and basic phrases rather than developing genuine conversational ability. It is best used as a supplement to other learning methods.\n\nI would definitely recommend Duolingo to other students, particularly those who want a convenient and enjoyable way to build vocabulary and reinforce grammar in a new language."
+    },
+    "explanation_zh": "中文解析：这是一篇应用/网站评论（140-190 词）。需要包含三部分：1）解释这个应用/网站的用途和使用方式；2）最有用的功能和不足之处；3）是否推荐给其他同学。使用科技相关词汇如 \"gamification\"、\"track your progress\"。展示你能平衡评价正面和负面方面。",
+    "explanation_en": "English explanation: This is an app/website review (140-190 words) with three parts: 1) explain what it's for and how it works; 2) most useful features and drawbacks; 3) whether you'd recommend it. Use tech-related vocabulary like 'gamification', 'track your progress'. Show you can balance positive and negative evaluation.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-014",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 14,
+    "content": {
+      "stem": "You have received this letter from the manager of a local charity. Write your letter of application. Write 140–190 words.",
+      "prompt": "Dear Volunteer,\n\nOur charity is looking for young volunteers to help at a community centre during the winter holidays. Volunteers will assist with organising events for elderly residents, helping with meal preparation, and entertaining children.\n\nPlease write to us explaining:\n• why you would like to volunteer with us\n• what skills or qualities you could bring to the role\n• which of the above tasks you would be most interested in and why\n\nWe look forward to your response.\n\nMr James Cooper\nManager, Greenwood Community Centre",
+      "word_limit": 190,
+      "sample_answer": "Dear Mr Cooper,\n\nI am writing to express my interest in volunteering at Greenwood Community Centre during the winter holidays. I believe this would be a wonderful opportunity to give something back to the community while gaining valuable experience.\n\nI would like to volunteer because I am passionate about helping others and I feel it is important for young people to support their local community. Having been raised by my grandparents, I have a particular affinity for working with elderly people and understand the importance of companionship, especially during the holidays when loneliness can be most keenly felt.\n\nIn terms of skills, I am patient, responsible, and an excellent communicator. I also have experience organising events through my school's student council, where I helped plan charity fundraisers and social gatherings.\n\nOf the tasks listed, I would be most interested in organising events for elderly residents. I believe I could create enjoyable activities such as quiz evenings, craft sessions, and music afternoons that would bring genuine pleasure to participants.\n\nThank you for considering my application. I would be delighted to discuss it further at your convenience.\n\nYours sincerely"
+    },
+    "explanation_zh": "中文解析：这是一封正式的志愿者申请信（140-190 词）。需要回答三个问题：为什么想做志愿者、你能带来什么技能或品质、你最感兴趣的任务。使用正式信件格式和表达。展示你的热情和与职位相关的个人经历。高级表达如 \"give something back\"、\"particular affinity\"、\"keenly felt\" 展示语言能力。",
+    "explanation_en": "English explanation: This is a formal volunteer application letter (140-190 words). Answer three questions: why you want to volunteer, what skills/qualities you bring, which task interests you most. Use formal letter format and expressions. Show enthusiasm and relevant personal experience. Advanced expressions like 'give something back', 'particular affinity', 'keenly felt' demonstrate language ability.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-015",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 15,
+    "content": {
+      "stem": "You see this announcement on an English-language website. Write your article. Write 140–190 words.",
+      "prompt": "ARTICLES WANTED!\n\nTHE IMPORTANCE OF HAVING A HOBBY\n\nDo you have a hobby that is important to you?\nWhat do you enjoy about it?\nHow has it benefited you personally?\n\nWrite us an article answering these questions.\nThe best articles will be published next month!",
+      "word_limit": 190,
+      "sample_answer": "The Importance of Having a Hobby\n\nIn today's busy world, it is all too easy to become consumed by work and responsibilities. That is precisely why having a hobby is so important — and for me, that hobby is photography.\n\nI took up photography three years ago after receiving a camera as a birthday present. At first, I simply enjoyed taking pictures of landscapes and street scenes. However, as my skills developed, I began to see the world around me with entirely new eyes. Photography taught me to notice beauty in unexpected places — a pattern of shadows on a wall, the way light falls on water, or the expression on a stranger's face.\n\nThe benefits have been considerable. Photography has given me a creative outlet that provides a welcome escape from academic pressure. It has improved my patience and attention to detail, and it has connected me with a community of like-minded people through online forums and local photography clubs.\n\nI would encourage everyone to find a hobby they are passionate about. It need not be expensive or time-consuming — what matters is that it brings you joy and a sense of fulfilment."
+    },
+    "explanation_zh": "中文解析：这是一篇关于爱好重要性的杂志文章（140-190 词）。回答三个问题：你的爱好是什么、你喜欢它什么、它在个人层面给你带来了什么好处。使用生动的描述和个人反思。高级表达如 \"consumed by\"、\"with entirely new eyes\"、\"creative outlet\" 展示语言水平。",
+    "explanation_en": "English explanation: This is a magazine article about the importance of hobbies (140-190 words). Answer three questions: what your hobby is, what you enjoy about it, how it has benefited you. Use vivid description and personal reflection. Advanced expressions like 'consumed by', 'with entirely new eyes', 'creative outlet' demonstrate language level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-016",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 16,
+    "content": {
+      "stem": "Your school principal has asked students to write a report. Write your report. Write 140–190 words.",
+      "prompt": "REPORT ON STUDENT WELLBEING\n\nThe school principal is concerned about student stress levels and wants to introduce measures to improve student wellbeing. You have been asked to write a report.\n\nIn your report, you should:\n• identify the main causes of stress among students\n• describe how stress affects students' performance and health\n• recommend specific measures the school could take",
+      "word_limit": 190,
+      "sample_answer": "Report on Student Wellbeing\n\nIntroduction\nThis report examines the main causes of stress among students at our school and proposes measures to improve overall wellbeing.\n\nCauses of Stress\nBased on informal discussions with students across all year groups, the primary sources of stress are excessive homework, exam pressure, and a lack of time for relaxation and social activities. Many students also reported feeling anxious about university entrance requirements and future career prospects.\n\nImpact on Performance and Health\nStress has a noticeable impact on both academic performance and health. Students who feel overwhelmed tend to produce lower-quality work and are more likely to be absent from school. Common physical symptoms include headaches, difficulty sleeping, and loss of appetite. Several students mentioned experiencing anxiety and low mood.\n\nRecommendations\nTo address these issues, I would recommend the following:\n• Introduce a homework-free evening each week to allow students to rest.\n• Provide access to a trained school counsellor for confidential support.\n• Create a dedicated 'wellbeing room' where students can relax during break times.\n• Organise regular mindfulness and stress-management workshops.\n\nThese measures would demonstrate the school's commitment to supporting students beyond their academic needs."
+    },
+    "explanation_zh": "中文解析：这是一篇关于学生福祉的正式报告（140-190 词）。使用清晰的小标题结构：引言、压力原因、对表现和健康的影响、建议。使用正式、客观的语言，引用调查结果或学生反馈。建议要具体可行。高级表达如 \"based on informal discussions\"、\"noticeable impact\"、\"demonstrate the school's commitment\" 体现报告专业性。",
+    "explanation_en": "English explanation: This is a formal report on student wellbeing (140-190 words). Use clear subheading structure: introduction, causes of stress, impact on performance and health, recommendations. Use formal, objective language, citing survey results or student feedback. Recommendations should be specific and actionable. Advanced expressions like 'based on informal discussions', 'noticeable impact', 'demonstrate the school's commitment' convey professionalism.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-017",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 17,
+    "content": {
+      "stem": "You have received this email from your English-speaking friend, Alex. Write your email reply. Write 140–190 words.",
+      "prompt": "From: Alex\nSubject: Healthy eating\n\nHi,\n\nI've been trying to eat more healthily lately, but I'm finding it really difficult. I love junk food and I don't know how to cook anything healthy that actually tastes good!\n\nDo you eat healthily? What healthy foods do you enjoy? Do you have any tips for someone trying to change their eating habits?\n\nThanks!\nAlex",
+      "word_limit": 190,
+      "sample_answer": "Hi Alex,\n\nIt's great to hear that you're trying to eat more healthily — that's a really positive step! I completely understand the struggle, as I went through something very similar last year.\n\nI wouldn't say I eat perfectly, but I've made some changes that have really helped. I try to cook most of my meals at home using fresh ingredients, and I've discovered that healthy food can actually be delicious. For example, I love making stir-fries with lots of vegetables and a tasty sauce — they're quick, easy, and full of flavour. I'm also a big fan of overnight oats for breakfast, which take just five minutes to prepare the night before.\n\nMy biggest tip would be to make small changes gradually rather than trying to overhaul your diet overnight. Start by replacing one unhealthy snack with a piece of fruit or some nuts. Another tip is to find healthy recipes online and experiment in the kitchen — you might surprise yourself! It also helps to prepare meals in advance, so you're less tempted by fast food when you're hungry and tired.\n\nGood luck with it!\n\nBest wishes"
+    },
+    "explanation_zh": "中文解析：这是一封回复朋友关于健康饮食的邮件（140-190 词）。需要回答三个问题：你是否吃得健康、你喜欢什么健康食物、给想改变饮食习惯的人什么建议。语气要友好鼓励，分享个人经验。高级表达如 \"overhaul your diet overnight\"、\"you might surprise yourself\" 展示语言能力。",
+    "explanation_en": "English explanation: This is a reply email about healthy eating (140-190 words). Answer three questions: do you eat healthily, what healthy foods you enjoy, tips for changing eating habits. Use a friendly, encouraging tone and share personal experience. Advanced expressions like 'overhaul your diet overnight', 'you might surprise yourself' demonstrate language ability.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-018",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 18,
+    "content": {
+      "stem": "Your teacher has asked you to write a review. Write your review. Write 140–190 words.",
+      "prompt": "A REVIEW OF A MUSEUM OR EXHIBITION\n\nYour English teacher has asked you to write a review of a museum or exhibition you have visited recently.\n\nIn your review, you should:\n• describe what the museum or exhibition is about and what you saw\n• say what you found most interesting or impressive\n• explain whether you would recommend a visit and why",
+      "word_limit": 190,
+      "sample_answer": "Review: The National Science Museum — 'Exploring the Universe' Exhibition\n\nThe 'Exploring the Universe' exhibition at the National Science Museum takes visitors on a fascinating journey through space, from our own solar system to the most distant galaxies. The exhibition features interactive displays, life-sized models of spacecraft, and stunning images captured by the latest space telescopes.\n\nWhat I found most impressive was the virtual reality section, where visitors can experience what it would be like to walk on the surface of Mars. The sensation of low gravity and the panoramic view of the red landscape were breathtakingly realistic. I also particularly enjoyed the timeline of space exploration, which traces humanity's journey from early astronomy to modern-day missions in an engaging and accessible way.\n\nIf I had one minor complaint, it would be that some sections were quite crowded, which made it difficult to spend as much time at certain displays as I would have liked.\n\nI would strongly recommend this exhibition to anyone with an interest in science and space. It is suitable for all ages and provides a truly unforgettable experience."
+    },
+    "explanation_zh": "中文解析：这是一篇博物馆/展览评论（140-190 词）。需要包含三部分：1）描述博物馆/展览的主题和你看到了什么；2）你觉得最有趣或印象最深的地方；3）是否推荐参观及原因。使用描述性语言和感官细节。高级表达如 \"breathtakingly realistic\"、\"traces humanity's journey\"、\"truly unforgettable\" 提升文章质量。",
+    "explanation_en": "English explanation: This is a museum/exhibition review (140-190 words) with three parts: 1) describe the theme and what you saw; 2) what you found most interesting or impressive; 3) whether you'd recommend a visit and why. Use descriptive language and sensory details. Advanced expressions like 'breathtakingly realistic', 'traces humanity's journey', 'truly unforgettable' elevate the article.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-019",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 19,
+    "content": {
+      "stem": "You see this announcement on an English-language website. Write your article. Write 140–190 words.",
+      "prompt": "ARTICLES WANTED!\n\nTHE DIGITAL DETOX — COULD YOU LIVE WITHOUT YOUR PHONE?\n\nHave you ever tried going without your smartphone for a period of time?\nWhat was the experience like?\nWould you recommend it to others?\n\nWrite us an article answering these questions.\nThe best articles will be published on our website!",
+      "word_limit": 190,
+      "sample_answer": "The Digital Detox — Could You Live Without Your Phone?\n\nLike most teenagers, I used to check my phone obsessively — first thing in the morning, during meals, and even while studying. So when my school organised a 'digital detox week' last term, I was genuinely terrified at the prospect of being without my smartphone for seven whole days.\n\nThe first two days were undeniably difficult. I kept reaching for my phone out of habit and felt oddly disconnected from the world. However, by the third day, something remarkable happened. I began to notice things I had been ignoring — the quality of conversations improved, I slept better, and I had significantly more time for activities I had been neglecting, such as reading and exercising.\n\nBy the end of the week, I felt calmer, more focused, and more present in my daily life. The experience made me realise how much of my time and attention was being consumed by endless scrolling.\n\nI would wholeheartedly recommend a digital detox to anyone who feels overwhelmed by technology. You do not need to give up your phone permanently — even a weekend without it can be genuinely transformative."
+    },
+    "explanation_zh": "中文解析：这是一篇关于数字排毒的杂志文章（140-190 词）。回答三个问题：你是否尝试过不用手机、体验如何、是否推荐。使用叙事技巧描述体验的变化过程（从困难到积极转变）。高级表达如 \"oddly disconnected\"、\"something remarkable happened\"、\"genuinely transformative\" 展示语言水平。",
+    "explanation_en": "English explanation: This is a magazine article about digital detox (140-190 words). Answer three questions: have you tried going without your phone, what was the experience like, would you recommend it. Use narrative techniques to describe the transformation (from difficulty to positive change). Advanced expressions like 'oddly disconnected', 'something remarkable happened', 'genuinely transformative' demonstrate language level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-020",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 20,
+    "content": {
+      "stem": "You have received this letter from the coordinator of an international student exchange programme. Write your letter of application. Write 140–190 words.",
+      "prompt": "Dear Applicant,\n\nWe are offering places on a two-week cultural exchange programme in the United Kingdom this summer. Successful applicants will stay with a British host family, attend local schools, and participate in cultural activities.\n\nPlease write to us explaining:\n• why you would like to participate in this programme\n• how this experience would benefit you personally\n• what you could contribute to the programme\n\nWe look forward to receiving your application.\n\nDr Emily Hughes\nCoordinator, Global Youth Exchange Programme",
+      "word_limit": 190,
+      "sample_answer": "Dear Dr Hughes,\n\nI am writing to apply for a place on the Global Youth Exchange Programme in the United Kingdom this summer. I believe this would be an extraordinary opportunity for personal and academic growth.\n\nI would like to participate because I have always been fascinated by British culture, history, and education. Experiencing daily life in the UK would give me a far deeper understanding of the country than any textbook could provide. Living with a host family would also offer an invaluable opportunity to practise my English in authentic, everyday situations.\n\nThis experience would benefit me enormously. As someone hoping to study abroad in the future, spending two weeks immersed in British culture would help me develop the independence and cross-cultural awareness necessary for living in a foreign country.\n\nIn terms of what I could contribute, I would be eager to share my own Chinese culture with my host family and fellow participants. I could give presentations about Chinese festivals, teach basic Mandarin, and prepare traditional Chinese dishes.\n\nI would be extremely grateful for the opportunity to take part. Thank you for considering my application.\n\nYours sincerely"
+    },
+    "explanation_zh": "中文解析：这是一封申请参加国际交换项目的正式信（140-190 词）。回答三个问题：为什么想参加、这个经历如何在个人层面使你受益、你能为项目贡献什么。展示热情和具体的贡献想法。高级表达如 \"extraordinary opportunity\"、\"immersed in British culture\"、\"cross-cultural awareness\" 展示语言水平。",
+    "explanation_en": "English explanation: This is a formal application letter for an international exchange programme (140-190 words). Answer three questions: why you want to participate, how the experience would benefit you, what you could contribute. Show enthusiasm and specific contribution ideas. Advanced expressions like 'extraordinary opportunity', 'immersed in British culture', 'cross-cultural awareness' demonstrate language level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-021",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 21,
+    "content": {
+      "stem": "Your teacher has asked you to write a review. Write your review. Write 140–190 words.",
+      "prompt": "A REVIEW OF A PODCAST OR YOUTUBE CHANNEL\n\nYour English teacher has asked you to write a review of a podcast or YouTube channel you follow regularly.\n\nIn your review, you should:\n• explain what the podcast or channel is about\n• say what makes it stand out from similar content\n• explain who would enjoy it and whether you would recommend it",
+      "word_limit": 190,
+      "sample_answer": "Review: 'TED Talks Daily' Podcast\n\nTED Talks Daily is a podcast that features a different TED Talk every day, covering an extraordinarily wide range of topics — from artificial intelligence and climate science to psychology, art, and personal development. Each episode runs for approximately fifteen to twenty minutes, making it perfect for listening during a commute or study break.\n\nWhat makes this podcast stand out from similar content is the consistently high quality of its speakers and ideas. Every talk is delivered by an expert in their field, and the content is designed to be both informative and thought-provoking. Unlike many educational podcasts, TED Talks Daily manages to make complex subjects accessible without oversimplifying them. The production quality is also excellent, with clear audio and helpful introductions to each episode.\n\nOne minor drawback is that the topics vary so widely that not every episode will appeal to every listener. However, this variety is also one of its greatest strengths.\n\nI would strongly recommend this podcast to any student who is curious about the world and wants to expand their knowledge in an enjoyable and convenient way."
+    },
+    "explanation_zh": "中文解析：这是一篇播客/YouTube频道评论（140-190 词）。需要包含三部分：1）解释播客/频道的内容；2）它的突出特点；3）谁会喜欢它以及是否推荐。使用媒体评论词汇如 \"production quality\"、\"thought-provoking\"、\"accessible\"。展示你能评价数字内容的能力。",
+    "explanation_en": "English explanation: This is a podcast/YouTube channel review (140-190 words) with three parts: 1) explain what it's about; 2) what makes it stand out; 3) who would enjoy it and whether you'd recommend it. Use media review vocabulary like 'production quality', 'thought-provoking', 'accessible'. Show you can evaluate digital content.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-022",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 22,
+    "content": {
+      "stem": "Your school principal has asked students to write a report. Write your report. Write 140–190 words.",
+      "prompt": "REPORT ON ENVIRONMENTAL PRACTICES AT SCHOOL\n\nThe school principal wants to make the school more environmentally friendly and has asked students to write a report.\n\nIn your report, you should:\n• describe the school's current environmental practices\n• identify areas where the school could improve\n• suggest specific actions to make the school greener",
+      "word_limit": 190,
+      "sample_answer": "Report on Environmental Practices at School\n\nIntroduction\nThe purpose of this report is to assess the school's current environmental practices and to recommend ways to make our school more sustainable.\n\nCurrent Practices\nAt present, the school has recycling bins in most classrooms and uses energy-efficient lighting in the main building. However, beyond these basic measures, there is relatively little emphasis on environmental responsibility. Paper consumption remains very high, and single-use plastic bottles are widely used by both staff and students.\n\nAreas for Improvement\nThe most pressing issues are excessive paper usage, a lack of composting facilities, and limited awareness among students about sustainable practices. The canteen also produces a considerable amount of food waste, much of which ends up in general rubbish bins.\n\nRecommendations\nI would propose the following actions:\n• Encourage digital submission of assignments to reduce paper usage.\n• Install water-refill stations and ban single-use plastic bottles on campus.\n• Introduce a composting programme for food waste from the canteen.\n• Establish a student-led 'Green Team' to promote environmental awareness through campaigns and events.\n\nThese initiatives would significantly reduce the school's environmental footprint while educating students about sustainability."
+    },
+    "explanation_zh": "中文解析：这是一篇关于学校环保实践的正式报告（140-190 词）。使用清晰的小标题结构：引言、现有做法、改进空间、建议。使用正式客观的语言和具体可行的建议。高级表达如 \"assess\"、\"sustainable practices\"、\"environmental footprint\" 体现报告专业性。",
+    "explanation_en": "English explanation: This is a formal report on school environmental practices (140-190 words). Use clear subheading structure: introduction, current practices, areas for improvement, recommendations. Use formal, objective language with specific, actionable suggestions. Advanced expressions like 'assess', 'sustainable practices', 'environmental footprint' convey professionalism.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-023",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 23,
+    "content": {
+      "stem": "You see this announcement on an English-language website. Write your article. Write 140–190 words.",
+      "prompt": "ARTICLES WANTED!\n\nWHAT MAKES A GOOD LEADER?\n\nWhat qualities do you think a good leader should have?\nCan you think of someone you know or admire who demonstrates these qualities?\nWhy do you think good leadership matters in today's world?\n\nWrite us an article answering these questions.\nThe best articles will be published on our website!",
+      "word_limit": 190,
+      "sample_answer": "What Makes a Good Leader?\n\nLeadership is a quality that is often discussed but rarely defined clearly. In my view, the most essential qualities of a good leader are integrity, empathy, and the ability to inspire others.\n\nA leader with integrity earns the trust and respect of those around them. People are far more willing to follow someone they believe is honest and acts in the best interests of the group. Empathy is equally important, as a good leader must understand the perspectives and concerns of the people they lead. Finally, the ability to inspire — to paint a vision of a better future and motivate others to work towards it — is what distinguishes a truly exceptional leader from an ordinary one.\n\nSomeone who embodies these qualities is my school headteacher, who always listens to students' ideas and leads by example rather than by authority. Her calm, thoughtful approach has transformed the culture of our school.\n\nIn today's complex world, good leadership matters more than ever. From business to politics to community life, effective leaders have the power to bring people together and drive positive change."
+    },
+    "explanation_zh": "中文解析：这是一篇关于优秀领导者品质的杂志文章（140-190 词）。回答三个问题：好的领导者应该有什么品质、你认识或崇拜的谁体现了这些品质、为什么好的领导力在当今世界很重要。使用具体例子和抽象分析相结合。高级表达如 \"earns the trust\"、\"distinguishes\"、\"leads by example\" 展示语言水平。",
+    "explanation_en": "English explanation: This is a magazine article about leadership qualities (140-190 words). Answer three questions: what qualities a good leader should have, someone who demonstrates these qualities, why good leadership matters today. Combine specific examples with abstract analysis. Advanced expressions like 'earns the trust', 'distinguishes', 'leads by example' demonstrate language level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-024",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 24,
+    "content": {
+      "stem": "You have received this email from your English-speaking friend, Tom. Write your email reply. Write 140–190 words.",
+      "prompt": "From: Tom\nSubject: Learning a new language\n\nHi,\n\nI've decided to start learning Mandarin Chinese! I know you speak it as your first language, so I was hoping you could give me some advice.\n\nWhat do you think is the hardest part about learning Chinese? What's the best way to get started? Are there any resources you would recommend?\n\nI'm really excited about this!\nTom",
+      "word_limit": 190,
+      "sample_answer": "Hi Tom,\n\nHow exciting that you've decided to learn Mandarin! I'd be happy to share some advice based on my own experience as a native speaker and as someone who has helped friends learn the language.\n\nHonestly, the hardest part about learning Chinese is probably the tones. Mandarin has four tones, and the same syllable can mean completely different things depending on the tone you use. This can be confusing at first, but with regular listening and speaking practice, it becomes much more natural over time. The characters can also seem overwhelming initially, but learning the basic radicals helps you understand how they are structured.\n\nThe best way to get started is to focus on spoken Chinese first — learn common phrases, practise pronunciation, and listen to as much Mandarin as possible. I would recommend the apps Pleco and HelloChinese, which are both excellent for beginners. Watching Chinese TV shows with subtitles is also a fantastic way to improve your listening skills.\n\nI'd be more than happy to practise speaking with you whenever you like!\n\nGood luck!"
+    },
+    "explanation_zh": "中文解析：这是一封给想学中文的外国朋友的建议邮件（140-190 词）。回答三个问题：学中文最难的部分、最好的入门方法、推荐的资源。语气要友好鼓励，提供具体实用的建议。利用你作为母语者的独特视角。高级表达如 \"based on my own experience\"、\"becomes much more natural\" 展示语言水平。",
+    "explanation_en": "English explanation: This is an advice email to a friend wanting to learn Chinese (140-190 words). Answer three questions: hardest part of learning Chinese, best way to get started, recommended resources. Use a friendly, encouraging tone with specific practical advice. Leverage your unique perspective as a native speaker. Advanced expressions like 'based on my own experience', 'becomes much more natural' demonstrate language level.",
+    "is_free": false
+  },
+  {
+    "id": "fce-w2-025",
+    "level": "fce",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 25,
+    "content": {
+      "stem": "Your teacher has asked you to write a review. Write your review. Write 140–190 words.",
+      "prompt": "A REVIEW OF A LIVE EVENT\n\nYour English teacher has asked you to write a review of a live event you have attended, such as a concert, sports match, festival, or theatre performance.\n\nIn your review, you should:\n• describe the event and the venue\n• say what you enjoyed most and what could have been better\n• explain whether you would recommend this type of event to others",
+      "word_limit": 190,
+      "sample_answer": "Review: The Annual City Music Festival\n\nLast month, I attended the Annual City Music Festival, a two-day outdoor event held in Central Park that features a diverse line-up of local and international musicians. The venue was spectacularly set up, with a main stage surrounded by food stalls, art installations, and comfortable seating areas spread across the park.\n\nWhat I enjoyed most was the incredible variety of music on offer. Over the two days, I heard everything from jazz and folk to electronic and hip-hop, and every act brought something unique to the stage. The highlight for me was a young singer-songwriter whose powerful voice and heartfelt lyrics moved the entire audience to tears. The atmosphere was electric, with thousands of people singing, dancing, and sharing the experience together.\n\nIf I had to suggest an improvement, the queues for food were excessively long at peak times, which meant missing parts of some performances. Better organisation of refreshments would have enhanced the experience considerably.\n\nI would enthusiastically recommend this festival to anyone who loves live music. It is an unforgettable celebration of creativity and community that deserves a much wider audience."
+    },
+    "explanation_zh": "中文解析：这是一篇现场活动评论（140-190 词）。需要包含三部分：1）描述活动和场地；2）最喜欢的部分和可以改进的地方；3）是否推荐。使用生动的描述语言和感官细节，如 \"electric atmosphere\"、\"heartfelt lyrics\"。展示你能对现场体验进行全面评价的能力。",
+    "explanation_en": "English explanation: This is a live event review (140-190 words) with three parts: 1) describe the event and venue; 2) what you enjoyed most and what could be better; 3) whether you'd recommend it. Use vivid descriptive language and sensory details like 'electric atmosphere', 'heartfelt lyrics'. Show you can comprehensively evaluate a live experience.",
+    "is_free": false
   }
 ]

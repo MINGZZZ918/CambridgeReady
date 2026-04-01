@@ -168,5 +168,260 @@
     "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想一起去；2）想在海滩做什么活动；3）应该带什么衣服。使用 \"I'd like to...\" 说明想做的活动，\"I'll bring...\" 列出要带的衣物。注意先表示感谢再回答问题。",
     "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you want to come; 2) what activities to do at the beach; 3) what clothes to bring. Use 'I'd like to...' for activities and 'I'll bring...' for listing clothes. Start by thanking them for the invitation.",
     "is_free": false
+  },
+  {
+    "id": "ket-w1-011",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 11,
+    "content": {
+      "stem": "Read the note from your English friend, Sophie. Write a short reply to Sophie. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Sophie\n\nHi!\n\nI'm going to start a reading club at school. Do you want to join? What kind of books should we read? How often should we meet?\n\nSophie",
+      "word_limit": 35,
+      "sample_answer": "Hi Sophie,\n\nThat's a great idea! I'd love to join your reading club. I think we should read adventure stories because they're really exciting. We could meet once a week, maybe on Wednesday after school.\n\nSee you there!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想加入；2）应该读什么类型的书；3）应该多久见面一次。使用 \"I think we should...\" 提出建议，\"We could meet...\" 讨论频率。用 \"because\" 解释原因。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you want to join; 2) what kind of books to read; 3) how often to meet. Use 'I think we should...' for suggestions and 'We could meet...' for frequency. Use 'because' for reasons.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-012",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 12,
+    "content": {
+      "stem": "Read the note from your English friend, Ryan. Write a short reply to Ryan. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Ryan\n\nHi!\n\nI want to learn to ride a bike. Can you help me? Where is a good place to practise? What do I need to buy before we start?\n\nRyan",
+      "word_limit": 35,
+      "sample_answer": "Hi Ryan,\n\nOf course I can help you! The park near my house is a good place to practise because it's flat and quiet. You need to buy a helmet to keep you safe, and maybe some knee pads too.\n\nLet's start this weekend!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）能否帮忙；2）哪里是练习的好地方；3）开始前需要买什么。使用 \"... is a good place because...\" 给出建议和理由，\"You need to buy...\" 列出需要的物品。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you can help; 2) where is a good place to practise; 3) what to buy before starting. Use '... is a good place because...' for suggestions with reasons and 'You need to buy...' for items.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-013",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 13,
+    "content": {
+      "stem": "Read the note from your English friend, Olivia. Write a short reply to Olivia. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Olivia\n\nHi!\n\nMy cousin is visiting me from another city next week. What interesting places should I take her to? What food should we try? Do you want to meet her?\n\nOlivia",
+      "word_limit": 35,
+      "sample_answer": "Hi Olivia,\n\nHow exciting! You should take her to the city museum and the old market — they're really interesting. You should try the noodle restaurant on Park Street because the food is delicious. Yes, I'd love to meet her!\n\nSee you soon!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）应该带表妹去哪些有趣的地方；2）应该尝试什么食物；3）是否想见她。使用 \"You should take her to...\" 提出地点建议，\"You should try...\" 推荐食物。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) what interesting places to visit; 2) what food to try; 3) if you want to meet her. Use 'You should take her to...' for place suggestions and 'You should try...' for food recommendations.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-014",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 14,
+    "content": {
+      "stem": "Read the note from your English friend, Max. Write a short reply to Max. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Max\n\nHi!\n\nI'm going to start growing vegetables in my garden. Would you like to help me? What vegetables should we grow? When is the best time to start?\n\nMax",
+      "word_limit": 35,
+      "sample_answer": "Hi Max,\n\nThat sounds like fun! I'd love to help you. I think we should grow tomatoes and carrots because they're easy to look after. Spring is the best time to start, so let's begin next month.\n\nCan't wait!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想帮忙；2）应该种什么蔬菜；3）什么时候开始最好。使用 \"I think we should grow...\" 提出建议，\"because\" 解释选择的原因，\"...is the best time\" 回答时间问题。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you'd like to help; 2) what vegetables to grow; 3) the best time to start. Use 'I think we should grow...' for suggestions, 'because' for reasons, and '...is the best time' for timing.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-015",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 15,
+    "content": {
+      "stem": "Read the note from your English friend, Chloe. Write a short reply to Chloe. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Chloe\n\nHi!\n\nI'm thinking of getting a pet. What pet do you think I should get? Where can I buy one? Can you come with me to choose it?\n\nChloe",
+      "word_limit": 35,
+      "sample_answer": "Hi Chloe,\n\nThat's wonderful! I think you should get a hamster because they're small and easy to look after. You can buy one at the pet shop in the shopping centre. Yes, I'd love to come with you to choose it!\n\nLet me know when!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）觉得应该养什么宠物；2）在哪里可以买到；3）是否能一起去选。使用 \"I think you should get...\" 提出宠物建议，\"because\" 给出理由，\"You can buy one at...\" 说明地点。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) what pet to get; 2) where to buy one; 3) if you can come along to choose. Use 'I think you should get...' for pet suggestions, 'because' for reasons, and 'You can buy one at...' for the location.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-016",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 16,
+    "content": {
+      "stem": "Read the note from your English friend, Daniel. Write a short reply to Daniel. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Daniel\n\nHi!\n\nI have a science test next week and I'm really worried about it. Can you help me study? When should we study together? What is the best way to revise?\n\nDaniel",
+      "word_limit": 35,
+      "sample_answer": "Hi Daniel,\n\nDon't worry — I can help you! We should study together on Tuesday and Thursday after school. I think the best way to revise is to make notes and then test each other with questions. You'll do great!\n\nSee you soon!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）能否帮忙复习；2）什么时候一起学习；3）最好的复习方法是什么。先安慰朋友，然后用 \"We should study...\" 安排时间，\"I think the best way is to...\" 提出复习建议。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you can help study; 2) when to study together; 3) the best way to revise. Reassure your friend first, then use 'We should study...' for scheduling and 'I think the best way is to...' for revision tips.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-017",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 17,
+    "content": {
+      "stem": "Read the note from your English friend, Amy. Write a short reply to Amy. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Amy\n\nHi!\n\nI want to make a video about our school for my English homework. Will you be in the video? What should we show in the video? When can we make it?\n\nAmy",
+      "word_limit": 35,
+      "sample_answer": "Hi Amy,\n\nThat's a cool idea! Yes, I'd love to be in the video. We should show the classrooms, the library, and the playground because those are the best parts of our school. We can make it on Friday after school when it's quieter.\n\nSounds fun!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否愿意出镜；2）视频应该拍什么内容；3）什么时候拍。使用 \"We should show...\" 提出内容建议，\"because\" 给出理由，\"We can make it on...\" 安排时间。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you'll be in the video; 2) what to show; 3) when to make it. Use 'We should show...' for content suggestions, 'because' for reasons, and 'We can make it on...' for scheduling.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-018",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 18,
+    "content": {
+      "stem": "Read the note from your English friend, Harry. Write a short reply to Harry. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Harry\n\nHi!\n\nI got some money for my birthday and I want to buy something nice. What should I buy? Where is the best place to go shopping? Do you want to come with me?\n\nHarry",
+      "word_limit": 35,
+      "sample_answer": "Hi Harry,\n\nHappy birthday! I think you should buy some new headphones because yours are broken. The best place to go is the electronics shop in the city centre — they have lots of choices. Yes, I'd love to come with you!\n\nSee you soon!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）应该买什么；2）最好去哪里购物；3）是否想一起去。先说生日快乐，然后用 \"I think you should buy...\" 提出建议，\"The best place is...\" 推荐地点。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) what to buy; 2) the best place to shop; 3) if you want to come. Start with happy birthday, then use 'I think you should buy...' for gift suggestions and 'The best place is...' for the shop.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-019",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 19,
+    "content": {
+      "stem": "Read the note from your English friend, Ella. Write a short reply to Ella. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Ella\n\nHi!\n\nI want to start doing exercise to keep fit. What exercise should I try? How often should I do it? Will you do it with me?\n\nElla",
+      "word_limit": 35,
+      "sample_answer": "Hi Ella,\n\nThat's a great idea! I think you should try running because it's easy and you don't need any special equipment. You should exercise about three times a week. Yes, I'd love to do it with you — we can go to the park together!\n\nLet's start next week!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）应该尝试什么运动；2）应该多久做一次；3）是否愿意一起做。使用 \"I think you should try...\" 建议运动类型，\"because\" 给出理由，\"about three times a week\" 表达频率。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) what exercise to try; 2) how often to do it; 3) if you'll join. Use 'I think you should try...' for exercise suggestions, 'because' for reasons, and frequency expressions like 'three times a week'.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-020",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 20,
+    "content": {
+      "stem": "Read the note from your English friend, Jack. Write a short reply to Jack. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Jack\n\nHi!\n\nMy family just moved to a new house! Do you want to come and see it? What present should I get for my new bedroom? When can you visit?\n\nJack",
+      "word_limit": 35,
+      "sample_answer": "Hi Jack,\n\nCongratulations on your new house! I'd love to come and see it. I think you should get a nice poster or some fairy lights for your bedroom — they look really cool. I can visit on Saturday afternoon.\n\nSee you then!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）是否想来看新房子；2）应该给新卧室买什么；3）什么时候可以来。先表示祝贺，然后用 \"I think you should get...\" 提出卧室装饰建议，\"I can visit on...\" 说明时间。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) if you want to see the new house; 2) what to get for the bedroom; 3) when you can visit. Start with congratulations, then use 'I think you should get...' for decoration ideas and 'I can visit on...' for timing.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-021",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 21,
+    "content": {
+      "stem": "Read the note from your English friend, Zoe. Write a short reply to Zoe. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Zoe\n\nHi!\n\nOur school is having a charity day next month. What can we do to raise money? What should we sell? Do you want to help me organise it?\n\nZoe",
+      "word_limit": 35,
+      "sample_answer": "Hi Zoe,\n\nWhat a great idea! I think we can have a cake sale to raise money because everyone loves cakes. We should sell homemade biscuits and cupcakes. Yes, I'd love to help you organise it!\n\nLet's plan it together!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）怎么筹集资金；2）应该卖什么；3）是否想帮忙组织。使用 \"I think we can...\" 提出筹款方式，\"We should sell...\" 建议卖什么商品，\"because\" 给出理由。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) how to raise money; 2) what to sell; 3) if you want to help organise. Use 'I think we can...' for fundraising ideas, 'We should sell...' for product suggestions, and 'because' for reasons.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-022",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 22,
+    "content": {
+      "stem": "Read the note from your English friend, Leo. Write a short reply to Leo. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Leo\n\nHi!\n\nI'm bored at home during the school holidays. What can I do at home to have fun? Are there any good TV shows to watch? Do you want to come over and play?\n\nLeo",
+      "word_limit": 35,
+      "sample_answer": "Hi Leo,\n\nDon't be bored! You can try drawing or making models at home — that's really fun. You should watch the new cartoon series on TV because it's really funny. Yes, I'd love to come over! How about tomorrow afternoon?\n\nSee you soon!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）在家可以做什么好玩的；2）有什么好看的电视节目；3）是否想过来玩。使用 \"You can try...\" 建议活动，\"You should watch...\" 推荐节目，\"because\" 给出理由。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) what to do at home for fun; 2) any good TV shows; 3) if you want to come over. Use 'You can try...' for activity ideas, 'You should watch...' for TV recommendations, and 'because' for reasons.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-023",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 23,
+    "content": {
+      "stem": "Read the note from your English friend, Megan. Write a short reply to Megan. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Megan\n\nHi!\n\nI want to take some nice photos of our city. Where are the best places to take photos? What time of day is best? Do you want to come with me?\n\nMegan",
+      "word_limit": 35,
+      "sample_answer": "Hi Megan,\n\nThat sounds like fun! I think the best places are the old bridge and the city park because they're really beautiful. The best time to take photos is in the late afternoon when the light is warm and golden. Yes, I'd love to come with you!\n\nLet's go this weekend!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）最好的拍照地点在哪里；2）一天中什么时候拍照最好；3）是否想一起去。使用 \"I think the best places are...\" 推荐地点，\"The best time is...\" 建议时间，\"because\" 说明原因。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) the best places for photos; 2) the best time of day; 3) if you want to come. Use 'I think the best places are...' for location ideas, 'The best time is...' for timing, and 'because' for reasons.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-024",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 24,
+    "content": {
+      "stem": "Read the note from your English friend, Charlie. Write a short reply to Charlie. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Charlie\n\nHi!\n\nI want to give my room a new look. What colour should I paint the walls? What new things should I put in my room? Can you help me this weekend?\n\nCharlie",
+      "word_limit": 35,
+      "sample_answer": "Hi Charlie,\n\nThat's exciting! I think you should paint the walls light blue because it's a calm and happy colour. You could put some new posters and a bookshelf in your room. Yes, I can help you this weekend — how about Saturday morning?\n\nSee you then!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）墙壁应该涂什么颜色；2）房间里应该放什么新东西；3）这个周末能否帮忙。使用 \"I think you should paint...\" 建议颜色，\"You could put...\" 建议物品，\"because\" 说明理由。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) what colour to paint the walls; 2) what new things for the room; 3) if you can help this weekend. Use 'I think you should paint...' for colour ideas, 'You could put...' for items, and 'because' for reasons.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w1-025",
+    "level": "ket",
+    "skill": "writing",
+    "part": 1,
+    "question_type": "open_write",
+    "sort_order": 25,
+    "content": {
+      "stem": "Read the note from your English friend, Holly. Write a short reply to Holly. Answer the questions. Write 25 words or more.",
+      "prompt": "From: Holly\n\nHi!\n\nI'm making a scrapbook about our class this year. What photos should I put in it? What else can I add? Do you have any photos you can give me?\n\nHolly",
+      "word_limit": 35,
+      "sample_answer": "Hi Holly,\n\nWhat a lovely idea! You should put in photos from our school trip and sports day because those were the best times. You can also add drawings and funny notes from our classmates. Yes, I have some photos from the Christmas party — I'll bring them to school tomorrow.\n\nCan't wait to see the scrapbook!"
+    },
+    "explanation_zh": "中文解析：回复需要回答三个问题：1）应该放什么照片；2）还可以加什么其他内容；3）是否有照片可以提供。使用 \"You should put in...\" 建议照片，\"You can also add...\" 建议其他内容，\"because\" 给出理由。",
+    "explanation_en": "English explanation: Your reply needs to answer three questions: 1) what photos to include; 2) what else to add; 3) if you have photos to give. Use 'You should put in...' for photo ideas, 'You can also add...' for other content, and 'because' for reasons.",
+    "is_free": false
   }
 ]

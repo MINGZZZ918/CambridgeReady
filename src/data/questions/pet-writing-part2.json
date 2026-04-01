@@ -168,5 +168,260 @@
     "explanation_zh": "中文解析：这篇文章需要描述一个有趣的人，回答三个问题：1）这个人是谁；2）什么让他们有趣；3）你从他们身上学到了什么。用具体的例子和故事来展示这个人的特别之处，而不是简单的描述。使用 \"What makes him interesting is...\" 和 \"He taught me to...\" 等高级句型。",
     "explanation_en": "English explanation: This article describes an interesting person, answering: 1) who they are; 2) what makes them interesting; 3) what you've learned from them. Use specific examples and stories to show what makes this person special rather than simple descriptions. Use advanced structures like 'What makes him interesting is...' and 'He taught me to...'.",
     "is_free": false
+  },
+  {
+    "id": "pet-w2-011",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 11,
+    "content": {
+      "stem": "You see this notice in your school magazine. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nTECHNOLOGY IN OUR LIVES\n\nHow has technology changed the way you live?\nWhat is the best thing about modern technology?\nAre there any problems with using too much technology?\n\nWrite us an article answering these questions.\nThe best articles will be published next month!",
+      "word_limit": 100,
+      "sample_answer": "Technology in Our Lives\n\nTechnology has changed my life in many ways. I use my phone to chat with friends, do homework research, and listen to music. My family uses video calls to talk to relatives who live far away, which was impossible twenty years ago.\n\nThe best thing about modern technology is how it connects people. No matter where you are in the world, you can communicate instantly with anyone. It also makes learning easier — I can find information about almost anything in seconds.\n\nHowever, there are some problems with using too much technology. Many people, including me, spend too long staring at screens, which is bad for our eyes and sleep. Some people also become addicted to social media and forget to enjoy real life. I think we need to find a healthy balance."
+    },
+    "explanation_zh": "中文解析：这篇文章需要回答三个关于科技的问题：1）科技如何改变了你的生活；2）现代科技最好的方面是什么；3）过度使用科技有什么问题。用个人经历和具体例子来说明科技的影响，给出平衡的观点。使用 \"Technology has changed...\" 和 \"The best thing about... is...\" 等结构。",
+    "explanation_en": "English explanation: This article answers three questions about technology: 1) how it has changed your life; 2) the best thing about modern technology; 3) any problems with using too much. Use personal experiences and specific examples to illustrate technology's impact, and give a balanced view. Use structures like 'Technology has changed...' and 'The best thing about... is...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-012",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 12,
+    "content": {
+      "stem": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'The moment the train stopped, everything changed.' Write your story. Write about 100 words.",
+      "prompt": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:\n\n\"The moment the train stopped, everything changed.\"\n\nWrite your story in about 100 words.",
+      "word_limit": 100,
+      "sample_answer": "The moment the train stopped, everything changed. Through the window, Emma could see a small village surrounded by green hills. She had never been anywhere so beautiful.\n\nShe had been travelling for hours, feeling bored and tired. But when she stepped off the train, the fresh mountain air filled her lungs and she immediately felt alive. An old woman at the station smiled at her and said, 'Welcome to our village.'\n\nEmma spent the whole day exploring the narrow streets, tasting local food, and taking photographs of the stunning scenery. She met friendly people who told her stories about the village's history.\n\nBy evening, Emma knew she had found somewhere truly special. She decided to come back every summer. That unplanned stop had given her a new favourite place."
+    },
+    "explanation_zh": "中文解析：这是一个故事写作题，以给定句子开头。故事描述一次改变生活的旅行经历，包含场景描写（美丽的乡村）、感官细节（新鲜空气、美味食物）和情感变化（从疲倦到兴奋）。使用过去完成时（had been travelling, had never been）描述之前的状态，使用描述性形容词增强画面感。",
+    "explanation_en": "English explanation: This story begins with the given sentence and describes a life-changing travel experience. It includes scene description (beautiful village), sensory details (fresh air, local food), and emotional transformation (from tired to excited). Use past perfect (had been travelling, had never been) for earlier states and descriptive adjectives to enhance imagery.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-013",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 13,
+    "content": {
+      "stem": "You see this notice on an English-language website. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nTHE IMPORTANCE OF FRIENDSHIP\n\nWhy are friends important in your life?\nTell us about a time a friend helped you.\nWhat makes a good friend?\n\nWrite us an article answering these questions.\nWe will publish the best articles on our website!",
+      "word_limit": 100,
+      "sample_answer": "The Importance of Friendship\n\nFriends are one of the most important things in my life. They make me laugh, support me when I'm feeling down, and share my happiest moments.\n\nI remember a time when I was struggling with maths at school. I felt really frustrated and wanted to give up. My friend, Li Wei, noticed I was upset and offered to study with me every afternoon. Thanks to his help, I passed my exam and even started to enjoy the subject.\n\nI think a good friend is someone who listens to you, is honest with you, and accepts you the way you are. A good friend doesn't judge you when you make mistakes — instead, they encourage you to keep trying. I feel very lucky to have friends like that in my life."
+    },
+    "explanation_zh": "中文解析：这篇文章需要回答三个问题：1）朋友为什么在你生活中重要；2）朋友帮助你的一次经历；3）什么是好朋友。用真实的例子展示友谊的价值，描述朋友帮助你的具体情景，列出好朋友的品质。使用 \"A good friend is someone who...\" 和 \"Thanks to...\" 等结构。",
+    "explanation_en": "English explanation: This article answers three questions: 1) why friends are important; 2) a time a friend helped you; 3) what makes a good friend. Use a real example to show the value of friendship, describe the specific situation where a friend helped you, and list qualities of a good friend. Use structures like 'A good friend is someone who...' and 'Thanks to...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-014",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 14,
+    "content": {
+      "stem": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'Jake was running as fast as he could, but the bus was already leaving.' Write your story. Write about 100 words.",
+      "prompt": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:\n\n\"Jake was running as fast as he could, but the bus was already leaving.\"\n\nWrite your story in about 100 words.",
+      "word_limit": 100,
+      "sample_answer": "Jake was running as fast as he could, but the bus was already leaving. He stopped and watched it disappear around the corner. This was the bus that was supposed to take him to his football match — the most important game of the season.\n\n'What am I going to do now?' he thought. The next bus wasn't for another hour, and the match started in thirty minutes.\n\nJust then, his neighbour, Mrs Chen, drove past and stopped her car. 'Jake! You look like you're in a hurry. Where do you need to go?' she asked. He quickly explained the situation, and she offered to drive him to the match.\n\nThey arrived just five minutes before the game started. Jake scored two goals and his team won. After the match, he phoned Mrs Chen to thank her. He would never forget her kindness."
+    },
+    "explanation_zh": "中文解析：这是一个故事写作题，以给定句子开头。故事描述一个紧急情况（错过公交车）、紧张感（重要比赛即将开始）、解决方案（邻居帮忙）和积极结局（赢得比赛并表达感谢）。使用过去进行时描述背景动作，直接引语增加戏剧性，用时间词（just then, five minutes before）推动故事发展。",
+    "explanation_en": "English explanation: This story begins with the given sentence. It describes an urgent situation (missing the bus), tension (important match starting soon), a solution (neighbour's help), and a positive ending (winning and showing gratitude). Use past continuous for background actions, direct speech for drama, and time expressions (just then, five minutes before) to drive the plot.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-015",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 15,
+    "content": {
+      "stem": "You see this notice in your school magazine. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nLIFE WITHOUT THE INTERNET\n\nCould you live without the internet for a week?\nWhat would be the hardest things to do without?\nWhat activities would you do instead?\n\nWrite us an article answering these questions.\nThe best articles will be published next month!",
+      "word_limit": 100,
+      "sample_answer": "Life Without the Internet\n\nI think I could live without the internet for a week, but it would definitely be a challenge!\n\nThe hardest thing would be not being able to message my friends instantly. I use WeChat every day to chat, share photos, and make plans. I would also miss watching videos online and listening to music on streaming apps. Doing homework research without the internet would be much more difficult too — I would have to go to the library and look things up in books.\n\nInstead of using the internet, I would spend more time reading, drawing, and playing sport outdoors. I might also learn a new board game or start writing a journal. Actually, a week offline might be quite enjoyable — it could help me appreciate the simple things in life!"
+    },
+    "explanation_zh": "中文解析：这篇文章需要回答三个问题：1）你能不用网络生活一周吗；2）最难放弃什么；3）你会做什么替代活动。先表明立场，具体说明你平时依赖网络做什么，然后积极地描述替代活动。使用虚拟语气 \"I would...\" 和 \"I might...\" 来描述假设情景。",
+    "explanation_en": "English explanation: This article answers three questions: 1) could you live without the internet for a week; 2) what would be hardest to do without; 3) what activities you'd do instead. State your position, specify what you rely on the internet for, then positively describe alternative activities. Use conditional forms 'I would...' and 'I might...' for the hypothetical scenario.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-016",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 16,
+    "content": {
+      "stem": "You see this notice on an English-language website. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nMY HERO\n\nWho is your hero and why?\nWhat qualities do they have that you admire?\nHow have they inspired you?\n\nWrite us an article answering these questions.\nWe will publish the best articles on our website!",
+      "word_limit": 100,
+      "sample_answer": "My Hero\n\nMy hero is my mother. She might not be famous, but she is the strongest and most caring person I know.\n\nThe qualities I admire most about her are her patience and determination. She works long hours to support our family, but she always finds time to help me with my homework and listen to my problems. She never complains, even when she's tired.\n\nMy mother has inspired me to work hard and never give up. When I feel like something is too difficult, I think about how she manages to do so many things every day with a smile on her face. She has taught me that real strength is about being kind and keeping going, even when life is tough."
+    },
+    "explanation_zh": "中文解析：这篇文章需要回答三个问题：1）谁是你的英雄、为什么；2）你欣赏他们什么品质；3）他们如何激励了你。选择一个你真正尊敬的人（可以是普通人），用具体例子展示他们的品质，说明这个人如何影响了你的行为和态度。使用 \"The qualities I admire most are...\" 和 \"She has inspired me to...\" 等结构。",
+    "explanation_en": "English explanation: This article answers three questions: 1) who your hero is and why; 2) what qualities you admire; 3) how they've inspired you. Choose someone you truly respect (can be an ordinary person), use specific examples to show their qualities, and explain how they've influenced your behaviour and attitude. Use 'The qualities I admire most are...' and 'She has inspired me to...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-017",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 17,
+    "content": {
+      "stem": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'Maria opened the letter and started to smile.' Write your story. Write about 100 words.",
+      "prompt": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:\n\n\"Maria opened the letter and started to smile.\"\n\nWrite your story in about 100 words.",
+      "word_limit": 100,
+      "sample_answer": "Maria opened the letter and started to smile. It was from the exchange programme, and it said she had been accepted to spend a month in England!\n\nShe had applied three months ago but had tried not to get her hopes up. Now, holding the letter in her hands, she felt a wave of excitement. She would be staying with a family in Cambridge and attending classes at a local school.\n\nMaria immediately called her best friend, Sofia. 'I got in!' she shouted. Sofia screamed with happiness and said she was so proud of her.\n\nOver the next few weeks, Maria practised her English every day. When the time finally came to leave, she was nervous but excited. That month in England turned out to be the most unforgettable experience of her life."
+    },
+    "explanation_zh": "中文解析：这是一个故事写作题，以给定句子开头。故事应描述收到好消息后的一系列事件——好消息的内容、之前的等待、情感反应、准备过程和最终结果。使用过去完成时（had applied, had tried）回顾过去，描述不同人物的反应增加故事的趣味性。",
+    "explanation_en": "English explanation: This story begins with the given sentence. It should describe a sequence of events after receiving good news — the content of the news, the waiting period, emotional reactions, preparation, and the final outcome. Use past perfect (had applied, had tried) for flashback, and describe different characters' reactions to add interest.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-018",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 18,
+    "content": {
+      "stem": "You see this notice in your school magazine. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nA SKILL EVERYONE SHOULD LEARN\n\nWhat skill do you think everyone should learn?\nWhy is it so useful?\nHow can people learn this skill?\n\nWrite us an article answering these questions.\nThe best articles will be published next month!",
+      "word_limit": 100,
+      "sample_answer": "A Skill Everyone Should Learn\n\nI believe that everyone should learn how to cook. It's one of the most important life skills you can have.\n\nCooking is useful for so many reasons. First, it's much healthier than eating fast food or ready meals because you can control what ingredients you use. Second, it saves you money — eating out every day is very expensive. Third, cooking for friends and family is a wonderful way to show them you care.\n\nLearning to cook is easier than you might think. You can start by watching cooking videos online and following simple recipes. Begin with basic dishes like pasta or fried rice, and gradually try more difficult ones. The most important thing is to keep practising and not be afraid of making mistakes!"
+    },
+    "explanation_zh": "中文解析：这篇文章需要回答三个问题：1）每个人都应该学什么技能；2）为什么它如此有用；3）如何学习这项技能。选择一个你熟悉的技能，用 \"First... Second... Third...\" 列举多个有用的理由，给出具体的学习步骤。使用 \"I believe that...\" 表达观点，\"You can start by...\" 提供学习建议。",
+    "explanation_en": "English explanation: This article answers three questions: 1) what skill everyone should learn; 2) why it's so useful; 3) how to learn it. Choose a skill you know well, list multiple reasons using 'First... Second... Third...', and give specific learning steps. Use 'I believe that...' for your opinion and 'You can start by...' for learning advice.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-019",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 19,
+    "content": {
+      "stem": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'It was the last day of school, and nobody wanted to go home.' Write your story. Write about 100 words.",
+      "prompt": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:\n\n\"It was the last day of school, and nobody wanted to go home.\"\n\nWrite your story in about 100 words.",
+      "word_limit": 100,
+      "sample_answer": "It was the last day of school, and nobody wanted to go home. The classroom was decorated with photos from the whole year, and everyone was feeling a mixture of happiness and sadness.\n\nOur teacher, Mr Wang, had prepared a special surprise. He gave each student a small envelope containing a handwritten message about their best qualities. When I read mine, I felt tears in my eyes. He wrote that I was brave and kind, and that he believed in my future.\n\nWe spent the afternoon sharing memories, signing each other's shirts, and taking group photos. Some students were laughing while others were quietly wiping away tears.\n\nAs I walked out of the school gate for the last time, I looked back and smiled. I knew I would never forget this class and these friends. It had been the best year of my life."
+    },
+    "explanation_zh": "中文解析：这是一个故事写作题，以给定句子开头。故事描述学年最后一天的感人场景——教室装饰、老师的惊喜、同学之间的告别。注意表达复杂的情感（既开心又难过），使用感官细节（看到照片、读到信、流泪），让故事有深度和温暖。使用 \"a mixture of...\" 和 \"I knew I would never forget...\" 等表达。",
+    "explanation_en": "English explanation: This story begins with the given sentence and describes the emotional last day of school — classroom decorations, teacher's surprise, farewell between classmates. Express complex emotions (both happy and sad), use sensory details (photos, reading the letter, tears), and create depth and warmth. Use expressions like 'a mixture of...' and 'I knew I would never forget...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-020",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 20,
+    "content": {
+      "stem": "You see this notice on an English-language website. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nTHE BENEFITS OF TRAVELLING\n\nWhy is travelling a good experience for young people?\nTell us about a trip that taught you something.\nWhere would you most like to travel in the future?\n\nWrite us an article answering these questions.\nWe will publish the best articles on our website!",
+      "word_limit": 100,
+      "sample_answer": "The Benefits of Travelling\n\nI think travelling is one of the best experiences a young person can have. It teaches you about different cultures, helps you become more independent, and creates memories that last forever.\n\nLast year, I went to Beijing with my school. We visited the Great Wall and the Forbidden City. This trip taught me so much about Chinese history — seeing these places in real life was much more powerful than reading about them in a textbook. I also learned how to manage my own time and money.\n\nIn the future, I would love to travel to Europe, especially Italy. I want to see the ancient buildings in Rome and try real Italian pizza! I think every young person should have the chance to explore the world."
+    },
+    "explanation_zh": "中文解析：这篇文章需要回答三个问题：1）旅行为什么对年轻人有益；2）一次让你学到东西的旅行经历；3）你将来最想去哪里旅行。列出旅行的多个好处，用过去时态描述具体的旅行经历，用 \"I would love to...\" 描述未来的旅行愿望。",
+    "explanation_en": "English explanation: This article answers three questions: 1) why travelling is good for young people; 2) a trip that taught you something; 3) where you'd most like to travel. List multiple benefits of travel, use past tenses for the specific trip experience, and 'I would love to...' for future travel wishes.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-021",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 21,
+    "content": {
+      "stem": "You see this notice in your school magazine. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nMUSIC IN MY LIFE\n\nWhat role does music play in your life?\nHow does music affect your mood?\nDo you think learning music is important for young people?\n\nWrite us an article answering these questions.\nThe best articles will be published next month!",
+      "word_limit": 100,
+      "sample_answer": "Music in My Life\n\nMusic plays a huge role in my life. I listen to music every day — on the way to school, while doing homework, and before going to sleep.\n\nMusic affects my mood in different ways. When I'm feeling sad, I listen to cheerful pop songs and they always make me feel better. When I need to concentrate on studying, I listen to calm piano music. And when I'm getting ready to go out with friends, I play energetic dance music to put me in a good mood.\n\nI believe learning music is very important for young people. Playing an instrument teaches you discipline and patience. It also helps with creativity and reduces stress. Even if you don't become a professional musician, the skills you learn from music will help you in many areas of life."
+    },
+    "explanation_zh": "中文解析：这篇文章需要回答三个问题：1）音乐在你生活中扮演什么角色；2）音乐如何影响你的情绪；3）你是否认为学习音乐对年轻人很重要。用具体的日常场景说明音乐的作用，描述不同类型音乐对情绪的不同影响，列出学习音乐的好处。使用 \"Music affects my mood in different ways\" 和 \"Even if you don't...\" 等结构。",
+    "explanation_en": "English explanation: This article answers three questions: 1) what role music plays in your life; 2) how music affects your mood; 3) whether learning music is important for young people. Use specific daily scenarios to illustrate music's role, describe different types of music affecting mood differently, and list benefits of learning music. Use structures like 'Music affects my mood in different ways' and 'Even if you don't...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-022",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 22,
+    "content": {
+      "stem": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'When the lights went out, everyone in the room gasped.' Write your story. Write about 100 words.",
+      "prompt": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:\n\n\"When the lights went out, everyone in the room gasped.\"\n\nWrite your story in about 100 words.",
+      "word_limit": 100,
+      "sample_answer": "When the lights went out, everyone in the room gasped. We were in the school hall, watching a magic show, and suddenly everything was completely dark.\n\nFor a few seconds, nobody moved. Then a single spotlight appeared on the stage, and the magician was standing there in a completely different costume. 'How did she do that?' whispered my friend beside me.\n\nThe show continued with even more incredible tricks. She made a bird appear from an empty hat and turned a glass of water into flowers. The audience clapped and cheered after every trick.\n\nWhen the show ended, everyone agreed it was the best school event we had ever had. I was so inspired that I went home and started learning magic tricks myself. My first trick was terrible, but I didn't give up!"
+    },
+    "explanation_zh": "中文解析：这是一个故事写作题，以给定句子开头。故事以一个戏剧性的时刻（灯灭）开始，制造悬念，然后揭示原因（魔术表演），描述精彩的表演，以积极的结局收尾（被启发学习魔术）。使用感官描写（黑暗、聚光灯），直接引语增加真实感，过去时态叙述。",
+    "explanation_en": "English explanation: This story begins with the given sentence. It starts with a dramatic moment (lights going out), builds suspense, reveals the reason (magic show), describes the amazing performance, and ends positively (being inspired to learn magic). Use sensory descriptions (darkness, spotlight), direct speech for authenticity, and past tenses for narration.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-023",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 23,
+    "content": {
+      "stem": "You see this notice on an English-language website. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nPROTECTING THE ENVIRONMENT\n\nWhat environmental problems worry you most?\nWhat are you doing to help the environment?\nWhat more should be done to protect our planet?\n\nWrite us an article answering these questions.\nWe will publish the best articles on our website!",
+      "word_limit": 100,
+      "sample_answer": "Protecting the Environment\n\nThe environmental problem that worries me most is plastic pollution. Every year, millions of tonnes of plastic end up in our oceans, harming sea creatures and destroying beautiful ecosystems.\n\nI'm trying to do my part to help. I always carry a reusable water bottle and shopping bag. I recycle as much as possible and try to avoid buying products with too much packaging. At school, our class organised a litter-picking day at the local beach, which was a really rewarding experience.\n\nI think much more should be done to protect our planet. Governments should ban single-use plastics and invest more in renewable energy. Schools should teach children about environmental issues from a young age. Most importantly, big companies need to take more responsibility for their pollution. We all have a role to play, and we need to act now before it's too late."
+    },
+    "explanation_zh": "中文解析：这篇文章需要回答三个问题：1）你最担心什么环境问题；2）你在做什么来帮助环境；3）还应该做些什么来保护地球。选择一个具体的环境问题并说明其严重性，列出你个人的环保行动，从政府、学校和企业的角度讨论更多应该做的事情。使用 \"The problem that worries me most is...\" 和 \"Governments should...\" 等结构。",
+    "explanation_en": "English explanation: This article answers three questions: 1) what environmental problem worries you most; 2) what you're doing to help; 3) what more should be done. Choose a specific environmental issue and explain its severity, list your personal eco-actions, and discuss what more should be done from government, school, and corporate perspectives. Use 'The problem that worries me most is...' and 'Governments should...'.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-024",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 24,
+    "content": {
+      "stem": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'Sam couldn't believe he was finally standing on stage in front of hundreds of people.' Write your story. Write about 100 words.",
+      "prompt": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:\n\n\"Sam couldn't believe he was finally standing on stage in front of hundreds of people.\"\n\nWrite your story in about 100 words.",
+      "word_limit": 100,
+      "sample_answer": "Sam couldn't believe he was finally standing on stage in front of hundreds of people. His hands were shaking and his mouth felt dry. Just six months ago, he had been too shy to speak in class.\n\nEverything had changed when his music teacher had heard him singing in the corridor. 'You have a wonderful voice,' she had said. 'You should join the school choir.' At first, Sam had said no, but she had encouraged him until he agreed to try.\n\nNow, as the music began, Sam took a deep breath and started to sing. After the first few notes, his nervousness disappeared completely. His voice filled the hall, and he could see people in the audience smiling.\n\nWhen the song ended, the applause was deafening. Sam smiled the biggest smile of his life. He had found something he loved, and he was never going to stop singing."
+    },
+    "explanation_zh": "中文解析：这是一个故事写作题，以给定句子开头。故事讲述了一个害羞男孩如何发现自己的歌唱天赋并克服恐惧。使用过去完成时（had been, had heard, had said）回顾过去的事件，描述情感变化（紧张到自信），使用感官描写（双手颤抖、掌声震耳欲聋）增强画面感。",
+    "explanation_en": "English explanation: This story begins with the given sentence and tells how a shy boy discovers his singing talent and overcomes his fear. Use past perfect (had been, had heard, had said) for flashback, describe the emotional journey (nervous to confident), and use sensory descriptions (shaking hands, deafening applause) to enhance the imagery.",
+    "is_free": false
+  },
+  {
+    "id": "pet-w2-025",
+    "level": "pet",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 25,
+    "content": {
+      "stem": "You see this notice in your school magazine. Write your article. Write about 100 words.",
+      "prompt": "ARTICLES WANTED!\n\nWORKING TOGETHER\n\nTell us about a time you worked as part of a team.\nWhat did you learn from the experience?\nWhy is teamwork important?\n\nWrite us an article answering these questions.\nThe best articles will be published next month!",
+      "word_limit": 100,
+      "sample_answer": "Working Together\n\nLast term, I worked as part of a team to create a short film for our school's film festival. There were five of us, and each person had a different job — I was the scriptwriter, while others worked on filming, acting, editing, and music.\n\nAt first, we disagreed about the storyline. Some wanted a comedy, others wanted a drama. But we listened to each other's ideas and eventually combined them into a funny story with a serious message. The process taught me that the best results come from compromise and communication.\n\nI learned that teamwork is important because it allows you to achieve things you could never do alone. Everyone brings different strengths and ideas, and when people work together with respect, the result is always better than anything one person could create."
+    },
+    "explanation_zh": "中文解析：这篇文章需要回答三个问题：1）描述一次团队合作的经历；2）从中学到了什么；3）为什么团队合作很重要。描述团队中每个人的角色和挑战（意见不合），说明如何解决分歧，总结团队合作的价值。使用过去时态描述经历，\"I learned that...\" 总结收获，\"Teamwork is important because...\" 阐述重要性。",
+    "explanation_en": "English explanation: This article answers three questions: 1) describe a teamwork experience; 2) what you learned; 3) why teamwork is important. Describe each person's role and challenges (disagreements), explain how conflicts were resolved, and summarise the value of teamwork. Use past tenses for the experience, 'I learned that...' for lessons, and 'Teamwork is important because...' for importance.",
+    "is_free": false
   }
 ]

@@ -197,5 +197,305 @@
     "explanation_zh": "这是PET口语第四部分关于未来工作和职业的话题讨论。你需要讨论未来最重要的工作、AI对就业的影响、工作满意度vs薪资、工作方式的变化以及学生应该学习的技能。",
     "explanation_en": "This is PET Speaking Part 4 about the future of work and careers. You need to discuss important future jobs, AI's impact on employment, job satisfaction vs pay, changes in working methods, and skills students should learn.",
     "is_free": false
+  },
+  {
+    "id": "pet-s4-009",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 9,
+    "content": {
+      "stem": "Topic Discussion — Talk about food, diet, and eating habits.",
+      "prompt": "The examiner will ask you questions about food, diet, and eating habits. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What kind of food do you enjoy eating? Has your taste changed as you've grown up?",
+        "Do you think it's important for young people to learn how to cook? Why or why not?",
+        "Some people think fast food should be banned near schools. Do you agree?",
+        "How do you think eating habits are different now compared to your grandparents' generation?",
+        "Do you think vegetarianism or veganism will become more popular in the future? Why?"
+      ],
+      "sample_answer": "I really enjoy eating Chinese food, especially hotpot and dumplings, but I also like trying foods from other countries like pizza and sushi. When I was younger I was quite fussy, but now I like many more things. I think it's very important for young people to learn to cook because when you leave home, you need to be able to feed yourself properly. If you can't cook, you might end up eating unhealthy food all the time. I partly agree about banning fast food near schools — it would help students eat more healthily, but I think educating them about nutrition is more important than banning things. Eating habits have definitely changed — my grandparents ate more fresh vegetables and rice, while today many people eat more processed food. I think vegetarianism will become more popular because people are more aware of animal welfare and the environmental impact of eating meat.",
+      "tips_zh": "讨论饮食话题时，结合个人经历和更广泛的社会趋势。谈到学做饭时，解释实际原因（independence, health）。对于禁止快餐的问题，可以提出替代方案（education instead of banning）。比较不同代际的饮食习惯时，举出具体例子。讨论素食趋势时，考虑不同角度（health, environment, animal welfare）。使用 \"I partly agree... but I think...\" 展示批判性思维。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于食物、饮食和饮食习惯的话题讨论。你需要讨论你的饮食偏好、学做饭的重要性、学校附近的快餐、代际饮食差异和素食趋势。",
+    "explanation_en": "This is PET Speaking Part 4 about food, diet, and eating habits. You need to discuss your food preferences, the importance of learning to cook, fast food near schools, generational differences in eating, and vegetarian trends.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-010",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 10,
+    "content": {
+      "stem": "Topic Discussion — Talk about sport and competition.",
+      "prompt": "The examiner will ask you questions about sport and competition. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What sports do you enjoy watching or playing? Why?",
+        "Do you think sport is important for children and teenagers? Why?",
+        "Some people believe that winning is the most important thing in sport. Do you agree?",
+        "Do you think professional athletes are paid too much money? Why or why not?",
+        "How do you think sport brings people together?"
+      ],
+      "sample_answer": "I enjoy playing basketball with my friends and watching football on TV. I like basketball because it's fast and exciting, and it's a great way to stay fit. I think sport is very important for young people because it teaches teamwork, discipline, and how to deal with both winning and losing. I don't agree that winning is the most important thing — I think what matters most is doing your best and enjoying the experience. If you only care about winning, you might give up when things get difficult. I think some professional athletes are paid too much compared to people like nurses or teachers who do very important work. However, top athletes work incredibly hard and their careers are usually quite short. Sport brings people together because it gives them something to share — for example, when your country is in the World Cup, everyone supports the team together.",
+      "tips_zh": "讨论体育话题时，平衡个人参与和社会层面的讨论。谈到体育对年轻人的重要性时，列举具体益处（teamwork, discipline, handling failure）。讨论'胜利是否最重要'时，可以从不同角度分析。谈到运动员薪资时，展示两面性（they work hard vs compared to other professions）。使用 \"I don't agree that...\" 和 \"What matters most is...\" 表达观点。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于体育和竞争的话题讨论。你需要讨论你喜欢的运动、体育对年轻人的重要性、输赢观念、运动员薪资和体育的社会功能。",
+    "explanation_en": "This is PET Speaking Part 4 about sport and competition. You need to discuss sports you enjoy, the importance of sport for young people, attitudes to winning, athletes' pay, and how sport brings people together.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-011",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 11,
+    "content": {
+      "stem": "Topic Discussion — Talk about money, shopping, and consumerism.",
+      "prompt": "The examiner will ask you questions about money, shopping, and consumer behaviour. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "Do you think it's important for teenagers to learn about managing money? Why?",
+        "Some people prefer shopping online, while others prefer going to shops. What do you prefer and why?",
+        "Do you think advertising has too much influence on what people buy?",
+        "Is it better to save money or spend it on experiences? Why?",
+        "Do you think people buy too many things they don't really need?"
+      ],
+      "sample_answer": "I definitely think teenagers should learn about managing money. If you don't understand how to budget and save, you might have financial problems when you're older. My parents give me pocket money and I try to save some of it every month. I prefer shopping online because it's more convenient — you can compare prices easily and things are often cheaper. However, I do enjoy going to shops with friends as a social activity. I think advertising does influence people a lot, especially on social media where influencers promote products. Young people especially might buy things just because a celebrity uses them. I think it's good to have a balance between saving and spending on experiences — experiences create memories that last a lifetime. Yes, I think people do buy too many unnecessary things. Fast fashion is a good example — people buy cheap clothes, wear them once, and throw them away, which is bad for the environment.",
+      "tips_zh": "讨论金钱和消费话题时，展示你对消费文化的思考。谈到理财教育时，强调实际重要性。比较线上和线下购物时，分析各自优缺点。讨论广告影响时，可以提到社交媒体和网红。谈到储蓄vs消费时，给出平衡观点。使用 \"I definitely think...\" 表达强烈观点，\"However...\" 展示两面性。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于金钱、购物和消费主义的话题讨论。你需要讨论青少年理财教育、购物方式偏好、广告的影响、储蓄vs消费以及过度消费现象。",
+    "explanation_en": "This is PET Speaking Part 4 about money, shopping, and consumerism. You need to discuss financial literacy for teenagers, shopping preferences, advertising influence, saving vs spending, and overconsumption.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-012",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 12,
+    "content": {
+      "stem": "Topic Discussion — Talk about friends, family, and relationships.",
+      "prompt": "The examiner will ask you questions about friends, family, and relationships. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What qualities do you think are most important in a good friend?",
+        "Do you think family relationships have changed in recent years? How?",
+        "Some people say it's better to have a few close friends than many acquaintances. Do you agree?",
+        "How important is it to spend time with your family?",
+        "Do you think it's possible to have close friendships with people you've never met in person?"
+      ],
+      "sample_answer": "I think the most important qualities in a good friend are honesty, loyalty, and being a good listener. You need to trust your friends and know they will support you. Family relationships have changed — in the past, extended families lived together, but now many families live apart and use video calls to stay in touch. I agree that it's better to have a few close friends — having many acquaintances might seem nice, but when you really need help, only close friends will be there for you. I think spending time with family is very important, especially having meals together and talking about your day. It makes everyone feel connected. As for online friendships, I think you can have meaningful friendships online, but they're different from face-to-face friendships. You can share thoughts and interests, but you miss the physical connection like hugs and shared experiences.",
+      "tips_zh": "讨论朋友和家庭话题时，结合个人经验和社会变化。谈到友谊品质时，列举具体特征并解释原因。讨论家庭关系变化时，对比过去和现在。关于'少而精'的朋友，从实际经验出发分析。谈到网络友谊时，承认其价值但也指出局限性。使用 \"I think the most important... are...\" 和 \"but they're different from...\" 展示对比分析能力。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于朋友、家庭和人际关系的话题讨论。你需要讨论好朋友的品质、家庭关系的变化、朋友数量vs质量、家庭时间的重要性和网络友谊。",
+    "explanation_en": "This is PET Speaking Part 4 about friends, family, and relationships. You need to discuss qualities of good friends, changes in family relationships, quantity vs quality of friendships, importance of family time, and online friendships.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-013",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 13,
+    "content": {
+      "stem": "Topic Discussion — Talk about entertainment and free time.",
+      "prompt": "The examiner will ask you questions about entertainment and how people spend their free time. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "How do you usually spend your free time?",
+        "Do you think young people today have enough free time? Why or why not?",
+        "Some people think that watching TV and playing video games are a waste of time. Do you agree?",
+        "Do you think reading books is still important in the digital age? Why?",
+        "How do you think entertainment will change in the next ten years?"
+      ],
+      "sample_answer": "In my free time, I usually listen to music, read manga, or play basketball with my friends. At weekends, I sometimes go to the cinema or play video games. I don't think young people in China have enough free time because we have a lot of homework and many students go to extra tutoring classes after school. I don't agree that watching TV and playing games are a waste of time — it depends on what you watch and play. Documentaries can be educational, and some games help develop problem-solving skills. However, spending too many hours on them isn't healthy. I think reading books is still important because it improves your vocabulary, imagination, and concentration. You can read on e-readers now, so it's very convenient. In the future, I think virtual reality will be a big part of entertainment — you could feel like you're inside a film or a game, which would be amazing.",
+      "tips_zh": "讨论娱乐和休闲时间时，从自己的日常生活出发。谈到自由时间不够时，考虑学业压力和课外班。讨论'电视和游戏是浪费时间'时，给出有理有据的反驳（depends on content, develops skills）。谈到阅读的重要性时，列举具体好处。展望未来时，给出合理的预测。使用 \"It depends on...\" 和 \"However...\" 展示批判性思维。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于娱乐和休闲时间的话题讨论。你需要讨论你的休闲活动、年轻人是否有足够自由时间、电视和游戏是否浪费时间、阅读的重要性和未来娱乐趋势。",
+    "explanation_en": "This is PET Speaking Part 4 about entertainment and free time. You need to discuss your leisure activities, whether young people have enough free time, whether TV and games are a waste of time, the importance of reading, and future entertainment trends.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-014",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 14,
+    "content": {
+      "stem": "Topic Discussion — Talk about living in cities versus the countryside.",
+      "prompt": "The examiner will ask you questions about living in cities and the countryside. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "Do you live in a city or in the countryside? What do you like about where you live?",
+        "What do you think are the advantages of living in a big city?",
+        "Do you think life in the countryside is better for children? Why or why not?",
+        "Some people think that too many people are moving to cities. What problems can this cause?",
+        "Where would you prefer to live when you are older — in a city or in the countryside? Why?"
+      ],
+      "sample_answer": "I live in a city, and I like it because there are lots of things to do — shopping centres, cinemas, restaurants, and good public transport. The main advantages of living in a big city are better job opportunities, more entertainment options, and access to good schools and hospitals. I think life in the countryside can be better for children in some ways — there's more space to play outside, the air is cleaner, and it's safer. However, children in the countryside might not have access to as many activities or good schools. When too many people move to cities, it causes problems like traffic congestion, pollution, expensive housing, and overcrowded public transport. When I'm older, I'd like to live in a city for work but have a house in the countryside for weekends — the best of both worlds!",
+      "tips_zh": "讨论城市vs乡村时，从个人体验出发，但也考虑更广泛的社会问题。列举城市的优势时要具体（jobs, entertainment, schools）。讨论乡村对儿童的好处时，平衡两面（more space but fewer opportunities）。谈到城市化问题时，列举具体问题。对未来的规划可以展示创意（best of both worlds）。使用 \"The main advantages are...\" 和 \"However...\" 结构。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于城市和乡村生活的话题讨论。你需要讨论你的居住环境、城市生活的优势、乡村对儿童的好处、城市化问题和未来的居住偏好。",
+    "explanation_en": "This is PET Speaking Part 4 about living in cities versus the countryside. You need to discuss where you live, advantages of city life, benefits of countryside for children, urbanisation problems, and your future living preferences.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-015",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 15,
+    "content": {
+      "stem": "Topic Discussion — Talk about music and its importance.",
+      "prompt": "The examiner will ask you questions about music and its role in people's lives. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What kind of music do you like listening to? Why?",
+        "Do you think learning to play a musical instrument is important? Why or why not?",
+        "How has technology changed the way people listen to music?",
+        "Some people think that music education should be a required subject in all schools. Do you agree?",
+        "Do you think music can affect how people feel? In what ways?"
+      ],
+      "sample_answer": "I like listening to pop music and sometimes classical music when I'm studying. Pop music is fun and catchy, while classical music helps me concentrate. I think learning an instrument is valuable because it teaches patience and discipline, and it gives you a skill you can enjoy your whole life. I play the piano, and although practising can be boring sometimes, I feel proud when I can play a piece well. Technology has completely changed how we listen to music — in the past, you had to buy CDs or go to concerts, but now you can stream millions of songs on your phone for free or for a small subscription. I think music should be part of the school curriculum, but it shouldn't be as important as subjects like maths or English. Music definitely affects how people feel — a happy song can cheer you up when you're sad, and calm music can help you relax before bed.",
+      "tips_zh": "讨论音乐话题时，分享个人音乐偏好和学习乐器的经历。谈到技术对音乐的影响时，对比过去和现在（CDs vs streaming）。讨论音乐教育时，给出平衡观点（valuable but not as important as core subjects）。谈到音乐对情感的影响时，举出具体例子。使用 \"Although... I feel...\" 和 \"In the past... but now...\" 等结构展示语言能力。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于音乐及其重要性的话题讨论。你需要讨论你的音乐偏好、学乐器的重要性、技术对音乐的影响、音乐教育和音乐对情感的作用。",
+    "explanation_en": "This is PET Speaking Part 4 about music and its importance. You need to discuss your music preferences, the importance of learning instruments, technology's impact on music, music education, and music's effect on emotions.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-016",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 16,
+    "content": {
+      "stem": "Topic Discussion — Talk about animals, pets, and wildlife.",
+      "prompt": "The examiner will ask you questions about animals, pets, and wildlife protection. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "Do you have a pet or would you like to have one? Why?",
+        "Do you think keeping animals in zoos is a good idea? Why or why not?",
+        "What do you think people can do to protect endangered animals?",
+        "Some people think that animals should not be used for entertainment, like in circuses. Do you agree?",
+        "How important is it to teach children about wildlife and nature?"
+      ],
+      "sample_answer": "I have a cat called Mimi, and she's a wonderful pet. Having a pet teaches you responsibility because you have to feed it, clean up after it, and take care of it when it's sick. I have mixed feelings about zoos. On one hand, they help protect endangered species and allow people to learn about animals. On the other hand, it's sad to see animals in small enclosures when they should be free in the wild. To protect endangered animals, people should support conservation organisations, avoid buying products made from endangered species, and protect natural habitats. I agree that animals should not be used in circuses — it's cruel to make them perform tricks just for entertainment. I think it's very important to teach children about wildlife because if they understand and care about nature from a young age, they'll be more likely to protect it when they grow up.",
+      "tips_zh": "讨论动物话题时，可以从宠物经历出发，然后扩展到更广泛的动物保护议题。讨论动物园时，展示两面思考（conservation vs freedom）。谈到保护濒危动物时，列举具体行动。讨论马戏团时，从动物福利角度分析。使用 \"I have mixed feelings about...\" 表达复杂观点，\"On one hand... On the other hand...\" 展示平衡思维。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于动物、宠物和野生动物的话题讨论。你需要讨论养宠物的经历、动物园的利弊、保护濒危动物、动物娱乐表演和野生动物教育。",
+    "explanation_en": "This is PET Speaking Part 4 about animals, pets, and wildlife. You need to discuss pet ownership, pros and cons of zoos, protecting endangered animals, animals in entertainment, and wildlife education.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-017",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 17,
+    "content": {
+      "stem": "Topic Discussion — Talk about volunteering and helping others.",
+      "prompt": "The examiner will ask you questions about volunteering and community service. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "Have you ever done any volunteer work? If so, what did you do?",
+        "Why do you think people volunteer? What do they get from it?",
+        "Some schools require students to do community service. Do you think this is a good idea?",
+        "What kinds of volunteer work do you think are most needed in your community?",
+        "Do you think young people should be encouraged to volunteer more? How?"
+      ],
+      "sample_answer": "Yes, I've volunteered at a local library, helping to organise books and reading stories to young children. It was a really enjoyable experience. I think people volunteer for different reasons — some want to help others, some want to learn new skills, and some want to meet new people. Volunteering also makes you feel good about yourself because you're making a difference. I think requiring community service at school is a good idea because it introduces students to volunteering who might not try it otherwise. In my community, I think we need more volunteers to help elderly people who live alone — they might need help with shopping, cooking, or just someone to talk to. Young people should definitely be encouraged to volunteer more. Schools could organise volunteer days, and parents could set a good example by volunteering themselves.",
+      "tips_zh": "讨论志愿服务话题时，分享你的个人志愿经历。分析人们做志愿服务的不同动机（altruism, skills, socializing, self-worth）。讨论学校要求社区服务时，指出其好处（introduces students who wouldn't try otherwise）。谈到社区需求时，举出具体例子。使用 \"I think we need more volunteers to...\" 和 \"Schools could...\" 提出建议。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于志愿服务和帮助他人的话题讨论。你需要讨论你的志愿经历、人们做志愿服务的原因、学校要求的社区服务、社区需要的志愿服务和鼓励年轻人参与的方式。",
+    "explanation_en": "This is PET Speaking Part 4 about volunteering and helping others. You need to discuss your volunteer experience, why people volunteer, school community service requirements, community needs, and encouraging young people to volunteer.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-018",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 18,
+    "content": {
+      "stem": "Topic Discussion — Talk about fashion, clothes, and personal style.",
+      "prompt": "The examiner will ask you questions about fashion, clothes, and how people express themselves through what they wear. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "How important are clothes and fashion to you?",
+        "Do you think school uniforms are a good idea? Why or why not?",
+        "Some people spend a lot of money on designer clothes. What do you think about this?",
+        "Do you think the fashion industry has a negative impact on the environment? Why?",
+        "Do you think people judge others by what they wear? Is this fair?"
+      ],
+      "sample_answer": "Clothes are quite important to me because what I wear affects how I feel. When I wear something nice, I feel more confident. However, I don't follow fashion trends closely — I prefer to wear what's comfortable and looks good on me. I think school uniforms have some advantages — they stop bullying about clothes and make everyone feel equal. But they can also stop students from expressing their individuality. Spending a lot on designer clothes is a personal choice, but I think it's a bit wasteful — you can find nice clothes at much lower prices. The fashion industry does harm the environment — fast fashion produces a huge amount of waste, and making clothes uses a lot of water and chemicals. People definitely judge others by their appearance, and I don't think it's fair because what you wear doesn't show who you really are as a person.",
+      "tips_zh": "讨论时尚话题时，从个人偏好出发，然后讨论更广泛的社会问题。谈到校服时，分析优缺点（equality vs individuality）。讨论名牌消费时，给出你的观点但不要评判别人。谈到时尚产业对环境的影响时，提到快时尚的具体问题。讨论以貌取人时，展示对公平的思考。使用 \"However...\" 和 \"But they can also...\" 展示两面性思考。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于时尚、服装和个人风格的话题讨论。你需要讨论服装对你的重要性、校服的利弊、名牌消费、时尚产业的环境影响和以貌取人的公平性。",
+    "explanation_en": "This is PET Speaking Part 4 about fashion, clothes, and personal style. You need to discuss the importance of clothes to you, school uniforms, spending on designer clothes, fashion's environmental impact, and judging people by appearance.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-019",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 19,
+    "content": {
+      "stem": "Topic Discussion — Talk about learning languages and communication.",
+      "prompt": "The examiner will ask you questions about learning languages and cross-cultural communication. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "Why are you learning English? How do you think it will help you in the future?",
+        "What do you find most difficult about learning a foreign language?",
+        "Do you think everyone should learn at least one foreign language? Why?",
+        "Some people think translation apps make learning languages unnecessary. Do you agree?",
+        "Do you think it's easier for children to learn languages than adults? Why?"
+      ],
+      "sample_answer": "I'm learning English because it's the most widely spoken international language and it will help me with my studies and career in the future. I also want to travel and be able to communicate with people from different countries. The most difficult thing about learning a foreign language for me is speaking — I sometimes feel nervous and I'm afraid of making mistakes. I definitely think everyone should learn at least one foreign language because it helps you understand other cultures and it's good for your brain. I don't agree that translation apps make language learning unnecessary — apps can help with basic communication, but they can't replace the experience of actually speaking a language and understanding the culture behind it. I think children do find it easier to learn languages because their brains are still developing and they're less afraid of making mistakes.",
+      "tips_zh": "讨论语言学习话题时，结合你学英语的亲身经历。谈到困难时，诚实分享你的挑战（speaking, grammar, vocabulary）。讨论翻译软件时，分析其局限性（can't replace cultural understanding）。谈到儿童vs成人学语言时，从认知和心理角度分析。使用 \"I definitely think...\" 表达强烈观点，\"I don't agree that... because...\" 有理有据地反驳。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于语言学习和跨文化沟通的话题讨论。你需要讨论你学英语的原因、语言学习的困难、学外语的必要性、翻译软件是否让语言学习变得不必要和儿童vs成人的语言学习能力。",
+    "explanation_en": "This is PET Speaking Part 4 about learning languages and communication. You need to discuss why you're learning English, difficulties in language learning, the necessity of foreign languages, translation apps, and children vs adults in language learning.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s4-020",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 4,
+    "question_type": "speaking",
+    "sort_order": 20,
+    "content": {
+      "stem": "Topic Discussion — Talk about safety, rules, and laws.",
+      "prompt": "The examiner will ask you questions about safety, rules, and laws in society. Give your opinions and support them with reasons and examples from your own experience.",
+      "speaking_time_seconds": 120,
+      "examiner_questions": [
+        "What rules do you have at your school? Do you think they are fair?",
+        "Why do you think rules and laws are important in society?",
+        "Some people think that young people should have more freedom. Do you agree?",
+        "Do you think there are enough safety measures in your city or town? What could be improved?",
+        "Do you think the legal age for driving, voting, or working should be changed? Why or why not?"
+      ],
+      "sample_answer": "At my school, we have rules about wearing uniforms, being on time, not using phones in class, and respecting teachers. I think most of these rules are fair because they help create a good learning environment. Rules and laws are important because without them, people would do whatever they wanted and there would be chaos. They protect people's rights and keep everyone safe. I think young people should have some more freedom, but not complete freedom — we still need guidance from adults because we're still learning. In my city, I think road safety could be improved — there should be more traffic lights near schools and better cycle lanes. I don't think the driving age should be lowered because teenagers often don't have enough experience to drive safely. However, I think the voting age could be lowered to sixteen because young people are affected by government decisions and should have a say.",
+      "tips_zh": "讨论规则和安全话题时，从学校规则出发，扩展到社会层面。分析规则存在的原因（protection, order, fairness）。讨论年轻人的自由时，给出平衡观点（some freedom but not complete freedom）。谈到安全措施时，举出具体的改进建议。讨论法定年龄时，区分不同活动（driving vs voting）给出不同观点。使用 \"I think... because...\" 和 \"However...\" 展示多角度思考。"
+    },
+    "explanation_zh": "这是PET口语第四部分关于安全、规则和法律的话题讨论。你需要讨论学校规则的公平性、规则和法律的重要性、年轻人的自由度、安全措施和法定年龄问题。",
+    "explanation_en": "This is PET Speaking Part 4 about safety, rules, and laws. You need to discuss school rules, the importance of rules and laws, freedom for young people, safety measures, and legal age limits.",
+    "is_free": false
   }
 ]

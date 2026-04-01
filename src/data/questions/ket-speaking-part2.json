@@ -150,5 +150,233 @@
     "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起决定如何装饰房间。讨论颜色、装饰品和家具摆放。展示你能描述空间和位置，表达审美偏好。",
     "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to decide how to decorate a room with your partner. Discuss colours, decorations, and furniture arrangement. Show you can describe spaces and positions, and express aesthetic preferences.",
     "is_free": false
+  },
+  {
+    "id": "ket-s2-009",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 9,
+    "content": {
+      "stem": "Situation Discussion — Plan a healthy lunch for the class.",
+      "prompt": "Your teacher has asked you and your partner to plan a healthy lunch for the class. Discuss and decide: What food should you include? What drinks should you have? Should you have a dessert? What about students with allergies?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should have sandwiches with chicken or cheese, and also a big salad with tomatoes and carrots. For drinks, we could have water and fruit juice — no fizzy drinks because they aren't healthy. For dessert, maybe we can have fruit — like apples, bananas, and oranges. That's healthy and most people like fruit. For students with allergies, we should ask the teacher first and make sure we have food without nuts or milk. What do you think? Do you have any other ideas?",
+      "tips_zh": "讨论健康午餐时，要列出具体的食物和饮料。注意说明为什么选择某些食物（\"because they're healthy\"）。考虑过敏的同学体现关心他人。使用 \"I think we should...\" 和 \"We could...\" 提出建议。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起计划一顿健康午餐。讨论食物、饮料、甜点和过敏问题。展示你能考虑多方面因素并做出合理安排。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan a healthy lunch with your partner. Discuss food, drinks, dessert, and allergies. Show you can consider multiple factors and make sensible arrangements.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-010",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 10,
+    "content": {
+      "stem": "Situation Discussion — Plan a welcome party for a new student.",
+      "prompt": "A new student from another country is joining your class next week. You and your partner want to make them feel welcome. Discuss and decide: What should you do on their first day? What present could you give them? How can you help them make friends?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "On their first day, I think we should show them around the school and introduce them to everyone in the class. We could give them a welcome card signed by the whole class, and maybe a small bag of sweets. To help them make friends, we should invite them to eat lunch with us and play with us at break time. Maybe we could also ask them about their country — that would be interesting and they would feel more comfortable. What do you think we should do?",
+      "tips_zh": "讨论欢迎新同学的计划时，要考虑三个方面：第一天做什么、送什么礼物、怎么帮他们交朋友。使用 \"I think we should...\" 提出具体行动，\"We could...\" 提出可能的方案。表达关心和友好的态度。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起计划如何欢迎新同学。讨论第一天安排、礼物和帮助交友的方法。展示你能表达关心和制定计划。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan how to welcome a new student with your partner. Discuss first-day activities, a present, and ways to help make friends. Show you can express care and make plans.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-011",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 11,
+    "content": {
+      "stem": "Situation Discussion — Choose a pet for your class.",
+      "prompt": "Your teacher says your class can have a class pet. You and your partner need to decide. Discuss: What pet should you get — a fish, a hamster, or a rabbit? Where should you keep it in the classroom? Who will look after it at weekends and during holidays?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should get a fish because it's easy to look after and it doesn't make any noise. We could keep the fish tank on the shelf near the window so it gets some light. For weekends, we could take turns — a different student each week could take the fish home. During the holidays, maybe the teacher could keep it or we could make a rota. A hamster would be fun too, but it might run away! What do you think?",
+      "tips_zh": "讨论班级宠物时，要比较不同宠物的优缺点，说明把它放在哪里，以及谁来照顾。使用 \"I think we should get... because...\" 比较选项，\"We could...\" 提出照顾方案。可以加入幽默的评论让讨论更自然。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起选择班级宠物。讨论宠物类型、摆放位置和照顾安排。展示你能比较优缺点并做出实际安排。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to choose a class pet with your partner. Discuss the pet type, placement, and care arrangements. Show you can compare pros and cons and make practical arrangements.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-012",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 12,
+    "content": {
+      "stem": "Situation Discussion — Plan a day out for a visiting friend.",
+      "prompt": "A friend from another city is visiting you for one day. You and your partner need to plan the day. Discuss and decide: What places should you visit? Where should you have lunch? What souvenir could your friend take home?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think first we should take our friend to the old town because the buildings are beautiful and interesting. Then we could go to the city park — there's a lake there and we can take a boat ride. For lunch, we should go to the dumpling restaurant on Main Street because the food is delicious and it's something special from our city. For a souvenir, we could buy a small keychain or a postcard from the gift shop. What places do you think we should visit?",
+      "tips_zh": "讨论接待访客的日程时，按时间顺序安排活动。使用 \"First...then...\" 来组织计划。推荐地方时说明原因（\"because the buildings are beautiful\"）。选择特色的午餐和纪念品体现对客人的用心。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起为来访的朋友安排一天的活动。讨论去哪里、在哪吃午饭、买什么纪念品。展示你能有条理地安排活动。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan a day out for a visiting friend with your partner. Discuss places to visit, lunch, and souvenirs. Show you can organise activities in a logical order.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-013",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 13,
+    "content": {
+      "stem": "Situation Discussion — Plan a school garden.",
+      "prompt": "Your school wants to make a garden in the school grounds. You and your partner need to plan it. Discuss and decide: What should you grow — flowers, vegetables, or fruit? Where is the best place for the garden? Who should look after it?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should grow vegetables because then we can eat them and learn about healthy food at the same time. We could grow tomatoes, carrots, and lettuce. The best place for the garden is near the sports field because it gets a lot of sunlight. Every class could take turns looking after the garden — one class each week could water the plants and check if anything is growing. We could also have a competition to see which class grows the biggest vegetable! Do you agree?",
+      "tips_zh": "讨论学校花园计划时，要说明种什么、放在哪里、谁来照顾。使用 \"I think we should grow... because...\" 提出建议和理由。\"Every class could...\" 分配任务。可以加入有趣的想法如比赛来让讨论更生动。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起计划学校花园。讨论种什么、位置和管理。展示你能提出建议、给出理由和分配责任。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan a school garden with your partner. Discuss what to grow, location, and management. Show you can make suggestions, give reasons, and assign responsibilities.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-014",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 14,
+    "content": {
+      "stem": "Situation Discussion — Plan a movie night at home.",
+      "prompt": "You and your partner want to have a movie night at home this Friday. Discuss and decide: What film should you watch — an adventure film, a comedy, or an animated film? What snacks and drinks should you prepare? Should you invite other friends?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should watch an animated film because they're fun and everyone enjoys them. How about watching a Pixar film like Finding Nemo? For snacks, we should make some popcorn and buy some crisps. For drinks, we could have cola and orange juice. I think we should invite two or three other friends — not too many because the living room isn't very big. We should ask them to come at about seven o'clock. What film would you like to watch?",
+      "tips_zh": "讨论电影之夜时，要说明看什么电影、准备什么零食和饮料、是否邀请其他朋友。说出具体的电影名称让讨论更真实。使用 \"I think we should...\" 和 \"How about...?\" 提出建议。考虑实际限制如空间大小。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起计划电影之夜。讨论电影选择、零食饮料和邀请朋友。展示你能提出具体建议并考虑实际情况。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan a movie night with your partner. Discuss film choice, snacks and drinks, and inviting friends. Show you can make specific suggestions and consider practical matters.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-015",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 15,
+    "content": {
+      "stem": "Situation Discussion — Organize a book swap at school.",
+      "prompt": "Your class wants to organize a book swap — everyone brings a book and exchanges it with someone else. You and your partner need to plan it. Discuss and decide: When should you have the book swap? What rules should there be? How can you make it fun?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should have the book swap on Friday afternoon because we have a free period then. The rules should be: everyone must bring one book in good condition, and you can only take one book in exchange. We should put all the books on a table so everyone can see them. To make it fun, each person could write a short note inside the book to recommend it, like 'This book is really exciting because...' We could also have some biscuits and juice. What rules do you think we need?",
+      "tips_zh": "讨论图书交换活动时，要安排时间、制定规则和增加趣味性。使用 \"The rules should be...\" 来制定规则，\"To make it fun, we could...\" 来增加趣味。说明具体的做法让计划更清楚。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起组织图书交换活动。讨论时间、规则和增加趣味的方式。展示你能制定规则和有创意地安排活动。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to organise a book swap with your partner. Discuss timing, rules, and ways to make it fun. Show you can set rules and plan activities creatively.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-016",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 16,
+    "content": {
+      "stem": "Situation Discussion — Plan a surprise for your teacher.",
+      "prompt": "It's Teacher Appreciation Day next week. You and your partner want to do something special for your favourite teacher. Discuss and decide: What surprise should you plan? What gift could you give? What message should you write in the card?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should decorate the classroom before the teacher arrives — we could put up a big banner that says 'Thank you, Teacher!' and some balloons. For a gift, we could buy some flowers or a nice notebook. Everyone in the class could put some money together. In the card, we should each write one thing we like about the teacher, like 'Thank you for always helping me with maths' or 'You make English classes really fun.' I think the teacher would be very surprised and happy. What do you think we should write?",
+      "tips_zh": "讨论老师感恩活动时，要计划惊喜、礼物和卡片内容。使用 \"I think we should...\" 提出具体行动。说到集体行动时用 \"Everyone could...\"。建议卡片内容时给出具体例子。展现感恩和尊重的态度。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起为老师准备惊喜。讨论计划、礼物和贺卡内容。展示你能表达感恩和策划集体活动。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan a surprise for your teacher with your partner. Discuss the plan, gift, and card message. Show you can express gratitude and plan group activities.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-017",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 17,
+    "content": {
+      "stem": "Situation Discussion — Choose a new hobby to learn together.",
+      "prompt": "You and your partner want to learn something new together. Discuss and decide: What hobby should you try — photography, painting, or playing a musical instrument? How will you learn — take a class or learn online? How often should you practise?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should try photography because we both have phones with cameras and we can take photos everywhere we go. I think we should learn online by watching tutorial videos because it's free and we can do it at any time. We should practise about three times a week — maybe we could go out on Saturdays and take photos of interesting things in our city. We could also share our best photos with each other. Painting would be nice too, but you need a lot of materials. What do you think?",
+      "tips_zh": "讨论学习新爱好时，要比较不同爱好的优点、选择学习方式和练习频率。使用 \"I think we should try... because...\" 提出建议和理由。\"We could...\" 提出具体计划。比较不同选项时说明为什么某个更好。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起选择新爱好。讨论爱好选择、学习方式和练习频率。展示你能比较选项、制定学习计划。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to choose a new hobby with your partner. Discuss hobby choice, learning method, and practice frequency. Show you can compare options and make a learning plan.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-018",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 18,
+    "content": {
+      "stem": "Situation Discussion — Plan a charity event for your school.",
+      "prompt": "Your school wants to raise money for a children's hospital. You and your partner need to plan the event. Discuss and decide: What type of event should you have — a bake sale, a fun run, or a car wash? When should you have it? How can you get more people to come?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should have a bake sale because students and parents can make cakes and biscuits at home, so it doesn't cost very much. We should have it on a Saturday morning so parents can come too. To get more people to come, we could make colourful posters and put them around the school and in local shops. We could also put a message on the school website. Maybe we could also sell drinks like hot chocolate. A fun run is a good idea too — maybe we could do both! What do you think?",
+      "tips_zh": "讨论慈善活动时，要考虑活动类型、时间安排和宣传方式。使用 \"I think we should have... because...\" 提出建议。\"To get more people to come, we could...\" 讨论宣传策略。考虑成本和可行性让计划更现实。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起策划慈善活动。讨论活动类型、时间和宣传方式。展示你能为公益事业出谋划策。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan a charity event with your partner. Discuss event type, timing, and promotion. Show you can plan for a good cause.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-019",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 19,
+    "content": {
+      "stem": "Situation Discussion — Design a perfect playground.",
+      "prompt": "Your school is building a new playground. You and your partner can help design it. Discuss and decide: What equipment should be in the playground — swings, a climbing wall, or a football area? What should the playground look like? Are there any safety rules you should have?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think the playground should have swings and a climbing wall because those are the most fun. We should also have a football area with goals, so students can play at break time. The playground should have bright colours — maybe green and blue — to make it look cheerful. I think we need a soft rubber floor so nobody gets hurt if they fall. For safety rules, we should have 'No pushing' and 'Take turns on the swings.' We could also have some benches for people who want to sit down. What equipment do you want?",
+      "tips_zh": "讨论设计操场时，要涵盖三个方面：设备、外观和安全规则。使用 \"I think the playground should have...\" 提出设备建议。描述外观用颜色和形容词。安全规则用 \"We should have...\" 来制定。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起设计操场。讨论设备、外观和安全规则。展示你能有创意地设计并考虑安全因素。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to design a playground with your partner. Discuss equipment, appearance, and safety rules. Show you can design creatively while considering safety.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s2-020",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 2,
+    "question_type": "speaking",
+    "sort_order": 20,
+    "content": {
+      "stem": "Situation Discussion — Plan a class photo project.",
+      "prompt": "Your class wants to make a photo display about 'A Day in Our School.' You and your partner need to plan it. Discuss and decide: What photos should you take? Who should take the photos? Where should you display them?",
+      "preparation_time_seconds": 30,
+      "speaking_time_seconds": 120,
+      "sample_answer": "I think we should take photos of all the different parts of a school day — arriving at school, lessons, break time, lunch, and after-school clubs. We should also take photos of the teachers and the school building. I think two or three students could be the photographers — maybe the students who are good at taking photos. They could use their phones. We should display the photos on a big board in the school hall so everyone can see them. We could also put some funny captions under the photos. What photos do you think are the most important?",
+      "tips_zh": "讨论照片项目时，要计划拍什么、谁来拍和展示方式。按照时间顺序列出需要拍的照片。使用 \"I think we should take photos of...\" 提出拍照内容。\"We could display them...\" 讨论展示方式。可以加入有趣的想法如标题。"
+    },
+    "explanation_zh": "这是KET口语第二部分——情景讨论。你需要和搭档一起计划班级照片项目。讨论拍摄内容、摄影师和展示方式。展示你能有序地安排一个项目。",
+    "explanation_en": "This is KET Speaking Part 2 — Situation Discussion. You need to plan a class photo project with your partner. Discuss what to photograph, who takes photos, and how to display them. Show you can organise a project systematically.",
+    "is_free": false
   }
 ]

@@ -158,5 +158,245 @@
     "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个健身房或健身课程的场景，包括教练和学员、运动类型、不同人物的状态和整体活力氛围。",
     "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a gym or fitness class, including the instructor and participants, type of exercise, different people's energy levels, and the overall dynamic atmosphere.",
     "is_free": false
+  },
+  {
+    "id": "pet-s3-009",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 9,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a train station.",
+      "prompt": "Look at this photograph showing people at a train station. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-train-station.jpg",
+      "sample_answer": "In this photograph, I can see a busy train station with lots of people on the platform. In the foreground, a woman in a business suit is walking quickly with a suitcase — she looks like she might be in a hurry to catch her train. She seems a bit stressed. Next to one of the pillars, a family of four is standing together looking at the departure board. The parents look a bit confused, and the two children seem bored. One child is sitting on a large suitcase. On the right, there's a group of young people with backpacks — they might be students going on a trip because they look excited and are laughing together. In the background, I can see a train arriving at the platform. The station has a high ceiling with metal and glass, and it looks very old but well-maintained.",
+      "tips_zh": "描述火车站场景时，注意不同旅客的状态和旅行目的。赶火车的商务人士（stressed, in a hurry）、度假家庭（confused, bored children）和学生旅行团（excited, laughing）形成有趣的对比。描述建筑特点（high ceiling, metal and glass）和整体繁忙氛围。使用 \"She looks like she might be...\" 和 \"They might be... because...\" 进行推测。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个火车站的场景，包括不同类型的旅客、他们的活动和情绪、以及车站的建筑特点和氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a train station scene, including different types of travellers, their activities and emotions, and the station's architectural features and atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-010",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 10,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a beach.",
+      "prompt": "Look at this photograph showing people at a beach. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-beach.jpg",
+      "sample_answer": "In this photograph, I can see a beautiful sandy beach on a warm, sunny day. The sea is a lovely blue colour. In the foreground, a family is building a sandcastle together. The father and two young children seem to be having a wonderful time — they are all laughing and the children look very excited about their creation. Near the water's edge, a group of teenagers are playing volleyball. They seem very competitive and energetic. On the left, an older couple is sitting on deck chairs under a large umbrella. They look very relaxed — the woman is reading a book and the man appears to be sleeping. Further out, I can see a few people swimming in the sea. The beach doesn't look too crowded, so it might be a weekday or perhaps it's still early in the morning. It looks like a perfect day for the beach.",
+      "tips_zh": "描述海滩场景时，注意不同年龄组的活动差异——小孩堆沙堡、青少年打球、老人休息。这种对比展示了你的观察力。描述自然环境（sand, sea, sun）和天气。推测时间和日期（weekday, early morning）来解释为什么海滩不太拥挤。使用 \"The sea is a lovely blue colour\" 和 \"They seem very competitive\" 等描述性语言。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个海滩场景，包括不同年龄的人物及其活动、自然环境、天气和休闲度假的氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a beach scene, including people of different ages and their activities, the natural environment, weather, and the holiday atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-011",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 11,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a market or street fair.",
+      "prompt": "Look at this photograph showing people at a market or street fair. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-market.jpg",
+      "sample_answer": "In this photograph, I can see a busy outdoor market with many colourful stalls. The market looks very lively and crowded. In the centre, a woman is looking at a stall selling fresh fruit and vegetables. She seems to be choosing carefully, picking up different items and checking them. The stallholder is smiling and appears to be recommending something to her. On the left, there's a food stall where a cook is preparing something — I can almost imagine the delicious smell. There are a few people queuing there, and they look hungry and eager. In the background, I can see stalls selling clothes, crafts, and flowers. There are families walking around, and some children are eating ice cream. The atmosphere feels very cheerful and busy, with people chatting, bargaining, and enjoying themselves. I think this might be a weekend market because there are so many people.",
+      "tips_zh": "描述市场场景时，注意丰富的感官细节——颜色（colourful stalls）、想象中的气味和声音（chatting, bargaining）。描述不同摊位的商品和顾客的行为。使用 \"I can almost imagine...\" 展示想象力。注意不同人物之间的互动（顾客和摊主之间的交流）。使用 \"The atmosphere feels...\" 描述整体感受。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个市场或集市的场景，包括摊位、商品、顾客和摊主的互动以及热闹的氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a market or street fair, including stalls, goods, interactions between customers and stallholders, and the lively atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-012",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 12,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a sports event.",
+      "prompt": "Look at this photograph showing people at a sports event. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-sports-event.jpg",
+      "sample_answer": "In this photograph, I can see a football match taking place in what appears to be a school or local sports ground. On the pitch, two teams are playing — one team is wearing red shirts and the other is wearing blue. A player in red seems to have just scored a goal because he has his arms raised in celebration and his teammates are running towards him. The blue team looks disappointed. On the sidelines, there are spectators sitting on benches. Some parents are standing and cheering enthusiastically. I can see a man who might be a coach shouting instructions to the blue team. There are also some younger children watching from behind a fence, looking fascinated by the game. The weather looks overcast but dry. It seems like an important match because everyone is very passionate and involved.",
+      "tips_zh": "描述体育赛事时，注意运动员和观众的不同反应。描述刚发生的动作（has just scored）来解释当前的场景。对比两队的情绪（celebration vs disappointment）。注意场边的教练、家长和小观众。使用 \"It seems like...\" 和 \"who might be...\" 进行推测。描述天气和场地类型来丰富细节。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个体育赛事的场景，包括运动员、观众、教练、比赛情况和整体氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a sports event, including players, spectators, coaches, the game situation, and the overall atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-013",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 13,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a museum or art gallery.",
+      "prompt": "Look at this photograph showing people at a museum or art gallery. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-museum.jpg",
+      "sample_answer": "In this photograph, I can see the inside of what looks like an art gallery. The room is large and bright with white walls and high ceilings. On the walls, there are several large paintings with colourful frames. In the centre of the room, a group of students is standing together — it looks like a school trip because they are all wearing the same uniform and a woman who seems to be their teacher is pointing at one of the paintings and explaining something. Most of the students look interested, although a couple at the back seem a bit bored and are whispering to each other. On the right, an older man is standing alone in front of a large painting, looking at it very carefully. He seems completely fascinated by the artwork. There is also a security guard standing near the door, watching the visitors calmly.",
+      "tips_zh": "描述博物馆或美术馆时，注意不同访客的行为和态度。学生团体（school trip with uniform）和独自参观的人形成对比。注意建筑内部特征（white walls, high ceilings）和展品。描述不同人物对艺术的反应（interested, bored, fascinated）。推测人物的身份和角色（teacher, security guard）。使用 \"It looks like... because...\" 进行有依据的推测。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个博物馆或美术馆的场景，包括展品、不同访客的行为和态度、以及建筑特点和氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a museum or art gallery, including the exhibits, different visitors' behavior and attitudes, and the architectural features and atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-014",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 14,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people in a park.",
+      "prompt": "Look at this photograph showing people in a park. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-park.jpg",
+      "sample_answer": "In this photograph, I can see a large park with lots of green grass and tall trees. It looks like a warm spring day because there are flowers blooming and the sun is shining. In the foreground, a young couple is having a picnic on a blanket. They have sandwiches, fruit, and drinks spread out, and they look very relaxed and happy. Near them, a man is jogging along a path — he looks fit and determined. On the left, I can see a woman walking her dog. The dog seems excited and is pulling on the lead. In the background, there's a playground where several children are playing on the swings and slides. Their parents are sitting on a bench nearby, watching them and chatting. A few elderly people are doing tai chi on the grass. The park has a very peaceful and welcoming atmosphere — it seems like a popular place for people of all ages.",
+      "tips_zh": "描述公园场景时，注意不同人群的活动：情侣野餐、跑步者、遛狗人、玩耍的儿童、打太极的老人。这种多样性展示了你的词汇量。描述自然环境（flowers, trees, sunshine）和季节。使用 \"It seems like a popular place for...\" 进行总结性推测。注意前景、中景、背景的层次描述。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个公园的场景，包括不同人群的休闲活动、自然环境和季节感、以及公园的整体氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a park scene, including different groups' leisure activities, the natural environment and season, and the overall atmosphere of the park.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-015",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 15,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a restaurant.",
+      "prompt": "Look at this photograph showing people at a restaurant. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-restaurant.jpg",
+      "sample_answer": "In this photograph, I can see the inside of a restaurant that looks quite elegant and modern. In the centre, there's a large table where a family of about six or seven people is having dinner together. They seem to be celebrating something — perhaps a birthday or an anniversary — because there are flowers on the table and everyone is dressed smartly. A grandfather at the head of the table is raising his glass, and the others are joining in for a toast. They all look very happy and proud. On the left, a waiter in a white shirt is serving food to another table. The couple at that table look impressed by the beautifully presented dish. The restaurant has warm lighting, candles on the tables, and soft music seems to be playing. It feels like a special evening for the family.",
+      "tips_zh": "描述餐厅场景时，注意场合和氛围。如果看起来是庆祝场合，推测原因（birthday, anniversary）。描述餐厅的装饰和风格（elegant, candles, warm lighting）来设定场景。注意服务员和顾客之间的互动。使用 \"It feels like...\" 和 \"perhaps...\" 表达推测。描述食物和摆盘（beautifully presented）展示词汇量。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个餐厅场景，包括用餐的人物、可能的庆祝场合、服务员和餐厅的装饰氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a restaurant scene, including the diners, a possible celebration, the waiter, and the restaurant's decor and atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-016",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 16,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a school science fair.",
+      "prompt": "Look at this photograph showing people at a school science fair. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-science-fair.jpg",
+      "sample_answer": "In this photograph, I can see what appears to be a school science fair. There are several tables set up in a large hall, and each table has a different project on it. In the foreground, two students — a boy and a girl — are standing behind their table and presenting their project to a group of visitors. The boy is pointing at a poster with diagrams while the girl is demonstrating something with a small model. They both look quite nervous but also excited and proud of their work. On the left, I can see some judges taking notes and nodding — they seem impressed. In the background, other students are also presenting their projects. Some parents are walking around, taking photos and looking very proud. The hall is decorated with science-themed banners and there are colourful displays everywhere. It feels like an important school event.",
+      "tips_zh": "描述科学展览时，注意学生展示者的表现和评委的反应。描述展示的方式（poster, model, demonstration）和参与者的情绪（nervous but excited）。使用 \"what appears to be...\" 进行推测。注意场地布置和不同角色（students, judges, parents）。使用复合形容词和对比情绪（nervous but also excited and proud）展示语言能力。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个学校科学展览的场景，包括学生展示者、评委、家长参观者和展览的整体布置。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a school science fair, including student presenters, judges, parent visitors, and the overall setup of the exhibition.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-017",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 17,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a bus stop on a rainy day.",
+      "prompt": "Look at this photograph showing people at a bus stop on a rainy day. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-bus-stop.jpg",
+      "sample_answer": "In this photograph, I can see a bus stop on what looks like a cold, rainy day. The sky is grey and heavy with clouds. There are about five or six people waiting for a bus, and most of them are holding umbrellas. In the front, a woman in a raincoat is looking at her watch impatiently — she seems frustrated, and I think the bus might be late. Next to her, a teenage boy is listening to music through headphones and doesn't seem too bothered by the rain. He looks quite relaxed. Under the bus shelter, an elderly couple is sitting close together on the bench. They look cold and are sharing a large umbrella. A businessman is standing a bit apart, talking on his phone — he seems stressed and annoyed. The pavement is wet and shiny, and there are puddles on the ground. Some cars are passing by, splashing water. Overall, the scene feels quite miserable, and everyone looks like they want to get home quickly.",
+      "tips_zh": "描述下雨天的场景时，天气成为重要的描述元素。注意人物对天气的不同反应（impatient, relaxed, cold, annoyed）。描述天气细节（grey sky, puddles, wet pavement）设定氛围。推测迟到的公交车来解释人物的不耐烦。使用 \"Overall, the scene feels...\" 总结整体氛围。对比不同人物的态度展示语言多样性。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个下雨天公交站的场景，包括等车的人物、他们对天气的反应、以及灰暗阴郁的氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a bus stop on a rainy day, including the people waiting, their reactions to the weather, and the gloomy atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-018",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 18,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a cooking class.",
+      "prompt": "Look at this photograph showing people at a cooking class. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-cooking-class.jpg",
+      "sample_answer": "In this photograph, I can see a group of people in what looks like a cooking class. They are standing around a large kitchen counter in a professional-looking kitchen. There are about eight participants, and they are all wearing white aprons. At the front, a chef in a tall white hat is demonstrating how to chop vegetables. He looks very skilled and confident. The participants are watching him carefully and trying to copy what he's doing. One woman on the left seems to be doing well — she's smiling and looks quite pleased with herself. However, a man on the right looks a bit confused and is holding his knife awkwardly. His neighbour seems to be helping him. On the counter, there are lots of fresh ingredients — tomatoes, herbs, onions, and garlic. The kitchen is well-equipped with professional ovens and pots. Everyone seems to be enjoying the experience, even the people who are struggling a bit.",
+      "tips_zh": "描述烹饪课场景时，注意教师和学员之间的互动和不同学员的水平差异。描述厨房环境和食材增加细节。对比做得好的学员和有困难的学员（smiling and pleased vs confused and awkward）。使用 \"what looks like...\" 推测场景类型。注意人物的服装（aprons, chef's hat）来确认场景。使用 \"even the people who are struggling\" 等让步结构。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个烹饪课的场景，包括厨师教师、学员们的不同反应、食材和厨房环境。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a cooking class, including the chef instructor, participants' different reactions, ingredients, and the kitchen environment.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-019",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 19,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people at a graduation ceremony.",
+      "prompt": "Look at this photograph showing people at a graduation ceremony. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-graduation.jpg",
+      "sample_answer": "In this photograph, I can see a graduation ceremony taking place outdoors. There is a group of students in black graduation gowns and square hats, and they all look extremely happy and proud. In the centre, a girl is throwing her hat into the air — this is a traditional thing that graduates do to celebrate. Several other students around her are doing the same. They seem absolutely delighted. In the front, one graduate is hugging his mother, and she looks very emotional — I think she might be crying tears of joy. His father is standing next to them, taking a photo and looking very proud. In the background, I can see rows of chairs and a stage with a podium, where the ceremony probably took place. There are banners with the school's name and logo. The weather is sunny and clear, which makes the whole scene feel even more celebratory. It looks like an incredibly happy and important day for everyone.",
+      "tips_zh": "描述毕业典礼时，注意仪式感和情感表达。描述毕业服装（gowns, square hats）和传统动作（throwing hats）。重点描述不同人物的情绪——毕业生的骄傲和喜悦，家长的感动和自豪。使用强调副词（absolutely, incredibly, extremely）增强情感表达。推测关系和情绪（crying tears of joy）。描述场地布置（stage, podium, banners）和天气来完善画面。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个毕业典礼的场景，包括毕业生的庆祝、家人的情感反应、仪式场地和喜庆的氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a graduation ceremony, including graduates' celebrations, family members' emotional reactions, the ceremony venue, and the joyful atmosphere.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s3-020",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 3,
+    "question_type": "speaking",
+    "sort_order": 20,
+    "content": {
+      "stem": "Picture Description — Describe the photograph of people volunteering at a community garden.",
+      "prompt": "Look at this photograph showing people volunteering at a community garden. Describe what you can see. Talk about the people, what they are doing, how they might be feeling, and what you think is happening.",
+      "preparation_time_seconds": 10,
+      "speaking_time_seconds": 60,
+      "image_url": "/images/speaking/pet-community-garden.jpg",
+      "sample_answer": "In this photograph, I can see a group of people working in a community garden. There are about ten volunteers of different ages — some look like teenagers, others are middle-aged, and there's also an elderly man. They are all wearing casual clothes and gloves, and some have gardening tools. In the foreground, a young woman is planting something in the soil. She looks focused and seems to be enjoying the physical work. Next to her, a boy is watering some plants with a hose — he looks cheerful and a bit muddy. On the right, two older women are talking while weeding a flower bed. They seem to be friends and are clearly having a good time. In the background, the elderly man is resting on a bench and drinking water — he looks tired but satisfied. The garden is full of vegetables, flowers, and fruit trees. The sun is shining, and the whole scene feels very wholesome and community-spirited. Everyone looks proud of what they are creating together.",
+      "tips_zh": "描述社区花园志愿活动时，注意不同年龄的参与者及其活动（planting, watering, weeding, resting）。描述花园的植物种类和环境。强调社区精神和合作感（community-spirited, creating together）。使用 \"She looks focused and seems to be enjoying...\" 描述内在感受。注意细节如手套、园艺工具和泥巴。使用 \"wholesome\" 等积极的形容词总结氛围。"
+    },
+    "explanation_zh": "这是PET口语第三部分——图片描述。你需要描述一个社区花园志愿活动的场景，包括不同年龄的志愿者、他们的园艺活动、花园环境和社区合作的氛围。",
+    "explanation_en": "This is PET Speaking Part 3 — Picture Description. You need to describe a community garden volunteering scene, including volunteers of different ages, their gardening activities, the garden environment, and the community spirit.",
+    "is_free": false
   }
 ]

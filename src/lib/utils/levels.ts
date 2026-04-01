@@ -26,39 +26,39 @@ const PET_LISTENING: PartInfo[] = [
 ];
 
 const KET_WRITING: PartInfo[] = [
-  { part: 1, name: "Short message reply", nameZh: "短信回复", questionType: "open_write", count: 10 },
-  { part: 2, name: "Short story", nameZh: "短篇故事", questionType: "open_write", count: 10 },
+  { part: 1, name: "Short message reply", nameZh: "短信回复", questionType: "open_write", count: 25 },
+  { part: 2, name: "Short story", nameZh: "短篇故事", questionType: "open_write", count: 25 },
 ];
 
 const KET_SPEAKING: PartInfo[] = [
-  { part: 1, name: "Personal questions", nameZh: "个人信息问答", questionType: "speaking", count: 8 },
-  { part: 2, name: "Situation discussion", nameZh: "情景讨论", questionType: "speaking", count: 8 },
-  { part: 3, name: "Picture description", nameZh: "图片描述", questionType: "speaking", count: 8 },
-  { part: 4, name: "Topic discussion", nameZh: "话题讨论", questionType: "speaking", count: 8 },
+  { part: 1, name: "Personal questions", nameZh: "个人信息问答", questionType: "speaking", count: 20 },
+  { part: 2, name: "Situation discussion", nameZh: "情景讨论", questionType: "speaking", count: 20 },
+  { part: 3, name: "Picture description", nameZh: "图片描述", questionType: "speaking", count: 20 },
+  { part: 4, name: "Topic discussion", nameZh: "话题讨论", questionType: "speaking", count: 20 },
 ];
 
 const PET_WRITING: PartInfo[] = [
-  { part: 1, name: "Email", nameZh: "邮件写作", questionType: "open_write", count: 10 },
-  { part: 2, name: "Article or Story", nameZh: "文章/故事写作", questionType: "open_write", count: 10 },
+  { part: 1, name: "Email", nameZh: "邮件写作", questionType: "open_write", count: 25 },
+  { part: 2, name: "Article or Story", nameZh: "文章/故事写作", questionType: "open_write", count: 25 },
 ];
 
 const PET_SPEAKING: PartInfo[] = [
-  { part: 1, name: "Personal questions", nameZh: "个人信息问答", questionType: "speaking", count: 8 },
-  { part: 2, name: "Situation discussion", nameZh: "情景讨论", questionType: "speaking", count: 8 },
-  { part: 3, name: "Picture description", nameZh: "图片描述", questionType: "speaking", count: 8 },
-  { part: 4, name: "Topic discussion", nameZh: "话题讨论", questionType: "speaking", count: 8 },
+  { part: 1, name: "Personal questions", nameZh: "个人信息问答", questionType: "speaking", count: 20 },
+  { part: 2, name: "Situation discussion", nameZh: "情景讨论", questionType: "speaking", count: 20 },
+  { part: 3, name: "Picture description", nameZh: "图片描述", questionType: "speaking", count: 20 },
+  { part: 4, name: "Topic discussion", nameZh: "话题讨论", questionType: "speaking", count: 20 },
 ];
 
 const FCE_WRITING: PartInfo[] = [
-  { part: 1, name: "Essay", nameZh: "议论文", questionType: "open_write", count: 10 },
-  { part: 2, name: "Article / Letter / Review / Report", nameZh: "文章/信件/评论/报告", questionType: "open_write", count: 10 },
+  { part: 1, name: "Essay", nameZh: "议论文", questionType: "open_write", count: 25 },
+  { part: 2, name: "Article / Letter / Review / Report", nameZh: "文章/信件/评论/报告", questionType: "open_write", count: 25 },
 ];
 
 const FCE_SPEAKING: PartInfo[] = [
-  { part: 1, name: "Personal questions", nameZh: "个人信息问答", questionType: "speaking", count: 8 },
-  { part: 2, name: "Comparing photographs", nameZh: "照片对比", questionType: "speaking", count: 8 },
-  { part: 3, name: "Collaborative task", nameZh: "合作任务", questionType: "speaking", count: 8 },
-  { part: 4, name: "Topic discussion", nameZh: "话题讨论", questionType: "speaking", count: 8 },
+  { part: 1, name: "Personal questions", nameZh: "个人信息问答", questionType: "speaking", count: 20 },
+  { part: 2, name: "Comparing photographs", nameZh: "照片对比", questionType: "speaking", count: 20 },
+  { part: 3, name: "Collaborative task", nameZh: "合作任务", questionType: "speaking", count: 20 },
+  { part: 4, name: "Topic discussion", nameZh: "话题讨论", questionType: "speaking", count: 20 },
 ];
 
 const LEVEL_PARTS: Record<string, Record<Skill, PartInfo[]>> = {

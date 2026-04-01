@@ -168,5 +168,260 @@
     "explanation_zh": "中文解析：这个故事讲述一个生日惊喜。先描述一开始的失望（没人说生日快乐），然后转折到惊喜（教室里的装饰和蛋糕）。使用 \"But\" 来表示转折，\"so...that\" 来表达强烈的情感。故事要有起伏才更好。",
     "explanation_en": "English explanation: This story describes a birthday surprise. First describe the initial disappointment (nobody said happy birthday), then the twist (decorations and cake). Use 'But' for contrast and 'so...that' for strong emotions. A good story has ups and downs.",
     "is_free": false
+  },
+  {
+    "id": "ket-w2-011",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 11,
+    "content": {
+      "stem": "Write a short story about winning something. Your story must begin with this sentence: 'I couldn't believe it when the teacher called my name.' Write 35 words or more.",
+      "prompt": "Write a short story about winning something.\n\nYour story must begin with this sentence:\n\n\"I couldn't believe it when the teacher called my name.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "I couldn't believe it when the teacher called my name. I had won first prize in the school art competition! I walked to the front of the class and everyone clapped. The teacher gave me a certificate and a box of coloured pencils. My painting of a sunset was on the wall for everyone to see. After school, I ran home to tell my parents. They were so proud of me. My mum put the certificate on the fridge. It was the happiest day of my life."
+    },
+    "explanation_zh": "中文解析：这个故事讲述赢得比赛的经历。描述你的惊讶、获得了什么奖品、别人的反应、以及你的感受。使用感叹句和情感词汇如 \"I couldn't believe it\"、\"so proud\"、\"the happiest day\" 来表达激动的心情。",
+    "explanation_en": "English explanation: This story describes winning a competition. Describe your surprise, the prize, others' reactions, and your feelings. Use exclamatory expressions and emotion words like 'I couldn't believe it', 'so proud', 'the happiest day' to convey excitement.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-012",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 12,
+    "content": {
+      "stem": "Write a short story about a picnic. Your story must begin with this sentence: 'My family decided to have a picnic in the countryside last Sunday.' Write 35 words or more.",
+      "prompt": "Write a short story about a picnic.\n\nYour story must begin with this sentence:\n\n\"My family decided to have a picnic in the countryside last Sunday.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "My family decided to have a picnic in the countryside last Sunday. We drove for about an hour and found a beautiful spot near a river. My mum made sandwiches and my dad brought fruit and juice. We sat on a big blanket under a tree. After lunch, my sister and I played near the river and we saw some little fish. In the afternoon, we went for a walk and picked some wildflowers. We got home in the evening, tired but very happy."
+    },
+    "explanation_zh": "中文解析：这个故事讲述一次家庭野餐。按时间顺序描述：怎么到达的、吃了什么、午饭后做了什么、结束时的感受。使用 \"After lunch\"、\"In the afternoon\" 等时间连接词来组织故事。描述地点和自然环境让故事更生动。",
+    "explanation_en": "English explanation: This story describes a family picnic. Describe in time order: how you got there, what you ate, what you did after lunch, and how you felt at the end. Use time connectors like 'After lunch' and 'In the afternoon'. Describe the location and nature to make the story vivid.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-013",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 13,
+    "content": {
+      "stem": "Write a short story about a lost pet. Your story must begin with this sentence: 'One morning, I woke up and my cat was not in the house.' Write 35 words or more.",
+      "prompt": "Write a short story about a lost pet.\n\nYour story must begin with this sentence:\n\n\"One morning, I woke up and my cat was not in the house.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "One morning, I woke up and my cat was not in the house. I looked in every room but I couldn't find her. I was very worried. I went outside and called her name. My neighbours helped me look for her too. After two hours, I heard a small sound coming from the garden. I looked under the big bush and there she was, sleeping with three tiny kittens! I was so surprised and happy. I carefully carried them all inside."
+    },
+    "explanation_zh": "中文解析：这个故事讲述寻找走失宠物的经历。描述发现宠物不见了的焦急心情、寻找的过程、最后找到时的惊喜。使用 \"I was very worried\" 描述紧张心情，\"After two hours\" 表示时间流逝，结局要有意外的转折。",
+    "explanation_en": "English explanation: This story describes searching for a lost pet. Describe the worry of discovering the pet is missing, the search process, and the surprise at the end. Use 'I was very worried' for feelings, 'After two hours' for time passing, and include an unexpected twist in the ending.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-014",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 14,
+    "content": {
+      "stem": "Write a short story about making a new friend. Your story must begin with this sentence: 'I was sitting alone in the playground when someone came and sat next to me.' Write 35 words or more.",
+      "prompt": "Write a short story about making a new friend.\n\nYour story must begin with this sentence:\n\n\"I was sitting alone in the playground when someone came and sat next to me.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "I was sitting alone in the playground when someone came and sat next to me. It was a girl with curly hair and a big smile. She said her name was Anna and she was new at the school. She asked me what I liked doing. I told her I liked reading and drawing. She said she liked those things too! We talked and laughed for the whole of break time. After that, we started sitting together every day. Now Anna is my best friend."
+    },
+    "explanation_zh": "中文解析：这个故事讲述交到新朋友的经历。描述你们是怎么开始交谈的、发现了什么共同点、友谊是怎么发展的。使用外貌描述 \"a girl with curly hair\"，对话 \"She said...\"、\"I told her...\"，以及时间表达 \"After that\" 来展现友谊的发展。",
+    "explanation_en": "English explanation: This story describes making a new friend. Describe how you started talking, what you had in common, and how the friendship developed. Use appearance descriptions, reported speech like 'She said...', and time expressions like 'After that' to show the friendship growing.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-015",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 15,
+    "content": {
+      "stem": "Write a short story about a visit to the zoo. Your story must begin with this sentence: 'Last month, my class went to the zoo for a school trip.' Write 35 words or more.",
+      "prompt": "Write a short story about a visit to the zoo.\n\nYour story must begin with this sentence:\n\n\"Last month, my class went to the zoo for a school trip.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "Last month, my class went to the zoo for a school trip. We were all very excited. First, we saw the elephants — they were much bigger than I expected! Then we went to see the monkeys. They were very funny and kept jumping from tree to tree. My favourite animal was the panda because it looked so cute eating bamboo. After lunch, we watched a dolphin show. The dolphins did amazing tricks. At the end of the day, I bought a toy penguin from the gift shop."
+    },
+    "explanation_zh": "中文解析：这个故事讲述参观动物园的经历。按参观顺序描述不同的动物和你的反应。使用 \"First\"、\"Then\"、\"After lunch\" 来组织时间顺序。用形容词描述动物，如 \"bigger than I expected\"、\"very funny\"、\"so cute\"。",
+    "explanation_en": "English explanation: This story describes a zoo visit. Describe different animals in order and your reactions. Use 'First', 'Then', 'After lunch' for time order. Use adjectives to describe animals like 'bigger than I expected', 'very funny', 'so cute'.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-016",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 16,
+    "content": {
+      "stem": "Write a short story about a sports day. Your story must begin with this sentence: 'It was sports day at school and I was ready to run.' Write 35 words or more.",
+      "prompt": "Write a short story about a sports day.\n\nYour story must begin with this sentence:\n\n\"It was sports day at school and I was ready to run.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "It was sports day at school and I was ready to run. I was in the 100-metre race. I felt nervous as I stood at the starting line with the other runners. The teacher blew the whistle and I started running as fast as I could. I could hear my friends shouting my name. I ran and ran until I crossed the finish line. I came in second place! I was a bit disappointed at first, but then I felt proud because I tried my best. My teacher gave me a silver medal."
+    },
+    "explanation_zh": "中文解析：这个故事讲述学校运动会的经历。描述比赛前的紧张、比赛过程、结果和感受。使用动作描述 \"I started running\"、感官描述 \"I could hear\" 和情感变化 \"disappointed at first, but then proud\" 来让故事更生动。",
+    "explanation_en": "English explanation: This story describes a school sports day. Describe pre-race nerves, the race itself, the result, and your feelings. Use action words 'I started running', sensory details 'I could hear', and changing emotions 'disappointed at first, but then proud' to make the story vivid.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-017",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 17,
+    "content": {
+      "stem": "Write a short story about a camping trip. Your story must begin with this sentence: 'My family went camping in the mountains during the holiday.' Write 35 words or more.",
+      "prompt": "Write a short story about a camping trip.\n\nYour story must begin with this sentence:\n\n\"My family went camping in the mountains during the holiday.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "My family went camping in the mountains during the holiday. We put up our tent near a stream. It was really beautiful there. In the evening, my dad made a campfire and we cooked sausages and marshmallows. We sat around the fire and told stories. When it got dark, we could see millions of stars in the sky. I had never seen so many stars before. We slept in sleeping bags inside the tent. I could hear the sound of the stream all night. It was a wonderful experience."
+    },
+    "explanation_zh": "中文解析：这个故事讲述一次露营旅行。描述搭帐篷、晚上的活动、看到的景色和感受。使用感官描述如 \"I could see\"、\"I could hear\" 来让故事更生动。\"I had never seen...before\" 表达第一次的惊喜。",
+    "explanation_en": "English explanation: This story describes a camping trip. Describe setting up the tent, evening activities, scenery, and feelings. Use sensory details like 'I could see' and 'I could hear' to make the story vivid. 'I had never seen...before' expresses first-time wonder.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-018",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 18,
+    "content": {
+      "stem": "Write a short story about a snow day. Your story must begin with this sentence: 'When I looked out of the window, everything was covered in white snow.' Write 35 words or more.",
+      "prompt": "Write a short story about a snow day.\n\nYour story must begin with this sentence:\n\n\"When I looked out of the window, everything was covered in white snow.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "When I looked out of the window, everything was covered in white snow. I was so excited that I got dressed quickly and ran outside. My friends were already in the street. We made a big snowman with stones for eyes and a carrot for a nose. Then we had a snowball fight — it was so much fun! After playing for a long time, we were cold and wet, so we went to my house. My mum made us hot chocolate. We warmed up and laughed about how much fun we had."
+    },
+    "explanation_zh": "中文解析：这个故事讲述下雪天的有趣经历。描述看到雪时的兴奋、户外活动（堆雪人、打雪仗）、最后回家暖和。使用 \"so...that\" 表达强烈的情感，\"After\" 表示时间推移。描述具体细节如 \"stones for eyes\" 让故事更生动。",
+    "explanation_en": "English explanation: This story describes a fun snow day. Describe the excitement of seeing snow, outdoor activities (snowman, snowball fight), and going inside to warm up. Use 'so...that' for strong emotions and 'After' for time passing. Specific details like 'stones for eyes' make the story vivid.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-019",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 19,
+    "content": {
+      "stem": "Write a short story about a visit to a museum. Your story must begin with this sentence: 'Last Tuesday, our teacher took us to the science museum.' Write 35 words or more.",
+      "prompt": "Write a short story about a visit to a museum.\n\nYour story must begin with this sentence:\n\n\"Last Tuesday, our teacher took us to the science museum.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "Last Tuesday, our teacher took us to the science museum. It was a very big building with lots of interesting things inside. First, we went to the space room and saw a model of a rocket. We learned about the planets and the stars. Then we went to the robot room. I pressed a button and a robot moved its arms — it was amazing! My favourite part was the dinosaur room because there was a huge skeleton of a T-Rex. After the visit, we wrote about what we learned. I want to go back again soon."
+    },
+    "explanation_zh": "中文解析：这个故事讲述参观博物馆的经历。按参观顺序描述不同的展厅和你看到了什么。使用 \"First\"、\"Then\" 来组织时间顺序。\"My favourite part was...because...\" 说明最喜欢的部分和原因。加入互动的细节如 \"I pressed a button\" 让故事更有趣。",
+    "explanation_en": "English explanation: This story describes a museum visit. Describe different rooms in order and what you saw. Use 'First' and 'Then' for time order. 'My favourite part was...because...' explains your favourite section. Include interactive details like 'I pressed a button' to make it engaging.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-020",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 20,
+    "content": {
+      "stem": "Write a short story about doing something kind. Your story must begin with this sentence: 'Last week, I decided to do something nice for my parents.' Write 35 words or more.",
+      "prompt": "Write a short story about doing something kind.\n\nYour story must begin with this sentence:\n\n\"Last week, I decided to do something nice for my parents.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "Last week, I decided to do something nice for my parents. I woke up early on Sunday morning and made breakfast for them. I made toast with jam and a cup of tea. Then I cleaned the kitchen and put flowers on the table. When my parents came downstairs, they were very surprised. My mum said it was the best breakfast she had ever had. My dad gave me a big hug. I felt really happy because I made them smile."
+    },
+    "explanation_zh": "中文解析：这个故事讲述为父母做好事的经历。按顺序描述你做了什么准备、父母的反应和你的感受。使用过去时态描述动作，\"When my parents came downstairs\" 引出他们的反应。\"I felt happy because...\" 表达做好事后的满足感。",
+    "explanation_en": "English explanation: This story describes doing something kind for parents. Describe your preparations in order, parents' reaction, and your feelings. Use past tenses for actions, 'When my parents came downstairs' to introduce their reaction, and 'I felt happy because...' for satisfaction.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-021",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 21,
+    "content": {
+      "stem": "Write a short story about a special lesson at school. Your story must begin with this sentence: 'One day, a famous artist came to our school to teach us how to paint.' Write 35 words or more.",
+      "prompt": "Write a short story about a special lesson at school.\n\nYour story must begin with this sentence:\n\n\"One day, a famous artist came to our school to teach us how to paint.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "One day, a famous artist came to our school to teach us how to paint. She brought lots of paints and big white canvases. First, she showed us how to mix colours. Then she asked us to paint our favourite animal. I decided to paint a tiger. It was difficult, but the artist helped me with the eyes and the stripes. At the end of the lesson, we put all our paintings on the wall. The artist said my tiger was very good! It was the best lesson we ever had."
+    },
+    "explanation_zh": "中文解析：这个故事讲述一堂特别课的经历。描述来了谁、做了什么、你画了什么、最后的结果。使用 \"First\"、\"Then\"、\"At the end\" 组织时间顺序。\"It was difficult, but...\" 表示克服困难的过程。",
+    "explanation_en": "English explanation: This story describes a special school lesson. Describe who came, what you did, what you painted, and the result. Use 'First', 'Then', 'At the end' for time order. 'It was difficult, but...' shows overcoming challenges.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-022",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 22,
+    "content": {
+      "stem": "Write a short story about getting lost. Your story must begin with this sentence: 'I was in the shopping centre with my mum when I suddenly couldn't find her.' Write 35 words or more.",
+      "prompt": "Write a short story about getting lost.\n\nYour story must begin with this sentence:\n\n\"I was in the shopping centre with my mum when I suddenly couldn't find her.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "I was in the shopping centre with my mum when I suddenly couldn't find her. I looked around but there were so many people everywhere. I felt very scared. I tried to stay calm and walked to the information desk. A kind woman asked me my mum's name and phone number. She made an announcement on the speaker. A few minutes later, my mum came running towards me. She was worried too. She hugged me and said she was sorry. After that, we agreed to always stay together."
+    },
+    "explanation_zh": "中文解析：这个故事讲述在商场走丢的经历。描述你的感受（害怕）、采取了什么行动（去服务台求助）、以及最终和妈妈团聚。使用情感词汇 \"scared\"、\"worried\"，以及时间表达 \"A few minutes later\" 来推动故事发展。故事应该有一个积极的结局和教训。",
+    "explanation_en": "English explanation: This story describes getting lost in a shopping centre. Describe your feelings (scared), what action you took (going to the information desk), and being reunited with your mum. Use emotion words 'scared', 'worried', and time expressions 'A few minutes later'. The story should have a positive ending and a lesson.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-023",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 23,
+    "content": {
+      "stem": "Write a short story about learning to swim. Your story must begin with this sentence: 'Last summer, my dad took me to the swimming pool to teach me how to swim.' Write 35 words or more.",
+      "prompt": "Write a short story about learning to swim.\n\nYour story must begin with this sentence:\n\n\"Last summer, my dad took me to the swimming pool to teach me how to swim.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "Last summer, my dad took me to the swimming pool to teach me how to swim. At first, I was very afraid of the water. My dad held my hands and told me to kick my legs. I practised many times and swallowed some water. But I didn't give up. After three weeks, I could swim by myself. I was so proud. My dad said he was proud too. Now I go swimming every week and I love it."
+    },
+    "explanation_zh": "中文解析：这个故事讲述学游泳的过程。描述一开始的害怕、练习的过程、遇到的困难、最终学会的喜悦。使用 \"At first\" 表示开始，\"But I didn't give up\" 展示坚持，\"After three weeks\" 表示时间推移。强调从害怕到喜欢的变化过程。",
+    "explanation_en": "English explanation: This story describes learning to swim. Describe initial fear, the practice process, difficulties, and the joy of finally learning. Use 'At first' for the beginning, 'But I didn't give up' to show perseverance, and 'After three weeks' for time passing. Emphasise the change from fear to enjoyment.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-024",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 24,
+    "content": {
+      "stem": "Write a short story about a special present. Your story must begin with this sentence: 'For my birthday, my grandma gave me a very special present.' Write 35 words or more.",
+      "prompt": "Write a short story about a special present.\n\nYour story must begin with this sentence:\n\n\"For my birthday, my grandma gave me a very special present.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "For my birthday, my grandma gave me a very special present. It was a beautiful guitar! I was so excited because I always wanted to learn to play music. My grandma said she played the guitar when she was young. She offered to teach me. Every Sunday afternoon, I go to her house and we practise together. She is very patient and kind. I can now play three songs. My favourite is a song she used to sing to me when I was little. It's a present I will always remember."
+    },
+    "explanation_zh": "中文解析：这个故事讲述收到特别礼物的经历。描述礼物是什么、为什么特别、礼物背后的故事。使用 \"I was so excited because...\" 表达兴奋，\"She said...\" 引出背景故事。用现在时态描述持续发生的事情 \"Every Sunday...I go...\"，表示礼物带来了持续的快乐。",
+    "explanation_en": "English explanation: This story describes receiving a special present. Describe what the gift was, why it was special, and the story behind it. Use 'I was so excited because...' for excitement, 'She said...' for background. Use present tense for ongoing activities 'Every Sunday...I go...' to show lasting joy.",
+    "is_free": false
+  },
+  {
+    "id": "ket-w2-025",
+    "level": "ket",
+    "skill": "writing",
+    "part": 2,
+    "question_type": "open_write",
+    "sort_order": 25,
+    "content": {
+      "stem": "Write a short story about a funny thing that happened at school. Your story must begin with this sentence: 'Something really funny happened in my English class last week.' Write 35 words or more.",
+      "prompt": "Write a short story about a funny thing that happened at school.\n\nYour story must begin with this sentence:\n\n\"Something really funny happened in my English class last week.\"\n\nWrite 35 words or more.",
+      "word_limit": 35,
+      "sample_answer": "Something really funny happened in my English class last week. Our teacher was writing on the board when a bird flew in through the open window. Everyone screamed and started laughing. The bird flew around the room and landed on the teacher's head! The teacher didn't move — she just stood there with the bird on her head. We all took photos with our phones. Then the bird flew off and went back out of the window. Our teacher laughed too and said it was the strangest English lesson she ever had. We couldn't stop laughing for the rest of the day."
+    },
+    "explanation_zh": "中文解析：这个故事讲述课堂上发生的有趣事情。描述意外事件、大家的反应、老师的反应和你的感受。使用 \"when\" 引出意外事件，描述动作和反应让故事幽默有趣。\"We couldn't stop laughing\" 强调有趣的程度。",
+    "explanation_en": "English explanation: This story describes something funny at school. Describe the unexpected event, everyone's reactions, the teacher's reaction, and your feelings. Use 'when' to introduce the surprise, describe actions and reactions to make the story humorous. 'We couldn't stop laughing' emphasises how funny it was.",
+    "is_free": false
   }
 ]

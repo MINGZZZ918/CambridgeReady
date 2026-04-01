@@ -198,5 +198,305 @@
     "explanation_zh": "这是PET口语第一部分关于未来计划和职业的话题。你需要谈论毕业后的打算、理想职业、对大学教育的看法、重要的工作技能以及未来想住在哪里。",
     "explanation_en": "This is PET Speaking Part 1 about future plans and career. You need to discuss what you want to do after school, your dream job, views on university education, important job skills, and where you'd like to live in the future.",
     "is_free": false
+  },
+  {
+    "id": "pet-s1-009",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 9,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about technology and the internet.",
+      "prompt": "Answer the examiner's questions about technology and the internet. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "How often do you use the internet? What do you use it for?",
+        "Do you think technology has made our lives better or worse? Why?",
+        "What is your favourite app or website? Why do you like it?",
+        "Do you think children should have their own smartphones? Why or why not?",
+        "How do you think technology will change in the next ten years?"
+      ],
+      "sample_answer": "I use the internet every day, mainly for schoolwork, watching videos, and chatting with friends. I think technology has mostly made our lives better because it helps us learn, communicate, and find information quickly. However, spending too much time online can be bad for your health. My favourite app is Bilibili because I can watch educational videos and learn new things. I think children should have smartphones, but with some rules — parents should set time limits and make sure they're safe online. In ten years, I think we'll use artificial intelligence much more in our daily lives, and maybe even have self-driving cars.",
+      "tips_zh": "谈论科技时，描述你每天如何使用科技产品。给出平衡的观点（好处和坏处），提到具体的应用或网站名称。讨论敏感话题（如儿童使用手机）时，可以给出有条件的回答（should... but with rules）。谈论未来科技时，展示你的想象力但要合理。使用 \"I think... has made... better because...\" 和 \"In ten years, I think...\" 等结构。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于科技和互联网的话题。你需要谈论你使用互联网的习惯、科技对生活的影响、喜欢的应用、儿童使用手机的看法和未来科技预测。",
+    "explanation_en": "This is PET Speaking Part 1 about technology and the internet. You need to discuss your internet usage habits, technology's impact on life, favourite apps, views on children having smartphones, and predictions about future technology.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-010",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 10,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about shopping and money.",
+      "prompt": "Answer the examiner's questions about shopping and money. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you enjoy shopping? Where do you usually go shopping?",
+        "Do you prefer shopping in shops or shopping online? Why?",
+        "What was the last thing you bought? Why did you buy it?",
+        "Do you save your pocket money or spend it straight away?",
+        "Do you think advertising affects what young people buy? How?"
+      ],
+      "sample_answer": "I quite enjoy shopping, especially for books and clothes. I usually go to the shopping centre near my house or order things online. I prefer shopping online because it's more convenient and I can compare prices easily, but I like trying on clothes in a real shop. The last thing I bought was a novel for my English class — I heard it was really good and I wanted to read it. I try to save about half of my pocket money each month and spend the rest. I think advertising definitely affects what young people buy — when I see my favourite celebrity promoting a product, I feel more interested in buying it.",
+      "tips_zh": "谈论购物和金钱时，描述你的购物习惯和偏好（实体店vs网购）。提到最近的一次购买并解释原因。讨论储蓄习惯时要诚实。谈到广告影响时，可以结合个人经验。使用 \"I prefer... because...\" 比较购物方式，\"I try to save...\" 描述理财习惯。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于购物和金钱的话题。你需要谈论你的购物习惯、网购vs实体店、最近购买的东西、储蓄习惯以及广告对年轻人的影响。",
+    "explanation_en": "This is PET Speaking Part 1 about shopping and money. You need to discuss your shopping habits, online vs in-store preferences, recent purchases, saving habits, and how advertising affects young people.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-011",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 11,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about friends and social life.",
+      "prompt": "Answer the examiner's questions about friends and social life. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Tell me about your best friend. How did you meet?",
+        "What do you and your friends usually do together?",
+        "Do you think it's important to have lots of friends, or is it better to have a few close ones?",
+        "Have you ever had a disagreement with a friend? How did you solve it?",
+        "How do you stay in touch with friends who live far away?"
+      ],
+      "sample_answer": "My best friend is Li Ming. We met on the first day of primary school and we've been friends for eight years. We usually play basketball together, go to the cinema, or just hang out and chat. I think it's better to have a few close friends rather than lots of friends you don't know very well. Close friends really understand you and are always there when you need them. I once had a disagreement with a friend about a group project, but we talked about it calmly and found a solution that worked for both of us. I stay in touch with friends who live far away through WeChat — we send messages and have video calls regularly.",
+      "tips_zh": "谈论友谊时，描述具体的朋友和你们一起做的活动。讨论朋友数量时表达你的偏好并解释原因。分享一次解决矛盾的经历展示你的社交能力。使用现在完成时（we've been friends for...）描述持续的友谊，过去时态描述具体事件。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于朋友和社交生活的话题。你需要谈论你的好朋友、一起做的活动、对朋友数量的看法、如何解决分歧以及如何保持联系。",
+    "explanation_en": "This is PET Speaking Part 1 about friends and social life. You need to discuss your best friend, activities you do together, views on number of friends, resolving disagreements, and staying in touch.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-012",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 12,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about your home and neighbourhood.",
+      "prompt": "Answer the examiner's questions about your home and neighbourhood. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Can you describe your home? What is your favourite room and why?",
+        "What is your neighbourhood like? Do you like living there?",
+        "What facilities are there in your area for young people?",
+        "If you could change one thing about where you live, what would it be?",
+        "Do you think it's better to grow up in a city or in the countryside? Why?"
+      ],
+      "sample_answer": "I live in a flat with my parents and my younger sister. My favourite room is my bedroom because it's where I study, read, and relax. My neighbourhood is quite busy because we live near the city centre, but I like it because there are lots of shops and restaurants nearby. For young people, there's a sports centre and a library, but I wish there was a bigger park. If I could change one thing, I'd add more green spaces because I think nature is important for wellbeing. I think growing up in a city is better because there are more opportunities for education and entertainment, but the countryside is more peaceful.",
+      "tips_zh": "描述家和社区时，给出具体的细节（房间、设施、位置）。使用虚拟条件句（If I could change..., I would...）讨论改变。比较城市和乡村生活时，给出两方面的观点但说明你的偏好。使用 \"I live in...\" 和 \"My neighbourhood is...\" 描述环境，用方位词和形容词增加细节。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于家和社区的话题。你需要描述你的家、社区环境、当地设施、想改变的事情以及城市vs乡村生活的看法。",
+    "explanation_en": "This is PET Speaking Part 1 about your home and neighbourhood. You need to describe your home, neighbourhood, local facilities, what you'd change, and views on city vs countryside living.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-013",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 13,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about celebrations and special occasions.",
+      "prompt": "Answer the examiner's questions about celebrations and special occasions. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What is your favourite celebration or festival? Why?",
+        "How do you usually celebrate your birthday?",
+        "Do you think traditional festivals are important? Why or why not?",
+        "Tell me about a special event you have been to recently.",
+        "Do you prefer big celebrations with many people or small gatherings with close friends?"
+      ],
+      "sample_answer": "My favourite celebration is Chinese New Year because the whole family comes together and we have a wonderful meal. I usually celebrate my birthday with a small party at home — my mum makes a cake and I invite my closest friends. I think traditional festivals are very important because they help us remember our culture and bring families closer. Recently, I went to my cousin's wedding and it was a beautiful event with lots of music and dancing. I prefer small gatherings with close friends because you can actually talk to everyone and it feels more personal and relaxed.",
+      "tips_zh": "谈论庆祝活动和特殊场合时，描述具体的庆祝方式和你的感受。解释为什么传统节日重要（文化传承、家庭团聚等）。分享最近参加的活动并描述细节。比较大型和小型庆祝时，说明你的偏好和理由。使用 \"I prefer... because...\" 和 \"I think... are important because...\" 表达观点。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于庆祝和特殊场合的话题。你需要谈论你最喜欢的节日、生日庆祝方式、传统节日的重要性、最近参加的活动以及大型vs小型庆祝的偏好。",
+    "explanation_en": "This is PET Speaking Part 1 about celebrations and special occasions. You need to discuss your favourite festival, birthday celebrations, importance of traditional festivals, recent events, and preferences for big vs small celebrations.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-014",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 14,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about sports and competition.",
+      "prompt": "Answer the examiner's questions about sports and competition. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What sports do you enjoy watching or playing?",
+        "Do you prefer team sports or individual sports? Why?",
+        "Have you ever won a competition or a prize? Tell me about it.",
+        "Do you think competition is good for young people? Why or why not?",
+        "Who is your favourite sportsperson? What do you admire about them?"
+      ],
+      "sample_answer": "I enjoy playing badminton and watching football on TV. I prefer team sports because I like working with others and the atmosphere is more exciting. Last year, I won a bronze medal in a school swimming competition — I was really proud even though I didn't come first. I think competition can be good for young people because it teaches you to work hard and deal with both winning and losing. But it shouldn't be too stressful. My favourite sportsperson is Su Bingtian because he showed that with dedication and hard work, you can achieve amazing things at the highest level.",
+      "tips_zh": "谈论运动和竞争时，描述你参与或观看的具体运动。比较团队和个人运动时说明偏好。分享一次竞争经历并描述你的感受。讨论竞争的利弊时给出平衡的观点。使用 \"I prefer... because...\" 和 \"I think competition can be good because...\" 等结构。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于运动和竞争的话题。你需要谈论你喜欢的运动、团队vs个人运动偏好、竞争经历、竞争对年轻人的影响以及你欣赏的运动员。",
+    "explanation_en": "This is PET Speaking Part 1 about sports and competition. You need to discuss sports you enjoy, team vs individual sport preferences, competition experiences, whether competition is good for young people, and your favourite sportsperson.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-015",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 15,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about social media and online life.",
+      "prompt": "Answer the examiner's questions about social media and online life. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Which social media platforms do you use most often?",
+        "What do you enjoy posting or sharing online?",
+        "Do you think social media can be harmful for teenagers? In what ways?",
+        "How do you make sure you stay safe when using the internet?",
+        "Do you think people show their real lives on social media? Why or why not?"
+      ],
+      "sample_answer": "I mainly use WeChat to chat with friends and Douyin to watch short videos. I enjoy sharing photos of food and places I visit with my friends. I think social media can be harmful for teenagers if they use it too much — it can affect their sleep and make them compare themselves to others. To stay safe, I keep my accounts private and never share personal details like my address or school name. I don't think people always show their real lives on social media — most people only share the best moments and use filters, so it doesn't show the full picture.",
+      "tips_zh": "谈论社交媒体时，具体说明你使用哪些平台和分享什么内容。讨论社交媒体的危害时，举出具体的例子（睡眠影响、社会比较等）。分享你的网络安全措施。讨论社交媒体的真实性时，展示批判性思维。使用 \"I think... can be harmful if...\" 和 \"I don't think... always...\" 等结构。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于社交媒体和网络生活的话题。你需要谈论你使用的社交平台、分享的内容、社交媒体对青少年的影响、网络安全措施以及社交媒体的真实性。",
+    "explanation_en": "This is PET Speaking Part 1 about social media and online life. You need to discuss the platforms you use, what you share online, whether social media can be harmful, internet safety, and whether people show their real lives online.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-016",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 16,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about family and home life.",
+      "prompt": "Answer the examiner's questions about family and home life. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Can you tell me about your family?",
+        "Who do you spend the most time with at home? What do you do together?",
+        "Do you help with any chores at home? Which ones?",
+        "Do you think family meals together are important? Why?",
+        "What do you enjoy most about spending time with your family?"
+      ],
+      "sample_answer": "I live with my parents and my younger brother. We're a close family. I spend the most time with my brother — we play video games together and sometimes help each other with homework. I help with chores like washing the dishes and tidying my room. On weekends, I sometimes help cook dinner too. I think family meals are really important because they give everyone a chance to talk about their day and stay connected. What I enjoy most about spending time with my family is when we watch a film together on Sunday evenings — it's very relaxing and we always have a great time.",
+      "tips_zh": "谈论家庭时，介绍家庭成员和你们之间的关系。描述你们一起做的活动时要具体。讨论家务时要诚实。解释家庭聚餐的重要性时，从沟通和情感联系的角度思考。使用 \"I live with...\" 介绍家庭，\"What I enjoy most is...\" 表达最喜欢的部分。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于家庭和家庭生活的话题。你需要介绍你的家庭、和家人一起做的活动、做的家务、家庭聚餐的重要性以及和家人在一起最享受的事情。",
+    "explanation_en": "This is PET Speaking Part 1 about family and home life. You need to introduce your family, activities you do together, chores you help with, importance of family meals, and what you enjoy most about family time.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-017",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 17,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about hobbies and free time activities.",
+      "prompt": "Answer the examiner's questions about hobbies and free time activities. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What do you enjoy doing in your free time?",
+        "Have you recently started any new hobbies? Tell me about them.",
+        "Do you prefer indoor or outdoor activities? Why?",
+        "What hobby would you like to try in the future?",
+        "Do you think hobbies are important? Why or why not?"
+      ],
+      "sample_answer": "In my free time, I enjoy drawing and playing computer games. Recently, I started learning photography — my parents gave me a camera for my birthday and I've been taking pictures of nature and street scenes. I prefer outdoor activities because I like being in the fresh air, although indoor hobbies like reading are nice when the weather is bad. In the future, I'd like to try surfing because it looks really exciting and fun. I think hobbies are very important because they help you relax, develop new skills, and express yourself. Without hobbies, life would be quite boring!",
+      "tips_zh": "谈论爱好和空闲时间时，描述具体的活动和你喜欢它们的原因。提到新开始的爱好展示你在学习新事物。比较室内和户外活动时说明偏好。使用 \"I enjoy doing...\" 和 \"I'd like to try...\" 等句型，用 \"because\" 解释原因。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于爱好和空闲时间活动的话题。你需要谈论你的爱好、新近开始的活动、室内vs户外活动偏好、未来想尝试的爱好以及爱好的重要性。",
+    "explanation_en": "This is PET Speaking Part 1 about hobbies and free time activities. You need to discuss your hobbies, recently started activities, indoor vs outdoor preferences, hobbies you'd like to try, and why hobbies are important.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-018",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 18,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about school life and education.",
+      "prompt": "Answer the examiner's questions about school life and education. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What do you enjoy most about school?",
+        "Is there anything you would change about your school? What and why?",
+        "Do you think homework is useful? Why or why not?",
+        "Tell me about your favourite teacher. What makes them a good teacher?",
+        "What after-school activities does your school offer? Do you take part in any?"
+      ],
+      "sample_answer": "What I enjoy most about school is seeing my friends every day and learning new things in science. If I could change something, I'd make the lunch break longer because thirty minutes isn't enough time to eat and relax. I think homework is useful when it helps you practise what you've learned, but sometimes teachers give too much and it becomes stressful. My favourite teacher is Miss Zhang — she makes maths interesting by using real-life examples and she's always patient when we don't understand. Our school offers clubs like football, drama, and chess. I go to the chess club every Thursday and I really enjoy it.",
+      "tips_zh": "谈论学校生活时，分享你喜欢和不喜欢的方面。使用虚拟条件句（If I could change..., I would...）表达改变意愿。讨论作业时给出有条件的回答（useful when... but...）。描述好老师的品质时举具体例子。使用 \"What I enjoy most is...\" 和 \"She makes... interesting by...\" 等结构。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于学校生活和教育的话题。你需要谈论学校中喜欢的部分、想改变的事情、对作业的看法、喜欢的老师以及课外活动。",
+    "explanation_en": "This is PET Speaking Part 1 about school life and education. You need to discuss what you enjoy about school, what you'd change, views on homework, your favourite teacher, and after-school activities.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-019",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 19,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about films, TV, and media.",
+      "prompt": "Answer the examiner's questions about films, TV, and media. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "How often do you watch TV or films? What kind do you enjoy?",
+        "Do you prefer watching content on TV or on a streaming platform? Why?",
+        "Tell me about a film that you think everyone should see.",
+        "Do you think the news is important for young people to watch? Why?",
+        "Would you like to work in the film or media industry? Why or why not?"
+      ],
+      "sample_answer": "I watch something almost every day, usually for about an hour. I enjoy comedies and science fiction films. I prefer streaming platforms because I can choose what to watch and when, rather than waiting for a specific time on TV. A film I think everyone should see is Coco — it's a beautiful animated film about family, music, and following your dreams. I think watching the news is quite important for young people because it helps us understand what's happening in the world, but some news can be upsetting. I'd quite like to work in the film industry as a director because I love storytelling and creating visual scenes.",
+      "tips_zh": "谈论电影和媒体时，说明你的观看频率和喜好类型。比较传统电视和流媒体平台时给出具体原因。推荐一部电影时简要说明为什么值得看。讨论新闻对年轻人的重要性时给出平衡的观点。使用 \"I prefer... because I can...\" 和 \"A film I think everyone should see is...\" 等结构。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于电影、电视和媒体的话题。你需要谈论你的观看习惯、TV vs流媒体偏好、推荐的电影、新闻对年轻人的重要性以及是否想从事影视行业。",
+    "explanation_en": "This is PET Speaking Part 1 about films, TV, and media. You need to discuss your viewing habits, TV vs streaming preferences, a film you'd recommend, importance of news for young people, and whether you'd like to work in media.",
+    "is_free": false
+  },
+  {
+    "id": "pet-s1-020",
+    "level": "pet",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 20,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you questions about learning English.",
+      "prompt": "Answer the examiner's questions about learning English. Try to give detailed answers with reasons and examples.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "How long have you been learning English? Do you enjoy it?",
+        "What do you find most difficult about learning English?",
+        "How do you practise English outside of school?",
+        "Do you think English is important for your future? Why?",
+        "What advice would you give to someone who is just starting to learn English?"
+      ],
+      "sample_answer": "I've been learning English for about six years, and I really enjoy it most of the time. The most difficult thing for me is speaking, because I sometimes feel nervous and can't find the right words quickly enough. Outside of school, I practise by watching English films with subtitles, listening to English podcasts, and chatting with an online pen pal from Australia. I think English is very important for my future because it's an international language and I'll need it for university and for travelling. My advice for a beginner would be to practise a little bit every day, listen to lots of English songs, and don't be afraid of making mistakes — that's how you learn!",
+      "tips_zh": "谈论学英语时，分享你的学习时间和感受。诚实地说出你觉得最难的方面（发音、语法、词汇等）。描述你在课外练习英语的具体方法。解释英语对未来的重要性时，结合你的个人目标。给出学习建议时要具体、积极。使用 \"I've been learning... for...\" 和 \"The most difficult thing is...\" 等结构。"
+    },
+    "explanation_zh": "这是PET口语第一部分关于学习英语的话题。你需要谈论你学英语的时间和感受、最大的困难、课外练习方法、英语对未来的重要性以及给初学者的建议。",
+    "explanation_en": "This is PET Speaking Part 1 about learning English. You need to discuss how long you've been learning, what you find most difficult, how you practise outside school, why English is important for your future, and advice for beginners.",
+    "is_free": false
   }
 ]

@@ -198,5 +198,305 @@
     "explanation_zh": "这是KET口语第一部分，关于假期和旅行的问题。考官想了解你的旅行经历和计划。注意使用不同时态：过去时描述过去的假期，现在时表达喜好，\"would like to\" 表达未来的愿望。",
     "explanation_en": "This is KET Speaking Part 1, with questions about holidays and travel. The examiner wants to know about your travel experiences and plans. Use different tenses: past for previous holidays, present for preferences, and 'would like to' for future wishes.",
     "is_free": false
+  },
+  {
+    "id": "ket-s1-009",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 9,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about your home.",
+      "prompt": "Answer the examiner's questions about where you live. Give short, clear answers. Describe your home and your neighbourhood.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you live in a house or a flat?",
+        "How many rooms are there in your home?",
+        "What is your favourite room? Why?",
+        "Is your neighbourhood a nice place to live?",
+        "What would you change about your home?"
+      ],
+      "sample_answer": "I live in a flat with my family. There are three bedrooms, a living room, a kitchen, and a bathroom. My favourite room is my bedroom because I have all my books and toys there. Yes, my neighbourhood is nice — there is a park nearby and a supermarket. If I could change something, I would like to have a garden so I can play outside.",
+      "tips_zh": "描述家的问题时，使用 \"There is/are\" 描述房间，\"My favourite room is... because...\" 表达喜好和原因。描述社区可以说附近有什么设施。用 \"I would like to...\" 表达想要改变的事情。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于你的家的问题。考官想了解你住在哪里以及你的家是什么样的。用 \"There is/are\" 描述房间，用 \"because\" 解释喜好的原因。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about your home. The examiner wants to know where you live and what your home is like. Use 'There is/are' for rooms and 'because' to explain preferences.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-010",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 10,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about music.",
+      "prompt": "Answer the examiner's questions about music. Give short, clear answers. Share your musical tastes and experiences.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What kind of music do you like?",
+        "Do you play a musical instrument?",
+        "How often do you listen to music?",
+        "Who is your favourite singer or band?",
+        "Do you like singing? Why or why not?"
+      ],
+      "sample_answer": "I like pop music because it makes me feel happy. I don't play any instrument, but I'd like to learn the piano one day. I listen to music every day, usually when I'm doing my homework. My favourite singer is Jay Chou because his songs are really good. Yes, I like singing, but I'm not very good at it! I sometimes sing in the shower.",
+      "tips_zh": "回答音乐相关问题时，说出具体的音乐类型和歌手名字。使用频率表达如 \"every day\"、\"sometimes\"。用 \"because\" 解释为什么喜欢某种音乐或歌手。可以加入有趣的细节让回答更生动。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于音乐的问题。考官想了解你的音乐品味。说出具体的音乐类型和歌手，使用频率副词描述听音乐的习惯，用 \"because\" 给出喜好的理由。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about music. The examiner wants to know your musical tastes. Name specific music types and artists, use frequency adverbs for listening habits, and 'because' for reasons behind preferences.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-011",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 11,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about animals and pets.",
+      "prompt": "Answer the examiner's questions about animals and pets. Give short, clear answers. Share your opinions and experiences.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you have a pet?",
+        "What is your favourite animal? Why?",
+        "Would you like to have a pet? What kind?",
+        "Have you ever been to a zoo?",
+        "Do you think animals are important? Why?"
+      ],
+      "sample_answer": "No, I don't have a pet, but I'd really like one. My favourite animal is the dog because they are friendly and loyal. I'd like to have a golden retriever because they are gentle and good with children. Yes, I went to the zoo last year and I saw pandas and giraffes. Yes, I think animals are very important because they are part of nature and they make people happy.",
+      "tips_zh": "回答关于动物的问题时，使用形容词描述动物特征，如 \"friendly\"、\"loyal\"、\"gentle\"。用 \"because\" 解释原因。描述过去经历用过去时态。用 \"I'd like to...\" 表达愿望。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于动物和宠物的问题。用形容词描述动物的特征，用 \"because\" 解释为什么喜欢某种动物。描述过去的经历要用过去时态。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about animals and pets. Use adjectives to describe animal characteristics, 'because' to explain preferences. Use past tenses for past experiences.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-012",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 12,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about reading.",
+      "prompt": "Answer the examiner's questions about books and reading. Give short, clear answers with reasons.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you like reading?",
+        "What kind of books do you like?",
+        "How often do you read?",
+        "What is the best book you have ever read?",
+        "Do you prefer reading on paper or on a screen?"
+      ],
+      "sample_answer": "Yes, I like reading very much. I like adventure stories and science fiction because they are very exciting. I try to read every day before I go to sleep. The best book I have ever read is Harry Potter because the story is magical and the characters are interesting. I prefer reading on paper because it's easier on my eyes and I like the feeling of holding a real book.",
+      "tips_zh": "回答关于阅读的问题时，说出具体的书名和类型。使用 \"because\" 给出理由。描述频率用 \"every day\"、\"sometimes\" 等。比较两个选项时用 \"I prefer... because...\"。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于阅读的问题。说出具体喜欢的书的类型和书名，使用频率表达描述阅读习惯，用 \"because\" 解释喜好的原因。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about reading. Name specific book types and titles, use frequency expressions for reading habits, and 'because' to explain preferences.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-013",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 13,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about shopping.",
+      "prompt": "Answer the examiner's questions about shopping. Give short, clear answers. Share what you like and don't like about shopping.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you like shopping?",
+        "What do you like to buy?",
+        "Where do you usually go shopping?",
+        "Do you prefer shopping online or in shops?",
+        "What was the last thing you bought?"
+      ],
+      "sample_answer": "Yes, I quite like shopping, especially for books and clothes. I usually go to the shopping centre near my school with my friends. I prefer shopping in real shops because I like to try things on and see them before I buy. The last thing I bought was a notebook for school — it has a nice blue cover.",
+      "tips_zh": "回答购物问题时，说出你喜欢买什么、在哪里买。比较购物方式时用 \"I prefer... because...\"。描述最近买的东西用过去时态。可以加入一些细节让回答更有趣。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于购物的问题。考官想了解你的购物习惯和偏好。用 \"I prefer... because...\" 比较不同的购物方式，用过去时态描述最近一次购物。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about shopping. The examiner wants to know your shopping habits and preferences. Use 'I prefer... because...' to compare shopping methods and past tenses for recent purchases.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-014",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 14,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about your daily routine.",
+      "prompt": "Answer the examiner's questions about your typical day. Give short, clear answers. Include times and activities.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What time do you usually wake up?",
+        "What do you do in the morning before school?",
+        "How do you spend your evenings?",
+        "What time do you go to bed?",
+        "Is your routine different at weekends?"
+      ],
+      "sample_answer": "I usually wake up at half past six. Before school, I brush my teeth, get dressed, and have breakfast. I usually have cereal and orange juice. In the evening, I do my homework first, then I watch TV or read a book. I go to bed at about ten o'clock. Yes, at weekends I wake up much later, at about nine o'clock, and I have more free time to play.",
+      "tips_zh": "描述日常生活时，按时间顺序说明你做了什么。使用时间表达如 \"at half past six\"、\"at about ten o'clock\"。用 \"first\"、\"then\" 来连接不同的活动。周末和平日的区别可以用 \"At weekends, I...\" 来对比。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于日常生活的问题。按时间顺序描述你的一天，使用时间表达和顺序词。注意用一般现在时描述日常习惯。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about your daily routine. Describe your day in time order using time expressions and sequence words. Use present simple for daily habits.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-015",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 15,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about television and films.",
+      "prompt": "Answer the examiner's questions about TV and films. Give short, clear answers. Explain your preferences.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "How often do you watch television?",
+        "What kind of programmes do you like to watch?",
+        "What is the best film you have ever seen?",
+        "Do you prefer watching TV alone or with your family?",
+        "Do you think children watch too much TV?"
+      ],
+      "sample_answer": "I watch television almost every day, usually for about an hour after dinner. I like to watch cartoons and nature programmes because they are interesting. The best film I have ever seen is Toy Story because it's funny and the story is great. I prefer watching films with my family because we can talk about them together. Yes, I think some children watch too much TV. It's better to go outside and play sometimes.",
+      "tips_zh": "回答关于电视和电影的问题时，说出具体的节目类型和影片名称。使用频率表达如 \"almost every day\"。表达观点时用 \"I think...\" 和 \"because\"。比较时用 \"I prefer... because...\"。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于电视和电影的问题。说出你喜欢的节目类型和电影名称，使用频率副词和 \"because\" 来表达你的喜好和观点。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about TV and films. Name specific programme types and film titles, use frequency adverbs and 'because' to express preferences and opinions.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-016",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 16,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about the weather and seasons.",
+      "prompt": "Answer the examiner's questions about weather and seasons. Give short, clear answers with reasons.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What is your favourite season? Why?",
+        "What is the weather like today?",
+        "What do you like to do when it's sunny?",
+        "Do you like rainy days? Why or why not?",
+        "What kind of weather do you dislike?"
+      ],
+      "sample_answer": "My favourite season is autumn because the weather is cool and the leaves change colour — it's very beautiful. Today the weather is cloudy and a bit cold. When it's sunny, I like to go to the park and play outside with my friends. I don't really like rainy days because I can't go outside and I have to stay at home. I dislike very hot weather because it makes me feel tired.",
+      "tips_zh": "回答天气和季节问题时，使用描述天气的形容词如 \"sunny\"、\"cloudy\"、\"rainy\"、\"hot\"、\"cold\"。用 \"because\" 解释原因。描述在不同天气下做什么活动。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于天气和季节的问题。使用天气相关的形容词来描述，用 \"because\" 给出理由，说明在不同天气下你喜欢做什么。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about weather and seasons. Use weather-related adjectives, 'because' for reasons, and describe what activities you enjoy in different weather.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-017",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 17,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about learning English.",
+      "prompt": "Answer the examiner's questions about learning English. Give short, clear answers. Talk about your learning experience.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "How long have you been learning English?",
+        "Do you think English is easy or difficult?",
+        "What is the hardest part of learning English?",
+        "How do you practise English outside school?",
+        "Why do you think learning English is important?"
+      ],
+      "sample_answer": "I have been learning English for about five years, since I was seven. I think English is sometimes difficult, but also fun. The hardest part is pronunciation because some English words are difficult to say. I practise English by watching English cartoons and listening to English songs. I think learning English is important because it helps me talk to people from other countries and I can understand English films and books.",
+      "tips_zh": "回答学英语相关问题时，用 \"I have been learning... for...\" 描述学习时长。说明困难时用 \"The hardest part is... because...\"。列举练习方法时用 \"by + doing\"。说重要性时用 \"because\" 给出理由。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于学习英语的问题。使用 \"I have been learning...for...\" 描述学习经历，用 \"because\" 解释原因，用 \"by doing...\" 描述学习方法。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about learning English. Use 'I have been learning...for...' for your experience, 'because' for reasons, and 'by doing...' for practice methods.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-018",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 18,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about your neighbourhood.",
+      "prompt": "Answer the examiner's questions about the area where you live. Give short, clear answers. Describe what is near your home.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "What is your neighbourhood like?",
+        "What is there to do near your home?",
+        "Are there any shops or restaurants near your home?",
+        "Is your neighbourhood quiet or noisy?",
+        "What do you like best about where you live?"
+      ],
+      "sample_answer": "My neighbourhood is quite nice and modern. There is a park and a sports centre near my home, so I can play outside and do exercise. Yes, there are several shops and a few restaurants near my home — my favourite is a noodle restaurant. My neighbourhood is usually quiet, but it can be noisy at weekends when people go shopping. What I like best about where I live is that it's near my school, so I can walk there in ten minutes.",
+      "tips_zh": "描述社区时，使用 \"There is/are\" 说明有什么设施。用形容词如 \"quiet\"、\"noisy\"、\"nice\" 描述环境。用 \"What I like best is...\" 表达最喜欢的方面。可以加入具体的例子让描述更丰富。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于你住的地方的问题。用 \"There is/are\" 描述附近的设施，用形容词描述环境特点，用 \"What I like best is...\" 表达你最喜欢的方面。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about your neighbourhood. Use 'There is/are' for nearby facilities, adjectives for the environment, and 'What I like best is...' for your favourite aspect.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-019",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 19,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about using technology.",
+      "prompt": "Answer the examiner's questions about technology. Give short, clear answers. Talk about how you use technology.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you have a phone or a tablet?",
+        "What do you use your phone for?",
+        "How often do you use a computer?",
+        "Do you play computer games? Which ones?",
+        "Do your parents let you use the internet freely?"
+      ],
+      "sample_answer": "Yes, I have a phone. I use it to send messages to my friends, take photos, and listen to music. I use a computer about three times a week, usually for homework. Yes, I play computer games sometimes — my favourite is Minecraft because I like building things. No, my parents have rules. I can use the internet for one hour on school days, but more at weekends.",
+      "tips_zh": "回答科技相关问题时，具体说明你用手机或电脑做什么，使用 \"I use it to...\" 来列举用途。描述频率用 \"about three times a week\" 等表达。说父母规定时用 \"I can...\" 或 \"I'm allowed to...\"。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于使用科技的问题。具体说明你使用手机和电脑的用途，使用频率表达和规则描述，用 \"I use it to...\" 来列举。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about technology. Specify what you use devices for, use frequency expressions, and describe rules with 'I can...' or 'I'm allowed to...'.",
+    "is_free": false
+  },
+  {
+    "id": "ket-s1-020",
+    "level": "ket",
+    "skill": "speaking",
+    "part": 1,
+    "question_type": "speaking",
+    "sort_order": 20,
+    "content": {
+      "stem": "Personal Questions — The examiner will ask you some questions about helping at home.",
+      "prompt": "Answer the examiner's questions about helping at home. Give short, clear answers about your responsibilities.",
+      "speaking_time_seconds": 30,
+      "examiner_questions": [
+        "Do you help with housework at home?",
+        "What jobs do you do at home?",
+        "Do you enjoy helping at home? Why or why not?",
+        "Who does most of the housework in your family?",
+        "What housework would you never like to do?"
+      ],
+      "sample_answer": "Yes, I help with housework at home. I tidy my room, wash the dishes after dinner, and sometimes I help hang up the clothes. I don't mind helping at home because it makes my parents happy. My mum does most of the housework, but my dad helps with the cooking. I would never like to clean the toilet because I think that's the worst job!",
+      "tips_zh": "回答家务相关问题时，列举具体的家务活动，如 \"tidy my room\"、\"wash the dishes\"。用 \"I don't mind...\" 表示不介意，\"I would never like to...\" 表达不愿意做的事。可以加入幽默的细节让回答更有趣。"
+    },
+    "explanation_zh": "这是KET口语第一部分，关于在家帮忙的问题。列举你在家做的家务，表达你对家务的态度。用 \"I don't mind...\" 和 \"I would never like to...\" 表达不同程度的喜好。",
+    "explanation_en": "This is KET Speaking Part 1, with questions about helping at home. List specific chores you do, express your attitude towards housework using 'I don't mind...' and 'I would never like to...' for varying preferences.",
+    "is_free": false
   }
 ]
