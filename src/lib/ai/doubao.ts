@@ -57,7 +57,7 @@ export async function transcribeAudio(
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      Authorization: `Bearer; ${apiKey}`,
+      Authorization: `Bearer ${apiKey}`,
     },
     body: JSON.stringify(payload),
   });
