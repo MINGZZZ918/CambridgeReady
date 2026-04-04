@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 };
 
 // 资料文件的 base URL，后续替换为真实服务器地址
-const FILE_BASE_URL = "https://files.example.com";
+const FILE_BASE_URL = "http://testtubebeta.serveblog.net:81";
 
 const LEVELS = [
   {
@@ -17,9 +17,9 @@ const LEVELS = [
     color: "#10B981",
     lightBg: "#ECFDF5",
     resources: [
-      { icon: BookOpen, label: "阅读练习 PDF", desc: "KET Reading Part 1-5 分项练习材料，含答案和解析", file: "/ket/ket-reading-practice.pdf" },
-      { icon: Headphones, label: "听力练习音频", desc: "KET Listening Part 1-4 配套音频文件 (MP3)", file: "/ket/ket-listening-audio.zip" },
-      { icon: FileText, label: "核心词汇表", desc: "KET 考试 1500+ 高频词汇 PDF，含中文释义", file: "/ket/ket-vocabulary.pdf" },
+      { icon: BookOpen, label: "阅读练习 PDF", desc: "KET Reading Part 1-5 分项练习材料，含答案和解析", file: "/files/Ket教材.zip" },
+      { icon: Headphones, label: "听力练习音频", desc: "KET Listening Part 1-4 配套音频文件 (MP3)", file: "/files/Ket真题.zip" },
+      { icon: FileText, label: "核心词汇表", desc: "KET 考试 1500+ 高频词汇 PDF，含中文释义", file: "/files/Ket词汇.zip" },
     ],
   },
   {
